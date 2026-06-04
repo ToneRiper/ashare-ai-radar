@@ -1,39 +1,49 @@
 import os
+import json
 import requests
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
-keywords = {
-    "机器人": 8,
-    "AI Agent": 6,
-    "算力": 5,
-    "芯片": 5,
-    "半导体": 4,
-    "脑机接口": 3,
-    "创新药": 3,
-    "低空经济": 2,
-    "商业航天": 2,
-    "数据要素": 2,
-    "工业软件": 2,
-    "固态电池": 1,
-    "量子科技": 1,
-    "6G": 1
-}
+# 读取关键词
+with open("keywords.json", "r", encoding="utf-8") as f:
+    keywords = json.load(f)
+
+# 读取标题
+with open("data/titles.json", "r", encoding="utf-8") as f:
+    titles = json.load(f)
+
+result = {}
+
+for keyword in keywords:
+    count = 0
+
+    for title in titles:
+        if keyword in title:
+            count += 1
+
+    if count > 0:
+        result[keyword] = count
+
+result = dict(
+    sorted(
+        result.items(),
+        key=lambda x: x[1],
+        reverse=True
+    )
+)
 
 message = "【A股AI超级雷达】\n\n"
-message += "今日政策热点：\n\n"
+message += "最近监测热点：\n\n"
 
-for k, v in keywords.items():
+for k, v in result.items():
 
-    if v >= 8:
+    if v >= 3:
         stars = "★★★★★"
-    elif v >= 6:
+    elif v >= 2:
         stars = "★★★★"
-    elif v >= 4:
-        stars = "★★★"
     else:
-        stars = "★★"
+        stars = "★★★"
 
     message += f"{stars} {k}（{v}）\n"
 
