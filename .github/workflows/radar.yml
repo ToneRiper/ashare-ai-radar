@@ -3,6 +3,9 @@ name: AShare Radar
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '7 * * * *'
+
 jobs:
   radar:
     runs-on: ubuntu-latest
@@ -21,6 +24,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Test NDRC
+      - name: Run Radar
         run: |
-          python fetch_ndrc.py
+          python radar.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
