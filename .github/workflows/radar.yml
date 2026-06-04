@@ -3,6 +3,9 @@ name: AShare Radar
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '7 * * * *'
+
 jobs:
   radar:
 
