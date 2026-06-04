@@ -4,29 +4,34 @@ import requests
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
-url = "https://www.gov.cn"
+keywords = {
+    "机器人": 8,
+    "AI Agent": 6,
+    "算力": 5,
+    "创新药": 3,
+    "低空经济": 2
+}
 
-msg = "【A股AI超级雷达】\n\n"
+message = "【A股AI超级雷达】\n\n"
+message += "今日政策热点：\n\n"
 
-try:
-    r = requests.get(
-        url,
-        timeout=20,
-        headers={
-            "User-Agent": "Mozilla/5.0"
-        }
-    )
+for k, v in keywords.items():
 
-    msg += f"状态码: {r.status_code}\n"
-    msg += f"页面长度: {len(r.text)}\n"
+    if v >= 8:
+        stars = "★★★★★"
+    elif v >= 6:
+        stars = "★★★★"
+    elif v >= 4:
+        stars = "★★★"
+    else:
+        stars = "★★"
 
-except Exception as e:
-    msg += f"错误:\n{str(e)}"
+    message += f"{stars} {k}（{v}）\n"
 
 requests.post(
     f"https://api.telegram.org/bot{TOKEN}/sendMessage",
     data={
         "chat_id": CHAT_ID,
-        "text": msg
+        "text": message
     }
 )
