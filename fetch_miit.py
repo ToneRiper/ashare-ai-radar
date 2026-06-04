@@ -24,68 +24,24 @@ soup = BeautifulSoup(
 
 titles = []
 
-for li in soup.find_all("li")[:50]:
+for li in soup.find_all("li")[:20]:
 
     text = li.get_text(strip=True)
 
     if len(text) > 8:
         titles.append(text)
 
-KEYWORDS = {
-    "AI": ["人工智能", "AI"],
-    "芯片": ["芯片", "集成电路", "半导体"],
-    "机器人": ["机器人", "人形机器人"],
-    "脑机接口": ["脑机接口", "脑机"],
-    "算力": ["算力"],
-    "创新药": ["创新药"],
-    "低空经济": ["低空经济"],
-    "商业航天": ["商业航天"],
-    "工业软件": ["工业软件"],
-    "数据要素": ["数据要素"]
-}
+message = "【工信部最新标题调试】\n\n"
 
-result = {}
-
-for keyword, aliases in KEYWORDS.items():
-
-    count = 0
-
-    for title in titles:
-
-        for alias in aliases:
-
-            if alias in title:
-                count += 1
-                break
-
-    if count > 0:
-        result[keyword] = count
-
-message = "【A股AI超级雷达】\n\n"
-
-if result:
-
-    message += "工信部热点统计：\n\n"
-
-    result = dict(
-        sorted(
-            result.items(),
-            key=lambda x: x[1],
-            reverse=True
-        )
-    )
-
-    for k, v in result.items():
-        message += f"{k}（{v}）\n"
-
-else:
-
-    message += "未发现关键词热点"
+for i, title in enumerate(titles[:10], start=1):
+    message += f"{i}. {title}\n\n"
 
 requests.post(
     f"https://api.telegram.org/bot{TOKEN}/sendMessage",
     data={
         "chat_id": CHAT_ID,
-        "text": message
+        "text": message[:4000]
     }
 )
+
+print(f"获取到 {len(titles)} 条标题")
