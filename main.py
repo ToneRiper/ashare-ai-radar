@@ -1,23 +1,25 @@
 import os
 import requests
+import feedparser
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
-message = """
-【A股AI超级雷达】
+rss_url = "https://www.gov.cn/zhengce/zuixin/home.htm"
 
-测试版本 V1
+message = "【A股AI超级雷达】\n\n"
 
-今日热点：
+try:
+    response = requests.get(rss_url, timeout=20)
 
-1. AI
-2. 机器人
-3. 算力
-4. 低空经济
+    if response.status_code == 200:
+        message += "国务院政策页面访问成功\n"
+        message += f"状态码：{response.status_code}\n"
+    else:
+        message += "国务院页面访问失败\n"
 
-系统运行正常。
-"""
+except Exception as e:
+    message += f"错误：{str(e)}\n"
 
 url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
 
