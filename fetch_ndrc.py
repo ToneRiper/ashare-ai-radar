@@ -13,6 +13,8 @@ r = requests.get(
     timeout=20
 )
 
+print("状态码:", r.status_code)
+
 soup = BeautifulSoup(
     r.text,
     "html.parser"
@@ -27,4 +29,7 @@ for a in soup.find_all("a"):
     if len(text) > 12:
         titles.append(text)
 
-print("\n".join(titles[:20]))
+print(f"获取到 {len(titles)} 条标题")
+
+for i, title in enumerate(titles[:20], start=1):
+    print(f"{i}. {title}")
