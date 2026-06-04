@@ -13,6 +13,9 @@ r = requests.get(
     timeout=20
 )
 
+# 自动识别中文编码
+r.encoding = r.apparent_encoding
+
 print("状态码:", r.status_code)
 
 soup = BeautifulSoup(
@@ -29,7 +32,14 @@ for a in soup.find_all("a"):
     if len(text) > 12:
         titles.append(text)
 
+# 去重
+titles = list(dict.fromkeys(titles))
+
 print(f"获取到 {len(titles)} 条标题")
+
+print("\n====================\n")
 
 for i, title in enumerate(titles[:20], start=1):
     print(f"{i}. {title}")
+
+print("\n====================\n")
