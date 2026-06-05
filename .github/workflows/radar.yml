@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
 
   schedule:
+    # 北京时间每小时一次
+    # UTC时间 +8 = 北京时间
     - cron: '7 * * * *'
 
 jobs:
@@ -11,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout
         uses: actions/checkout@v6
 
@@ -25,8 +28,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Radar
-        run: |
-          python radar.py
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python main.py
