@@ -1,19 +1,21 @@
+import os
+import json
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://www.ndrc.gov.cn/xwdt/xwfb/"
+# 创建目录
+os.makedirs("data", exist_ok=True)
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
+url = "https://www.ndrc.gov.cn/xwdt/xwfb/"
 
 r = requests.get(
     url,
-    headers=headers,
+    headers={
+        "User-Agent": "Mozilla/5.0"
+    },
     timeout=20
 )
 
-# 自动识别中文编码
 r.encoding = r.apparent_encoding
 
 print("状态码:", r.status_code)
@@ -35,11 +37,29 @@ for a in soup.find_all("a"):
 # 去重
 titles = list(dict.fromkeys(titles))
 
-print(f"获取到 {len(titles)} 条标题")
+with open(
+    "data/ndrc_titles.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        titles,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
+
+print(
+    f"保存发改委标题 {len(titles)} 条"
+)
 
 print("\n====================\n")
 
-for i, title in enumerate(titles[:20], start=1):
+for i, title in enumerate(
+    titles[:20],
+    start=1
+):
     print(f"{i}. {title}")
 
 print("\n====================\n")
