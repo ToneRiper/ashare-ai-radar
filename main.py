@@ -6,6 +6,21 @@ TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 # =====================
+# 调试目录
+# =====================
+
+print("\n===== 当前目录 =====")
+print(os.listdir("."))
+
+if os.path.exists("data"):
+    print("\n===== data目录 =====")
+    print(os.listdir("data"))
+
+if os.path.exists("数据"):
+    print("\n===== 数据目录 =====")
+    print(os.listdir("数据"))
+
+# =====================
 # 读取关键词
 # =====================
 
@@ -63,6 +78,7 @@ except Exception as e:
 
 titles = miit_titles + ndrc_titles
 
+print("\n===== 数据统计 =====")
 print("工信部标题:", len(miit_titles))
 print("发改委标题:", len(ndrc_titles))
 print("总标题:", len(titles))
@@ -80,11 +96,9 @@ for keyword in keywords:
     for title in titles:
 
         if keyword in title:
-
             count += 1
 
     if count > 0:
-
         result[keyword] = count
 
 result = dict(
@@ -132,4 +146,5 @@ requests.post(
     }
 )
 
+print("\n===== 最终消息 =====")
 print(message)
