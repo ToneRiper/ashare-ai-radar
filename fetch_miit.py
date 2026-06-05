@@ -1,6 +1,10 @@
+import os
 import json
 import requests
 from bs4 import BeautifulSoup
+
+# 确保目录存在
+os.makedirs("data", exist_ok=True)
 
 url = "https://www.miit.gov.cn/RRSdy/index.html"
 
@@ -13,6 +17,8 @@ r = requests.get(
     headers=headers,
     timeout=20
 )
+
+r.encoding = r.apparent_encoding
 
 soup = BeautifulSoup(
     r.text,
@@ -28,8 +34,11 @@ for li in soup.find_all("li")[:50]:
     if len(text) > 8:
         titles.append(text)
 
+# 去重
+titles = list(dict.fromkeys(titles))
+
 with open(
-    "数据/miit_titles.json",
+    "data/miit_titles.json",
     "w",
     encoding="utf-8"
 ) as f:
@@ -42,3 +51,10 @@ with open(
     )
 
 print(f"保存工信部标题 {len(titles)} 条")
+
+print("\n====================\n")
+
+for i, title in enumerate(titles[:20], start=1):
+    print(f"{i}. {title}")
+
+print("\n====================\n")
