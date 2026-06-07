@@ -6,7 +6,7 @@ TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 # ======================
-# 读取关键词
+# 关键词库
 # ======================
 
 with open(
@@ -14,20 +14,26 @@ with open(
     "r",
     encoding="utf-8"
 ) as f:
+
     KEYWORDS = json.load(f)
+
+# ======================
+# 观察池
+# ======================
 
 with open(
     "watchlist.json",
     "r",
     encoding="utf-8"
 ) as f:
+
     WATCHLIST = json.load(f)
 
 # ======================
-# 读取历史
+# 历史记录
 # ======================
 
-if os.path.exists("history.json"):
+try:
 
     with open(
         "history.json",
@@ -37,7 +43,10 @@ if os.path.exists("history.json"):
 
         history = json.load(f)
 
-else:
+    if not isinstance(history, list):
+        history = []
+
+except:
 
     history = []
 
@@ -85,8 +94,12 @@ all_titles = list(
     dict.fromkeys(all_titles)
 )
 
+print(
+    f"总标题：{len(all_titles)}"
+)
+
 # ======================
-# 只保留新增标题
+# 新增标题
 # ======================
 
 new_titles = []
@@ -98,13 +111,8 @@ for title in all_titles:
         new_titles.append(title)
 
 print(
-    "新增标题:",
-    len(new_titles)
+    f"新增标题：{len(new_titles)}"
 )
-
-# ======================
-# 没有新增
-# ======================
 
 if len(new_titles) == 0:
 
@@ -128,7 +136,9 @@ for topic, aliases in KEYWORDS.items():
 
             if alias in title:
 
-                matched.append(title)
+                matched.append(
+                    title
+                )
 
                 break
 
@@ -147,7 +157,11 @@ message = "【A股AI超级雷达 V4.2】\n\n"
 
 message += f"新增政策：{len(new_titles)}条\n\n"
 
-for topic, info in result.items():
+for topic, info in sorted(
+    result.items(),
+    key=lambda x: x[1]["count"],
+    reverse=True
+):
 
     score = info["count"]
 
@@ -163,7 +177,13 @@ for topic, info in result.items():
 
         stars = "★★★"
 
-    message += f"{stars} {topic}\n\n"
+    message += (
+        f"{stars} "
+        f"{topic}"
+        f"（{score}）\n\n"
+    )
+
+    message += "政策：\n"
 
     for title in info["titles"]:
 
@@ -181,6 +201,8 @@ for topic, info in result.items():
 
     message += "\n--------------------\n\n"
 
+print(message)
+
 # ======================
 # Telegram
 # ======================
@@ -194,10 +216,12 @@ requests.post(
 )
 
 # ======================
-# 更新历史
+# 保存历史
 # ======================
 
-history.extend(new_titles)
+history.extend(
+    new_titles
+)
 
 with open(
     "history.json",
@@ -211,3 +235,7 @@ with open(
         ensure_ascii=False,
         indent=2
     )
+
+print(
+    f"历史记录已保存：{len(history)}条"
+)
