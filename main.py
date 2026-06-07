@@ -6,7 +6,7 @@ TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 # ======================
-# 读取关键词库
+# 读取关键词
 # ======================
 
 with open(
@@ -16,16 +16,32 @@ with open(
 ) as f:
     KEYWORDS = json.load(f)
 
-# ======================
-# 读取观察池
-# ======================
-
 with open(
     "watchlist.json",
     "r",
     encoding="utf-8"
 ) as f:
     WATCHLIST = json.load(f)
+
+# ======================
+# 读取历史
+# ======================
+
+if os.path.exists("history.json"):
+
+    with open(
+        "history.json",
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        history = json.load(f)
+
+else:
+
+    history = []
+
+history_set = set(history)
 
 # ======================
 # 读取标题
@@ -65,14 +81,36 @@ except:
 
     pass
 
-# 去重
 all_titles = list(
     dict.fromkeys(all_titles)
 )
 
+# ======================
+# 只保留新增标题
+# ======================
+
+new_titles = []
+
+for title in all_titles:
+
+    if title not in history_set:
+
+        new_titles.append(title)
+
 print(
-    f"总标题: {len(all_titles)}"
+    "新增标题:",
+    len(new_titles)
 )
+
+# ======================
+# 没有新增
+# ======================
+
+if len(new_titles) == 0:
+
+    print("没有新增政策")
+
+    exit()
 
 # ======================
 # 热点统计
@@ -82,102 +120,69 @@ result = {}
 
 for topic, aliases in KEYWORDS.items():
 
-    matched_titles = []
+    matched = []
 
-    for title in all_titles:
+    for title in new_titles:
 
         for alias in aliases:
 
             if alias in title:
 
-                matched_titles.append(
-                    title
-                )
+                matched.append(title)
 
                 break
 
-    if matched_titles:
+    if matched:
 
         result[topic] = {
-            "count": len(
-                matched_titles
-            ),
-            "titles": matched_titles[:3]
+            "count": len(matched),
+            "titles": matched[:3]
         }
 
 # ======================
-# 生成消息
+# 消息
 # ======================
 
-message = "【A股AI超级雷达 V4】\n\n"
+message = "【A股AI超级雷达 V4.2】\n\n"
 
-if result:
+message += f"新增政策：{len(new_titles)}条\n\n"
 
-    result = dict(
-        sorted(
-            result.items(),
-            key=lambda x: x[1]["count"],
-            reverse=True
-        )
-    )
+for topic, info in result.items():
 
-    for topic, info in result.items():
+    score = info["count"]
 
-        score = info["count"]
+    if score >= 5:
 
-        if score >= 5:
+        stars = "★★★★★"
 
-            stars = "★★★★★"
+    elif score >= 3:
 
-        elif score >= 3:
+        stars = "★★★★"
 
-            stars = "★★★★"
+    else:
 
-        else:
+        stars = "★★★"
 
-            stars = "★★★"
+    message += f"{stars} {topic}\n\n"
 
-        message += (
-            f"{stars} "
-            f"{topic}"
-            f"（{score}）\n\n"
-        )
+    for title in info["titles"]:
 
-        message += "政策：\n"
+        message += f"• {title}\n"
 
-        for title in info["titles"]:
+    message += "\n"
 
-            message += (
-                f"• {title}\n"
-            )
+    if topic in WATCHLIST:
 
-        message += "\n"
+        message += "观察：\n"
 
-        if topic in WATCHLIST:
+        for stock in WATCHLIST[topic]:
 
-            message += "观察：\n"
+            message += f"• {stock}\n"
 
-            for stock in WATCHLIST[topic]:
-
-                message += (
-                    f"• {stock}\n"
-                )
-
-        message += (
-            "\n"
-            "--------------------\n\n"
-        )
-
-else:
-
-    message += (
-        "未发现热点关键词"
-    )
-
-print(message)
+    message += "\n--------------------\n\n"
 
 # ======================
-# Telegram推送
+# Telegram
 # ======================
 
 requests.post(
@@ -187,3 +192,22 @@ requests.post(
         "text": message[:4000]
     }
 )
+
+# ======================
+# 更新历史
+# ======================
+
+history.extend(new_titles)
+
+with open(
+    "history.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        history,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
