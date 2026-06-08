@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+from deep_translator import GoogleTranslator
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
@@ -109,8 +110,35 @@ print(
 if len(new_titles) == 0:
 
     print("没有新增政策")
-
     exit()
+
+# ======================
+# 自动翻译
+# ======================
+
+translated_titles = {}
+
+for title in new_titles:
+
+    try:
+
+        if any(
+            '\u4e00' <= c <= '\u9fff'
+            for c in title
+        ):
+
+            translated_titles[title] = title
+
+        else:
+
+            translated_titles[title] = GoogleTranslator(
+                source="auto",
+                target="zh-CN"
+            ).translate(title)
+
+    except:
+
+        translated_titles[title] = title
 
 # ======================
 # 热点统计
@@ -126,7 +154,7 @@ for topic, aliases in KEYWORDS.items():
 
         for alias in aliases:
 
-            if alias in title:
+            if alias.lower() in title.lower():
 
                 matched.append(title)
 
@@ -143,7 +171,7 @@ for topic, aliases in KEYWORDS.items():
 # 消息
 # ======================
 
-message = "【A股AI超级雷达 V5】\n\n"
+message = "【A股AI超级雷达 V6】\n\n"
 
 message += f"新增政策：{len(new_titles)}条\n\n"
 
@@ -177,7 +205,12 @@ for topic, info in sorted(
 
     for title in info["titles"]:
 
-        message += f"• {title}\n"
+        show_title = translated_titles.get(
+            title,
+            title
+        )
+
+        message += f"• {show_title}\n"
 
     message += "\n"
 
@@ -248,10 +281,14 @@ except:
 
     trend = {}
 
-run_id = str(len(trend) + 1)
+run_id = str(
+    len(trend) + 1
+)
 
 trend[run_id] = {
+
     topic: info["count"]
+
     for topic, info in result.items()
 }
 
@@ -268,27 +305,43 @@ with open(
         indent=2
     )
 
-print("趋势库已更新")
+print(
+    "趋势库已更新"
+)
 
 # ======================
 # 趋势分析
 # ======================
 
-print("\n===== 热度趋势 =====")
+print(
+    "\n===== 热度趋势 ====="
+)
 
 if len(trend) >= 2:
 
-    keys = list(trend.keys())
+    keys = list(
+        trend.keys()
+    )
 
-    latest = trend[keys[-1]]
+    latest = trend[
+        keys[-1]
+    ]
 
-    previous = trend[keys[-2]]
+    previous = trend[
+        keys[-2]
+    ]
 
     for topic in latest:
 
-        now_count = latest.get(topic, 0)
+        now_count = latest.get(
+            topic,
+            0
+        )
 
-        old_count = previous.get(topic, 0)
+        old_count = previous.get(
+            topic,
+            0
+        )
 
         if now_count > old_count:
 
@@ -303,10 +356,13 @@ if len(trend) >= 2:
             arrow = "→"
 
         print(
-            f"{topic}: {arrow} "
+            f"{topic}: "
+            f"{arrow} "
             f"({old_count} -> {now_count})"
         )
 
 else:
 
-    print("趋势数据不足，需要至少运行2次")
+    print(
+        "趋势数据不足，需要至少运行2次"
+    )
