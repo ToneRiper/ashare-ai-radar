@@ -44,6 +44,7 @@ try:
         history = json.load(f)
 
     if not isinstance(history, list):
+
         history = []
 
 except:
@@ -58,37 +59,27 @@ history_set = set(history)
 
 all_titles = []
 
-try:
+for file in [
+    "data/miit_titles.json",
+    "data/ndrc_titles.json",
+    "data/gov_titles.json"
+]:
 
-    with open(
-        "data/miit_titles.json",
-        "r",
-        encoding="utf-8"
-    ) as f:
+    try:
 
-        all_titles.extend(
-            json.load(f)
-        )
+        with open(
+            file,
+            "r",
+            encoding="utf-8"
+        ) as f:
 
-except:
+            all_titles.extend(
+                json.load(f)
+            )
 
-    pass
+    except:
 
-try:
-
-    with open(
-        "data/ndrc_titles.json",
-        "r",
-        encoding="utf-8"
-    ) as f:
-
-        all_titles.extend(
-            json.load(f)
-        )
-
-except:
-
-    pass
+        pass
 
 all_titles = list(
     dict.fromkeys(all_titles)
@@ -136,9 +127,7 @@ for topic, aliases in KEYWORDS.items():
 
             if alias in title:
 
-                matched.append(
-                    title
-                )
+                matched.append(title)
 
                 break
 
@@ -153,7 +142,7 @@ for topic, aliases in KEYWORDS.items():
 # 消息
 # ======================
 
-message = "【A股AI超级雷达 V4.2】\n\n"
+message = "【A股AI超级雷达 V5】\n\n"
 
 message += f"新增政策：{len(new_titles)}条\n\n"
 
@@ -239,3 +228,41 @@ with open(
 print(
     f"历史记录已保存：{len(history)}条"
 )
+
+# ======================
+# 趋势数据库
+# ======================
+
+try:
+
+    with open(
+        "trend.json",
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        trend = json.load(f)
+
+except:
+
+    trend = {}
+
+trend[str(len(history))] = {
+    topic: info["count"]
+    for topic, info in result.items()
+}
+
+with open(
+    "trend.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        trend,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
+
+print("趋势库已更新")
