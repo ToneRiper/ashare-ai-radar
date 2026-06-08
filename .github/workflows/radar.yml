@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '7 * * * *'
+    - cron: '7 * * * '
 
 permissions:
   contents: write
@@ -41,6 +41,10 @@ jobs:
         run: |
           python fetch_gov.py
 
+      - name: Fetch Global
+        run: |
+          python fetch_global.py
+
       - name: Run Radar
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -55,6 +59,7 @@ jobs:
 
           git add history.json
           git add trend.json
+          git add data/.json
 
           git diff --cached --quiet || git commit -m "update radar data"
 
