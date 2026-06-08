@@ -6,3 +6,4 @@ akshare
 pandas
 numpy
 feedparser
+deep-translator
