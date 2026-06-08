@@ -5,3 +5,4 @@ feedparser
 akshare
 pandas
 numpy
+feedparser
