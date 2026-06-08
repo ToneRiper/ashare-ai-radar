@@ -123,5 +123,28 @@
 
   "未来产业": [
     "未来产业"
-  ]
+  ],
+  "OpenAI": [
+  "OpenAI",
+  "ChatGPT",
+  "GPT",
+  "Codex"
+],
+
+"NVIDIA": [
+  "NVIDIA",
+  "RTX",
+  "CUDA",
+  "DGX"
+],
+
+"Anthropic": [
+  "Anthropic",
+  "Claude"
+],
+
+"xAI": [
+  "xAI",
+  "Grok"
+]
 }
