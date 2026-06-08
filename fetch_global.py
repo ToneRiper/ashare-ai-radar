@@ -25,7 +25,7 @@ for url in RSS_FEEDS:
 
                 titles.append(title)
 
-    except Exception:
+    except:
 
         pass
 
@@ -46,4 +46,4 @@ with open(
         indent=2
     )
 
-print("海外标题:", len(titles))
+print(f"海外标题：{len(titles)}")
