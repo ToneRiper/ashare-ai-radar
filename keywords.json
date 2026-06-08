@@ -93,12 +93,13 @@
   ],
 
   "自动驾驶": [
-    "自动驾驶",
-    "智能驾驶",
-    "Robotaxi",
-    "FSD",
-    "Autonomous Driving"
-  ],
+  "Robotaxi",
+  "FSD",
+  "Autonomous Driving",
+  "Self Driving",
+  "Waymo",
+  "Tesla"
+],
 
   "量子计算": [
     "量子计算",
