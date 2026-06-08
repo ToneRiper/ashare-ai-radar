@@ -3,6 +3,7 @@
     "人工智能",
     "大模型",
     "智能体",
+    "算法",
     "AI",
     "OpenAI",
     "ChatGPT",
@@ -16,7 +17,11 @@
     "Inference",
     "Codex",
     "Perplexity",
-    "Anthropic"
+    "Anthropic",
+    "xAI",
+    "Grok",
+    "Generative AI",
+    "LLM"
   ],
 
   "算力": [
@@ -31,7 +36,8 @@
     "Blackwell",
     "CUDA",
     "NVIDIA",
-    "DGX"
+    "DGX",
+    "RTX"
   ],
 
   "半导体": [
@@ -51,8 +57,7 @@
     "具身智能",
     "Robot",
     "Robotics",
-    "Physical AI",
-    "Autonomous"
+    "Physical AI"
   ],
 
   "脑机接口": [
@@ -93,13 +98,13 @@
   ],
 
   "自动驾驶": [
-  "Robotaxi",
-  "FSD",
-  "Autonomous Driving",
-  "Self Driving",
-  "Waymo",
-  "Tesla"
-],
+    "Robotaxi",
+    "FSD",
+    "Autonomous Driving",
+    "Self Driving",
+    "Waymo",
+    "Tesla"
+  ],
 
   "量子计算": [
     "量子计算",
@@ -123,28 +128,5 @@
 
   "未来产业": [
     "未来产业"
-  ],
-  "OpenAI": [
-  "OpenAI",
-  "ChatGPT",
-  "GPT",
-  "Codex"
-],
-
-"NVIDIA": [
-  "NVIDIA",
-  "RTX",
-  "CUDA",
-  "DGX"
-],
-
-"Anthropic": [
-  "Anthropic",
-  "Claude"
-],
-
-"xAI": [
-  "xAI",
-  "Grok"
-]
+  ]
 }
