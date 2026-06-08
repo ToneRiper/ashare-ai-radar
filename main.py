@@ -62,7 +62,8 @@ all_titles = []
 for file in [
     "data/miit_titles.json",
     "data/ndrc_titles.json",
-    "data/gov_titles.json"
+    "data/gov_titles.json",
+    "data/global_titles.json"
 ]:
 
     try:
