@@ -247,7 +247,9 @@ except:
 
     trend = {}
 
-trend[str(len(history))] = {
+run_id = str(len(trend) + 1)
+
+trend[run_id] = {
     topic: info["count"]
     for topic, info in result.items()
 }
@@ -266,3 +268,44 @@ with open(
     )
 
 print("趋势库已更新")
+
+# ======================
+# 趋势分析
+# ======================
+
+print("\n===== 热度趋势 =====")
+
+if len(trend) >= 2:
+
+    keys = list(trend.keys())
+
+    latest = trend[keys[-1]]
+
+    previous = trend[keys[-2]]
+
+    for topic in latest:
+
+        now_count = latest.get(topic, 0)
+
+        old_count = previous.get(topic, 0)
+
+        if now_count > old_count:
+
+            arrow = "↑"
+
+        elif now_count < old_count:
+
+            arrow = "↓"
+
+        else:
+
+            arrow = "→"
+
+        print(
+            f"{topic}: {arrow} "
+            f"({old_count} -> {now_count})"
+        )
+
+else:
+
+    print("趋势数据不足，需要至少运行2次")
