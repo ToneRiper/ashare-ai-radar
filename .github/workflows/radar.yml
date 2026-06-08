@@ -1,47 +1,61 @@
-runs-on: ubuntu-latest
+name: AShare Radar
 
-steps:
+on:
+  workflow_dispatch:
 
-  - name: Checkout
-    uses: actions/checkout@v6
+  schedule:
+    - cron: '7 * * * *'
 
-  - name: Setup Python
-    uses: actions/setup-python@v6
-    with:
-      python-version: '3.11'
+permissions:
+  contents: write
 
-  - name: Install Dependencies
-    run: |
-      python -m pip install --upgrade pip
-      pip install -r requirements.txt
+jobs:
+  radar:
 
-  - name: Fetch MIIT
-    run: |
-      python fetch_miit.py
+    runs-on: ubuntu-latest
 
-  - name: Fetch NDRC
-    run: |
-      python fetch_ndrc.py
+    steps:
 
-  - name: Fetch GOV
-    run: |
-      python fetch_gov.py
+      - name: Checkout
+        uses: actions/checkout@v6
 
-  - name: Run Radar
-    env:
-      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-    run: |
-      python main.py
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
 
-  - name: Commit Data
-    run: |
-      git config user.name "github-actions"
-      git config user.email "github-actions@github.com"
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      git add history.json
-      git add trend.json
+      - name: Fetch MIIT
+        run: |
+          python fetch_miit.py
 
-      git diff --cached --quiet || git commit -m "update radar data"
+      - name: Fetch NDRC
+        run: |
+          python fetch_ndrc.py
 
-      git push
+      - name: Fetch GOV
+        run: |
+          python fetch_gov.py
+
+      - name: Run Radar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python main.py
+
+      - name: Commit Data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add history.json
+          git add trend.json
+
+          git diff --cached --quiet || git commit -m "update radar data"
+
+          git push
