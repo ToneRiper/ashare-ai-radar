@@ -60,6 +60,7 @@ jobs:
           git add history.json
           git add trend.json
           git add hot_rank.json
+          git add hot_streak.json
           git add data/*.json
 
           git diff --cached --quiet || git commit -m "update radar data"
