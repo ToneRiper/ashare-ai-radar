@@ -110,7 +110,8 @@ print(
 if len(new_titles) == 0:
 
     print("没有新增政策")
-    exit()
+
+    new_titles = []
 
 # ======================
 # 自动翻译
