@@ -312,12 +312,38 @@ if top_topic and top_topic in STOCK_POOL:
         leader_text += f"• {stock}\n"
 
     leader_text += "\n====================\n\n"
-    
 
+# ======================
+# 连续升温显示
+# ======================
+
+streak_text = ""
+
+for topic, data in sorted(
+    hot_streak.items(),
+    key=lambda x: x[1]["streak"],
+    reverse=True
+):
+
+    if data["streak"] >= 3:
+
+        streak_text += (
+            f"🔥 {topic}"
+            f" 连续升温 "
+            f"{data['streak']} 次\n"
+        )
+
+if streak_text:
+
+    streak_text += (
+        "\n====================\n\n"
+    )
+    
 message = (
-    leader_text
+    streak_text
+    + leader_text
     + rank_text
-    + "【A股AI超级雷达 V9】\n\n"
+    + "【A股AI超级雷达 V10】\n\n"
 )
 
 message += f"新增政策：{len(new_titles)}条\n\n"
@@ -438,6 +464,48 @@ trend[run_id] = {
 
     for topic, info in result.items()
 }
+
+# ======================
+# 连续升温统计
+# ======================
+
+for topic, info in result.items():
+
+    score = info["count"]
+
+    old = hot_streak.get(
+        topic,
+        {
+            "last": 0,
+            "streak": 0
+        }
+    )
+
+    if score > old["last"]:
+
+        streak = old["streak"] + 1
+
+    else:
+
+        streak = 0
+
+    hot_streak[topic] = {
+        "last": score,
+        "streak": streak
+    }
+
+with open(
+    "hot_streak.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        hot_streak,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
 
 with open(
     "trend.json",
