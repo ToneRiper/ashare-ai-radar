@@ -228,7 +228,41 @@ rank_text += "\\n==================\\n\\n"
 # 消息
 # ======================
 
-message = rank_text + "【A股AI超级雷达 V7】\n\n"
+message = ""
+
+rank_list = sorted(
+    hot_rank.items(),
+    key=lambda x: x[1],
+    reverse=True
+)[:3]
+
+medals = ["🥇", "🥈", "🥉"]
+
+message += "🔥 今日最强题材\n\n"
+
+for idx, (topic, score) in enumerate(rank_list):
+
+    message += (
+        f"{medals[idx]} "
+        f"{topic}"
+        f"（{score}）\n"
+    )
+
+    if topic in WATCHLIST:
+
+        message += "龙头观察：\n"
+
+        for stock in WATCHLIST[topic][:3]:
+
+            message += f"• {stock}\n"
+
+    message += "\n"
+
+message += (
+    "====================\n\n"
+)
+
+message += "【A股AI超级雷达 V8】\n\n"
 
 message += f"新增政策：{len(new_titles)}条\n\n"
 
