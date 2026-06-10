@@ -39,6 +39,24 @@ with open(
     STOCK_POOL = json.load(f)
 
 # ======================
+# 连续升温库
+# ======================
+
+try:
+
+    with open(
+        "hot_streak.json",
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        hot_streak = json.load(f)
+
+except:
+
+    hot_streak = {}
+
+# ======================
 # 历史记录
 # ======================
 
