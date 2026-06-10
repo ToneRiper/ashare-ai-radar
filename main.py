@@ -151,7 +151,7 @@ for topic, aliases in KEYWORDS.items():
 
     matched = []
 
-    for title in new_titles:
+    for title in all_titles:
 
         for alias in aliases:
 
