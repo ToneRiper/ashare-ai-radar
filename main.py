@@ -30,6 +30,14 @@ with open(
 
     WATCHLIST = json.load(f)
 
+with open(
+    "stock_pool.json",
+    "r",
+    encoding="utf-8"
+) as f:
+
+    STOCK_POOL = json.load(f)
+
 # ======================
 # 历史记录
 # ======================
@@ -262,7 +270,37 @@ message += (
     "====================\n\n"
 )
 
-message += "【A股AI超级雷达 V8】\n\n"
+top_topic = None
+
+if len(result) > 0:
+
+    top_topic = max(
+        result.items(),
+        key=lambda x: x[1]["count"]
+    )[0]
+
+leader_text = ""
+
+if top_topic and top_topic in STOCK_POOL:
+
+    leader_text += "🔥 今日最强主线\n\n"
+
+    leader_text += f"{top_topic}（{hot_rank.get(top_topic,0)}）\n\n"
+
+    leader_text += "核心龙头：\n"
+
+    for stock in STOCK_POOL[top_topic][:3]:
+
+        leader_text += f"• {stock}\n"
+
+    leader_text += "\n====================\n\n"
+    
+
+message = (
+    leader_text
+    + rank_text
+    + "【A股AI超级雷达 V9】\n\n"
+)
 
 message += f"新增政策：{len(new_titles)}条\n\n"
 
