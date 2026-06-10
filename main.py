@@ -371,18 +371,18 @@ for topic, info in sorted(
         stars = "★★★"
 
     message += (
-    f"{stars} "
-    f"{topic}\n\n"
-)
+        f"{stars} "
+        f"{topic}\n\n"
+    )
 
-message += (
-    f"今日新增：{score}\n"
-)
+    message += (
+        f"今日新增：{score}\n"
+    )
 
-message += (
-    f"累计热度："
-    f"{hot_rank.get(topic, 0)}\n\n"
-)
+    message += (
+        f"累计热度："
+        f"{hot_rank.get(topic, 0)}\n\n"
+    )
 
     message += "政策：\n"
 
