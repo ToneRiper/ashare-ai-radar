@@ -167,11 +167,67 @@ for topic, aliases in KEYWORDS.items():
             "titles": matched[:3]
         }
 
+
+# ======================
+# 热度总榜
+# ======================
+
+try:
+
+    with open(
+        "hot_rank.json",
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        hot_rank = json.load(f)
+
+except:
+
+    hot_rank = {}
+
+for topic, info in result.items():
+
+    hot_rank[topic] = hot_rank.get(
+        topic,
+        0
+    ) + info["count"]
+
+with open(
+    "hot_rank.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        hot_rank,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
+
+rank_text = "🔥 热度总榜\\n\\n"
+
+for idx, item in enumerate(
+    sorted(
+        hot_rank.items(),
+        key=lambda x: x[1],
+        reverse=True
+    )[:5],
+    start=1
+):
+
+    rank_text += (
+        f"{idx}. {item[0]}（{item[1]}）\\n"
+    )
+
+rank_text += "\\n==================\\n\\n"
+
 # ======================
 # 消息
 # ======================
 
-message = "【A股AI超级雷达 V6】\n\n"
+message = rank_text + "【A股AI超级雷达 V7】\n\n"
 
 message += f"新增政策：{len(new_titles)}条\n\n"
 
