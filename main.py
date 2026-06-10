@@ -215,10 +215,10 @@ except:
 
 for topic, info in result.items():
 
-    hot_rank[topic] = hot_rank.get(
-        topic,
-        0
-    ) + info["count"]
+    hot_rank[topic] = (
+        hot_rank.get(topic, 0)
+        + info["count"]
+    )
 
 with open(
     "hot_rank.json",
@@ -233,7 +233,7 @@ with open(
         indent=2
     )
 
-rank_text = "🔥 热度总榜\\n\\n"
+rank_text = "🔥 热度总榜\n\n"
 
 for idx, item in enumerate(
     sorted(
@@ -245,10 +245,12 @@ for idx, item in enumerate(
 ):
 
     rank_text += (
-        f"{idx}. {item[0]}（{item[1]}）\\n"
+        f"{idx}. {item[0]}（{item[1]}）\n"
     )
 
-rank_text += "\\n==================\\n\\n"
+rank_text += (
+    "\n====================\n\n"
+)
 
 # ======================
 # 消息
