@@ -1,7 +1,7 @@
 {
   "AI": {
-    "last": 104,
-    "streak": 1
+    "last": 103,
+    "streak": 0
   },
   "算力": {
     "last": 16,
@@ -12,7 +12,7 @@
     "streak": 0
   },
   "机器人": {
-    "last": 7,
+    "last": 6,
     "streak": 0
   },
   "脑机接口": {
@@ -28,8 +28,8 @@
     "streak": 0
   },
   "商业航天": {
-    "last": 2,
-    "streak": 0
+    "last": 4,
+    "streak": 1
   },
   "自动驾驶": {
     "last": 4,
