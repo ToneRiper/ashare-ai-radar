@@ -1,15 +1,15 @@
 {
   "AI": {
-    "last": 102,
-    "streak": 1
+    "last": 99,
+    "streak": 0
   },
   "算力": {
     "last": 16,
     "streak": 0
   },
   "半导体": {
-    "last": 1,
-    "streak": 0
+    "last": 2,
+    "streak": 1
   },
   "机器人": {
     "last": 6,
@@ -28,8 +28,8 @@
     "streak": 0
   },
   "商业航天": {
-    "last": 9,
-    "streak": 1
+    "last": 7,
+    "streak": 0
   },
   "自动驾驶": {
     "last": 4,
