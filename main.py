@@ -316,6 +316,44 @@ if top_topic and top_topic in STOCK_POOL:
     leader_text += "\n====================\n\n"
 
 # ======================
+# 爆发预警
+# ======================
+
+alert_text = ""
+
+if len(trend) >= 2:
+
+    keys = list(trend.keys())
+
+    latest = trend[keys[-1]]
+
+    previous = trend[keys[-2]]
+
+    for topic in latest:
+
+        now_count = latest.get(topic, 0)
+
+        old_count = previous.get(topic, 0)
+
+        if old_count > 0:
+
+            increase = (
+                (now_count - old_count)
+                / old_count
+            ) * 100
+
+            if increase >= 50:
+
+                alert_text += (
+                    f"🚨 {topic} "
+                    f"爆发 +{int(increase)}%\n"
+                )
+
+if alert_text:
+
+    alert_text += "\n====================\n\n"
+
+# ======================
 # 连续升温显示
 # ======================
 
@@ -342,10 +380,11 @@ if streak_text:
     )
     
 message = (
-    streak_text
+    alert_text
+    + streak_text
     + leader_text
     + rank_text
-    + "【A股AI超级雷达 V10】\n\n"
+    + "【A股AI超级雷达 V11】\n\n"
 )
 
 message += f"新增政策：{len(new_titles)}条\n\n"
