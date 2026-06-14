@@ -1,10 +1,10 @@
 {
   "AI": {
-    "last": 98,
+    "last": 87,
     "streak": 0
   },
   "算力": {
-    "last": 15,
+    "last": 14,
     "streak": 0
   },
   "半导体": {
@@ -12,28 +12,28 @@
     "streak": 0
   },
   "机器人": {
-    "last": 5,
-    "streak": 0
+    "last": 6,
+    "streak": 1
   },
   "脑机接口": {
     "last": 2,
     "streak": 0
   },
   "新能源": {
-    "last": 2,
-    "streak": 0
+    "last": 3,
+    "streak": 1
   },
   "低空经济": {
     "last": 1,
     "streak": 0
   },
   "商业航天": {
-    "last": 8,
-    "streak": 1
+    "last": 31,
+    "streak": 2
   },
   "自动驾驶": {
-    "last": 4,
-    "streak": 0
+    "last": 6,
+    "streak": 1
   },
   "创新药": {
     "last": 1,
@@ -42,5 +42,9 @@
   "未来产业": {
     "last": 2,
     "streak": 0
+  },
+  "量子计算": {
+    "last": 1,
+    "streak": 1
   }
 }
