@@ -4,6 +4,7 @@ import requests
 import urllib.parse
 import hashlib
 import random
+import time
 from deep_translator import GoogleTranslator, MyMemoryTranslator
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
@@ -11,44 +12,52 @@ CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 BAIDU_APP_ID = os.getenv("BAIDU_APP_ID")
 BAIDU_SECRET_KEY = os.getenv("BAIDU_SECRET_KEY")
 
+# ======================
+# 强化版反爬请求头 (伪装成东财官方网页访问)
+# ======================
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Referer": "https://quote.eastmoney.com/",
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "Connection": "keep-alive"
 }
 
 # ======================
-# 百度翻译接入 + 双引擎容灾
+# 百度翻译接入 + 强制并发限流
 # ======================
 def baidu_translate(query):
     if not BAIDU_APP_ID or not BAIDU_SECRET_KEY:
+        print("未配置百度 API Key，跳过百度翻译")
         return None
     salt = str(random.randint(32768, 65536))
     sign_str = BAIDU_APP_ID + query + salt + BAIDU_SECRET_KEY
     sign = hashlib.md5(sign_str.encode("utf-8")).hexdigest()
     url = f"http://api.fanyi.baidu.com/api/trans/vip/translate?q={urllib.parse.quote(query)}&from=auto&to=zh&appid={BAIDU_APP_ID}&salt={salt}&sign={sign}"
     try:
-        res = requests.get(url, timeout=5).json()
+        res = requests.get(url, timeout=10).json()
+        # 核心修复：强制休眠 1.2 秒，规避百度免费版 QPS=1 的限制
+        time.sleep(1.2)
         if "trans_result" in res:
             return res["trans_result"][0]["dst"]
+        else:
+            print(f"百度翻译接口返回异常: {res}")
     except Exception as e:
-        print(f"百度翻译请求异常: {e}")
+        print(f"百度翻译请求网络异常: {e}")
     return None
 
 def safe_translate(text):
     if any('\u4e00' <= c <= '\u9fff' for c in text):
         return text
     
-    # 1. 优先使用稳定防封的百度翻译
     bd_res = baidu_translate(text)
     if bd_res:
         return bd_res
         
-    # 2. 如果百度没配置好，自动降级为 Google 翻译
     try:
         return GoogleTranslator(source="auto", target="zh-CN").translate(text)
     except:
         pass
         
-    # 3. 如果都被封，使用最后的备用引擎
     try:
         return MyMemoryTranslator(source="en", target="zh-CN").translate(text)
     except Exception as e:
@@ -56,18 +65,23 @@ def safe_translate(text):
         return text
 
 # ======================
-# 东财实时数据抓取
+# 东财实时数据抓取 (增加拦截容错)
 # ======================
 def fetch_eastmoney_hot_sectors():
     sectors = {}
     try:
         url = "https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=100&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=m:90+t:3&fields=f14,f3,f62"
-        res = requests.get(url, headers=HEADERS, timeout=10).json()
-        if res and "data" in res and res["data"]:
-            for item in res["data"]["diff"]:
-                sectors[item["f14"]] = {"change": item["f3"], "inflow": item["f62"]}
+        r = requests.get(url, headers=HEADERS, timeout=10)
+        if r.status_code == 200:
+            try:
+                res = r.json()
+                if res and "data" in res and res["data"]:
+                    for item in res["data"]["diff"]:
+                        sectors[item["f14"]] = {"change": item["f3"], "inflow": item["f62"]}
+            except ValueError:
+                print("板块抓取被东财拦截，返回了非 JSON 数据")
     except Exception as e:
-        print(f"板块抓取失败: {e}")
+        print(f"板块抓取网络异常: {e}")
     return sectors
 
 HOT_SECTORS = fetch_eastmoney_hot_sectors()
@@ -81,11 +95,16 @@ def fetch_mid_low_stocks(stock_names):
         try:
             encoded_name = urllib.parse.quote(name)
             search_url = f"https://searchapi.eastmoney.com/api/suggest/get?input={encoded_name}&type=14&token=D43BF722C8E33BDC906FB84D85E326E8"
-            search_res = requests.get(search_url, headers=HEADERS, timeout=5).json()
-            if search_res.get("QuotationCodeTable") and search_res["QuotationCodeTable"].get("Data"):
-                code = search_res["QuotationCodeTable"]["Data"][0]["Code"]
-                prefix = "1" if code.startswith("6") else "0"
-                secids.append(f"{prefix}.{code}")
+            r = requests.get(search_url, headers=HEADERS, timeout=5)
+            if r.status_code == 200:
+                try:
+                    search_res = r.json()
+                    if search_res.get("QuotationCodeTable") and search_res["QuotationCodeTable"].get("Data"):
+                        code = search_res["QuotationCodeTable"]["Data"][0]["Code"]
+                        prefix = "1" if code.startswith("6") else "0"
+                        secids.append(f"{prefix}.{code}")
+                except ValueError:
+                    pass
         except:
             continue
             
@@ -96,15 +115,20 @@ def fetch_mid_low_stocks(stock_names):
     try:
         secids_str = ",".join(secids)
         quote_url = f"https://push2.eastmoney.com/api/qt/ulist.np/get?fltt=2&secids={secids_str}&fields=f12,f14,f3"
-        quote_res = requests.get(quote_url, headers=HEADERS, timeout=5).json()
-        if quote_res and "data" in quote_res and quote_res["data"]:
-            for item in quote_res["data"]["diff"]:
-                name = item["f14"]
-                change = item["f3"]
-                if isinstance(change, (int, float)) and 1.0 <= change <= 6.0:
-                    valid_stocks.append({"name": name, "change": change})
+        r = requests.get(quote_url, headers=HEADERS, timeout=10)
+        if r.status_code == 200:
+            try:
+                quote_res = r.json()
+                if quote_res and "data" in quote_res and quote_res["data"]:
+                    for item in quote_res["data"]["diff"]:
+                        name = item["f14"]
+                        change = item["f3"]
+                        if isinstance(change, (int, float)) and 1.0 <= change <= 6.0:
+                            valid_stocks.append({"name": name, "change": change})
+            except ValueError:
+                print("个股行情被东财拦截，返回了非 JSON 数据")
     except Exception as e:
-        print(f"个股行情抓取失败: {e}")
+        print(f"个股行情请求异常: {e}")
 
     valid_stocks.sort(key=lambda x: x["change"], reverse=True)
     return valid_stocks
@@ -175,8 +199,12 @@ all_news = list(unique_news.values())
 new_news = [n for n in all_news if n["title"] not in history_set]
 print(f"总数据：{len(all_news)} | 新增政策：{len(new_news)}")
 
-# 执行翻译（核心调用百度API）
-translated_titles = {news["title"]: safe_translate(news["title"]) for news in new_news}
+# ======================
+# 核心：执行带休眠的翻译
+# ======================
+translated_titles = {}
+for news in new_news:
+    translated_titles[news["title"]] = safe_translate(news["title"])
 
 # ======================
 # 热点统计 & 更新数据库
@@ -214,7 +242,7 @@ for topic, info in result.items():
     )
     info.update({"total_score": total_s, "main_score": main_s, "money_score": money_s, "is_resonance": is_res, "resonance_desc": res_desc})
 
-message = "<b>【A股AI超级雷达 V18】</b>\n\n"
+message = "<b>【A股AI超级雷达 V19】</b>\n\n"
 message += f"新增政策：{len(new_news)}条\n"
 message += "✅ 百度机器翻译联机 | ✅ 中低位潜伏过滤开启\n\n"
 
