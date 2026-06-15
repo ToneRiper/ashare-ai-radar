@@ -12,9 +12,6 @@ CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 BAIDU_APP_ID = os.getenv("BAIDU_APP_ID")
 BAIDU_SECRET_KEY = os.getenv("BAIDU_SECRET_KEY")
 
-# ======================
-# 强化版反爬请求头 (伪装成东财官方网页访问)
-# ======================
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Referer": "https://quote.eastmoney.com/",
@@ -34,8 +31,7 @@ def baidu_translate(query):
     sign = hashlib.md5(sign_str.encode("utf-8")).hexdigest()
     url = f"http://api.fanyi.baidu.com/api/trans/vip/translate?q={urllib.parse.quote(query)}&from=auto&to=zh&appid={BAIDU_APP_ID}&salt={salt}&sign={sign}"
     try:
-        res = requests.get(url, timeout=10).json()
-        # 核心修复：强制休眠 1.2 秒，规避百度免费版 QPS=1 的限制
+        res = requests.get(url, timeout=15).json()
         time.sleep(1.2)
         if "trans_result" in res:
             return res["trans_result"][0]["dst"]
@@ -61,17 +57,18 @@ def safe_translate(text):
     try:
         return MyMemoryTranslator(source="en", target="zh-CN").translate(text)
     except Exception as e:
-        print(f"全线翻译失败，原文输出: {text} -> {e}")
+        print(f"全线翻译失败: {e}")
         return text
 
 # ======================
-# 东财实时数据抓取 (增加拦截容错)
+# 东财实时数据抓取 (增加延迟容忍度)
 # ======================
 def fetch_eastmoney_hot_sectors():
     sectors = {}
     try:
         url = "https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=100&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=m:90+t:3&fields=f14,f3,f62"
-        r = requests.get(url, headers=HEADERS, timeout=10)
+        # 延长到 20 秒，防跨洋超时
+        r = requests.get(url, headers=HEADERS, timeout=20)
         if r.status_code == 200:
             try:
                 res = r.json()
@@ -79,7 +76,7 @@ def fetch_eastmoney_hot_sectors():
                     for item in res["data"]["diff"]:
                         sectors[item["f14"]] = {"change": item["f3"], "inflow": item["f62"]}
             except ValueError:
-                print("板块抓取被东财拦截，返回了非 JSON 数据")
+                print("板块抓取被东财拦截")
     except Exception as e:
         print(f"板块抓取网络异常: {e}")
     return sectors
@@ -95,7 +92,7 @@ def fetch_mid_low_stocks(stock_names):
         try:
             encoded_name = urllib.parse.quote(name)
             search_url = f"https://searchapi.eastmoney.com/api/suggest/get?input={encoded_name}&type=14&token=D43BF722C8E33BDC906FB84D85E326E8"
-            r = requests.get(search_url, headers=HEADERS, timeout=5)
+            r = requests.get(search_url, headers=HEADERS, timeout=10)
             if r.status_code == 200:
                 try:
                     search_res = r.json()
@@ -115,7 +112,8 @@ def fetch_mid_low_stocks(stock_names):
     try:
         secids_str = ",".join(secids)
         quote_url = f"https://push2.eastmoney.com/api/qt/ulist.np/get?fltt=2&secids={secids_str}&fields=f12,f14,f3"
-        r = requests.get(quote_url, headers=HEADERS, timeout=10)
+        # 延长到 20 秒
+        r = requests.get(quote_url, headers=HEADERS, timeout=20)
         if r.status_code == 200:
             try:
                 quote_res = r.json()
@@ -126,7 +124,7 @@ def fetch_mid_low_stocks(stock_names):
                         if isinstance(change, (int, float)) and 1.0 <= change <= 6.0:
                             valid_stocks.append({"name": name, "change": change})
             except ValueError:
-                print("个股行情被东财拦截，返回了非 JSON 数据")
+                print("个股行情被拦截")
     except Exception as e:
         print(f"个股行情请求异常: {e}")
 
@@ -199,9 +197,7 @@ all_news = list(unique_news.values())
 new_news = [n for n in all_news if n["title"] not in history_set]
 print(f"总数据：{len(all_news)} | 新增政策：{len(new_news)}")
 
-# ======================
-# 核心：执行带休眠的翻译
-# ======================
+# 执行翻译
 translated_titles = {}
 for news in new_news:
     translated_titles[news["title"]] = safe_translate(news["title"])
@@ -242,9 +238,9 @@ for topic, info in result.items():
     )
     info.update({"total_score": total_s, "main_score": main_s, "money_score": money_s, "is_resonance": is_res, "resonance_desc": res_desc})
 
-message = "<b>【A股AI超级雷达 V19】</b>\n\n"
+message = "<b>【A股AI超级雷达 V20】</b>\n\n"
 message += f"新增政策：{len(new_news)}条\n"
-message += "✅ 百度机器翻译联机 | ✅ 中低位潜伏过滤开启\n\n"
+message += "✅ 百度机器翻译联机 | ✅ 双向容错降级推送\n\n"
 
 for topic, info in sorted(result.items(), key=lambda x: x[1]["total_score"], reverse=True):
     stars = "★★★★★" if info["total_score"] >= 30 else ("★★★★" if info["total_score"] >= 15 else "★★★")
@@ -254,9 +250,9 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["total_score"], rev
 
     message += "<b>政策精选：</b>\n"
     for news in info["news_list"]:
-        en_title = news["title"].replace("<", "&lt;").replace(">", "&gt;")
-        cn_title = translated_titles.get(news["title"], news["title"]).replace("<", "&lt;").replace(">", "&gt;")
-        link = news.get("link", "")
+        en_title = news["title"].replace("<", "&lt;").replace(">", "&gt;").replace("&", "&amp;")
+        cn_title = translated_titles.get(news["title"], news["title"]).replace("<", "&lt;").replace(">", "&gt;").replace("&", "&amp;")
+        link = news.get("link", "").replace("&", "&amp;")
         
         if link and link.startswith("http"):
             message += f"• <a href='{link}'>{cn_title}</a>\n"
@@ -279,14 +275,38 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["total_score"], rev
     message += "\n--------------------\n\n"
 
 # ======================
-# Telegram 发送
+# Telegram 安全发送模块 (防静默失败)
 # ======================
-requests.post(
-    f"https://api.telegram.org/bot{TOKEN}/sendMessage",
-    data={"chat_id": CHAT_ID, "text": message[:4000], "parse_mode": "HTML", "disable_web_page_preview": True}
-)
+def send_to_telegram(text, parse_mode="HTML"):
+    url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+    payload = {
+        "chat_id": CHAT_ID,
+        "text": text[:4000],
+        "disable_web_page_preview": True
+    }
+    if parse_mode:
+        payload["parse_mode"] = parse_mode
+        
+    try:
+        res = requests.post(url, data=payload, timeout=15)
+        if res.status_code == 200:
+            print(f"Telegram 消息发送成功 (模式: {parse_mode})")
+        else:
+            print(f"Telegram 发送失败！状态码: {res.status_code}, 返回: {res.text}")
+            # 如果 HTML 模式被拒，剥离格式降级为纯文本重发
+            if parse_mode == "HTML":
+                print(">> 尝试降级为无格式纯文本重发...")
+                # 简单清洗 HTML 标签，防止纯文本也看着乱
+                clean_text = text.replace("<b>", "").replace("</b>", "").replace("<i>", "").replace("</i>", "").replace("<code>", "").replace("</code>", "")
+                send_to_telegram(clean_text, parse_mode=None)
+    except Exception as e:
+        print(f"Telegram 请求完全失败: {e}")
 
-# 落盘
+send_to_telegram(message)
+
+# ======================
+# 落盘保存
+# ======================
 history.extend([n["title"] for n in new_news])
 with open("history.json", "w", encoding="utf-8") as f: json.dump(history, f, ensure_ascii=False, indent=2)
 with open("hot_rank.json", "w", encoding="utf-8") as f: json.dump(hot_rank, f, ensure_ascii=False, indent=2)
