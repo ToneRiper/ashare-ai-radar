@@ -51,6 +51,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           BAIDU_APP_ID: ${{ secrets.BAIDU_APP_ID }}
           BAIDU_SECRET_KEY: ${{ secrets.BAIDU_SECRET_KEY }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
         run: |
           python main.py
 
