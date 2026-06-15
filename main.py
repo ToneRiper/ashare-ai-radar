@@ -79,10 +79,9 @@ def fetch_all_sectors():
 SECTOR_MAP, HOT_SECTORS = fetch_all_sectors()
 
 # ======================
-# 全局无消息时的“暗盘探测器”
+# 纯资金主线探测 (更敏感的阈值)
 # ======================
 def get_top_capital_sectors(limit=2):
-    """脱离关键词限制，纯看全市场资金流向，抓取最猛的隐藏主线"""
     valid_sectors = []
     for name, data in HOT_SECTORS.items():
         change = data.get("change", 0)
@@ -91,9 +90,8 @@ def get_top_capital_sectors(limit=2):
         if not isinstance(change, (int, float)): continue
         if not isinstance(inflow, (int, float)): continue
         
-        # 过滤条件：板块整体红盘，且主力净流入大于 3000万
-        if change >= 0.5 and inflow > 30000000:
-            # 动能打分 = 流入金额(千万) * 涨跌幅
+        # 只要板块微红，且主力流入超2000万即视为有资金关照
+        if change >= 0.2 and inflow > 20000000:
             score = (inflow / 10000000) * change
             valid_sectors.append({
                 "name": name,
@@ -107,14 +105,13 @@ def get_top_capital_sectors(limit=2):
     return valid_sectors[:limit]
 
 # ======================
-# V26 猎手级：反人性/硬核避雷量化选股
+# V27 顶级游资量化引擎 (黄金市值段 + 暗流监控)
 # ======================
 def auto_quant_stock_pick(target_code):
     if not target_code: return []
 
     valid_stocks = []
     try:
-        # 新增 f2 (最新价) 用于规避极低价股
         url = f"https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=200&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=b:{target_code}&fields=f12,f14,f2,f3,f8,f10,f62,f7,f64,f22,f116"
         r = requests.get(url, headers=HEADERS, timeout=15)
         if r.status_code == 200:
@@ -123,18 +120,17 @@ def auto_quant_stock_pick(target_code):
                 for item in res["data"]["diff"]:
                     code = item["f12"]
                     
-                    # 1. 板块阉割：只保留沪深创业板
                     if not (code.startswith('00') or code.startswith('30') or code.startswith('60')):
                         continue
                         
                     name = item["f14"]
-                    price = item["f2"]         # 最新价
-                    change = item["f3"]        # 涨跌幅
-                    turnover = item["f8"]      # 换手率
-                    vol_ratio = item["f10"]    # 量比
-                    amplitude = item["f7"]     # 振幅
-                    super_inflow = item["f64"] # 超大单净流入
-                    mkt_cap = item["f116"]     # 总市值
+                    price = item["f2"]         
+                    change = item["f3"]        
+                    turnover = item["f8"]      
+                    vol_ratio = item["f10"]    
+                    amplitude = item["f7"]     
+                    super_inflow = item["f64"] 
+                    mkt_cap = item["f116"]     
                     
                     if not isinstance(change, (int, float)): continue
                     if not isinstance(price, (int, float)): continue
@@ -144,24 +140,23 @@ def auto_quant_stock_pick(target_code):
                     if not isinstance(super_inflow, (int, float)): super_inflow = 0
                     if not isinstance(mkt_cap, (int, float)): mkt_cap = 0
                     
-                    # 2. 硬核避雷绞肉机：
-                    # - 绝对不碰 ST, *ST, 退市股
-                    if "ST" in name or "退" in name: continue
-                    # - 股价必须大于 3.0 元 (面值退市红线绝不碰)
-                    if price < 3.0: continue
-                    # - 剔除大于 800 亿的老弱病残巨无霸
-                    if mkt_cap > 800 * 100000000: continue
+                    # 1. 绝对的避雷绞肉机
+                    if "ST" in name or "退" in name or price < 3.0: 
+                        continue
+                    
+                    # 2. 【核心优化】锁定黄金游资场：总市值严格卡在 30亿 到 300亿 之间
+                    if not (30 * 100000000 <= mkt_cap <= 300 * 100000000): 
+                        continue
                     
                     # 3. 反人性压盘过滤网：
-                    # - 吃水下血筹，绝不接盘：涨幅 -5% ~ +6%
-                    # - 强活跃度：换手率 > 5.0%
-                    # - 主力动作：超大单必须 > 0
-                    # - 量价异动：量比 > 1.2 或 振幅 > 3%
-                    if (-5.0 <= change <= 6.0) and (turnover >= 5.0) and (super_inflow > 0) and (vol_ratio >= 1.2 or amplitude >= 3.0):
+                    # 涨跌幅：-4% ~ +5% (拒绝追高)
+                    # 量比：> 1.5 (成交量必须温和放大，说明有人在默默建仓)
+                    # 大单：必须有超大单正向流入
+                    if (-4.0 <= change <= 5.0) and (super_inflow > 0) and (vol_ratio >= 1.5):
                         super_wan = round(super_inflow / 10000, 1) 
                         mkt_cap_yi = round(mkt_cap / 100000000, 1)
                         
-                        # 背离打分：换手极高 + 超大单买入多 + 涨幅小 = 压盘吸筹极致
+                        # 背离打分：换手 * 超大单 * (10-涨幅)。跌得越多买得越凶，分越高
                         smart_money_score = super_wan * turnover * (10 - change)
                         
                         valid_stocks.append({
@@ -169,7 +164,7 @@ def auto_quant_stock_pick(target_code):
                             "code": code,
                             "price": price,
                             "change": change, 
-                            "amplitude": amplitude,
+                            "vol_ratio": vol_ratio,
                             "super_wan": super_wan,
                             "mkt_cap_yi": mkt_cap_yi,
                             "score": smart_money_score
@@ -246,11 +241,11 @@ for topic, info in result.items():
     hot_streak[topic] = {"last": info["count"], "streak": old["streak"] + 1 if info["count"] > old["last"] else 0}
 
 # ======================
-# V26 拼装：政策逻辑 + 纯资金暗盘逻辑
+# V27 拼装：政策逻辑 + 纯资金暗盘逻辑
 # ======================
-header = "<b>【A股游资全息雷达 V26】</b>\n\n"
+header = "<b>【A股游资全息雷达 V27】</b>\n\n"
 header += f"发现新政策/事件：{len(new_news)}条\n"
-header += "✅ 全境资金穿透 | ✅ ST低价股硬核剿灭\n\n"
+header += "✅ 锁定30亿-300亿游资猎场 | ✅ 无未来函数，纯Tick级暗盘\n\n"
 
 message_body = ""
 
@@ -267,7 +262,6 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["count"], reverse=T
             
     quant_stocks = auto_quant_stock_pick(target_code) if target_code else []
     
-    # 静默过滤：没新闻 且 没资金，就不显示
     if not topic_new_news and not quant_stocks:
         continue
 
@@ -291,10 +285,10 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["count"], reverse=T
         message_body += "\n"
 
     if quant_stocks:
-        message_body += f"<b>💡 资金暗潜 (剔除ST/巨无霸)：</b>\n"
+        message_body += f"<b>💡 游资暗潜 (精选30-300亿市值)：</b>\n"
         for stock in quant_stocks[:3]:
-            trend_hint = "💧深水承接" if stock['change'] <= 0 else "🔥温和吸筹"
-            message_body += f"• <code>{stock['name']}</code> ({trend_hint} 价:{stock['price']}, 涨:{stock['change']}%, 暗盘:+{stock['super_wan']}万, 市值:{stock['mkt_cap_yi']}亿)\n"
+            trend_hint = "💧跌盘强吸" if stock['change'] <= 0 else "🔥温和建仓"
+            message_body += f"• <code>{stock['name']}</code> ({trend_hint} 涨:{stock['change']}%, 量比:{stock['vol_ratio']}, 暗盘:+{stock['super_wan']}万, 盘:{stock['mkt_cap_yi']}亿)\n"
         message_body += "\n"
 
     message_body += "--------------------\n\n"
@@ -302,16 +296,16 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["count"], reverse=T
 # --- 模块2：纯资金暗流驱动 (无视消息面) ---
 capital_sectors = get_top_capital_sectors(limit=2)
 has_capital_content = False
-capital_body = "<b>🦈 纯资金主线 (无视消息面，全网异动最高)</b>\n\n"
+capital_body = "<b>🦈 纯资金主线 (全网异动最高)</b>\n\n"
 
 for sector in capital_sectors:
     quant_stocks = auto_quant_stock_pick(sector["code"])
     if quant_stocks:
         has_capital_content = True
-        capital_body += f"<b>🔥 {sector['name']}</b> (板块涨幅 {sector['change']}%, 净流入 {sector['inflow_yi']}亿)\n"
+        capital_body += f"<b>🔥 {sector['name']}</b> (涨幅 {sector['change']}%, 主力流入 {sector['inflow_yi']}亿)\n"
         for stock in quant_stocks[:3]:
-            trend_hint = "💧逆势吃货" if stock['change'] <= 0 else "🔥活跃点火"
-            capital_body += f"• <code>{stock['name']}</code> ({trend_hint} 价:{stock['price']}, 涨:{stock['change']}%, 机构:+{stock['super_wan']}万, 市值:{stock['mkt_cap_yi']}亿)\n"
+            trend_hint = "💧逆势吃货" if stock['change'] <= 0 else "🔥右侧试盘"
+            capital_body += f"• <code>{stock['name']}</code> ({trend_hint} 涨:{stock['change']}%, 量比:{stock['vol_ratio']}, 暗盘:+{stock['super_wan']}万, 盘:{stock['mkt_cap_yi']}亿)\n"
         capital_body += "\n"
 
 if has_capital_content:
@@ -332,12 +326,18 @@ def send_to_telegram(text, parse_mode="HTML"):
             send_to_telegram(clean_text, parse_mode=None)
     except: pass
 
+# 无论有无内容，都发送消息（保证每次运行都有回音，解决你没收到消息的疑惑）
 if has_policy_content or has_capital_content:
     final_message = header + message_body
     send_to_telegram(final_message)
-    print("已发送 Telegram 异动推送")
 else:
-    print("大盘完全沉寂，政策与资金均无异动，保持静默。")
+    # 增加心跳防守消息，让你明确知道程序活着，只是大盘太垃圾
+    heartbeat_msg = "<b>【A股游资全息雷达 V27】</b>\n\n"
+    heartbeat_msg += "🛡 <b>当前状态：大盘极度静默 / 情绪冰点</b>\n"
+    heartbeat_msg += "• 政策面：无任何新增政策驱动\n"
+    heartbeat_msg += "• 资金面：全市场未探测到符合安全边际（30-300亿）的机构压盘动作。\n"
+    heartbeat_msg += "• 交易策略：<b>管住手，空仓防守，切勿被杂音骗炮。</b>"
+    send_to_telegram(heartbeat_msg)
 
 # ======================
 # 落盘保存
