@@ -20,11 +20,19 @@ HEADERS = {
 }
 
 # ======================
-# 百度翻译接入 + 强制并发限流
+# 文本转义 (修复 Telegram 报错漏代码的问题)
+# ======================
+def escape_html(text):
+    if not text:
+        return ""
+    # 必须先替换 &，再替换 <> 
+    return str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+# ======================
+# 百度翻译接入
 # ======================
 def baidu_translate(query):
     if not BAIDU_APP_ID or not BAIDU_SECRET_KEY:
-        print("未配置百度 API Key，跳过百度翻译")
         return None
     salt = str(random.randint(32768, 65536))
     sign_str = BAIDU_APP_ID + query + salt + BAIDU_SECRET_KEY
@@ -35,101 +43,104 @@ def baidu_translate(query):
         time.sleep(1.2)
         if "trans_result" in res:
             return res["trans_result"][0]["dst"]
-        else:
-            print(f"百度翻译接口返回异常: {res}")
     except Exception as e:
-        print(f"百度翻译请求网络异常: {e}")
+        print(f"百度翻译异常: {e}")
     return None
 
 def safe_translate(text):
     if any('\u4e00' <= c <= '\u9fff' for c in text):
         return text
-    
     bd_res = baidu_translate(text)
-    if bd_res:
-        return bd_res
-        
-    try:
-        return GoogleTranslator(source="auto", target="zh-CN").translate(text)
-    except:
-        pass
-        
-    try:
-        return MyMemoryTranslator(source="en", target="zh-CN").translate(text)
-    except Exception as e:
-        print(f"全线翻译失败: {e}")
-        return text
+    if bd_res: return bd_res
+    try: return GoogleTranslator(source="auto", target="zh-CN").translate(text)
+    except: pass
+    try: return MyMemoryTranslator(source="en", target="zh-CN").translate(text)
+    except: return text
 
 # ======================
-# 东财实时数据抓取 (增加延迟容忍度)
+# 东财全量板块 & 资金抓取
 # ======================
-def fetch_eastmoney_hot_sectors():
+def fetch_all_sectors():
+    """抓取全市场所有板块及其代码，用于自动选股映射"""
     sectors = {}
+    hot_sectors = {}
     try:
-        url = "https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=100&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=m:90+t:3&fields=f14,f3,f62"
-        # 延长到 20 秒，防跨洋超时
+        # m:90 t:2 (行业板块), m:90 t:3 (概念板块)
+        url = "https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=1000&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=m:90+t:2,m:90+t:3&fields=f12,f14,f3,f62"
         r = requests.get(url, headers=HEADERS, timeout=20)
         if r.status_code == 200:
-            try:
-                res = r.json()
-                if res and "data" in res and res["data"]:
-                    for item in res["data"]["diff"]:
-                        sectors[item["f14"]] = {"change": item["f3"], "inflow": item["f62"]}
-            except ValueError:
-                print("板块抓取被东财拦截")
+            res = r.json()
+            if res and "data" in res and res["data"]:
+                for item in res["data"]["diff"]:
+                    code = item["f12"]
+                    name = item["f14"]
+                    change = item["f3"]
+                    inflow = item["f62"]
+                    sectors[name] = code
+                    # 同时记录资金数据供打分用
+                    hot_sectors[name] = {"change": change, "inflow": inflow}
     except Exception as e:
-        print(f"板块抓取网络异常: {e}")
-    return sectors
+        print(f"全量板块抓取异常: {e}")
+    return sectors, hot_sectors
 
-HOT_SECTORS = fetch_eastmoney_hot_sectors()
+SECTOR_MAP, HOT_SECTORS = fetch_all_sectors()
 
-def fetch_mid_low_stocks(stock_names):
-    if not stock_names:
-        return []
-    
-    secids = []
-    for name in stock_names:
-        try:
-            encoded_name = urllib.parse.quote(name)
-            search_url = f"https://searchapi.eastmoney.com/api/suggest/get?input={encoded_name}&type=14&token=D43BF722C8E33BDC906FB84D85E326E8"
-            r = requests.get(search_url, headers=HEADERS, timeout=10)
-            if r.status_code == 200:
-                try:
-                    search_res = r.json()
-                    if search_res.get("QuotationCodeTable") and search_res["QuotationCodeTable"].get("Data"):
-                        code = search_res["QuotationCodeTable"]["Data"][0]["Code"]
-                        prefix = "1" if code.startswith("6") else "0"
-                        secids.append(f"{prefix}.{code}")
-                except ValueError:
-                    pass
-        except:
-            continue
+# ======================
+# 核心革命：智能量化自动选股 (彻底替代手动股票池)
+# ======================
+def auto_quant_stock_pick(topic_name, aliases):
+    # 1. 寻找对应的东方财富板块代码
+    target_code = None
+    target_name = None
+    for name, code in SECTOR_MAP.items():
+        if any(alias in name for alias in [topic_name] + aliases):
+            target_code = code
+            target_name = name
+            break
             
-    if not secids:
-        return []
+    if not target_code:
+        return None, [] # 没找到对应板块
 
+    # 2. 抓取该板块下所有成份股
     valid_stocks = []
     try:
-        secids_str = ",".join(secids)
-        quote_url = f"https://push2.eastmoney.com/api/qt/ulist.np/get?fltt=2&secids={secids_str}&fields=f12,f14,f3"
-        # 延长到 20 秒
-        r = requests.get(quote_url, headers=HEADERS, timeout=20)
+        # f3:涨幅, f8:换手率, f10:量比, f62:主力净流入
+        url = f"https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=200&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=b:{target_code}&fields=f12,f14,f3,f8,f10,f62"
+        r = requests.get(url, headers=HEADERS, timeout=15)
         if r.status_code == 200:
-            try:
-                quote_res = r.json()
-                if quote_res and "data" in quote_res and quote_res["data"]:
-                    for item in quote_res["data"]["diff"]:
-                        name = item["f14"]
-                        change = item["f3"]
-                        if isinstance(change, (int, float)) and 1.0 <= change <= 6.0:
-                            valid_stocks.append({"name": name, "change": change})
-            except ValueError:
-                print("个股行情被拦截")
+            res = r.json()
+            if res and "data" in res and res["data"]:
+                for item in res["data"]["diff"]:
+                    name = item["f14"]
+                    change = item["f3"]
+                    vol_ratio = item["f10"] # 量比
+                    inflow = item["f62"]    # 主力净流入
+                    
+                    # 容错处理：停牌或没数据的字段东财会返回 "-"
+                    if not isinstance(change, (int, float)): continue
+                    if not isinstance(vol_ratio, (int, float)): vol_ratio = 0
+                    if not isinstance(inflow, (int, float)): inflow = 0
+                    
+                    # ===============
+                    # 量化过滤网
+                    # ===============
+                    # 1. 涨跌幅在 1% ~ 6% 之间（中低位）
+                    # 2. 量比 > 1.2 (成交活跃，有增量资金)
+                    # 3. 主力净流入 > 0 (跟着主力喝汤)
+                    if (1.0 <= change <= 6.0) and (vol_ratio > 1.2) and (inflow > 0):
+                        inflow_wan = round(inflow / 10000, 1) # 转成万
+                        valid_stocks.append({
+                            "name": name, 
+                            "change": change, 
+                            "vol_ratio": vol_ratio,
+                            "inflow_wan": inflow_wan
+                        })
     except Exception as e:
-        print(f"个股行情请求异常: {e}")
+        print(f"成份股拉取异常: {e}")
 
-    valid_stocks.sort(key=lambda x: x["change"], reverse=True)
-    return valid_stocks
+    # 按主力净流入资金大小进行排序，选出最有底气的票
+    valid_stocks.sort(key=lambda x: x["inflow_wan"], reverse=True)
+    return target_name, valid_stocks
 
 # ======================
 # 综合评分 V2
@@ -147,8 +158,11 @@ def calc_score(policy, total_hot, streak, topic_name, aliases):
             if change > 0:
                 is_resonance = True
                 money_score += 20
-                inflow_yi = round(inflow / 100000000, 2)
-                resonance_desc = f"[🚀 资金共振: {sector_name} 涨 {change}% | 流入 {inflow_yi}亿]"
+                if isinstance(inflow, (int, float)):
+                    inflow_yi = round(inflow / 100000000, 2)
+                    resonance_desc = f"[🚀 资金共振: {sector_name}板块 涨 {change}% | 流入 {inflow_yi}亿]"
+                else:
+                    resonance_desc = f"[🚀 资金共振: {sector_name}板块 涨 {change}%]"
             break
             
     return round(main_score + money_score, 1), main_score, round(money_score, 1), is_resonance, resonance_desc
@@ -158,7 +172,6 @@ def calc_score(policy, total_hot, streak, topic_name, aliases):
 # ======================
 with open("keywords.json", "r", encoding="utf-8") as f: KEYWORDS = json.load(f)
 with open("watchlist.json", "r", encoding="utf-8") as f: WATCHLIST = json.load(f)
-with open("stock_pool.json", "r", encoding="utf-8") as f: STOCK_POOL = json.load(f)
 
 try:
     with open("hot_streak.json", "r", encoding="utf-8") as f: hot_streak = json.load(f)
@@ -195,9 +208,7 @@ for news in all_news:
 all_news = list(unique_news.values())
 
 new_news = [n for n in all_news if n["title"] not in history_set]
-print(f"总数据：{len(all_news)} | 新增政策：{len(new_news)}")
 
-# 执行翻译
 translated_titles = {}
 for news in new_news:
     translated_titles[news["title"]] = safe_translate(news["title"])
@@ -238,9 +249,9 @@ for topic, info in result.items():
     )
     info.update({"total_score": total_s, "main_score": main_s, "money_score": money_s, "is_resonance": is_res, "resonance_desc": res_desc})
 
-message = "<b>【A股AI超级雷达 V20】</b>\n\n"
+message = "<b>【A股AI超级雷达 V21】</b>\n\n"
 message += f"新增政策：{len(new_news)}条\n"
-message += "✅ 百度机器翻译联机 | ✅ 双向容错降级推送\n\n"
+message += "✅ 全自动量化选股联机 (量比+资金双过滤)\n\n"
 
 for topic, info in sorted(result.items(), key=lambda x: x[1]["total_score"], reverse=True):
     stars = "★★★★★" if info["total_score"] >= 30 else ("★★★★" if info["total_score"] >= 15 else "★★★")
@@ -250,9 +261,9 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["total_score"], rev
 
     message += "<b>政策精选：</b>\n"
     for news in info["news_list"]:
-        en_title = news["title"].replace("<", "&lt;").replace(">", "&gt;").replace("&", "&amp;")
-        cn_title = translated_titles.get(news["title"], news["title"]).replace("<", "&lt;").replace(">", "&gt;").replace("&", "&amp;")
-        link = news.get("link", "").replace("&", "&amp;")
+        en_title = escape_html(news["title"])
+        cn_title = escape_html(translated_titles.get(news["title"], news["title"]))
+        link = escape_html(news.get("link", ""))
         
         if link and link.startswith("http"):
             message += f"• <a href='{link}'>{cn_title}</a>\n"
@@ -263,19 +274,30 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["total_score"], rev
             message += f"  <i>└ {en_title}</i>\n"
     message += "\n"
 
-    if topic in STOCK_POOL:
-        mid_low_stocks = fetch_mid_low_stocks(STOCK_POOL[topic])
-        message += "<b>资金跟涨/低位潜伏：</b>\n"
-        if mid_low_stocks:
-            for stock in mid_low_stocks[:4]:
-                message += f"• <code>{stock['name']}</code> (涨幅: {stock['change']} %)\n"
+    # ======================
+    # 核心展示：全自动量化选股池
+    # ======================
+    aliases = KEYWORDS.get(topic, [])
+    sector_name, quant_stocks = auto_quant_stock_pick(topic, aliases)
+    
+    if sector_name:
+        message += f"<b>💡 {sector_name} - 异动潜伏池：</b>\n"
+        if quant_stocks:
+            # 只取满足条件的前 4 名
+            for stock in quant_stocks[:4]:
+                message += f"• <code>{stock['name']}</code> (涨: {stock['change']}%, 量比: {stock['vol_ratio']}, 主力: +{stock['inflow_wan']}万)\n"
         else:
-            message += "• 暂无符合 [1%~6%] 涨幅区间的蓄势标的\n"
+            message += "• 暂无符合 [涨幅1-6% + 量比>1.2 + 主力净流入] 的优质标的\n"
+    else:
+        # 如果没找到对应的东财板块，回退显示核心标杆
+        if topic in WATCHLIST:
+            message += "<b>核心标杆 (参考)：</b>\n"
+            message += " ".join([f"<code>{s}</code>" for s in WATCHLIST[topic][:3]]) + "\n"
 
     message += "\n--------------------\n\n"
 
 # ======================
-# Telegram 安全发送模块 (防静默失败)
+# Telegram 安全发送模块
 # ======================
 def send_to_telegram(text, parse_mode="HTML"):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
@@ -290,17 +312,15 @@ def send_to_telegram(text, parse_mode="HTML"):
     try:
         res = requests.post(url, data=payload, timeout=15)
         if res.status_code == 200:
-            print(f"Telegram 消息发送成功 (模式: {parse_mode})")
+            print(f"Telegram 消息发送成功")
         else:
-            print(f"Telegram 发送失败！状态码: {res.status_code}, 返回: {res.text}")
-            # 如果 HTML 模式被拒，剥离格式降级为纯文本重发
+            print(f"HTML格式发送失败，拦截原因: {res.text}")
             if parse_mode == "HTML":
-                print(">> 尝试降级为无格式纯文本重发...")
-                # 简单清洗 HTML 标签，防止纯文本也看着乱
+                print(">> 触发降级重发机制...")
                 clean_text = text.replace("<b>", "").replace("</b>", "").replace("<i>", "").replace("</i>", "").replace("<code>", "").replace("</code>", "")
                 send_to_telegram(clean_text, parse_mode=None)
     except Exception as e:
-        print(f"Telegram 请求完全失败: {e}")
+        print(f"Telegram 请求失败: {e}")
 
 send_to_telegram(message)
 
