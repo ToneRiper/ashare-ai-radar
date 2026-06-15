@@ -43,7 +43,7 @@ def baidu_translate(query):
         time.sleep(1.2)
         if "trans_result" in res: return res["trans_result"][0]["dst"]
     except Exception as e:
-        print(f"百度翻译异常: {e}")
+        pass
     return None
 
 def get_translation(text):
@@ -60,7 +60,6 @@ def get_translation(text):
         trans_cache[text] = gt_res
         return gt_res
     except: pass
-    
     return text
 
 # ======================
@@ -77,14 +76,13 @@ def fetch_all_sectors():
                 for item in res["data"]["diff"]:
                     sectors[item["f14"]] = item["f12"]
                     hot_sectors[item["f14"]] = {"change": item["f3"], "inflow": item["f62"]}
-    except Exception as e:
-        print(f"全量板块异常: {e}")
+    except: pass
     return sectors, hot_sectors
 
 SECTOR_MAP, HOT_SECTORS = fetch_all_sectors()
 
 # ======================
-# 核心革命：机构暗盘/游资全息监控引擎 (V23)
+# V24 猎手级：反散户量化选股引擎
 # ======================
 def auto_quant_stock_pick(topic_name, aliases):
     target_code, target_name = None, None
@@ -97,20 +95,26 @@ def auto_quant_stock_pick(topic_name, aliases):
 
     valid_stocks = []
     try:
-        # 新增高阶底层字段：f7(振幅), f64(超大单机构净流入), f22(涨速)
-        url = f"https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=200&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=b:{target_code}&fields=f12,f14,f3,f8,f10,f62,f7,f64,f22"
+        # 新增 f116 (总市值)
+        url = f"https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=200&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=b:{target_code}&fields=f12,f14,f3,f8,f10,f62,f7,f64,f22,f116"
         r = requests.get(url, headers=HEADERS, timeout=15)
         if r.status_code == 200:
             res = r.json()
             if res and "data" in res and res["data"]:
                 for item in res["data"]["diff"]:
+                    code = item["f12"]
+                    
+                    # 1. 板块阉割：坚决不要 688 和 北交所，只要沪深主板(00, 60)和创业板(30)
+                    if not (code.startswith('00') or code.startswith('30') or code.startswith('60')):
+                        continue
+                        
                     name = item["f14"]
                     change = item["f3"]        # 涨跌幅
                     turnover = item["f8"]      # 换手率
                     vol_ratio = item["f10"]    # 量比
                     amplitude = item["f7"]     # 振幅
-                    super_inflow = item["f64"] # 超大单净流入 (真正的暗盘/机构资金)
-                    speed = item["f22"]        # 5分钟涨速
+                    super_inflow = item["f64"] # 超大单净流入
+                    mkt_cap = item["f116"]     # 总市值
                     
                     # 容错处理
                     if not isinstance(change, (int, float)): continue
@@ -118,31 +122,37 @@ def auto_quant_stock_pick(topic_name, aliases):
                     if not isinstance(turnover, (int, float)): turnover = 0
                     if not isinstance(amplitude, (int, float)): amplitude = 0
                     if not isinstance(super_inflow, (int, float)): super_inflow = 0
-                    if not isinstance(speed, (int, float)): speed = 0
+                    if not isinstance(mkt_cap, (int, float)): mkt_cap = 0
                     
-                    # 【深层异动过滤网】：
-                    # 1. 价格区间: -3% ~ +8% (拒绝接盘，吃水下承接)
-                    # 2. 振幅: > 4.0% (有振幅才有博弈，死水股直接踢掉)
-                    # 3. 机构资金: 超大单必须 > 0 (过滤掉散户主导的上涨，只看机构暗盘扫货)
-                    # 4. 活跃度: 换手率 > 3% 或 量比 > 1.2
-                    if (-3.0 <= change <= 8.0) and (amplitude >= 4.0) and (super_inflow > 0) and (turnover >= 3.0 or vol_ratio >= 1.2):
-                        super_wan = round(super_inflow / 10000, 1) # 超大单转万
+                    # 2. 市值阉割：不要超过 1000 亿的大象股
+                    if mkt_cap > 1000 * 100000000:
+                        continue
+                    
+                    # 3. 反人性过滤网：
+                    # - 拒绝高位接盘：涨幅在 -4% ~ +5% 之间
+                    # - 过滤绝对死水：振幅 > 2.0% (允许默默吸筹，不用强求4%)
+                    # - 识破主力底牌：超大单必须净流入 (散户跑路，超大单在吃货)
+                    if (-4.0 <= change <= 5.0) and (amplitude >= 2.0) and (super_inflow > 0) and (turnover >= 3.0 or vol_ratio >= 1.2):
+                        super_wan = round(super_inflow / 10000, 1) 
+                        mkt_cap_yi = round(mkt_cap / 100000000, 1)
                         
-                        # 机构扫货力度打分 (超大单越猛、振幅越大，说明吃货/洗盘越凶)
-                        smart_money_score = super_wan * (amplitude / 10) 
+                        # 【终极背离打分法】：涨幅越低，超大单吃货越多，得分呈现指数级放大！
+                        # (10 - change) 意味着：大跌 -3% 时系数是13，大涨 +5% 时系数仅为5
+                        smart_money_score = super_wan * turnover * (10 - change)
                         
                         valid_stocks.append({
                             "name": name, 
+                            "code": code,
                             "change": change, 
                             "amplitude": amplitude,
                             "super_wan": super_wan,
-                            "speed": speed,
+                            "mkt_cap_yi": mkt_cap_yi,
                             "score": smart_money_score
                         })
     except Exception as e:
         print(f"成份股拉取异常: {e}")
 
-    # 直接按机构真实扫货力度降序排序
+    # 按“压盘吸筹”背离得分降序，揪出主力的暗牌
     valid_stocks.sort(key=lambda x: x["score"], reverse=True)
     return target_name, valid_stocks
 
@@ -166,7 +176,7 @@ def calc_score(policy, total_hot, streak, topic_name, aliases):
     return round(main_score + money_score, 1), main_score, round(money_score, 1), is_resonance, resonance_desc
 
 # ======================
-# 加载库与历史处理 (已删除 WATCHLIST)
+# 加载基础库
 # ======================
 with open("keywords.json", "r", encoding="utf-8") as f: KEYWORDS = json.load(f)
 try:
@@ -212,9 +222,9 @@ for topic, info in result.items():
     old = hot_streak.get(topic, {"last": 0, "streak": 0})
     hot_streak[topic] = {"last": info["count"], "streak": old["streak"] + 1 if info["count"] > old["last"] else 0}
 
-message = "<b>【A股AI超级雷达 V23】</b>\n\n"
+message = "<b>【A股AI超级雷达 V24】</b>\n\n"
 message += f"发现新政策/事件：{len(new_news)}条\n"
-message += "✅ 超大单机构追踪 | ✅ 振幅博弈监控网启动\n\n"
+message += "✅ 反散户量化引擎 | ✅ 剔除巨无霸/科创板\n\n"
 
 for topic, info in sorted(result.items(), key=lambda x: x[1]["count"], reverse=True):
     total_s, main_s, money_s, is_res, res_desc = calc_score(info["count"], hot_rank.get(topic, 0), hot_streak.get(topic, {}).get("streak", 0), topic, KEYWORDS.get(topic, []))
@@ -232,10 +242,8 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["count"], reverse=T
             en_title = escape_html(news["title"])
             cn_title = escape_html(get_translation(news["title"]))
             link = escape_html(news.get("link", ""))
-            
             if link and link.startswith("http"): message += f"• <a href='{link}'>{cn_title}</a>\n"
             else: message += f"• {cn_title}\n"
-                
             if cn_title != en_title: message += f"  <i>└ {en_title}</i>\n"
     else:
         message += "• 暂无新增消息（底层逻辑延烧中）\n"
@@ -244,15 +252,14 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["count"], reverse=T
     # 深度异动暗盘潜伏池
     sector_name, quant_stocks = auto_quant_stock_pick(topic, KEYWORDS.get(topic, []))
     if sector_name:
-        message += f"<b>💡 {sector_name} - 机构暗盘抢筹：</b>\n"
+        message += f"<b>💡 {sector_name} - 压盘吸筹监控：</b>\n"
         if quant_stocks:
-            # 只精选排名前 3 的顶级标的
             for stock in quant_stocks[:3]:
-                # 如果涨速极快，标红/打火提示
-                speed_str = f"🚀涨速{stock['speed']}%" if stock['speed'] > 1.0 else f"涨幅{stock['change']}%"
-                message += f"• <code>{stock['name']}</code> ({speed_str}, 振幅:{stock['amplitude']}%, 机构大单:+{stock['super_wan']}万)\n"
+                # 提示格式加入了盘口市值和异动暗示
+                trend_hint = "💧大单托底" if stock['change'] <= 0 else "🔥低位建仓"
+                message += f"• <code>{stock['name']}</code> ({trend_hint} 涨:{stock['change']}%, 振:{stock['amplitude']}%, 暗盘扫货:+{stock['super_wan']}万, 市值:{stock['mkt_cap_yi']}亿)\n"
         else:
-            message += "• 暂无符合 [机构超大单扫货 + 强振幅] 的深水猎物\n"
+            message += "• 暂未扫描到 [大单吸筹且未爆发] 的猎物\n"
 
     message += "\n--------------------\n\n"
 
