@@ -2,7 +2,6 @@ import os
 import json
 import requests
 from deep_translator import GoogleTranslator
-from score_engine import calc_score
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
@@ -349,10 +348,11 @@ message = (
     + streak_text
     + leader_text
     + rank_text
-    + "【A股AI超级雷达 V11】\n\n"
+    + "【A股AI超级雷达 V13】\n\n"
 )
 
 message += f"新增政策：{len(new_titles)}条\n\n"
+message += "综合评分已启用（Score Engine）\n\n"
 
 for topic, info in sorted(
     result.items(),
@@ -410,23 +410,6 @@ for topic, info in sorted(
             message += f"• {stock}\n"
 
     message += "\n--------------------\n\n"
-
-
-# ======================
-# 综合评分
-# ======================
-
-score_result = {}
-
-for topic, info in result.items():
-
-    streak = hot_streak.get(topic, {}).get("streak", 0)
-
-    score_result[topic] = calc_score(
-        info["count"],
-        hot_rank.get(topic, 0),
-        streak
-    )
 
 print(message)
 
