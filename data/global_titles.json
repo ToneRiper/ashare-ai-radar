@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/"
   },
   {
+    "title": "KFC leans into boneless chicken, new drinks as chain tries to regain market share",
+    "link": "https://www.cnbc.com/2026/06/15/kfc-menu-chicken.html"
+  },
+  {
     "title": "JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway",
     "link": "https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html"
   },
@@ -306,10 +310,6 @@
   {
     "title": "Soaring stocks created 2 million new millionaires around the world last year",
     "link": "https://www.cnbc.com/2026/06/04/stocks-new-millionaires.html"
-  },
-  {
-    "title": "Trump's 'big beautiful bill' has a 'double taxation' trap for top earners, tax experts say",
-    "link": "https://www.cnbc.com/2026/06/04/trump-tax-bill-double-taxation-trusts.html"
   },
   {
     "title": "Zhipu surges 33% as Wall Street raises bets on China AI after Anthropic curbs",
@@ -512,6 +512,10 @@
     "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/"
   },
   {
+    "title": "US-Iran Deal to Breathe Life Into Lagging Parts of Markets, NewEdge’s Dawson Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/us-iran-deal-to-spark-lagging-parts-of-markets-dawson-video"
+  },
+  {
     "title": "Crypto Token’s Wipeout Shows Magnitude of AI-Hacking Threat",
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat"
   },
@@ -628,6 +632,18 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-13/spacex-ipo-shows-wall-street-still-can-t-get-enough-of-elon-musk"
   },
   {
+    "title": "US-Iran Deal to Reopen Strait of Hormuz Bolsters Central Bank Doves",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-15/us-iran-deal-to-reopen-strait-of-hormuz-bolsters-central-bank-doves"
+  },
+  {
+    "title": "Lagarde Says Energy-Price Hikes Spreading Through Economy",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/lagarde-says-ecb-has-started-to-see-second-round-effects"
+  },
+  {
+    "title": "Japan Ruling Party Still Mulling Sales Tax Cut to Zero for Food",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/japan-ruling-party-still-mulling-sales-tax-cut-to-zero-for-food"
+  },
+  {
     "title": "Warsh Caught Between Trump and Bond Market Bet on Rate Hikes",
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/warsh-caught-between-trump-and-bond-market-betting-on-rate-hikes"
   },
@@ -638,10 +654,6 @@
   {
     "title": "Iran War’s ‘Inflationary Legacy’ Key to Stock Rally’s Longevity",
     "link": "https://www.bloomberg.com/news/articles/2026-06-15/inflation-worries-keep-markets-wary-even-after-iran-peace-deal"
-  },
-  {
-    "title": "Lagarde Says Energy-Price Hikes Spreading Through Economy",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/lagarde-says-ecb-has-started-to-see-second-round-effects"
   },
   {
     "title": "More Bank of England Officials Set to Back Hikes as Iran War Frays Unity",
@@ -708,10 +720,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-13/what-are-brazil-s-world-cup-fans-grilling-more-chicken-and-pork-less-beef"
   },
   {
-    "title": "US AI Boom Is Stoking Asia’s ‘Super’ Trade Surpluses",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-13/us-ai-boom-stokes-asia-s-super-trade-surpluses-new-economy"
-  },
-  {
     "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
     "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/"
   },
@@ -752,6 +760,10 @@
     "link": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/"
   },
   {
+    "title": "Honor’s Magic V6 sets three foldable firsts",
+    "link": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review"
+  },
+  {
     "title": "Under-16 social media ban announced by UK government",
     "link": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement"
   },
@@ -786,9 +798,5 @@
   {
     "title": "X-Men ’97 has what Masters of the Universe is missing",
     "link": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel"
-  },
-  {
-    "title": "Sealed Super Mario Bros. sells for a record $3 million",
-    "link": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction"
   }
 ]
