@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/"
   },
   {
+    "title": "Centene to offer buyouts to some employees as health insurer cuts costs",
+    "link": "https://www.cnbc.com/2026/06/15/centene-to-offer-buyouts-to-some-employees.html"
+  },
+  {
     "title": "Fox to buy streaming device maker Roku for $22 billion",
     "link": "https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html"
   },
@@ -306,10 +310,6 @@
   {
     "title": "Lululemon cuts annual outlook, citing 'negative' media commentary and disappointing product launches",
     "link": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html"
-  },
-  {
-    "title": "As the largest World Cup ever kicks off, health officials are focused on more than Ebola",
-    "link": "https://www.cnbc.com/2026/06/04/world-cup-2026-health-officials-focused-on-ebola-measles.html"
   },
   {
     "title": "Zhipu surges 33% as Wall Street raises bets on China AI after Anthropic curbs",
@@ -432,6 +432,14 @@
     "link": "https://www.cnbc.com/2026/06/04/indias-cockroach-cjp-party-what-investors-need-to-know.html"
   },
   {
+    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
+  },
+  {
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/"
+  },
+  {
     "title": "These are the countries moving to ban social media for children",
     "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/"
   },
@@ -448,7 +456,7 @@
     "link": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/"
   },
   {
-    "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+    "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
     "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/"
   },
   {
@@ -504,28 +512,60 @@
     "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
   },
   {
-    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
-  },
-  {
-    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
-  },
-  {
-    "title": "SpaceX Jumps 16% in Second Day of Trading After Record IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-shares-rise-set-to-extend-gains-after-record-ipo-mqexlibz"
-  },
-  {
-    "title": "Nvidia Set to Sell $25 Billion of Bonds, Joining AI Debt Boom",
+    "title": "Nvidia Joins AI Borrowing Frenzy With $25 Billion Bond Sale",
     "link": "https://www.bloomberg.com/news/articles/2026-06-15/nvidia-kicks-off-first-high-grade-bond-offering-since-2021"
   },
   {
-    "title": "Bloomberg Tech",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-15/bloomberg-tech-video"
+    "title": "Studios in Microsoft’s Xbox Division Brace for Closures",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures"
+  },
+  {
+    "title": "SpaceX Surges 20% in Second Day to Add $412 Billion in Value",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-shares-rise-set-to-extend-gains-after-record-ipo-mqexlibz"
+  },
+  {
+    "title": "Rieder Says No Forward Guidance Is a Good Thing",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/rieder-says-no-forward-guidance-is-a-good-thing-video"
+  },
+  {
+    "title": "Anthropic Disables AI Access for Foreign Nationals | Bloomberg Tech 6/15/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/bloomberg-tech-6-15-2026-video"
+  },
+  {
+    "title": "China's AI Markets Still 'A Source of Funds' Says Citigroup",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/china-s-ai-markets-still-a-source-of-funds-says-citi-video"
+  },
+  {
+    "title": "SpaceX Stocks Still Volatile, Says JPMorgan Strategist",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/spacex-stocks-still-volatile-says-jpmorgan-strategist-video"
+  },
+  {
+    "title": "SpaceX Capable of Building Orbital Data Centers, Says Former Meta CTO",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/spacex-capable-of-orbital-data-centers-former-meta-cto-video"
+  },
+  {
+    "title": "Cohere Seeing Inbounds After Washington's Anthropic Scrutiny",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/cohere-seeing-inbounds-after-dc-s-anthropic-scrutiny-video"
+  },
+  {
+    "title": "What Is Anthropic’s Mythos AI and Why Was It Blocked?",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/why-was-anthropic-s-mythos-ai-blocked-security-risks-and-capabilities-explained"
+  },
+  {
+    "title": "Polymarket Traders Clash Over $345 Million Iran Peace Market",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/polymarket-traders-clash-over-345-million-iran-peace-market"
+  },
+  {
+    "title": "The Race to Build Data Centers in Space",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/the-race-to-build-data-centers-in-space-video"
   },
   {
     "title": "Salesforce to Buy AI Firm That Handles Customer Service",
     "link": "https://www.bloomberg.com/news/videos/2026-06-15/salesforce-to-buy-ai-customer-service-firm-fin-video"
+  },
+  {
+    "title": "Bloomberg Tech",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/bloomberg-tech-video"
   },
   {
     "title": "Fox to Buy Roku at $22 Billion Value in Streaming Video Push",
@@ -592,44 +632,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-15/salesforce-to-buy-ai-customer-service-firm-fin-for-3-6-billion"
   },
   {
-    "title": "How the UK Plans to Keep Children Off Social Media",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/social-media-ban-for-uk-s-under-16s-how-will-plans-announced-by-starmer-work"
-  },
-  {
-    "title": "Activist Investor Ananym Urges Bio-Techne to Consider Selling",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/activist-investor-ananym-urges-bio-techne-to-consider-selling"
-  },
-  {
-    "title": "UK Seeks One of World’s Strictest Social Media Bans for Kids",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-confirm-social-media-ban-for-uk-teens-ahead-of-g7"
-  },
-  {
-    "title": "AMD Deal Helps Austrian Chip-Component Maker Extend 500% Rally",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/amd-deal-helps-austrian-chip-component-maker-extend-500-rally"
-  },
-  {
-    "title": "The ‘Potential Risks’ of AI Singled Out in Draft G7 Statement",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/the-potential-risks-of-ai-singled-out-in-draft-g7-statement"
-  },
-  {
-    "title": "Goldman Brings Google to Prepaid Energy Market After Equity Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/goldman-brings-google-to-prepaid-energy-market-after-equity-deal"
-  },
-  {
-    "title": "Can SpaceX’s IPO Provide Liftoff for the Space Industry?",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-15/can-spacex-s-ipo-provide-liftoff-for-the-space-industry-video"
-  },
-  {
-    "title": "Can Apple’s ‘Good Enough’ Siri Compete With ChatGPT?",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-15/apple-needs-siri-to-keep-users-from-switching-to-rival-ai-chatbots"
-  },
-  {
-    "title": "US-Iran Deal to Breathe Life Into Lagging Parts of Markets, NewEdge’s Dawson Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-15/us-iran-deal-to-spark-lagging-parts-of-markets-dawson-video"
-  },
-  {
-    "title": "Crypto Token’s 50% Wipeout Shows Scale of AI-Hacking Threat",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat"
+    "title": "Zimbabwe Is First in World to Cut Rates After US-Iran Peace Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/zimbabwe-is-first-in-world-to-cut-rates-after-us-iran-peace-deal"
   },
   {
     "title": "Nigeria Inflation Trails Estimates, Revives Rate-Cut Case",
@@ -748,8 +752,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/rba-set-for-first-rate-pause-of-2026-as-bets-on-further-hike-ebb"
   },
   {
-    "title": "Fed and BOE Stay Guarded After 100 Days of Iran War",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-13/fed-boe-to-hold-rates-as-trump-seeks-iran-peace-deal"
+    "title": "Why do South Koreans love AI so much?",
+    "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
   },
   {
     "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
@@ -788,8 +792,36 @@
     "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
   },
   {
-    "title": "Job titles of the future: Nature’s drug designer",
-    "link": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/"
+    "title": "Facebook’s new AI Mode search gets its info from public posts",
+    "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook"
+  },
+  {
+    "title": "Xbox is closing down Hellblade creator Ninja Theory",
+    "link": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua"
+  },
+  {
+    "title": "Fox wants to take over your TV — and the tech inside it",
+    "link": "https://www.theverge.com/streaming/950116/fox-roku-takeover"
+  },
+  {
+    "title": "Amazon&#8217;s Smart Thermostat is on sale for just $58",
+    "link": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale"
+  },
+  {
+    "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown"
+  },
+  {
+    "title": "The best early Amazon Prime Day deals so far",
+    "link": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals"
+  },
+  {
+    "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai"
+  },
+  {
+    "title": "Google Chrome is closing the loopholes that let old ad blockers keep working",
+    "link": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes"
   },
   {
     "title": "Big Tech’s desperate last push at AI regulation",
@@ -798,37 +830,5 @@
   {
     "title": "Xbox turmoil continues with a studio closure and executive departures",
     "link": "https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure"
-  },
-  {
-    "title": "Roblox exec says ticking a box for age verification is &#8216;not enough anymore&#8217;",
-    "link": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc"
-  },
-  {
-    "title": "My favorite Qi2 power bank is cheaper than ever for Verge readers",
-    "link": "https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale"
-  },
-  {
-    "title": "The Verge’s Father’s Day 2026 gift guide",
-    "link": "https://www.theverge.com/gadgets/943212/best-fathers-day-gift-ideas"
-  },
-  {
-    "title": "Happy birthday to the Trump phone",
-    "link": "https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary"
-  },
-  {
-    "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
-    "link": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military"
-  },
-  {
-    "title": "Google Earth’s flight simulator is now available in your browser",
-    "link": "https://www.theverge.com/tech/949749/google-earth-flight-simulator-browser-experimental"
-  },
-  {
-    "title": "Fox is buying Roku",
-    "link": "https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion"
-  },
-  {
-    "title": "All the gear a 20-year gadget blogging veteran packs when traveling",
-    "link": "https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear"
   }
 ]
