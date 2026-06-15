@@ -84,7 +84,7 @@ def fetch_all_sectors():
 SECTOR_MAP, HOT_SECTORS = fetch_all_sectors()
 
 # ======================
-# 核心升级：游资异动量化引擎 2.0 (重构版)
+# 核心革命：机构暗盘/游资全息监控引擎 (V23)
 # ======================
 def auto_quant_stock_pick(topic_name, aliases):
     target_code, target_name = None, None
@@ -97,39 +97,53 @@ def auto_quant_stock_pick(topic_name, aliases):
 
     valid_stocks = []
     try:
-        url = f"https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=200&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=b:{target_code}&fields=f12,f14,f3,f8,f10,f62"
+        # 新增高阶底层字段：f7(振幅), f64(超大单机构净流入), f22(涨速)
+        url = f"https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=200&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=b:{target_code}&fields=f12,f14,f3,f8,f10,f62,f7,f64,f22"
         r = requests.get(url, headers=HEADERS, timeout=15)
         if r.status_code == 200:
             res = r.json()
             if res and "data" in res and res["data"]:
                 for item in res["data"]["diff"]:
-                    name, change, vol_ratio, turnover, inflow = item["f14"], item["f3"], item["f10"], item["f8"], item["f62"]
+                    name = item["f14"]
+                    change = item["f3"]        # 涨跌幅
+                    turnover = item["f8"]      # 换手率
+                    vol_ratio = item["f10"]    # 量比
+                    amplitude = item["f7"]     # 振幅
+                    super_inflow = item["f64"] # 超大单净流入 (真正的暗盘/机构资金)
+                    speed = item["f22"]        # 5分钟涨速
                     
+                    # 容错处理
                     if not isinstance(change, (int, float)): continue
                     if not isinstance(vol_ratio, (int, float)): vol_ratio = 0
                     if not isinstance(turnover, (int, float)): turnover = 0
-                    if not isinstance(inflow, (int, float)): inflow = 0
+                    if not isinstance(amplitude, (int, float)): amplitude = 0
+                    if not isinstance(super_inflow, (int, float)): super_inflow = 0
+                    if not isinstance(speed, (int, float)): speed = 0
                     
-                    # 【全新过滤规则】：
-                    # 1. 涨幅放宽至 -3% ~ 8% (捕捉水下换手和蓄势拉升)
-                    # 2. 活跃度双通道：量比 > 1.2 或 换手率 > 5%
-                    if (-3.0 <= change <= 8.0) and (vol_ratio >= 1.2 or turnover >= 5.0):
-                        inflow_wan = round(inflow / 10000, 1)
-                        # 综合活跃度打分：换手率权重极高，体现游资活跃程度
-                        activity_score = (turnover * 3) + (vol_ratio * 5)
+                    # 【深层异动过滤网】：
+                    # 1. 价格区间: -3% ~ +8% (拒绝接盘，吃水下承接)
+                    # 2. 振幅: > 4.0% (有振幅才有博弈，死水股直接踢掉)
+                    # 3. 机构资金: 超大单必须 > 0 (过滤掉散户主导的上涨，只看机构暗盘扫货)
+                    # 4. 活跃度: 换手率 > 3% 或 量比 > 1.2
+                    if (-3.0 <= change <= 8.0) and (amplitude >= 4.0) and (super_inflow > 0) and (turnover >= 3.0 or vol_ratio >= 1.2):
+                        super_wan = round(super_inflow / 10000, 1) # 超大单转万
+                        
+                        # 机构扫货力度打分 (超大单越猛、振幅越大，说明吃货/洗盘越凶)
+                        smart_money_score = super_wan * (amplitude / 10) 
+                        
                         valid_stocks.append({
                             "name": name, 
                             "change": change, 
-                            "vol_ratio": vol_ratio,
-                            "turnover": turnover,
-                            "inflow_wan": inflow_wan,
-                            "activity": activity_score
+                            "amplitude": amplitude,
+                            "super_wan": super_wan,
+                            "speed": speed,
+                            "score": smart_money_score
                         })
     except Exception as e:
         print(f"成份股拉取异常: {e}")
 
-    # 按活跃度总分降序，而不是单纯的主力流入
-    valid_stocks.sort(key=lambda x: x["activity"], reverse=True)
+    # 直接按机构真实扫货力度降序排序
+    valid_stocks.sort(key=lambda x: x["score"], reverse=True)
     return target_name, valid_stocks
 
 # ======================
@@ -152,7 +166,7 @@ def calc_score(policy, total_hot, streak, topic_name, aliases):
     return round(main_score + money_score, 1), main_score, round(money_score, 1), is_resonance, resonance_desc
 
 # ======================
-# 加载库与历史处理
+# 加载库与历史处理 (已删除 WATCHLIST)
 # ======================
 with open("keywords.json", "r", encoding="utf-8") as f: KEYWORDS = json.load(f)
 try:
@@ -163,7 +177,6 @@ try:
 except: history = []
 history_set = set(history)
 
-# 读取数据
 all_news = [] 
 for file in ["data/miit_titles.json", "data/ndrc_titles.json", "data/gov_titles.json", "data/global_titles.json"]:
     try:
@@ -173,23 +186,17 @@ for file in ["data/miit_titles.json", "data/ndrc_titles.json", "data/gov_titles.
                 elif isinstance(item, dict): all_news.append({"title": item.get("title", ""), "link": item.get("link", "")})
     except: pass
 
-# 去重
 unique_news = {}
 for news in all_news: unique_news[news["title"]] = news
 all_news = list(unique_news.values())
 
-# 提取增量并执行翻译
 new_news = [n for n in all_news if n["title"] not in history_set]
 for news in new_news:
-    get_translation(news["title"]) # 存入 trans_cache
+    get_translation(news["title"]) 
 
-# 保存翻译缓存
 with open("trans_cache.json", "w", encoding="utf-8") as f:
     json.dump(trans_cache, f, ensure_ascii=False, indent=2)
 
-# ======================
-# 统计与生成报告
-# ======================
 result = {}
 for topic, aliases in KEYWORDS.items():
     matched_news = [n for n in all_news if any(a.lower() in n["title"].lower() for a in aliases)]
@@ -205,9 +212,9 @@ for topic, info in result.items():
     old = hot_streak.get(topic, {"last": 0, "streak": 0})
     hot_streak[topic] = {"last": info["count"], "streak": old["streak"] + 1 if info["count"] > old["last"] else 0}
 
-message = "<b>【A股AI超级雷达 V22】</b>\n\n"
+message = "<b>【A股AI超级雷达 V23】</b>\n\n"
 message += f"发现新政策/事件：{len(new_news)}条\n"
-message += "✅ 翻译永久记忆缓存 | ✅ 游资异动宽频过滤网\n\n"
+message += "✅ 超大单机构追踪 | ✅ 振幅博弈监控网启动\n\n"
 
 for topic, info in sorted(result.items(), key=lambda x: x[1]["count"], reverse=True):
     total_s, main_s, money_s, is_res, res_desc = calc_score(info["count"], hot_rank.get(topic, 0), hot_streak.get(topic, {}).get("streak", 0), topic, KEYWORDS.get(topic, []))
@@ -217,7 +224,6 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["count"], reverse=T
     if is_res: message += f"{res_desc}\n"
     message += f"🎯 综合评分：{total_s}分\n\n"
 
-    # 新老资讯隔离排版
     topic_new_news = [n for n in new_news if any(a.lower() in n["title"].lower() for a in KEYWORDS.get(topic, []))]
     
     message += "<b>📢 最新驱动：</b>\n"
@@ -235,15 +241,18 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["count"], reverse=T
         message += "• 暂无新增消息（底层逻辑延烧中）\n"
     message += "\n"
 
-    # 异动潜伏池
+    # 深度异动暗盘潜伏池
     sector_name, quant_stocks = auto_quant_stock_pick(topic, KEYWORDS.get(topic, []))
     if sector_name:
-        message += f"<b>💡 {sector_name} - 异动潜伏池：</b>\n"
+        message += f"<b>💡 {sector_name} - 机构暗盘抢筹：</b>\n"
         if quant_stocks:
-            for stock in quant_stocks[:4]:
-                message += f"• <code>{stock['name']}</code> (涨: {stock['change']}%, 换手: {stock['turnover']}%, 量比: {stock['vol_ratio']})\n"
+            # 只精选排名前 3 的顶级标的
+            for stock in quant_stocks[:3]:
+                # 如果涨速极快，标红/打火提示
+                speed_str = f"🚀涨速{stock['speed']}%" if stock['speed'] > 1.0 else f"涨幅{stock['change']}%"
+                message += f"• <code>{stock['name']}</code> ({speed_str}, 振幅:{stock['amplitude']}%, 机构大单:+{stock['super_wan']}万)\n"
         else:
-            message += "• 暂无符合 [高换手/放量异动] 的优质标的\n"
+            message += "• 暂无符合 [机构超大单扫货 + 强振幅] 的深水猎物\n"
 
     message += "\n--------------------\n\n"
 
