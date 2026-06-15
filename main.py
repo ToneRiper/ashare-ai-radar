@@ -2,6 +2,7 @@ import os
 import json
 import requests
 from deep_translator import GoogleTranslator
+from score_engine import calc_score
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
@@ -409,6 +410,23 @@ for topic, info in sorted(
             message += f"• {stock}\n"
 
     message += "\n--------------------\n\n"
+
+
+# ======================
+# 综合评分
+# ======================
+
+score_result = {}
+
+for topic, info in result.items():
+
+    streak = hot_streak.get(topic, {}).get("streak", 0)
+
+    score_result[topic] = calc_score(
+        info["count"],
+        hot_rank.get(topic, 0),
+        streak
+    )
 
 print(message)
 
