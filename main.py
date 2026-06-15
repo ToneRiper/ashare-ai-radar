@@ -3,52 +3,63 @@ import json
 import requests
 from openai import OpenAI
 
-# 环境变量初始化
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 SERVER_KEY = os.getenv("SERVER_CHAN_KEY")
 client = OpenAI(api_key=os.getenv("DEEPSEEK_API_KEY"), base_url="https://api.deepseek.com")
 
-# --- 这里放入你之前那些完整的 fetch_all_sectors, auto_quant_stock_pick, get_translation 等函数 ---
-# (为了保证运行成功，这些函数定义必须放在 run_radar 之前)
-
 def get_ai_insight(news_title):
     try:
         response = client.chat.completions.create(
             model="deepseek-chat",
-            messages=[
-                {"role": "system", "content": "你是资深游资。基于新闻，输出：【题材】逻辑简述。"},
-                {"role": "user", "content": news_title}
-            ],
+            messages=[{"role": "system", "content": "你是资深游资，分析新闻利好与逻辑。输出：【题材】逻辑简述。"},
+                      {"role": "user", "content": news_title}],
             stream=False
         )
         return response.choices[0].message.content
-    except: return "【监控】等待资金注入..."
+    except: return "【监控】等待资金确认"
 
 def run_radar():
-    # 确保这些变量在函数内能被访问到
-    # 加载数据 (保持你原本的加载路径)
+    # 1. 集中加载所有数据
     with open("keywords.json", "r", encoding="utf-8") as f: KEYWORDS = json.load(f)
-    # ... (这里包含你原本的 load history, hot_rank 等代码) ...
+    try:
+        with open("history.json", "r", encoding="utf-8") as f: history = json.load(f)
+    except: history = []
     
-    # 重新计算 result 变量 (这就是报错的根源，现在我们把它放在这里)
+    all_news = []
+    for file in ["data/miit_titles.json", "data/ndrc_titles.json", "data/gov_titles.json", "data/global_titles.json"]:
+        try:
+            with open(file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                for item in data:
+                    all_news.append({"title": item if isinstance(item, str) else item.get("title", "")})
+        except: pass
+
+    # 2. 计算 result
     result = {}
     for topic, aliases in KEYWORDS.items():
         matched_news = [n for n in all_news if any(a.lower() in n["title"].lower() for a in aliases)]
         if matched_news:
-            result[topic] = {"count": len(matched_news), "all_news": matched_news}
-    
-    # 逻辑处理
+            result[topic] = {"all_news": matched_news}
+
+    # 3. 组装推送内容
     message_body = "<b>【A股游资全息雷达 V29】</b>\n\n"
+    has_content = False
     for topic, info in result.items():
-        # ... (你的循环逻辑) ...
-        pass
-    
-    # 执行发送
-    if message_body:
+        insight = get_ai_insight(info["all_news"][0]["title"])
+        message_body += f"<b>🔥 {topic}</b>\n💡 AI决策: {insight}\n--------------------\n"
+        has_content = True
+
+    # 4. 执行推送
+    if has_content:
+        # Telegram
         requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", json={"chat_id": CHAT_ID, "text": message_body, "parse_mode": "HTML"})
+        # Server酱
         if SERVER_KEY:
-            requests.post(f"https://sctapi.ftqq.com/{SERVER_KEY}.send", data={"title": "游资雷达", "desp": message_body})
+            requests.post(f"https://sctapi.ftqq.com/{SERVER_KEY}.send", data={"title": "游资雷达信号", "desp": message_body})
+        print("推送成功")
+    else:
+        print("暂无新内容")
 
 if __name__ == "__main__":
     run_radar()
