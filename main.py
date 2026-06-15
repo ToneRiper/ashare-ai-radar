@@ -2,30 +2,58 @@ import os
 import json
 import requests
 import urllib.parse
+import hashlib
+import random
 from deep_translator import GoogleTranslator, MyMemoryTranslator
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+BAIDU_APP_ID = os.getenv("BAIDU_APP_ID")
+BAIDU_SECRET_KEY = os.getenv("BAIDU_SECRET_KEY")
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
 # ======================
-# 强化版双引擎翻译 (抗 GitHub Actions 封锁)
+# 百度翻译接入 + 双引擎容灾
 # ======================
+def baidu_translate(query):
+    if not BAIDU_APP_ID or not BAIDU_SECRET_KEY:
+        return None
+    salt = str(random.randint(32768, 65536))
+    sign_str = BAIDU_APP_ID + query + salt + BAIDU_SECRET_KEY
+    sign = hashlib.md5(sign_str.encode("utf-8")).hexdigest()
+    url = f"http://api.fanyi.baidu.com/api/trans/vip/translate?q={urllib.parse.quote(query)}&from=auto&to=zh&appid={BAIDU_APP_ID}&salt={salt}&sign={sign}"
+    try:
+        res = requests.get(url, timeout=5).json()
+        if "trans_result" in res:
+            return res["trans_result"][0]["dst"]
+    except Exception as e:
+        print(f"百度翻译请求异常: {e}")
+    return None
+
 def safe_translate(text):
     if any('\u4e00' <= c <= '\u9fff' for c in text):
         return text
+    
+    # 1. 优先使用稳定防封的百度翻译
+    bd_res = baidu_translate(text)
+    if bd_res:
+        return bd_res
+        
+    # 2. 如果百度没配置好，自动降级为 Google 翻译
     try:
-        # 首选 Google 翻译
         return GoogleTranslator(source="auto", target="zh-CN").translate(text)
     except:
-        try:
-            # 备用 MyMemory 翻译
-            return MyMemoryTranslator(source="en", target="zh-CN").translate(text)
-        except Exception as e:
-            print(f"双引擎翻译均失败: {text} -> {e}")
-            return text
+        pass
+        
+    # 3. 如果都被封，使用最后的备用引擎
+    try:
+        return MyMemoryTranslator(source="en", target="zh-CN").translate(text)
+    except Exception as e:
+        print(f"全线翻译失败，原文输出: {text} -> {e}")
+        return text
 
 # ======================
 # 东财实时数据抓取
@@ -73,7 +101,6 @@ def fetch_mid_low_stocks(stock_names):
             for item in quote_res["data"]["diff"]:
                 name = item["f14"]
                 change = item["f3"]
-                # 核心过滤：抓 1% ~ 6% 之间的起步股
                 if isinstance(change, (int, float)) and 1.0 <= change <= 6.0:
                     valid_stocks.append({"name": name, "change": change})
     except Exception as e:
@@ -121,7 +148,7 @@ except: history = []
 history_set = set(history)
 
 # ======================
-# 核心修复：读取标题与结构打印
+# 读取标题与去重
 # ======================
 all_news = [] 
 for file in ["data/miit_titles.json", "data/ndrc_titles.json", "data/gov_titles.json", "data/global_titles.json"]:
@@ -145,13 +172,10 @@ for news in all_news:
         unique_news[news["title"]] = news
 all_news = list(unique_news.values())
 
-# 打印一下格式，方便你在 Actions 日志里排查链接问题
-print("DEBUG - 抽样数据检查:", all_news[:2] if all_news else "空")
-
 new_news = [n for n in all_news if n["title"] not in history_set]
 print(f"总数据：{len(all_news)} | 新增政策：{len(new_news)}")
 
-# 执行翻译
+# 执行翻译（核心调用百度API）
 translated_titles = {news["title"]: safe_translate(news["title"]) for news in new_news}
 
 # ======================
@@ -190,9 +214,9 @@ for topic, info in result.items():
     )
     info.update({"total_score": total_s, "main_score": main_s, "money_score": money_s, "is_resonance": is_res, "resonance_desc": res_desc})
 
-message = "<b>【A股AI超级雷达 V17】</b>\n\n"
+message = "<b>【A股AI超级雷达 V18】</b>\n\n"
 message += f"新增政策：{len(new_news)}条\n"
-message += "✅ 量化资金共振联机 | ✅ 中低位潜伏过滤开启\n\n"
+message += "✅ 百度机器翻译联机 | ✅ 中低位潜伏过滤开启\n\n"
 
 for topic, info in sorted(result.items(), key=lambda x: x[1]["total_score"], reverse=True):
     stars = "★★★★★" if info["total_score"] >= 30 else ("★★★★" if info["total_score"] >= 15 else "★★★")
@@ -206,7 +230,6 @@ for topic, info in sorted(result.items(), key=lambda x: x[1]["total_score"], rev
         cn_title = translated_titles.get(news["title"], news["title"]).replace("<", "&lt;").replace(">", "&gt;")
         link = news.get("link", "")
         
-        # 链接拼接逻辑增强
         if link and link.startswith("http"):
             message += f"• <a href='{link}'>{cn_title}</a>\n"
         else:
