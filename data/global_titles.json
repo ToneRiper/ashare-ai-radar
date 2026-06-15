@@ -1,200 +1,794 @@
 [
-  "Introducing the OpenAI Partner Network",
-  "New OpenAI Academy courses for the next era of work",
-  "How Preply combines AI and human tutors to personalize learning",
-  "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-  "BBVA puts AI at the core of banking with OpenAI",
-  "OpenAI to acquire Ona",
-  "How an astrophysicist uses Codex to help simulate black holes",
-  "Access OpenAI models and Codex through your Oracle cloud commitment",
-  "PRC-linked influence operations are targeting AI debates in the US",
-  "From data to decisions: how LSEG is scaling trusted AI",
-  "How engineers at Nextdoor use Codex to build without limits",
-  "What Codex unlocks for Notion",
-  "Industrial policy for the Intelligence Age",
-  "Confidential submission of draft S-1 to the SEC",
-  "Built to benefit everyone: our plan",
-  "Introducing the OpenAI Economic Research Exchange",
-  "How Endava is redesigning software delivery around AI agents",
-  "Dreaming: Better memory for a more helpful ChatGPT",
-  "Biodefense in the Intelligence Age",
-  "Introducing new capabilities to GPT-Rosalind",
-  "How Wasmer used Codex to build a Node.js runtime for the edge",
-  "A blueprint for democratic governance of frontier AI",
-  "OpenAI public policy agenda",
-  "Travelers deploys AI-powered claims countrywide with OpenAI",
-  "Codex for every role, tool, and workflow",
-  "Advancing youth safety and opportunity through global leadership",
-  "Codex is becoming a productivity tool for everyone",
-  "Our views on AI policy and political advocacy",
-  "Building the infrastructure for the Intelligence Age in Michigan",
-  "OpenAI frontier models and Codex are now available on AWS",
-  "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-  "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
-  "For Robotaxis, Safety Must Be Built In, Not Bolted On",
-  "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
-  "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
-  "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
-  "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
-  "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-  "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
-  "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
-  "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
-  "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
-  "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
-  "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
-  "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
-  "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
-  "NVIDIA Jetson Brings Agentic AI to the Physical World",
-  "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
-  "JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway",
-  "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
-  "Drugmakers race to find a place in the next wave of obesity drugs",
-  "Paramount-WBD merger wins approval from DOJ",
-  "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
-  "Elections advertising spend for 2026 expected to reach record high, outpacing presidential years",
-  "SpaceX millionaires are set to spend big on luxury homes, watches and private jet travel",
-  "Beyond SpaceX: Here's where family offices see buying opportunities in the space economy",
-  "World Cup travel boost hasn't materialized for U.S. businesses — yet",
-  "How pandemic car shortages are still making new and used cars expensive",
-  "GM eyes new battery chemistry to grow AI data center, energy storage business",
-  "As LIV Golf faces a Saudi funding cliff, CEO says to take PIF 'at their word'",
-  "JPMorgan Chase plans to deploy more powerful AI agents this year",
-  "SpaceX employee group creates low-fee wealth management option with Choreo for post-IPO",
-  "Rivian is betting on its R2 EV to turn the automaker into a household name like Tesla",
-  "5 takeaways from airline CEOs' biggest annual gathering",
-  "Airlines find the grass isn't always greener with new engines",
-  "Novo and Lilly are competing to win the GLP-1 pill market as they prepare for Medicare coverage",
-  "Food supply 'not at risk' after new Texas screwworm cases, USDA secretary says",
-  "United CEO brushes off airline mergers after American rejection: 'There's nothing'",
-  "Italian coffee giant Lavazza launches single-serve tablets to make espresso in the U.S.",
-  "Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant",
-  "How ‘Backrooms’ producer Peter Chernin thinks Hollywood needs to change",
-  "Boeing to start 737 Max production on new assembly line July 6, CEO says",
-  "Broadway's $1.9 billion season is the latest sign of consumers splurging on experiences",
-  "Family offices bet on sports, from pickleball leagues to smart soccer balls",
-  "Lululemon cuts annual outlook, citing 'negative' media commentary and disappointing product launches",
-  "As the largest World Cup ever kicks off, health officials are focused on more than Ebola",
-  "Soaring stocks created 2 million new millionaires around the world last year",
-  "Trump's 'big beautiful bill' has a 'double taxation' trap for top earners, tax experts say",
-  "Zhipu surges 33% as Wall Street raises bets on China AI after Anthropic curbs",
-  "World leaders welcome U.S.-Iran deal as Europe signals sanctions relief, urges Hormuz reopening",
-  "One quality will be most in-demand from job-seekers in the AI era, Animoca co-founder Siu says",
-  "Jewelry giant Chow Tai Fook's shares rise 15% as higher gold price boosts profits",
-  "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
-  "BTS-mania poised to boost South Korea's economy well into the future",
-  "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
-  "U.S. becomes India’s top gas supplier, as Iran war cuts it off from the Gulf",
-  "Investors brace for a 'long grind' as Iran war escalation dims hopes of an early end to hostilities",
-  "CNBC Daily Open: Trump expresses 'love' for inflation print and anger at Iran",
-  "Inside India newsletter: Hollywood is debating AI. India's filmmakers are embracing it",
-  "A new corporate migration is taking shape in Southeast Asia",
-  "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure",
-  "SoftBank sinks over 8% as global tech stocks tumble, tracking Wall Street losses",
-  "China May wholesale inflation hits near 4-year high on Iran war-led higher input costs, AI boom",
-  "India's growth story faces its toughest test yet in Modi’s third term",
-  "Indonesia raises rates in surprise move as rupiah lingers near record lows",
-  "China's May shipments to U.S. clock 5-year high growth at 35% as overall exports jump on tech boost",
-  "Pentagon expands list of China military-linked firms to include Alibaba, Baidu in fresh blow to diplomatic thaw",
-  "CNBC's The China Connection newsletter: Humanoid robots are great, but they need buyers too",
-  "Foreign investors have dumped billions of dollars of Korean stocks this year despite record rally. Here's why",
-  "China's Xi to visit North Korea for first time in seven years as Beijing tests its influence over Kim",
-  "'Bring 'em on': Delta wants United's crown over the Pacific, too",
-  "AI is designing OpenAI's next model in a sign of 'superintelligence': SoftBank's Masayoshi Son to CNBC",
-  "India's economy expands at 7.8% over January to March — faster than expected",
-  "India scraps tax on overseas bond investors in bid to attract foreign capital and shore up the rupee",
-  "India's cenbank cuts growth outlook, raises inflation forecast as it keeps rates steady at 5.25%",
-  "CNBC Daily Open: Chips are down — but not for the Dow",
-  "South Korea stocks fall over 5% as tech heavyweights follow plunge in Wall Street's AI-linked names",
-  "India's viral 'Cockroach' party has millions of followers. What investors need to know",
-  "The AI layoff wave is becoming a powder keg",
-  "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
-  "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
-  "UK may ban social media for children under 16",
-  "As AI companies race to go public, who else is along for the ride?",
-  "TechCrunch Mobility: SpaceX rockets past Tesla",
-  "The new Sonos Play has become my go-to desk and kitchen speaker",
-  "As Anthropic suspends access to new models, India debates its AI future",
-  "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-  "KPMG pulls report on AI usage due to apparent hallucinations",
-  "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-  "OpenAI faces investigation from state attorneys general",
-  "This thin under-pillow speaker helped me fall asleep without earbuds",
-  "The FBI built its own replica small town to simulate real-world cyberattacks",
-  "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-  "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-  "SpaceX IPO: Live updates on everything you need to know",
-  "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-  "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-  "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
-  "Crypto Token’s Wipeout Shows Magnitude of AI-Hacking Threat",
-  "SpaceX Builds on Debut Rally With Further Gains After Record IPO",
-  "Anthropic Export Ban Deepens Fears About US Stranglehold on AI",
-  "Patsnap Said to Confidentially File for HK, Singapore Dual IPO",
-  "Xiaohongshu Is Said to Ready Hong Kong IPO Filing This Month",
-  "Tencent-Backed Enflame Heads to IPO as China AI Chip Wave Grows",
-  "Carmen Li's Plan to Build a Futures Market for Compute | Odd Lots",
-  "Torsten Slok Shows Us How AI Is Eating the Entire US Economy | Odd Lots",
-  "Anthropic Restricts Mythos After US Order",
-  "Starmer Announces Full Ban on Social Media for UK’s Under 16s",
-  "US Orders Anthropic to Block Foreign Access to Mythos",
-  "Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support",
-  "Anthropic Block Marks US Reversal, Warning to Silicon Valley",
-  "Macron’s G7 Legacy Hangs on Fickle AI Funding and Data Centers",
-  "新SiriはアップルAI危機を救えるか、実機を試して見えた7つの改善例－Power On",
-  "Top Banks Rush to Fill Chief AI Roles as Talent Jumps to Rivals",
-  "Activist Palliser Urges Taiwan Firm WUS to Privatize, Lift Value",
-  "Jack Ma-Backed Ant Group Set for High-Stakes Overhaul of Billion-User App",
-  "South Korea’s Floundering Movie Business Turns to AI for Help",
-  "Carney Says Anthropic Ban Shows Risk of Relying on Big AI Models",
-  "Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis",
-  "How Google Is Reinventing Search with AI",
-  "AI Turns Coders, Lawyers and Analysts Into Ghosts of London’s Past",
-  "UK to Announce Social Media Ban for Teens This Week, Nandy Says",
-  "SpaceX Surge Further Boosts Saudi Billionaire Prince’s Fortune",
-  "Starmer to Meet Japan’s Takaichi as Fighter Jet Funding Sputters",
-  "Global Capitalism Bets It All on AI Future Alarming Voters",
-  "Why the US Is Investing in Quantum Computing",
-  "We’re All on Starship Elon Now",
-  "Warsh Caught Between Trump and Bond Market Bet on Rate Hikes",
-  "The Infuriating Rise of the $8 Ice Cream Cone",
-  "Iran War’s ‘Inflationary Legacy’ Key to Stock Rally’s Longevity",
-  "Lagarde Says Energy-Price Hikes Spreading Through Economy",
-  "More Bank of England Officials Set to Back Hikes as Iran War Frays Unity",
-  "LNG Tanker Traverses Hormuz as Deal Lifts Reopening Hopes",
-  "Pakistan Finance Chief Sees Faster Growth, Inflation Dip Coming",
-  "Swiss Pragmatism Holds as Disputed Population Cap Rejected",
-  "Asia’s Oil-Thirsty Economies Cautiously Welcome US-Iran Deal",
-  "Fed Hike Risk Lower After Deal: Natixis' Herrero",
-  "Chinese Economy Stuck in Slow Lane as Consumption Heads for Drop",
-  "BOJ Set to Hike Rates to Highest Since 1995 Despite Ueda Absence",
-  "RBA Set for First Pause of 2026 as Bets on Further Hike Ebb",
-  "Fed and BOE Stay Guarded After 100 Days of Iran War",
-  "Switzerland Rejects Proposal to Cap Population at 10 Million",
-  "Trump to Meet Mideast Partners on Sidelines of G7 in France",
-  "Switzerland Asks If 10 Million People Is Where to Draw the Line",
-  "US Wants to Avoid Congressional Vote on Trade Deal, Carney Says",
-  "Trinidad Expects Significant Gas Exports From Venezuelan Field",
-  "Brazil’s World Cup Grilling Tradition Challenged by Beef Prices",
-  "US AI Boom Is Stoking Asia’s ‘Super’ Trade Surpluses",
-  "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
-  "The Download: “reprogramming” aging, and the hidden sense of interoception",
-  "You do your own time",
-  "Why “reprogramming” is the buzziest approach to reversing aging right now",
-  "Inside interoception: The hidden sense of how you feel inside",
-  "The Download: soccer’s data renaissance and China’s big nuclear plans",
-  "Google DeepMind is worried about what happens when millions of agents start to interact",
-  "Job titles of the future: Nature’s drug designer",
-  "Inside soccer’s data renaissance",
-  "Why China is betting on big nuclear reactors",
-  "Under-16 social media ban announced by UK government",
-  "The FBI built a small town to simulate cyberattacks",
-  "China may have accessed Mythos",
-  "Conclave is the sound of a NYC summer block party",
-  "How to watch most of the World Cup matches with free trials",
-  "The impossible dream of the universal remote",
-  "Solid-state batteries still aren’t ready, but gels are",
-  "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-  "X-Men ’97 has what Masters of the Universe is missing",
-  "Sealed Super Mario Bros. sells for a record $3 million"
+  {
+    "title": "Introducing the OpenAI Partner Network",
+    "link": "https://openai.com/index/introducing-openai-partner-network"
+  },
+  {
+    "title": "New OpenAI Academy courses for the next era of work",
+    "link": "https://openai.com/index/academy-courses-applying-ai-at-work"
+  },
+  {
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "link": "https://openai.com/index/preply"
+  },
+  {
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+  },
+  {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva"
+  },
+  {
+    "title": "OpenAI to acquire Ona",
+    "link": "https://openai.com/index/openai-to-acquire-ona"
+  },
+  {
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
+  },
+  {
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "link": "https://openai.com/index/openai-on-oracle-cloud"
+  },
+  {
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
+  },
+  {
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "link": "https://openai.com/index/lseg"
+  },
+  {
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "link": "https://openai.com/index/nextdoor"
+  },
+  {
+    "title": "What Codex unlocks for Notion",
+    "link": "https://openai.com/index/notion"
+  },
+  {
+    "title": "Industrial policy for the Intelligence Age",
+    "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+  },
+  {
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "link": "https://openai.com/index/openai-submits-confidential-s-1"
+  },
+  {
+    "title": "Built to benefit everyone: our plan",
+    "link": "https://openai.com/index/built-to-benefit-everyone-our-plan"
+  },
+  {
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "link": "https://openai.com/index/economic-research-exchange"
+  },
+  {
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "link": "https://openai.com/index/endava-frontiers"
+  },
+  {
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "link": "https://openai.com/index/chatgpt-memory-dreaming"
+  },
+  {
+    "title": "Biodefense in the Intelligence Age",
+    "link": "https://openai.com/index/biodefense-in-the-intelligence-age"
+  },
+  {
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+  },
+  {
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "link": "https://openai.com/index/wasmer"
+  },
+  {
+    "title": "A blueprint for democratic governance of frontier AI",
+    "link": "https://openai.com/index/frontier-safety-blueprint"
+  },
+  {
+    "title": "OpenAI public policy agenda",
+    "link": "https://openai.com/index/public-policy-agenda"
+  },
+  {
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "link": "https://openai.com/index/travelers"
+  },
+  {
+    "title": "Codex for every role, tool, and workflow",
+    "link": "https://openai.com/index/codex-for-every-role-tool-workflow"
+  },
+  {
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership"
+  },
+  {
+    "title": "Codex is becoming a productivity tool for everyone",
+    "link": "https://openai.com/index/codex-for-knowledge-work"
+  },
+  {
+    "title": "Our views on AI policy and political advocacy",
+    "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy"
+  },
+  {
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "link": "https://openai.com/index/stargate-michigan-data-center"
+  },
+  {
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
+  },
+  {
+    "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+    "link": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/"
+  },
+  {
+    "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/"
+  },
+  {
+    "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+    "link": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/"
+  },
+  {
+    "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
+    "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/"
+  },
+  {
+    "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+    "link": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/"
+  },
+  {
+    "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+    "link": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/"
+  },
+  {
+    "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+    "link": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/"
+  },
+  {
+    "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+    "link": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/"
+  },
+  {
+    "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+    "link": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/"
+  },
+  {
+    "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+    "link": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/"
+  },
+  {
+    "title": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/"
+  },
+  {
+    "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+    "link": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/"
+  },
+  {
+    "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+    "link": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/"
+  },
+  {
+    "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+    "link": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/"
+  },
+  {
+    "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+    "link": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/"
+  },
+  {
+    "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+    "link": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/"
+  },
+  {
+    "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+    "link": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/"
+  },
+  {
+    "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+    "link": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/"
+  },
+  {
+    "title": "JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway",
+    "link": "https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html"
+  },
+  {
+    "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
+    "link": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html"
+  },
+  {
+    "title": "Drugmakers race to find a place in the next wave of obesity drugs",
+    "link": "https://www.cnbc.com/2026/06/13/glp-1s-lilly-novo-pfizer-look-to-new-weight-loss-drugs.html"
+  },
+  {
+    "title": "Paramount-WBD merger wins approval from DOJ",
+    "link": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html"
+  },
+  {
+    "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
+    "link": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html"
+  },
+  {
+    "title": "Elections advertising spend for 2026 expected to reach record high, outpacing presidential years",
+    "link": "https://www.cnbc.com/2026/06/11/2026-elections-ad-spend-adimpact.html"
+  },
+  {
+    "title": "SpaceX millionaires are set to spend big on luxury homes, watches and private jet travel",
+    "link": "https://www.cnbc.com/2026/06/11/spacex-millionaires-wealth-spending.html"
+  },
+  {
+    "title": "Beyond SpaceX: Here's where family offices see buying opportunities in the space economy",
+    "link": "https://www.cnbc.com/2026/06/11/spacex-billionaire-investing.html"
+  },
+  {
+    "title": "World Cup travel boost hasn't materialized for U.S. businesses — yet",
+    "link": "https://www.cnbc.com/2026/06/10/world-cup-travel.html"
+  },
+  {
+    "title": "How pandemic car shortages are still making new and used cars expensive",
+    "link": "https://www.cnbc.com/2026/06/10/car-prices-shortages.html"
+  },
+  {
+    "title": "GM eyes new battery chemistry to grow AI data center, energy storage business",
+    "link": "https://www.cnbc.com/2026/06/09/gm-batteries-data-centers-energy-storage-business.html"
+  },
+  {
+    "title": "As LIV Golf faces a Saudi funding cliff, CEO says to take PIF 'at their word'",
+    "link": "https://www.cnbc.com/2026/06/09/liv-golf-ceo-pif-funding-cliff.html"
+  },
+  {
+    "title": "JPMorgan Chase plans to deploy more powerful AI agents this year",
+    "link": "https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html"
+  },
+  {
+    "title": "SpaceX employee group creates low-fee wealth management option with Choreo for post-IPO",
+    "link": "https://www.cnbc.com/2026/06/09/spacex-employees-choreo-post-ipo.html"
+  },
+  {
+    "title": "Rivian is betting on its R2 EV to turn the automaker into a household name like Tesla",
+    "link": "https://www.cnbc.com/2026/06/09/rivian-r2-suv-tesla-competition.html"
+  },
+  {
+    "title": "5 takeaways from airline CEOs' biggest annual gathering",
+    "link": "https://www.cnbc.com/2026/06/09/iata-annual-meeting-airline-ceo-takeaways.html"
+  },
+  {
+    "title": "Airlines find the grass isn't always greener with new engines",
+    "link": "https://www.cnbc.com/2026/06/08/airline-engines-ge-pratt-rtx.html"
+  },
+  {
+    "title": "Novo and Lilly are competing to win the GLP-1 pill market as they prepare for Medicare coverage",
+    "link": "https://www.cnbc.com/2026/06/08/novo-nordisk-eli-lilly-obesity-pills-medicare-coverage.html"
+  },
+  {
+    "title": "Food supply 'not at risk' after new Texas screwworm cases, USDA secretary says",
+    "link": "https://www.cnbc.com/2026/06/08/texas-screwworm-cases-food-supply-brooke-rollins.html"
+  },
+  {
+    "title": "United CEO brushes off airline mergers after American rejection: 'There's nothing'",
+    "link": "https://www.cnbc.com/2026/06/08/united-ceo-airline-mergers.html"
+  },
+  {
+    "title": "Italian coffee giant Lavazza launches single-serve tablets to make espresso in the U.S.",
+    "link": "https://www.cnbc.com/2026/06/08/lavazza-launches-single-serve-tablets-to-make-espresso.html"
+  },
+  {
+    "title": "Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant",
+    "link": "https://www.cnbc.com/2026/06/07/harrys-coterie-owner-mammoth-brands-growth-ipo-rumors.html"
+  },
+  {
+    "title": "How ‘Backrooms’ producer Peter Chernin thinks Hollywood needs to change",
+    "link": "https://www.cnbc.com/2026/06/06/backrooms-peter-chernin-hollywood.html"
+  },
+  {
+    "title": "Boeing to start 737 Max production on new assembly line July 6, CEO says",
+    "link": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html"
+  },
+  {
+    "title": "Broadway's $1.9 billion season is the latest sign of consumers splurging on experiences",
+    "link": "https://www.cnbc.com/2026/06/05/broadway-record-ticket-sales.html"
+  },
+  {
+    "title": "Family offices bet on sports, from pickleball leagues to smart soccer balls",
+    "link": "https://www.cnbc.com/2026/06/05/family-office-sport-investments.html"
+  },
+  {
+    "title": "Lululemon cuts annual outlook, citing 'negative' media commentary and disappointing product launches",
+    "link": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html"
+  },
+  {
+    "title": "As the largest World Cup ever kicks off, health officials are focused on more than Ebola",
+    "link": "https://www.cnbc.com/2026/06/04/world-cup-2026-health-officials-focused-on-ebola-measles.html"
+  },
+  {
+    "title": "Soaring stocks created 2 million new millionaires around the world last year",
+    "link": "https://www.cnbc.com/2026/06/04/stocks-new-millionaires.html"
+  },
+  {
+    "title": "Trump's 'big beautiful bill' has a 'double taxation' trap for top earners, tax experts say",
+    "link": "https://www.cnbc.com/2026/06/04/trump-tax-bill-double-taxation-trusts.html"
+  },
+  {
+    "title": "Zhipu surges 33% as Wall Street raises bets on China AI after Anthropic curbs",
+    "link": "https://www.cnbc.com/2026/06/15/china-ai-zhipu-minimax-artificial-intelligence-race-washington-trump-anthropic.html"
+  },
+  {
+    "title": "World leaders welcome U.S.-Iran deal as Europe signals sanctions relief, urges Hormuz reopening",
+    "link": "https://www.cnbc.com/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html"
+  },
+  {
+    "title": "One quality will be most in-demand from job-seekers in the AI era, Animoca co-founder Siu says",
+    "link": "https://www.cnbc.com/2026/06/14/ceo-of-.html"
+  },
+  {
+    "title": "Jewelry giant Chow Tai Fook's shares rise 15% as higher gold price boosts profits",
+    "link": "https://www.cnbc.com/2026/06/12/chow-tai-fooks-shares-rise-15percent-as-higher-gold-price-boosts-profits.html"
+  },
+  {
+    "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders",
+    "link": "https://www.cnbc.com/2026/06/12/meta-reportedly-begins-dismantling-2-billion-manus-deal-on-beijings-orders.html"
+  },
+  {
+    "title": "BTS-mania poised to boost South Korea's economy well into the future",
+    "link": "https://www.cnbc.com/2026/06/12/bts-busan-concert-taylor-swift-swiftnomics-south-korea-gdp.html"
+  },
+  {
+    "title": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
+    "link": "https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html"
+  },
+  {
+    "title": "U.S. becomes India’s top gas supplier, as Iran war cuts it off from the Gulf",
+    "link": "https://www.cnbc.com/2026/06/11/us-india-lng-lpg-supply.html"
+  },
+  {
+    "title": "Investors brace for a 'long grind' as Iran war escalation dims hopes of an early end to hostilities",
+    "link": "https://www.cnbc.com/2026/06/11/iran-war-us-trump-strikes-centcom-oil-investors.html"
+  },
+  {
+    "title": "CNBC Daily Open: Trump expresses 'love' for inflation print and anger at Iran",
+    "link": "https://www.cnbc.com/2026/06/11/cnbc-daily-open-trump-expresses-love-for-inflation-print-and-anger-at-iran.html"
+  },
+  {
+    "title": "Inside India newsletter: Hollywood is debating AI. India's filmmakers are embracing it",
+    "link": "https://www.cnbc.com/2026/06/11/how-indian-filmmakers-are-using-generative-ai.html"
+  },
+  {
+    "title": "A new corporate migration is taking shape in Southeast Asia",
+    "link": "https://www.cnbc.com/2026/06/11/global-mobility-firms-move-operations-from-singapore-to-malaysia.html"
+  },
+  {
+    "title": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure",
+    "link": "https://www.cnbc.com/2026/06/10/meta-ai-infrastructure-data-centers-india-hyperscalers-reliance.html"
+  },
+  {
+    "title": "SoftBank sinks over 8% as global tech stocks tumble, tracking Wall Street losses",
+    "link": "https://www.cnbc.com/2026/06/10/softbank-samsung-skhynix-asia-tech-stocks-ai-ipo.html"
+  },
+  {
+    "title": "China May wholesale inflation hits near 4-year high on Iran war-led higher input costs, AI boom",
+    "link": "https://www.cnbc.com/2026/06/10/china-cpi-ppi-inflation-may-consumer-prices-producer-oil-iran-war-ai-tech-.html"
+  },
+  {
+    "title": "India's growth story faces its toughest test yet in Modi’s third term",
+    "link": "https://www.cnbc.com/2026/06/09/indias-growth-toughest-test-modi-12-years.html"
+  },
+  {
+    "title": "Indonesia raises rates in surprise move as rupiah lingers near record lows",
+    "link": "https://www.cnbc.com/2026/06/09/indonesia-hikes-rates-rupiah-weakness-inflation-iran-war.html"
+  },
+  {
+    "title": "China's May shipments to U.S. clock 5-year high growth at 35% as overall exports jump on tech boost",
+    "link": "https://www.cnbc.com/2026/06/09/china-trade-exports-imports-iran-war.html"
+  },
+  {
+    "title": "Pentagon expands list of China military-linked firms to include Alibaba, Baidu in fresh blow to diplomatic thaw",
+    "link": "https://www.cnbc.com/2026/06/09/alibaba-baidu-byd-named-on-pentagons-china-military-list-.html"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: Humanoid robots are great, but they need buyers too",
+    "link": "https://www.cnbc.com/2026/06/08/cnbcs-the-china-connection-newsletter-who-will-buy-the-humanoids.html"
+  },
+  {
+    "title": "Foreign investors have dumped billions of dollars of Korean stocks this year despite record rally. Here's why",
+    "link": "https://www.cnbc.com/2026/06/08/kospi-sk-hynix-samsung-electronics-why-foreign-investors-are-selling.html"
+  },
+  {
+    "title": "China's Xi to visit North Korea for first time in seven years as Beijing tests its influence over Kim",
+    "link": "https://www.cnbc.com/2026/06/08/china-xi-jinping-visits-north-korea-trump-summit-nuclear-program-.html"
+  },
+  {
+    "title": "'Bring 'em on': Delta wants United's crown over the Pacific, too",
+    "link": "https://www.cnbc.com/2026/06/07/delta-takes-on-united-over-the-pacific.html"
+  },
+  {
+    "title": "AI is designing OpenAI's next model in a sign of 'superintelligence': SoftBank's Masayoshi Son to CNBC",
+    "link": "https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html"
+  },
+  {
+    "title": "India's economy expands at 7.8% over January to March — faster than expected",
+    "link": "https://www.cnbc.com/2026/06/05/india-gdp-economy-oil-middle-east-disruption.html"
+  },
+  {
+    "title": "India scraps tax on overseas bond investors in bid to attract foreign capital and shore up the rupee",
+    "link": "https://www.cnbc.com/2026/06/05/india-tax-overseas-bond-investors.html"
+  },
+  {
+    "title": "India's cenbank cuts growth outlook, raises inflation forecast as it keeps rates steady at 5.25%",
+    "link": "https://www.cnbc.com/2026/06/05/india-rbi-rate-gdp-inflation.html"
+  },
+  {
+    "title": "CNBC Daily Open: Chips are down — but not for the Dow",
+    "link": "https://www.cnbc.com/2026/06/05/iran-war-trump-ceasefire-chip-selloff-do-record.html"
+  },
+  {
+    "title": "South Korea stocks fall over 5% as tech heavyweights follow plunge in Wall Street's AI-linked names",
+    "link": "https://www.cnbc.com/2026/06/05/asia-markets-today-nikkei-225-kospi-hang-seng-index-csi-300-nifty50.html"
+  },
+  {
+    "title": "India's viral 'Cockroach' party has millions of followers. What investors need to know",
+    "link": "https://www.cnbc.com/2026/06/04/indias-cockroach-cjp-party-what-investors-need-to-know.html"
+  },
+  {
+    "title": "The AI layoff wave is becoming a powder keg",
+    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
+  },
+  {
+    "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+    "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/"
+  },
+  {
+    "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+    "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/"
+  },
+  {
+    "title": "UK may ban social media for children under 16",
+    "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/"
+  },
+  {
+    "title": "As AI companies race to go public, who else is along for the ride?",
+    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/"
+  },
+  {
+    "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+    "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/"
+  },
+  {
+    "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+    "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/"
+  },
+  {
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
+  },
+  {
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+  },
+  {
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+  },
+  {
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
+  },
+  {
+    "title": "OpenAI faces investigation from state attorneys general",
+    "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/"
+  },
+  {
+    "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+    "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/"
+  },
+  {
+    "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+    "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/"
+  },
+  {
+    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/"
+  },
+  {
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/"
+  },
+  {
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/"
+  },
+  {
+    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/"
+  },
+  {
+    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/"
+  },
+  {
+    "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+    "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/"
+  },
+  {
+    "title": "Crypto Token’s Wipeout Shows Magnitude of AI-Hacking Threat",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat"
+  },
+  {
+    "title": "SpaceX Builds on Debut Rally With Further Gains After Record IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-shares-rise-set-to-extend-gains-after-record-ipo-mqexlibz"
+  },
+  {
+    "title": "Anthropic Export Ban Deepens Fears About US Stranglehold on AI",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-15/anthropic-export-ban-deepens-fears-about-us-stranglehold-on-ai"
+  },
+  {
+    "title": "Patsnap Said to Confidentially File for HK, Singapore Dual IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/patsnap-said-to-confidentially-file-for-hk-singapore-dual-ipo"
+  },
+  {
+    "title": "Xiaohongshu Is Said to Ready Hong Kong IPO Filing This Month",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/xiaohongshu-is-said-to-ready-hong-kong-ipo-filing-this-month"
+  },
+  {
+    "title": "Tencent-Backed Enflame Heads to IPO as China AI Chip Wave Grows",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/tencent-backed-enflame-heads-to-ipo-as-china-ai-chip-wave-grows"
+  },
+  {
+    "title": "Carmen Li's Plan to Build a Futures Market for Compute | Odd Lots",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/carmen-li-s-plan-to-build-a-futures-market-for-compute-video"
+  },
+  {
+    "title": "Torsten Slok Shows Us How AI Is Eating the Entire US Economy | Odd Lots",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/torsten-slok-shows-us-how-ai-is-eating-the-us-economy-video"
+  },
+  {
+    "title": "Anthropic Restricts Mythos After US Order",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/anthropic-restricts-mythos-after-us-order-video"
+  },
+  {
+    "title": "Starmer Announces Full Ban on Social Media for UK’s Under 16s",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-confirm-social-media-ban-for-uk-teens-ahead-of-g7"
+  },
+  {
+    "title": "US Orders Anthropic to Block Foreign Access to Mythos",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/us-orders-anthropic-to-block-foreign-access-to-mythos-video"
+  },
+  {
+    "title": "Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support"
+  },
+  {
+    "title": "Anthropic Block Marks US Reversal, Warning to Silicon Valley",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-block-marks-us-reversal-warning-to-silicon-valley"
+  },
+  {
+    "title": "Macron’s G7 Legacy Hangs on Fickle AI Funding and Data Centers",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/macron-s-g7-legacy-hangs-on-fickle-ai-funding-and-data-centers"
+  },
+  {
+    "title": "新SiriはアップルAI危機を救えるか、実機を試して見えた7つの改善例－Power On",
+    "link": "https://www.bloomberg.com/jp/news/newsletters/2026-06-15/TGNKC0RKV2VT00"
+  },
+  {
+    "title": "Top Banks Rush to Fill Chief AI Roles as Talent Jumps to Rivals",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/top-banks-rush-to-fill-chief-ai-roles-as-talent-jumps-to-rivals"
+  },
+  {
+    "title": "Activist Palliser Urges Taiwan Firm WUS to Privatize, Lift Value",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/activist-palliser-urges-taiwan-firm-wus-to-privatize-lift-value"
+  },
+  {
+    "title": "Jack Ma-Backed Ant Group Set for High-Stakes Overhaul of Billion-User App",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/jack-ma-backed-ant-set-for-high-stakes-overhaul-of-billion-user-alipay-app"
+  },
+  {
+    "title": "South Korea’s Floundering Movie Business Turns to AI for Help",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-14/south-korea-s-floundering-movie-business-turns-to-ai-for-help"
+  },
+  {
+    "title": "Carney Says Anthropic Ban Shows Risk of Relying on Big AI Models",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/carney-says-anthropic-ban-shows-risk-of-relying-on-big-ai-models"
+  },
+  {
+    "title": "Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook"
+  },
+  {
+    "title": "How Google Is Reinventing Search with AI",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-14/how-google-is-reinventing-search-with-ai-video"
+  },
+  {
+    "title": "AI Turns Coders, Lawyers and Analysts Into Ghosts of London’s Past",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/ai-led-job-losses-bite-for-london-s-coders-lawyers-and-analysts"
+  },
+  {
+    "title": "UK to Announce Social Media Ban for Teens This Week, Nandy Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/uk-to-ban-under-16s-from-social-media-including-ai-chatbots-tiktok"
+  },
+  {
+    "title": "SpaceX Surge Further Boosts Saudi Billionaire Prince’s Fortune",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/spacex-surge-further-boosts-saudi-billionaire-prince-s-fortune"
+  },
+  {
+    "title": "Starmer to Meet Japan’s Takaichi as Fighter Jet Funding Sputters",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters"
+  },
+  {
+    "title": "Global Capitalism Bets It All on AI Future Alarming Voters",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters"
+  },
+  {
+    "title": "Why the US Is Investing in Quantum Computing",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-13/why-the-us-is-investing-in-quantum-computing-video"
+  },
+  {
+    "title": "We’re All on Starship Elon Now",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/spacex-ipo-shows-wall-street-still-can-t-get-enough-of-elon-musk"
+  },
+  {
+    "title": "Warsh Caught Between Trump and Bond Market Bet on Rate Hikes",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/warsh-caught-between-trump-and-bond-market-betting-on-rate-hikes"
+  },
+  {
+    "title": "The Infuriating Rise of the $8 Ice Cream Cone",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/why-is-ice-cream-so-expensive-the-rise-of-the-8-cone"
+  },
+  {
+    "title": "Iran War’s ‘Inflationary Legacy’ Key to Stock Rally’s Longevity",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/inflation-worries-keep-markets-wary-even-after-iran-peace-deal"
+  },
+  {
+    "title": "Lagarde Says Energy-Price Hikes Spreading Through Economy",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/lagarde-says-ecb-has-started-to-see-second-round-effects"
+  },
+  {
+    "title": "More Bank of England Officials Set to Back Hikes as Iran War Frays Unity",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/more-bank-of-england-officials-set-to-back-hikes-as-iran-war-frays-unity"
+  },
+  {
+    "title": "LNG Tanker Traverses Hormuz as Deal Lifts Reopening Hopes",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/lng-tanker-heads-toward-hormuz-as-deal-raises-hopes-of-reopening"
+  },
+  {
+    "title": "Pakistan Finance Chief Sees Faster Growth, Inflation Dip Coming",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/pakistan-finance-chief-sees-growth-rise-inflation-dip-next-year"
+  },
+  {
+    "title": "Swiss Pragmatism Holds as Disputed Population Cap Rejected",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/switzerland-s-10-million-population-cap-rejected-as-pragmatism-prevails"
+  },
+  {
+    "title": "Asia’s Oil-Thirsty Economies Cautiously Welcome US-Iran Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/asia-welcomes-us-iran-deal-s-pledge-to-open-hormuz-oil-lifeline"
+  },
+  {
+    "title": "Fed Hike Risk Lower After Deal: Natixis' Herrero",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/fed-hike-risk-lower-after-deal-natixis-herrero-video"
+  },
+  {
+    "title": "Chinese Economy Stuck in Slow Lane as Consumption Heads for Drop",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/chinese-economy-stuck-in-slow-lane-as-consumption-heads-for-drop"
+  },
+  {
+    "title": "BOJ Set to Hike Rates to Highest Since 1995 Despite Ueda Absence",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/boj-set-to-hike-rates-to-highest-since-1995-despite-ueda-absence"
+  },
+  {
+    "title": "RBA Set for First Pause of 2026 as Bets on Further Hike Ebb",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/rba-set-for-first-rate-pause-of-2026-as-bets-on-further-hike-ebb"
+  },
+  {
+    "title": "Fed and BOE Stay Guarded After 100 Days of Iran War",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/fed-boe-to-hold-rates-as-trump-seeks-iran-peace-deal"
+  },
+  {
+    "title": "Switzerland Rejects Proposal to Cap Population at 10 Million",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/swiss-population-cap-vote-too-close-to-call-projection-shows"
+  },
+  {
+    "title": "Trump to Meet Mideast Partners on Sidelines of G7 in France",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/trump-to-meet-with-mideast-partners-on-sidelines-of-g7-in-france"
+  },
+  {
+    "title": "Switzerland Asks If 10 Million People Is Where to Draw the Line",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/switzerland-asks-if-10-million-people-is-where-to-draw-the-line"
+  },
+  {
+    "title": "US Wants to Avoid Congressional Vote on Trade Deal, Carney Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/us-wants-to-avoid-congressional-vote-on-trade-deal-carney-says"
+  },
+  {
+    "title": "Trinidad Expects Significant Gas Exports From Venezuelan Field",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/trinidad-expects-significant-gas-exports-from-venezuelan-field"
+  },
+  {
+    "title": "Brazil’s World Cup Grilling Tradition Challenged by Beef Prices",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/what-are-brazil-s-world-cup-fans-grilling-more-chicken-and-pork-less-beef"
+  },
+  {
+    "title": "US AI Boom Is Stoking Asia’s ‘Super’ Trade Surpluses",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-13/us-ai-boom-stokes-asia-s-super-trade-surpluses-new-economy"
+  },
+  {
+    "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+    "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/"
+  },
+  {
+    "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+    "link": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/"
+  },
+  {
+    "title": "You do your own time",
+    "link": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/"
+  },
+  {
+    "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+    "link": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/"
+  },
+  {
+    "title": "Inside interoception: The hidden sense of how you feel inside",
+    "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/"
+  },
+  {
+    "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+    "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/"
+  },
+  {
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+  },
+  {
+    "title": "Job titles of the future: Nature’s drug designer",
+    "link": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/"
+  },
+  {
+    "title": "Inside soccer’s data renaissance",
+    "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/"
+  },
+  {
+    "title": "Why China is betting on big nuclear reactors",
+    "link": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/"
+  },
+  {
+    "title": "Under-16 social media ban announced by UK government",
+    "link": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement"
+  },
+  {
+    "title": "The FBI built a small town to simulate cyberattacks",
+    "link": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range"
+  },
+  {
+    "title": "China may have accessed Mythos",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos"
+  },
+  {
+    "title": "Conclave is the sound of a NYC summer block party",
+    "link": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review"
+  },
+  {
+    "title": "How to watch most of the World Cup matches with free trials",
+    "link": "https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale"
+  },
+  {
+    "title": "The impossible dream of the universal remote",
+    "link": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history"
+  },
+  {
+    "title": "Solid-state batteries still aren’t ready, but gels are",
+    "link": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state"
+  },
+  {
+    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban"
+  },
+  {
+    "title": "X-Men ’97 has what Masters of the Universe is missing",
+    "link": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel"
+  },
+  {
+    "title": "Sealed Super Mario Bros. sells for a record $3 million",
+    "link": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction"
+  }
 ]
