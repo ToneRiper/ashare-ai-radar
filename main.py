@@ -42,8 +42,7 @@ def baidu_translate(query):
         res = requests.get(url, timeout=15).json()
         time.sleep(1.2)
         if "trans_result" in res: return res["trans_result"][0]["dst"]
-    except Exception as e:
-        pass
+    except: pass
     return None
 
 def get_translation(text):
@@ -82,7 +81,7 @@ def fetch_all_sectors():
 SECTOR_MAP, HOT_SECTORS = fetch_all_sectors()
 
 # ======================
-# V24 猎手级：反散户量化选股引擎
+# 猎手级：反散户量化选股引擎
 # ======================
 def auto_quant_stock_pick(topic_name, aliases):
     target_code, target_name = None, None
@@ -95,7 +94,6 @@ def auto_quant_stock_pick(topic_name, aliases):
 
     valid_stocks = []
     try:
-        # 新增 f116 (总市值)
         url = f"https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=200&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=b:{target_code}&fields=f12,f14,f3,f8,f10,f62,f7,f64,f22,f116"
         r = requests.get(url, headers=HEADERS, timeout=15)
         if r.status_code == 200:
@@ -104,19 +102,17 @@ def auto_quant_stock_pick(topic_name, aliases):
                 for item in res["data"]["diff"]:
                     code = item["f12"]
                     
-                    # 1. 板块阉割：坚决不要 688 和 北交所，只要沪深主板(00, 60)和创业板(30)
                     if not (code.startswith('00') or code.startswith('30') or code.startswith('60')):
                         continue
                         
                     name = item["f14"]
-                    change = item["f3"]        # 涨跌幅
-                    turnover = item["f8"]      # 换手率
-                    vol_ratio = item["f10"]    # 量比
-                    amplitude = item["f7"]     # 振幅
-                    super_inflow = item["f64"] # 超大单净流入
-                    mkt_cap = item["f116"]     # 总市值
+                    change = item["f3"]        
+                    turnover = item["f8"]      
+                    vol_ratio = item["f10"]    
+                    amplitude = item["f7"]     
+                    super_inflow = item["f64"] 
+                    mkt_cap = item["f116"]     
                     
-                    # 容错处理
                     if not isinstance(change, (int, float)): continue
                     if not isinstance(vol_ratio, (int, float)): vol_ratio = 0
                     if not isinstance(turnover, (int, float)): turnover = 0
@@ -124,20 +120,14 @@ def auto_quant_stock_pick(topic_name, aliases):
                     if not isinstance(super_inflow, (int, float)): super_inflow = 0
                     if not isinstance(mkt_cap, (int, float)): mkt_cap = 0
                     
-                    # 2. 市值阉割：不要超过 1000 亿的大象股
+                    # 不要超过 1000 亿的大象股
                     if mkt_cap > 1000 * 100000000:
                         continue
                     
-                    # 3. 反人性过滤网：
-                    # - 拒绝高位接盘：涨幅在 -4% ~ +5% 之间
-                    # - 过滤绝对死水：振幅 > 2.0% (允许默默吸筹，不用强求4%)
-                    # - 识破主力底牌：超大单必须净流入 (散户跑路，超大单在吃货)
+                    # 压盘吸筹过滤网
                     if (-4.0 <= change <= 5.0) and (amplitude >= 2.0) and (super_inflow > 0) and (turnover >= 3.0 or vol_ratio >= 1.2):
                         super_wan = round(super_inflow / 10000, 1) 
                         mkt_cap_yi = round(mkt_cap / 100000000, 1)
-                        
-                        # 【终极背离打分法】：涨幅越低，超大单吃货越多，得分呈现指数级放大！
-                        # (10 - change) 意味着：大跌 -3% 时系数是13，大涨 +5% 时系数仅为5
                         smart_money_score = super_wan * turnover * (10 - change)
                         
                         valid_stocks.append({
@@ -149,10 +139,8 @@ def auto_quant_stock_pick(topic_name, aliases):
                             "mkt_cap_yi": mkt_cap_yi,
                             "score": smart_money_score
                         })
-    except Exception as e:
-        print(f"成份股拉取异常: {e}")
+    except: pass
 
-    # 按“压盘吸筹”背离得分降序，揪出主力的暗牌
     valid_stocks.sort(key=lambda x: x["score"], reverse=True)
     return target_name, valid_stocks
 
@@ -176,7 +164,7 @@ def calc_score(policy, total_hot, streak, topic_name, aliases):
     return round(main_score + money_score, 1), main_score, round(money_score, 1), is_resonance, resonance_desc
 
 # ======================
-# 加载基础库
+# 数据处理
 # ======================
 with open("keywords.json", "r", encoding="utf-8") as f: KEYWORDS = json.load(f)
 try:
@@ -222,49 +210,62 @@ for topic, info in result.items():
     old = hot_streak.get(topic, {"last": 0, "streak": 0})
     hot_streak[topic] = {"last": info["count"], "streak": old["streak"] + 1 if info["count"] > old["last"] else 0}
 
-message = "<b>【A股AI超级雷达 V24】</b>\n\n"
-message += f"发现新政策/事件：{len(new_news)}条\n"
-message += "✅ 反散户量化引擎 | ✅ 剔除巨无霸/科创板\n\n"
+# ======================
+# V25 核心：静默过滤与组装
+# ======================
+header = "<b>【A股AI超级雷达 V25】</b>\n\n"
+header += f"发现新政策/事件：{len(new_news)}条\n"
+header += "✅ 全局静默模式开启 | 纯正资金异动推送\n\n"
+
+message_body = ""
+has_valid_content = False
 
 for topic, info in sorted(result.items(), key=lambda x: x[1]["count"], reverse=True):
+    # 提取当前题材的最新新闻
+    topic_new_news = [n for n in new_news if any(a.lower() in n["title"].lower() for a in KEYWORDS.get(topic, []))]
+    
+    # 提取当前题材的资金异动标的
+    sector_name, quant_stocks = auto_quant_stock_pick(topic, KEYWORDS.get(topic, []))
+    
+    # 核心过滤逻辑：没新闻 AND 没资金，直接跳过，连名字都不显示
+    if not topic_new_news and not quant_stocks:
+        continue
+
+    # 只要有新闻或有资金，就算有效内容
+    has_valid_content = True
+    
     total_s, main_s, money_s, is_res, res_desc = calc_score(info["count"], hot_rank.get(topic, 0), hot_streak.get(topic, {}).get("streak", 0), topic, KEYWORDS.get(topic, []))
     
     stars = "★★★★★" if total_s >= 30 else ("★★★★" if total_s >= 15 else "★★★")
-    message += f"<b>{stars} {topic}</b>\n"
-    if is_res: message += f"{res_desc}\n"
-    message += f"🎯 综合评分：{total_s}分\n\n"
+    message_body += f"<b>{stars} {topic}</b>\n"
+    if is_res: message_body += f"{res_desc}\n"
+    message_body += f"🎯 综合评分：{total_s}分\n\n"
 
-    topic_new_news = [n for n in new_news if any(a.lower() in n["title"].lower() for a in KEYWORDS.get(topic, []))]
-    
-    message += "<b>📢 最新驱动：</b>\n"
+    # 1. 渲染新闻部分
     if topic_new_news:
+        message_body += "<b>📢 最新驱动：</b>\n"
         for news in topic_new_news[:3]:
             en_title = escape_html(news["title"])
             cn_title = escape_html(get_translation(news["title"]))
             link = escape_html(news.get("link", ""))
-            if link and link.startswith("http"): message += f"• <a href='{link}'>{cn_title}</a>\n"
-            else: message += f"• {cn_title}\n"
-            if cn_title != en_title: message += f"  <i>└ {en_title}</i>\n"
-    else:
-        message += "• 暂无新增消息（底层逻辑延烧中）\n"
-    message += "\n"
+            if link and link.startswith("http"): message_body += f"• <a href='{link}'>{cn_title}</a>\n"
+            else: message_body += f"• {cn_title}\n"
+            if cn_title != en_title: message_body += f"  <i>└ {en_title}</i>\n"
+        message_body += "\n"
+    # 如果没新闻，但因为有资金异动被选出来了，新闻区就不显示占位置了
 
-    # 深度异动暗盘潜伏池
-    sector_name, quant_stocks = auto_quant_stock_pick(topic, KEYWORDS.get(topic, []))
-    if sector_name:
-        message += f"<b>💡 {sector_name} - 压盘吸筹监控：</b>\n"
-        if quant_stocks:
-            for stock in quant_stocks[:3]:
-                # 提示格式加入了盘口市值和异动暗示
-                trend_hint = "💧大单托底" if stock['change'] <= 0 else "🔥低位建仓"
-                message += f"• <code>{stock['name']}</code> ({trend_hint} 涨:{stock['change']}%, 振:{stock['amplitude']}%, 暗盘扫货:+{stock['super_wan']}万, 市值:{stock['mkt_cap_yi']}亿)\n"
-        else:
-            message += "• 暂未扫描到 [大单吸筹且未爆发] 的猎物\n"
+    # 2. 渲染资金部分
+    if sector_name and quant_stocks:
+        message_body += f"<b>💡 {sector_name} - 压盘吸筹监控：</b>\n"
+        for stock in quant_stocks[:3]:
+            trend_hint = "💧大单托底" if stock['change'] <= 0 else "🔥低位建仓"
+            message_body += f"• <code>{stock['name']}</code> ({trend_hint} 涨:{stock['change']}%, 振:{stock['amplitude']}%, 暗盘:+{stock['super_wan']}万, 市值:{stock['mkt_cap_yi']}亿)\n"
+        message_body += "\n"
 
-    message += "\n--------------------\n\n"
+    message_body += "--------------------\n\n"
 
 # ======================
-# Telegram 发送
+# Telegram 发送 (带全局静默拦截)
 # ======================
 def send_to_telegram(text, parse_mode="HTML"):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
@@ -278,7 +279,13 @@ def send_to_telegram(text, parse_mode="HTML"):
             send_to_telegram(clean_text, parse_mode=None)
     except: pass
 
-send_to_telegram(message)
+# 如果有真材实料，才发送 Telegram
+if has_valid_content:
+    final_message = header + message_body
+    send_to_telegram(final_message)
+    print("已发送 Telegram 异动推送")
+else:
+    print("当前时段大盘静默，无新政策驱动，且无主力暗盘异动，静默待机不打扰。")
 
 # ======================
 # 落盘保存
