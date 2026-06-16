@@ -36,9 +36,6 @@ def get_realtime_stock_data(stock_code):
     except: pass
     return None
 
-# ======================
-# 2. 生成图表链接
-# ======================
 def get_chart_image_url(topic_counts):
     if not topic_counts: return None
     labels = list(topic_counts.keys())
@@ -58,41 +55,51 @@ def get_chart_image_url(topic_counts):
         }
     }
     try:
-        return f"https://quickchart.io/chart?width=600&height=400&c={json.dumps(chart_config)}"
+        json_str = json.dumps(chart_config)
+        return f"https://quickchart.io/chart?width=600&height=400&c={json_str}"
     except: return None
 
 # ======================
-# 3. 强力双端图文推送 (已强化 Telegram 发图逻辑)
+# 2. 强力双端推送引擎 (V44 彻底分离图文)
 # ======================
 def send_alert_with_image(text, image_url=None):
+    # --- 1. 微信 (Server酱) 推送 ---
     if SERVER_KEY:
         sc_url = f"https://sctapi.ftqq.com/{SERVER_KEY}.send"
-        md_text = text.replace("<b>", "**").replace("</b>", "**").replace("<a href='", "[").replace("'>", "](").replace("</a>", ")")
-        if image_url:
-            md_text = f"![热力图]({image_url})\n\n" + md_text
-        requests.post(sc_url, data={"title": "A股游资内参", "desp": md_text}, timeout=10)
+        # 微信端去除 HTML 标签，转为简单文本
+        clean_wx_text = text.replace("<b>", "").replace("</b>", "")
+        # 去除 HTML 超链接，保留文字
+        clean_wx_text = re.sub(r'<a href=".*?">(.*?)</a>', r'\1', clean_wx_text)
         
-    if TOKEN and CHAT_ID:
-        try:
-            # 如果有图，先尝试发图
-            if image_url:
-                tg_photo_url = f"https://api.telegram.org/bot{TOKEN}/sendPhoto"
-                # 发图失败不要紧，不要影响后续文字发送
-                try:
-                    requests.post(tg_photo_url, json={"chat_id": CHAT_ID, "photo": image_url, "caption": "📊 今日题材热力图"}, timeout=10)
-                except Exception as e: print(f"TG发图失败: {e}")
+        # 微信端不再强行插入 Markdown 图片，直接附上大屏链接
+        if image_url:
+            clean_wx_text = f"👉 [点击查看图表大屏]({image_url})\n\n" + clean_wx_text
             
-            # 无论发图是否成功，必须发送文字战报
-            tg_msg_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-            res = requests.post(tg_msg_url, json={"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True}, timeout=10)
+        requests.post(sc_url, data={"title": "A股游资内参", "desp": clean_wx_text}, timeout=10)
+
+    # --- 2. Telegram 推送 ---
+    if TOKEN and CHAT_ID:
+        # A. 独立发送图片 (如果获取到了)
+        if image_url:
+            tg_photo_url = f"https://api.telegram.org/bot{TOKEN}/sendPhoto"
+            try:
+                requests.post(tg_photo_url, json={"chat_id": CHAT_ID, "photo": image_url, "caption": "📊 今日题材热力图"}, timeout=15)
+            except Exception as e: print(f"TG 发图失败: {e}")
+        
+        # B. 独立发送深度文字战报
+        tg_msg_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+        try:
+            res = requests.post(tg_msg_url, json={"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True}, timeout=15)
+            # 极限容错：如果 HTML 解析依然被拒，剥离所有格式重发
             if res.status_code != 200:
-                clean_text = text.replace("<b>", "").replace("</b>", "")
-                clean_text = re.sub(r'<a href=".*?">(.*?)</a>', r'\1', clean_text)
-                requests.post(tg_msg_url, json={"chat_id": CHAT_ID, "text": clean_text}, timeout=10)
-        except Exception as e: print(f"TG消息发送异常: {e}")
+                print(f"TG HTML解析失败，状态码: {res.status_code}")
+                clean_tg_text = text.replace("<b>", "").replace("</b>", "")
+                clean_tg_text = re.sub(r'<a href=".*?">(.*?)</a>', r'\1', clean_tg_text)
+                requests.post(tg_msg_url, json={"chat_id": CHAT_ID, "text": clean_tg_text}, timeout=15)
+        except Exception as e: print(f"TG 文字推送失败: {e}")
 
 # ======================
-# 4. 自动生成前端 Web 大屏
+# 3. 自动生成前端 Web 大屏
 # ======================
 def generate_dashboard(topic_counts, review_text, today_str):
     labels = list(topic_counts.keys())
@@ -156,7 +163,7 @@ def generate_dashboard(topic_counts, review_text, today_str):
     except: pass
 
 # ======================
-# 5. AI 推演引擎
+# 4. AI 推演引擎
 # ======================
 def get_daily_review(all_news_titles):
     news_text = "\n".join(all_news_titles[:20])
@@ -174,7 +181,7 @@ def get_intraday_decision(news_title, topic):
     except: return "解析异常"
 
 # ======================
-# 6. 雷达主控板
+# 5. 雷达主控板
 # ======================
 def run_radar():
     try:
