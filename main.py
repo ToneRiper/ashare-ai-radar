@@ -37,15 +37,12 @@ def get_realtime_stock_data(stock_code):
     return None
 
 # ======================
-# 2. 生成图表链接 (已修复序列化报错)
+# 2. 生成图表链接
 # ======================
 def get_chart_image_url(topic_counts):
     if not topic_counts: return None
-    
-    # 强制转为 list
     labels = list(topic_counts.keys())
     data = list(topic_counts.values())
-    
     chart_config = {
         "type": "outlabeledPie",
         "data": {
@@ -61,15 +58,11 @@ def get_chart_image_url(topic_counts):
         }
     }
     try:
-        # 使用 json.dumps 时不带特殊参数，确保安全转换
-        json_str = json.dumps(chart_config)
-        return f"https://quickchart.io/chart?width=600&height=400&c={json_str}"
-    except Exception as e:
-        print(f"图表生成失败: {e}")
-        return None
+        return f"https://quickchart.io/chart?width=600&height=400&c={json.dumps(chart_config)}"
+    except: return None
 
 # ======================
-# 3. 强力双端图文推送
+# 3. 强力双端图文推送 (已强化 Telegram 发图逻辑)
 # ======================
 def send_alert_with_image(text, image_url=None):
     if SERVER_KEY:
@@ -81,20 +74,25 @@ def send_alert_with_image(text, image_url=None):
         
     if TOKEN and CHAT_ID:
         try:
+            # 如果有图，先尝试发图
             if image_url:
                 tg_photo_url = f"https://api.telegram.org/bot{TOKEN}/sendPhoto"
-                requests.post(tg_photo_url, json={"chat_id": CHAT_ID, "photo": image_url, "caption": "📊 今日题材热力图"}, timeout=10)
+                # 发图失败不要紧，不要影响后续文字发送
+                try:
+                    requests.post(tg_photo_url, json={"chat_id": CHAT_ID, "photo": image_url, "caption": "📊 今日题材热力图"}, timeout=10)
+                except Exception as e: print(f"TG发图失败: {e}")
             
+            # 无论发图是否成功，必须发送文字战报
             tg_msg_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
             res = requests.post(tg_msg_url, json={"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True}, timeout=10)
             if res.status_code != 200:
                 clean_text = text.replace("<b>", "").replace("</b>", "")
                 clean_text = re.sub(r'<a href=".*?">(.*?)</a>', r'\1', clean_text)
                 requests.post(tg_msg_url, json={"chat_id": CHAT_ID, "text": clean_text}, timeout=10)
-        except: pass
+        except Exception as e: print(f"TG消息发送异常: {e}")
 
 # ======================
-# 4. 自动生成前端 Web 大屏 (带 ECharts)
+# 4. 自动生成前端 Web 大屏
 # ======================
 def generate_dashboard(topic_counts, review_text, today_str):
     labels = list(topic_counts.keys())
@@ -152,21 +150,17 @@ def generate_dashboard(topic_counts, review_text, today_str):
     </body>
     </html>
     """
-    with open("index.html", "w", encoding="utf-8") as f:
-        f.write(html_content)
-    print("Web大屏 index.html 已更新！")
+    try:
+        with open("index.html", "w", encoding="utf-8") as f:
+            f.write(html_content)
+    except: pass
 
 # ======================
 # 5. AI 推演引擎
 # ======================
 def get_daily_review(all_news_titles):
     news_text = "\n".join(all_news_titles[:20])
-    prompt = f"""现在是晚上9点。推演【明日A股的剧本】。
-情报速览：{news_text}
-按以下结构汇报，严禁废话：
-【大局观】情绪周期处于什么阶段？
-【主线与妖股】1条主线和1条暗线。每条线推荐2-3只最强代码(格式：主线：000001,600000)。
-【盲区预警】散户最容易踩什么坑？"""
+    prompt = f"现在是晚上9点。推演【明日A股的剧本】。\n情报速览：{news_text}\n按以下结构汇报，严禁废话：\n【大局观】情绪周期处于什么阶段？\n【主线与妖股】1条主线和1条暗线。每条线推荐2-3只最强代码(格式：主线：000001,600000)。\n【盲区预警】散户最容易踩什么坑？"
     try:
         response = client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.5)
         return escape_html(response.choices[0].message.content.strip())
@@ -228,7 +222,7 @@ def run_radar():
                     message_body += f" • {real_data['name']}({code}) | 涨幅:{real_data['change']}% | 量比:{real_data['vol_ratio']} ({status})\n"
         
         send_alert_with_image(message_body, chart_url)
-        generate_dashboard(topic_counts, review_text, today_str) # 更新大屏
+        generate_dashboard(topic_counts, review_text, today_str) 
         return 
 
     # 模式 B：盘中刺客
@@ -266,7 +260,7 @@ def run_radar():
     if has_target:
         send_alert_with_image(message_body, chart_url)
     
-    generate_dashboard(topic_counts, "盘中刺客模式：重点关注手机推送的实时异动卡片。", today_str) # 盘中也更新大屏
+    generate_dashboard(topic_counts, "盘中刺客模式：重点关注手机推送的实时异动卡片。", today_str)
 
 if __name__ == "__main__":
     run_radar()
