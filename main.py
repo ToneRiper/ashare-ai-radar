@@ -19,9 +19,6 @@ def escape_html(text):
     if not text: return ""
     return str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
-# ======================
-# 2. 实时行情与活体检测 (保持你最爱的 V38 逻辑)
-# ======================
 def get_realtime_stock_data(stock_code):
     code = re.sub(r'\D', '', str(stock_code))
     if not code or len(code) != 6: return None
@@ -40,16 +37,15 @@ def get_realtime_stock_data(stock_code):
     return None
 
 # ======================
-# 3. AI 双核引擎：盘中刺客 vs 盘后守夜人
+# 2. AI 引擎：日内刺客
 # ======================
 def get_intraday_decision(news_title, topic):
-    """日内刺客模式：短平快，看穿对倒，只给结论"""
     prompt = f"""你是A股顶级游资。情报：{news_title}。题材：{topic}。
 80字内输出：
-【核心】一句话翻译本质。
-【暗线】下一步切哪个上下游？
+【核心】一句话本质。
+【暗线】资金下一步切哪个上下游？
 【结论】买点或防守信号。
-【妖股】3只相关历史妖股代码(仅代码，逗号隔开)。"""
+【妖股】3只历史股性最强代码(仅输出6位代码，逗号隔开)。"""
     try:
         response = client.chat.completions.create(
             model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.3
@@ -57,18 +53,21 @@ def get_intraday_decision(news_title, topic):
         return escape_html(response.choices[0].message.content.strip())
     except: return "解析异常"
 
+# ======================
+# 3. AI 引擎：盘后大局观战报 (核心重构升级)
+# ======================
 def get_daily_review(all_news_titles):
-    """盘后守夜人模式：全局板块、大局观定调、盲区拷问"""
-    news_text = "\n".join(all_news_titles[:15]) # 取今天最重要的15条新闻
-    prompt = f"""作为我的核心操盘手，现在是晚上9点，我们需要对今天的全网宏观及产业新闻进行深度复盘。
-以下是今天抓取的核心情报速览：
+    news_text = "\n".join(all_news_titles[:20]) # 取最重要的前20条
+    prompt = f"""作为我的核心操盘手，现在是晚上9点。我们需要基于以下今日全网核心情报，推演【明日A股的剧本】。
+今日情报速览：
 {news_text}
 
-请你跳出单一题材的局限，站位“大局观”，严格按以下结构向我汇报（字数控制在300字内，拒绝废话）：
-【大局定调】今天政策面的核心导向是什么？是在维稳、放水，还是在默许游资炒妖？
-【主线与板块】结合上述新闻，提炼出当前市场最强的一条主线概念，以及一条正在暗中蓄力的支线概念。
-【游资盲区预警】（最重要！）指出大部分散户和我们目前可能忽略的风险。比如：是否有旧题材正在悄悄退潮？主力是否在借利好明牌掩护出货？
-【明日剧本】明早集合竞价我们该盯什么现象（如：某龙头是否超预期被顶一字）来确认做多情绪？
+请你摒弃散户思维，站在顶级游资的大局观，严格按以下结构向我汇报（总字数控制在400字内，刀刀见血）：
+【大局定调】今天政策面的核心导向是在放水强攻，还是在维稳防守？
+【情绪周期与明日预判】（这是重点！）结合今日事件的密集度和力度，判断当前市场情绪处于什么阶段（冰点/启动/发酵/高潮/退潮）？基于此阶段，推演明日大盘及核心主线的资金走向（大概率是加速顶一字、巨量分歧，还是利好兑现被砸？）
+【主线与暗线概念】明确指出当前最强的“明牌概念板块”是什么？哪一条“暗线板块”正在悄悄蓄力准备补涨？
+【游资盲区预警】指出大部分散户目前可能忽略的致命风险（例如：旧题材阴跌、机构借利好出货等）。
+【明日竞价剧本】明早9:25，我们需要盯死哪类核心现象（如某只高标龙头的封单量）来确认情绪的真伪？
 """
     try:
         response = client.chat.completions.create(
@@ -78,7 +77,7 @@ def get_daily_review(all_news_titles):
     except Exception as e: return f"复盘生成失败: {e}"
 
 # ======================
-# 4. 强力推送模块
+# 4. 强推模块
 # ======================
 def send_alert(text):
     if SERVER_KEY:
@@ -91,7 +90,7 @@ def send_alert(text):
         requests.post(tg_url, json={"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}, timeout=10)
 
 # ======================
-# 5. 雷达主控
+# 5. 雷达主控板
 # ======================
 def run_radar():
     try:
@@ -113,29 +112,21 @@ def run_radar():
                             titles_only.append(title)
             except: pass
 
-    # 获取北京时间判断模式 (UTC+8)
-    utc_now = datetime.utcnow()
-    bjt_now = utc_now + timedelta(hours=8)
+    # UTC 转 北京时间
+    bjt_now = datetime.utcnow() + timedelta(hours=8)
     today_str = bjt_now.strftime("%Y-%m-%d")
     current_hour = bjt_now.hour
 
-    message_body = ""
-
-    # ==========================================
-    # 模式 A：晚上 20:00 - 23:59 触发【深度复盘模式】
-    # ==========================================
+    # 模式 A：晚间复盘战报 (20点以后)
     if current_hour >= 20:
-        print("进入盘后深度复盘模式...")
-        message_body = f"<b>【🌑 守夜人：晚间深度复盘】 {today_str}</b>\n\n"
-        review_text = get_daily_review(titles_only)
-        message_body += review_text
+        print("执行盘后深度复盘...")
+        message_body = f"<b>【🌑 守夜人：宏观战报与明日推演】 {today_str}</b>\n\n"
+        message_body += get_daily_review(titles_only)
         send_alert(message_body)
-        return # 复盘发完直接结束，不再做零碎的异动推送
+        return 
 
-    # ==========================================
-    # 模式 B：白天触发【日内刺客模式】
-    # ==========================================
-    print("进入日内刺客扫描模式...")
+    # 模式 B：盘中刺客模式
+    print("执行日内刺客扫描...")
     message_body = f"<b>【☀️ 刺客雷达：盘中异动】 {today_str}</b>\n\n"
     has_target = False
 
@@ -146,7 +137,6 @@ def run_radar():
         latest = matched[0]
         decision = get_intraday_decision(latest["title"], topic)
         
-        # 解析日内输出...
         core = deduce = strike = ""
         stock_codes = []
         for line in decision.split('\n'):
@@ -171,13 +161,11 @@ def run_radar():
                 if real_data['turnover'] < 1.0 and real_data['amplitude'] < 2.0: status, label = "🧟", "死水"
                 elif real_data['vol_ratio'] > 2.0 or real_data['amplitude'] > 5.0: status, label = "🔥", "突袭"
                 else: status, label = "➖", "跟随"
-                message_body += f" • {status} {real_data['name']}({real_data['code']}) | 涨:{real_data['change']}% | 量比:{real_data['vol_ratio']} ({label})\n"
+                message_body += f" • {status} {real_data['name']}({real_data['code']}) | 涨:{real_data['change']}% | 量:{real_data['vol_ratio']} ({label})\n"
         message_body += "--------------------\n"
 
     if has_target:
         send_alert(message_body)
-    else:
-        print("盘中静默，无信号。")
 
 if __name__ == "__main__":
     run_radar()
