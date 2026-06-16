@@ -38,11 +38,13 @@ def get_realtime_stock_data(stock_code):
     return None
 
 # ======================
-# 2. 生成可视化图片链接 (黑客方案)
+# 2. 生成可视化图片链接 (黑客方案修复版)
 # ======================
 def get_chart_image_url(topic_counts):
     """利用免费图表API，将数据瞬间转为高质量PNG图片链接"""
     if not topic_counts: return None
+    
+    # 修复序列化问题：强制将 keys 和 values 转换为普通的 list
     labels = list(topic_counts.keys())
     data = list(topic_counts.values())
     
@@ -51,18 +53,31 @@ def get_chart_image_url(topic_counts):
         "type": "outlabeledPie",
         "data": {
             "labels": labels,
-            "datasets": [{"backgroundColor": ["#ef4444", "#f59e0b", "#10b981", "#3b82f6", "#8b5cf6", "#ec4899"], "data": data}]
+            "datasets": [{
+                "backgroundColor": ["#ef4444", "#f59e0b", "#10b981", "#3b82f6", "#8b5cf6", "#ec4899"], 
+                "data": data
+            }]
         },
         "options": {
             "backgroundColor": "#0f172a",
             "plugins": {
                 "legend": {"display": False},
-                "outlabels": {"text": "%l (%v)", "color": "white", "stretch": 35, "font": {"resizable": True, "minSize": 12, "maxSize": 18}}
+                "outlabels": {
+                    "text": "%l (%v)", 
+                    "color": "white", 
+                    "stretch": 35, 
+                    "font": {"resizable": True, "minSize": 12, "maxSize": 18}
+                }
             }
         }
     }
-    url = f"https://quickchart.io/chart?width=600&height=400&c={json.dumps(chart_config)}"
-    return url
+    
+    try:
+        url = f"https://quickchart.io/chart?width=600&height=400&c={json.dumps(chart_config)}"
+        return url
+    except Exception as e:
+        print(f"图表生成失败: {e}")
+        return None
 
 # ======================
 # 3. 双端强力图文推送
