@@ -12,20 +12,20 @@
     "link": "https://openai.com/index/preply"
   },
   {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
   },
   {
     "title": "BBVA puts AI at the core of banking with OpenAI",
     "link": "https://openai.com/index/bbva"
   },
   {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
-  },
-  {
     "title": "OpenAI to acquire Ona",
     "link": "https://openai.com/index/openai-to-acquire-ona"
+  },
+  {
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
   },
   {
     "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -512,6 +512,10 @@
     "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/"
   },
   {
+    "title": "SpaceX Pounces on $60 Billion Cursor Takeover Days After IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-pounces-on-60-billion-cursor-takeover-days-after-ipo"
+  },
+  {
     "title": "SpaceX Cements $60 Billion Cursor Takeover Following IPO",
     "link": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor"
   },
@@ -626,10 +630,6 @@
   {
     "title": "Anthropic Curbs Show Need for Sovereign AI, Upstage CEO Says",
     "link": "https://www.bloomberg.com/news/articles/2026-06-16/anthropic-curbs-show-need-for-sovereign-ai-upstage-ceo-says"
-  },
-  {
-    "title": "AI Re-Rating Fuels 550% Rally in Hong Kong’s Kingboard Laminates",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/ai-driven-re-rating-fuels-550-rally-in-kingboard-laminates"
   },
   {
     "title": "Robinhood, BlackRock Plan to Reduce Workforce",
@@ -788,6 +788,10 @@
     "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/"
   },
   {
+    "title": "Amazon’s capable sound system is over $100 off ahead of Prime Day",
+    "link": "https://www.theverge.com/gadgets/950210/amazon-fire-tv-plus-subwoofer-satellite-deal-sale"
+  },
+  {
     "title": "The new PopSockets grip is so thin you&#8217;ll forget it&#8217;s even there",
     "link": "https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on"
   },
@@ -822,9 +826,5 @@
   {
     "title": "Lenovo’s next tablet has a thick speaker bump and an upgraded kickstand",
     "link": "https://www.theverge.com/tech/949617/lenovo-tab-plus-gen-2-tablet-9-speakers-bluetooth-android-kickstand"
-  },
-  {
-    "title": "Kodak’s collectible Charmera camera is getting new Y2K-inspired designs",
-    "link": "https://www.theverge.com/tech/949664/kodak-charmera-digital-camera-millennium-edition-collectible"
   }
 ]
