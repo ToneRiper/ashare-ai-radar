@@ -12,20 +12,20 @@
     "link": "https://openai.com/index/preply"
   },
   {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva"
-  },
-  {
-    "title": "OpenAI to acquire Ona",
-    "link": "https://openai.com/index/openai-to-acquire-ona"
-  },
-  {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
   },
   {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva"
+  },
+  {
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+  },
+  {
+    "title": "OpenAI to acquire Ona",
+    "link": "https://openai.com/index/openai-to-acquire-ona"
   },
   {
     "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -84,12 +84,12 @@
     "link": "https://openai.com/index/wasmer"
   },
   {
-    "title": "OpenAI public policy agenda",
-    "link": "https://openai.com/index/public-policy-agenda"
-  },
-  {
     "title": "A blueprint for democratic governance of frontier AI",
     "link": "https://openai.com/index/frontier-safety-blueprint"
+  },
+  {
+    "title": "OpenAI public policy agenda",
+    "link": "https://openai.com/index/public-policy-agenda"
   },
   {
     "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
@@ -192,7 +192,11 @@
     "link": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/"
   },
   {
-    "title": "CORRECTION: Yum Brands sells Pizza Hut to private equity firm LongRange Capital and Yum China for $2.7 billion",
+    "title": "Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market",
+    "link": "https://www.cnbc.com/2026/06/16/carvana-new-cars-dealerships.html"
+  },
+  {
+    "title": "Yum Brands sells Pizza Hut to private equity firm LongRange Capital and Yum China for $2.7 billion",
     "link": "https://www.cnbc.com/2026/06/16/yum-brands-sells-pizza-hut-to-private-equity-firm-longrange-capital-for-2point7-billion.html"
   },
   {
@@ -306,10 +310,6 @@
   {
     "title": "Broadway's $1.9 billion season is the latest sign of consumers splurging on experiences",
     "link": "https://www.cnbc.com/2026/06/05/broadway-record-ticket-sales.html"
-  },
-  {
-    "title": "Family offices bet on sports, from pickleball leagues to smart soccer balls",
-    "link": "https://www.cnbc.com/2026/06/05/family-office-sport-investments.html"
   },
   {
     "title": "India's solution to entrance exam fraud: A temporary ban on Telegram",
@@ -432,6 +432,10 @@
     "link": "https://www.cnbc.com/2026/06/05/india-gdp-economy-oil-middle-east-disruption.html"
   },
   {
+    "title": "Probably raises $9M to build a more reliable kind of AI",
+    "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/"
+  },
+  {
     "title": "India orders temporary ban on Telegram over exam fraud concerns",
     "link": "https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/"
   },
@@ -508,8 +512,12 @@
     "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/"
   },
   {
-    "title": "The AI layoff wave is becoming a powder keg",
-    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
+    "title": "Microsoft’s Latest Surface PCs Offer Better Graphics, Faster AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/microsoft-2026-surface-pro-and-surface-laptop-offer-better-graphics-faster-ai"
+  },
+  {
+    "title": "Siri AI Catching Up to Chatbot Competitors",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-16/siri-ai-catching-up-to-chatbot-competitors-video"
   },
   {
     "title": "Trump’s Anthropic Crackdown Sets Off AI Alarms for US Allies",
@@ -622,14 +630,6 @@
   {
     "title": "S&P 500 Set for Best Day Since April as Oil Sinks | The Close 6/15/2026",
     "link": "https://www.bloomberg.com/news/videos/2026-06-15/the-close-6-15-2026-video"
-  },
-  {
-    "title": "Canada to Restrict Use of Personal Data for Custom Prices",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/canada-s-carney-proposes-stricter-privacy-rules-to-ban-surveillance-pricing"
-  },
-  {
-    "title": "Nvidia Joins AI Borrowing Frenzy With $25 Billion Bond Sale",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/nvidia-kicks-off-first-high-grade-bond-offering-since-2021"
   },
   {
     "title": "ECB’s Escriva Says Energy Disruption Will Persist Despite Deal",
@@ -792,6 +792,18 @@
     "link": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/"
   },
   {
+    "title": "The Microsoft Surface Laptop 8 and Surface Pro 12 now come with Snapdragon X2 chips",
+    "link": "https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price"
+  },
+  {
+    "title": "Comcast Xfinity adds same-day delivery to get you online immediately",
+    "link": "https://www.theverge.com/tech/950537/comcast-xfinity-same-day-router-delivery-availability-launch"
+  },
+  {
+    "title": "Schlage’s UWB-enabled smart lock launches this month",
+    "link": "https://www.theverge.com/tech/950564/schlage-sense-pro-uwb-aliro-deadlock-price-availability"
+  },
+  {
     "title": "These mechanical keyboards are two very different sides of the same beautifully made coin",
     "link": "https://www.theverge.com/tech/942472/dry-studio-atm98-silent-evoworks-evo75-mechanical-keyboard-thocky-review"
   },
@@ -818,17 +830,5 @@
   {
     "title": "Half a billion people are using Threads every month",
     "link": "https://www.theverge.com/tech/950480/meta-threads-500-million-monthly-active-users-communities-your-algo"
-  },
-  {
-    "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
-    "link": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone"
-  },
-  {
-    "title": "Inside the fight over Claude Mythos 5",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls"
-  },
-  {
-    "title": "Facebook’s new AI Mode search gets its info from public posts",
-    "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook"
   }
 ]
