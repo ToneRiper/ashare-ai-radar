@@ -12,12 +12,12 @@
     "link": "https://openai.com/index/preply"
   },
   {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva"
-  },
-  {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
+  },
+  {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva"
   },
   {
     "title": "OpenAI to acquire Ona",
@@ -84,12 +84,12 @@
     "link": "https://openai.com/index/wasmer"
   },
   {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "link": "https://openai.com/index/frontier-safety-blueprint"
-  },
-  {
     "title": "OpenAI public policy agenda",
     "link": "https://openai.com/index/public-policy-agenda"
+  },
+  {
+    "title": "A blueprint for democratic governance of frontier AI",
+    "link": "https://openai.com/index/frontier-safety-blueprint"
   },
   {
     "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
@@ -312,6 +312,18 @@
     "link": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html"
   },
   {
+    "title": "Australia central bank warns hikes are not off the table as it keeps rates steady at 4.35%",
+    "link": "https://www.cnbc.com/2026/06/16/australia-central-bank-holds-rates-as-cpi.html"
+  },
+  {
+    "title": "Bank of Japan hikes rates to 1%, highest since 1995, as yen and inflation worries take hold",
+    "link": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html"
+  },
+  {
+    "title": "China economy weakens further in May as retail sales post first drop in over three years",
+    "link": "https://www.cnbc.com/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html"
+  },
+  {
     "title": "CNBC's The China Connection newsletter: Waiting for AI to lift the whole market",
     "link": "https://www.cnbc.com/2026/06/15/cnbcs-the-china-connection-newsletter-hoping-ai-lifts-all-boats.html"
   },
@@ -420,18 +432,6 @@
     "link": "https://www.cnbc.com/2026/06/05/india-tax-overseas-bond-investors.html"
   },
   {
-    "title": "India's cenbank cuts growth outlook, raises inflation forecast as it keeps rates steady at 5.25%",
-    "link": "https://www.cnbc.com/2026/06/05/india-rbi-rate-gdp-inflation.html"
-  },
-  {
-    "title": "CNBC Daily Open: Chips are down — but not for the Dow",
-    "link": "https://www.cnbc.com/2026/06/05/iran-war-trump-ceasefire-chip-selloff-do-record.html"
-  },
-  {
-    "title": "South Korea stocks fall over 5% as tech heavyweights follow plunge in Wall Street's AI-linked names",
-    "link": "https://www.cnbc.com/2026/06/05/asia-markets-today-nikkei-225-kospi-hang-seng-index-csi-300-nifty50.html"
-  },
-  {
     "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
     "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/"
   },
@@ -512,6 +512,30 @@
     "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/"
   },
   {
+    "title": "Anthropic Curbs Show Need for Sovereign AI, Upstage CEO Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/anthropic-curbs-show-need-for-sovereign-ai-upstage-ceo-says"
+  },
+  {
+    "title": "AI Re-Rating Fuels 550% Rally in Hong Kong’s Kingboard Laminates",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/ai-driven-re-rating-fuels-550-rally-in-kingboard-laminates"
+  },
+  {
+    "title": "Goldman-Backed Go Soars 21% After Biggest Japan IPO This Year",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/goldman-backed-go-to-debut-after-biggest-japan-ipo-this-year"
+  },
+  {
+    "title": "Anthropic Holds Talks With US in Bid to Lift Curbs on AI Models",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-set-to-meet-trump-officials-over-ai-security-concerns"
+  },
+  {
+    "title": "Hong Kong Stocks Face Pressure From $33 Billion Lockup Expiry",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/hong-kong-stocks-face-pressure-from-33-billion-lockup-expiry"
+  },
+  {
+    "title": "SpaceX Surges for Second Day to Add $412 Billion in Value",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-shares-rise-set-to-extend-gains-after-record-ipo-mqexlibz"
+  },
+  {
     "title": "Fox to Buy Roku in Streaming Video Push; Shares Tumble",
     "link": "https://www.bloomberg.com/news/articles/2026-06-15/fox-to-buy-roku-at-22-billion-value-in-streaming-video-push"
   },
@@ -524,20 +548,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-15/canada-s-carney-proposes-stricter-privacy-rules-to-ban-surveillance-pricing"
   },
   {
-    "title": "Goldman-Backed Go to Debut After Biggest Japan IPO This Year",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/goldman-backed-go-to-debut-after-biggest-japan-ipo-this-year"
-  },
-  {
     "title": "Nvidia Joins AI Borrowing Frenzy With $25 Billion Bond Sale",
     "link": "https://www.bloomberg.com/news/articles/2026-06-15/nvidia-kicks-off-first-high-grade-bond-offering-since-2021"
   },
   {
     "title": "Studios in Microsoft’s Xbox Division Brace for Closures",
     "link": "https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures"
-  },
-  {
-    "title": "SpaceX Surges 20% in Second Day to Add $412 Billion in Value",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-shares-rise-set-to-extend-gains-after-record-ipo-mqexlibz"
   },
   {
     "title": "Rieder Says No Forward Guidance Is a Good Thing",
@@ -588,10 +604,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-15/jpmorgan-traders-turn-bullish-on-us-stocks-citing-peace-deal"
   },
   {
-    "title": "Anthropic Set to Meet Trump Officials Over AI Security Concerns",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-set-to-meet-trump-officials-over-ai-security-concerns"
-  },
-  {
     "title": "Chainguard, Cyber Firms Use AI to Hunt for Open-Source Flaws",
     "link": "https://www.bloomberg.com/news/articles/2026-06-15/chainguard-cyber-firms-use-ai-to-hunt-for-open-source-flaws"
   },
@@ -620,16 +632,44 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-15/anthropic-shuts-down-mythos-access-after-us-order-video"
   },
   {
-    "title": "Nvidia Looks to Raise $20 Billion in First Bond Sale Since 2021",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-15/nvidia-looks-to-raise-20b-in-first-bond-sale-since-2021-video"
+    "title": "RBA Holds Key Rate, Willing to Tighten Further If Needed",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/rba-holds-key-rate-for-first-time-in-2026-as-economy-softens"
   },
   {
-    "title": "Prime Radiant Invests $50 Million in Cellares Pre-IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/prime-radiant-invests-50-million-in-cellares-before-2027-ipo"
+    "title": "BOJ Raises Rate to 31-Year High, Plans to Stop Paring Bond Buys",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/boj-hikes-rate-to-31-year-high-at-meeting-with-governor-absent"
   },
   {
-    "title": "Adani, Jabil Alliance to Build AI Data Center Gear in India",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/adani-jabil-alliance-to-build-ai-data-center-gear-in-india"
+    "title": "Burnham’s UK Industrial Revival Plan Unlikely to Bring Back Jobs",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/burnham-s-uk-industrial-revival-plan-unlikely-to-bring-back-jobs"
+  },
+  {
+    "title": "Chinese Economy Stalls as Spending, Investment Drop to Covid-Era Levels",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/china-s-first-consumer-spending-drop-since-covid-imperils-growth"
+  },
+  {
+    "title": "Myanmar Growth Forecast Cut to 2% by World Bank on Fuel Shock",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/myanmar-growth-forecast-cut-to-2-by-world-bank-on-fuel-shock"
+  },
+  {
+    "title": "Swiss Lean in Favor of EU Deal After Dismissing Population Cap",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/swiss-lean-in-favor-of-eu-deal-after-dismissing-population-cap"
+  },
+  {
+    "title": "China Home Prices Fall at Faster Pace in Setback to Revival",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/china-home-prices-fall-at-faster-pace-in-setback-to-revival"
+  },
+  {
+    "title": "Oil Slide Brings Little Relief to Hard-Hit Philippine Consumers",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/oil-slide-brings-little-relief-to-hard-hit-philippine-consumers"
+  },
+  {
+    "title": "Japan Hikes Interest Rates to Highest Since 1995",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-06-16/bank-of-japan-monetary-policy-decision"
+  },
+  {
+    "title": "NZ Economists Trim Inflation Forecasts, Still Expect Rate Hikes",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/nz-economists-trim-inflation-forecasts-still-expect-rate-hikes"
   },
   {
     "title": "BOJ Policy Architect Uchida to Take Spotlight on Rates Guidance",
@@ -638,6 +678,10 @@
   {
     "title": "Cash Squeeze Set to Lift Taiwan’s Yields Further, Analysts Say",
     "link": "https://www.bloomberg.com/news/articles/2026-06-15/cash-squeeze-set-to-lift-taiwan-s-yields-further-analysts-say"
+  },
+  {
+    "title": "Former Fed Governor Stephen Miran Rejoins Hedge Fund Hudson Bay",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/former-fed-governor-stephen-miran-re-joins-hedge-fund-hudson-bay"
   },
   {
     "title": "China Built the Last Steel Boom. India’s Will Be Different",
@@ -708,50 +752,6 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-15/us-iran-deal-to-reopen-strait-of-hormuz-bolsters-central-bank-doves"
   },
   {
-    "title": "Japan Ruling Party Still Mulling Sales Tax Cut to Zero for Food",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/japan-ruling-party-still-mulling-sales-tax-cut-to-zero-for-food"
-  },
-  {
-    "title": "The Infuriating Rise of the $8 Ice Cream Cone",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/why-is-ice-cream-so-expensive-the-rise-of-the-8-cone"
-  },
-  {
-    "title": "Iran War’s ‘Inflationary Legacy’ Key to Stock Rally’s Longevity",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/inflation-worries-keep-markets-wary-even-after-iran-peace-deal"
-  },
-  {
-    "title": "More Bank of England Officials Set to Back Hikes as Iran War Frays Unity",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/more-bank-of-england-officials-set-to-back-hikes-as-iran-war-frays-unity"
-  },
-  {
-    "title": "LNG Tanker Traverses Hormuz as Deal Lifts Reopening Hopes",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/lng-tanker-heads-toward-hormuz-as-deal-raises-hopes-of-reopening"
-  },
-  {
-    "title": "Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support"
-  },
-  {
-    "title": "Pakistan Finance Chief Sees Faster Growth, Inflation Dip Coming",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/pakistan-finance-chief-sees-growth-rise-inflation-dip-next-year"
-  },
-  {
-    "title": "Swiss Pragmatism Holds as Disputed Population Cap Rejected",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/switzerland-s-10-million-population-cap-rejected-as-pragmatism-prevails"
-  },
-  {
-    "title": "Asia’s Oil-Thirsty Economies Cautiously Welcome US-Iran Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/asia-welcomes-us-iran-deal-s-pledge-to-open-hormuz-oil-lifeline"
-  },
-  {
-    "title": "Macron’s G7 Legacy Hangs on Fickle AI Funding and Data Centers",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/macron-s-g7-legacy-hangs-on-fickle-ai-funding-and-data-centers"
-  },
-  {
-    "title": "Fed Hike Risk Lower After Deal: Natixis' Herrero",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-15/fed-hike-risk-lower-after-deal-natixis-herrero-video"
-  },
-  {
     "title": "Why do South Koreans love AI so much?",
     "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
   },
@@ -792,6 +792,10 @@
     "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
   },
   {
+    "title": "Inside the fight over Claude Mythos 5",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls"
+  },
+  {
     "title": "Facebook’s new AI Mode search gets its info from public posts",
     "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook"
   },
@@ -826,9 +830,5 @@
   {
     "title": "Big Tech’s desperate last push at AI regulation",
     "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress"
-  },
-  {
-    "title": "Xbox turmoil continues with a studio closure and executive departures",
-    "link": "https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure"
   }
 ]
