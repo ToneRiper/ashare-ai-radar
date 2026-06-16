@@ -20,7 +20,6 @@ def escape_html(text):
     return str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 def get_realtime_stock_data(stock_code):
-    """提取收盘/盘中真实数据"""
     code = re.sub(r'\D', '', str(stock_code))
     if not code or len(code) != 6: return None
     prefix = "sh" if code.startswith(('6', '9')) else "sz"
@@ -38,52 +37,41 @@ def get_realtime_stock_data(stock_code):
     return None
 
 # ======================
-# 2. 生成可视化图片链接 (黑客方案修复版)
+# 2. 生成图表链接 (已修复序列化报错)
 # ======================
 def get_chart_image_url(topic_counts):
-    """利用免费图表API，将数据瞬间转为高质量PNG图片链接"""
     if not topic_counts: return None
     
-    # 修复序列化问题：强制将 keys 和 values 转换为普通的 list
+    # 强制转为 list
     labels = list(topic_counts.keys())
     data = list(topic_counts.values())
     
-    # 构造深色模式饼图的 JSON 配置
     chart_config = {
         "type": "outlabeledPie",
         "data": {
             "labels": labels,
-            "datasets": [{
-                "backgroundColor": ["#ef4444", "#f59e0b", "#10b981", "#3b82f6", "#8b5cf6", "#ec4899"], 
-                "data": data
-            }]
+            "datasets": [{"backgroundColor": ["#ef4444", "#f59e0b", "#10b981", "#3b82f6", "#8b5cf6", "#ec4899"], "data": data}]
         },
         "options": {
             "backgroundColor": "#0f172a",
             "plugins": {
                 "legend": {"display": False},
-                "outlabels": {
-                    "text": "%l (%v)", 
-                    "color": "white", 
-                    "stretch": 35, 
-                    "font": {"resizable": True, "minSize": 12, "maxSize": 18}
-                }
+                "outlabels": {"text": "%l (%v)", "color": "white", "stretch": 35, "font": {"resizable": True, "minSize": 12, "maxSize": 18}}
             }
         }
     }
-    
     try:
-        url = f"https://quickchart.io/chart?width=600&height=400&c={json.dumps(chart_config)}"
-        return url
+        # 使用 json.dumps 时不带特殊参数，确保安全转换
+        json_str = json.dumps(chart_config)
+        return f"https://quickchart.io/chart?width=600&height=400&c={json_str}"
     except Exception as e:
         print(f"图表生成失败: {e}")
         return None
 
 # ======================
-# 3. 双端强力图文推送
+# 3. 强力双端图文推送
 # ======================
 def send_alert_with_image(text, image_url=None):
-    # 1. 微信 Server酱 (支持 Markdown 图片)
     if SERVER_KEY:
         sc_url = f"https://sctapi.ftqq.com/{SERVER_KEY}.send"
         md_text = text.replace("<b>", "**").replace("</b>", "**").replace("<a href='", "[").replace("'>", "](").replace("</a>", ")")
@@ -91,15 +79,12 @@ def send_alert_with_image(text, image_url=None):
             md_text = f"![热力图]({image_url})\n\n" + md_text
         requests.post(sc_url, data={"title": "A股游资内参", "desp": md_text}, timeout=10)
         
-    # 2. Telegram (支持原生发送图片+排版文字)
     if TOKEN and CHAT_ID:
         try:
             if image_url:
-                # 先发图，附带简短说明
                 tg_photo_url = f"https://api.telegram.org/bot{TOKEN}/sendPhoto"
                 requests.post(tg_photo_url, json={"chat_id": CHAT_ID, "photo": image_url, "caption": "📊 今日题材热力图"}, timeout=10)
             
-            # 再发详细文字
             tg_msg_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
             res = requests.post(tg_msg_url, json={"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True}, timeout=10)
             if res.status_code != 200:
@@ -109,35 +94,93 @@ def send_alert_with_image(text, image_url=None):
         except: pass
 
 # ======================
-# 4. AI 盘后复盘引擎 (加入个股穿透)
+# 4. 自动生成前端 Web 大屏 (带 ECharts)
+# ======================
+def generate_dashboard(topic_counts, review_text, today_str):
+    labels = list(topic_counts.keys())
+    data_values = list(topic_counts.values())
+    pie_data = [{"value": val, "name": name} for val, name in zip(data_values, labels)]
+    pie_data_str = json.dumps(pie_data, ensure_ascii=False)
+    
+    html_content = f"""
+    <!DOCTYPE html>
+    <html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>游资暗潜雷达 - 可视化大屏</title>
+        <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+        <style>
+            body {{ background-color: #0f172a; color: #e2e8f0; font-family: 'Microsoft YaHei', sans-serif; margin: 0; padding: 20px; }}
+            .header {{ text-align: center; margin-bottom: 30px; border-bottom: 1px solid #334155; padding-bottom: 20px; }}
+            .header h1 {{ color: #38bdf8; margin: 0; }}
+            .container {{ display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }}
+            .card {{ background: #1e293b; border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); flex: 1; min-width: 300px; max-width: 600px; }}
+            .card h2 {{ color: #fbbf24; border-bottom: 2px solid #fbbf24; padding-bottom: 10px; margin-top: 0; }}
+            pre {{ white-space: pre-wrap; word-wrap: break-word; font-family: inherit; font-size: 15px; line-height: 1.6; }}
+            #chart {{ width: 100%; height: 400px; }}
+        </style>
+    </head>
+    <body>
+        <div class="header">
+            <h1>📊 A股游资雷达决策大屏</h1>
+            <p>数据更新时间：{today_str}</p>
+        </div>
+        <div class="container">
+            <div class="card">
+                <h2>🔥 今日题材热力图</h2>
+                <div id="chart"></div>
+            </div>
+            <div class="card" style="flex: 2; max-width: 800px;">
+                <h2>🌑 宏观战报与推演</h2>
+                <pre>{review_text if review_text else "暂无晚间复盘数据，或处于盘中扫描时段。"}</pre>
+            </div>
+        </div>
+        <script>
+            var chart = echarts.init(document.getElementById('chart'));
+            var option = {{
+                tooltip: {{ trigger: 'item' }},
+                series: [{{
+                    name: '新闻热度', type: 'pie', radius: ['40%', '70%'],
+                    itemStyle: {{ borderRadius: 10, borderColor: '#1e293b', borderWidth: 2 }},
+                    label: {{ color: '#e2e8f0' }},
+                    data: {pie_data_str}
+                }}]
+            }};
+            chart.setOption(option);
+        </script>
+    </body>
+    </html>
+    """
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(html_content)
+    print("Web大屏 index.html 已更新！")
+
+# ======================
+# 5. AI 推演引擎
 # ======================
 def get_daily_review(all_news_titles):
     news_text = "\n".join(all_news_titles[:20])
-    prompt = f"""现在是晚上9点。基于以下情报，推演【明日A股的剧本】。
-情报速览：
-{news_text}
-
-严格按以下结构汇报，剔除一切AI废话，用游资黑话：
-【大局观】今天政策是强攻还是防守？处于情绪周期的什么阶段？
-【主线与妖股】明确1条最强主线和1条正在蓄力的暗线。每条线必须强制推荐2-3只最具辨识度的核心股票代码（格式严格为：主线代码：000001,600000；暗线代码：000002,600002）。
-【盲区预警】哪个旧题材正在诱多出货？散户最容易在明天开盘踩什么坑？
-"""
+    prompt = f"""现在是晚上9点。推演【明日A股的剧本】。
+情报速览：{news_text}
+按以下结构汇报，严禁废话：
+【大局观】情绪周期处于什么阶段？
+【主线与妖股】1条主线和1条暗线。每条线推荐2-3只最强代码(格式：主线：000001,600000)。
+【盲区预警】散户最容易踩什么坑？"""
     try:
-        response = client.chat.completions.create(
-            model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.5
-        )
+        response = client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.5)
         return escape_html(response.choices[0].message.content.strip())
     except: return "复盘生成失败"
 
 def get_intraday_decision(news_title, topic):
-    prompt = f"你是A股顶级游资。情报：{news_title}。题材：{topic}。\n80字内输出：\n【本质】一句话翻译。\n【推演】切哪个方向？\n【妖股】3只相关代码(仅数字逗号隔开)。"
+    prompt = f"游资视角。情报：{news_title}。题材：{topic}。\n【本质】一句话翻译。\n【推演】切哪个方向？\n【妖股】3只相关代码(仅数字逗号隔开)。"
     try:
         response = client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.3)
         return escape_html(response.choices[0].message.content.strip())
     except: return "解析异常"
 
 # ======================
-# 5. 雷达主控板
+# 6. 雷达主控板
 # ======================
 def run_radar():
     try:
@@ -159,7 +202,7 @@ def run_radar():
             except: pass
 
     bjt_now = datetime.utcnow() + timedelta(hours=8)
-    today_str = bjt_now.strftime("%Y-%m-%d")
+    today_str = bjt_now.strftime("%Y-%m-%d %H:%M")
     current_hour = bjt_now.hour
 
     topic_counts = {}
@@ -169,17 +212,15 @@ def run_radar():
         
     chart_url = get_chart_image_url(topic_counts)
 
-    # 模式 A：晚间复盘战报
+    # 模式 A：晚间复盘
     if current_hour >= 20:
-        message_body = f"<b>【🌑 守夜人：宏观战报与核心标的】 {today_str}</b>\n\n"
+        message_body = f"<b>【🌑 守夜人：宏观战报】 {today_str}</b>\n\n"
         review_text = get_daily_review(titles_only)
         message_body += f"{review_text}\n\n"
         
-        # 提取复盘中的所有股票代码并进行收盘盘口验证
         stock_codes = re.findall(r'\b[036]\d{5}\b', review_text)
         if stock_codes:
-            message_body += "📊 <b>收盘盘口穿透验证：</b>\n"
-            # 去重并只取前6只
+            message_body += "📊 <b>盘口穿透验证：</b>\n"
             for code in list(dict.fromkeys(stock_codes))[:6]:
                 real_data = get_realtime_stock_data(code)
                 if real_data:
@@ -187,10 +228,11 @@ def run_radar():
                     message_body += f" • {real_data['name']}({code}) | 涨幅:{real_data['change']}% | 量比:{real_data['vol_ratio']} ({status})\n"
         
         send_alert_with_image(message_body, chart_url)
+        generate_dashboard(topic_counts, review_text, today_str) # 更新大屏
         return 
 
     # 模式 B：盘中刺客
-    message_body = f"<b>【☀️ 刺客雷达：盘中异动】 {today_str}</b>\n\n"
+    message_body = f"<b>【☀️ 刺客雷达】 {today_str}</b>\n\n"
     has_target = False
 
     for topic, aliases in KEYWORDS.items():
@@ -209,7 +251,7 @@ def run_radar():
                 stock_codes = [c.strip() for c in re.split(r'[,，\s]+', raw_codes) if c.strip().isdigit() and len(c.strip())==6]
 
         has_target = True
-        message_body += f"<b>📌 题材：{topic}</b>\n"
+        message_body += f"<b>📌 {topic}</b>\n"
         message_body += f"📰 <b>本质：</b>{core}\n"
         message_body += f"🧠 <b>推演：</b>{deduce}\n"
         
@@ -223,6 +265,8 @@ def run_radar():
 
     if has_target:
         send_alert_with_image(message_body, chart_url)
+    
+    generate_dashboard(topic_counts, "盘中刺客模式：重点关注手机推送的实时异动卡片。", today_str) # 盘中也更新大屏
 
 if __name__ == "__main__":
     run_radar()
