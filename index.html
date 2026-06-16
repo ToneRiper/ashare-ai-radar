@@ -1,0 +1,61 @@
+
+    <!DOCTYPE html>
+    <html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>游资暗潜雷达 - 可视化大屏</title>
+        <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+        <style>
+            body { background-color: #0f172a; color: #e2e8f0; font-family: 'Microsoft YaHei', sans-serif; margin: 0; padding: 20px; }
+            .header { text-align: center; margin-bottom: 30px; border-bottom: 1px solid #334155; padding-bottom: 20px; }
+            .header h1 { color: #38bdf8; margin: 0; }
+            .container { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+            .card { background: #1e293b; border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); flex: 1; min-width: 300px; max-width: 600px; }
+            .card h2 { color: #fbbf24; border-bottom: 2px solid #fbbf24; padding-bottom: 10px; margin-top: 0; }
+            pre { white-space: pre-wrap; word-wrap: break-word; font-family: inherit; font-size: 15px; line-height: 1.6; }
+            #chart { width: 100%; height: 400px; }
+        </style>
+    </head>
+    <body>
+        <div class="header">
+            <h1>📊 A股游资雷达决策大屏</h1>
+            <p>数据更新时间：2026-06-16 21:44</p>
+        </div>
+        <div class="container">
+            <div class="card">
+                <h2>🔥 今日题材热力图</h2>
+                <div id="chart"></div>
+            </div>
+            <div class="card" style="flex: 2; max-width: 800px;">
+                <h2>🌑 宏观战报与推演</h2>
+                <pre>【大局观】情绪周期处于**震荡分化阶段**。近期密集发布的行业数据（造船、汽车、通信、有色金属等）显示基本面有支撑，但政策面（强制性标准征求意见、行业规范公告）密集出台，市场缺乏明确增量催化，资金在“业绩验证”与“政策预期”之间反复博弈，整体情绪偏谨慎，未进入主升或恐慌阶段。
+
+【主线与妖股】  
+**主线：汽车产业链（政策+数据双驱动）**  
+推荐代码：600104（上汽集团）、000625（长安汽车）  
+逻辑：4-5月汽车工业经济运行数据连续披露，叠加新能源汽车及车用动力电池拆解、重型汽车AEB等强制性标准征求意见，行业景气度与政策规范共振，龙头股具备防御与进攻双重属性。  
+
+**暗线：有色金属（一季度业绩超预期）**  
+推荐代码：600362（江西铜业）、000831（中国稀土）  
+逻辑：一季度有色金属行业运行情况显示全面增长，全球供应链优势持续，叠加新能源、军工等下游需求刚性，板块在震荡市中具备估值修复弹性。
+
+【盲区预警】散户最容易踩的坑是**追涨“政策消息股”**。如汽车强制标准、电信服务质量通告等属于“明牌”信息，市场已部分消化，盘中脉冲式拉升后易回落。应聚焦已披露的一季度业绩兑现品种，回避无基本面支撑的纯题材炒作。</pre>
+            </div>
+        </div>
+        <script>
+            var chart = echarts.init(document.getElementById('chart'));
+            var option = {
+                tooltip: { trigger: 'item' },
+                series: [{
+                    name: '新闻热度', type: 'pie', radius: ['40%', '70%'],
+                    itemStyle: { borderRadius: 10, borderColor: '#1e293b', borderWidth: 2 },
+                    label: { color: '#e2e8f0' },
+                    data: [{"value": 94, "name": "AI"}, {"value": 14, "name": "算力"}, {"value": 6, "name": "机器人"}, {"value": 2, "name": "脑机接口"}, {"value": 3, "name": "新能源"}, {"value": 1, "name": "低空经济"}, {"value": 12, "name": "商业航天"}, {"value": 3, "name": "自动驾驶"}, {"value": 1, "name": "创新药"}]
+                }]
+            };
+            chart.setOption(option);
+        </script>
+    </body>
+    </html>
+    
