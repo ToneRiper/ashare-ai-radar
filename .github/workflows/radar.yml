@@ -67,6 +67,7 @@ jobs:
           git config user.email "github-actions@github.com"
 
           git add history.json
+          git add index.html
           git add trend.json
           git add hot_rank.json
           git add hot_streak.json
