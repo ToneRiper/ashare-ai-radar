@@ -1,11 +1,12 @@
 import os
 import json
 import requests
+import re
 from openai import OpenAI
 from datetime import datetime
 
 # ======================
-# 1. 核心配置与初始化
+# 1. 核心配置
 # ======================
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
@@ -15,141 +16,163 @@ DS_KEY = os.getenv("DEEPSEEK_API_KEY")
 client = OpenAI(api_key=DS_KEY, base_url="https://api.deepseek.com")
 
 def escape_html(text):
-    """安全清洗，防止微信/TG因为特殊符号拒收"""
     if not text: return ""
     return str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 # ======================
-# 2. AI 极简逻辑引擎
+# 2. 腾讯实时行情穿透接口
 # ======================
-def get_ai_insight(news_title):
-    """强迫 AI 只输出 30 字以内的核心逻辑"""
+def get_realtime_stock_data(stock_code):
+    """
+    调用腾讯财经接口，获取真实的量价异动数据。
+    支持自动识别沪市(sh)和深市(sz)。
+    """
+    # 简单清洗代码，只保留数字
+    code = re.sub(r'\D', '', str(stock_code))
+    if not code or len(code) != 6: return None
+    
+    # 判断沪深
+    prefix = "sh" if code.startswith(('6', '9')) else "sz"
+    full_code = f"{prefix}{code}"
+    
+    try:
+        url = f"http://qt.gtimg.cn/q={full_code}"
+        res = requests.get(url, timeout=5)
+        data = res.text.split('~')
+        if len(data) > 30:
+            name = data[1]           # 股票名称
+            price = float(data[3])   # 当前价格
+            change = float(data[32]) # 涨跌幅 %
+            turnover = data[38]      # 换手率 %
+            volume_ratio = data[49]  # 量比 (反人性核心指标，看资金是否突然介入)
+            return {"name": name, "code": code, "change": change, "turnover": turnover, "vol_ratio": volume_ratio}
+    except Exception as e:
+        return None
+    return None
+
+# ======================
+# 3. AI 毒舌评委 (过滤垃圾，提取代码)
+# ======================
+def get_ai_decision(news_title, topic):
+    """
+    逼迫 AI 打分，低于 7 分直接丢弃。
+    同时要求 AI 返回真实的游资妖股代码。
+    """
+    prompt = f"""你是一个杀伐果断、反人性的 A 股顶级游资。
+当前题材：【{topic}】
+最新驱动事件：{news_title}
+
+请严格按以下步骤思考并输出：
+1. 若是英文先自行翻译。评估该事件对A股的【情绪爆发力】(1-10分)。
+2. 若爆发力低于7分，直接回复单词：IGNORE （不要有任何其他字符）。
+3. 若大于等于7分，提取出最具辨识度的 3-5 只历史妖股/龙头股代码。
+
+如果大于等于7分，严格按以下两行格式输出：
+逻辑：[30字以内极简逻辑，一语道破资金意图，绝不废话]
+代码：[仅输出6位数字代码，用逗号隔开，如: 000001, 600000]
+"""
     try:
         response = client.chat.completions.create(
             model="deepseek-chat",
-            messages=[
-                {"role": "system", "content": "你是A股顶级游资。字数严格限制在30字以内！绝对不要废话！只输出格式：【利好板块】具体炒作逻辑。"},
-                {"role": "user", "content": f"最新重磅消息：{news_title}"}
-            ],
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.3, # 降低发散，提高代码准确度
             stream=False
         )
-        return escape_html(response.choices[0].message.content)
-    except Exception as e:
-        return "【资金监控中】"
+        return response.choices[0].message.content.strip()
+    except:
+        return "IGNORE"
 
 # ======================
-# 3. 股票异动量化打分引擎 (替代你之前的 ...)
-# ======================
-def auto_quant_stock_pick(topic_name):
-    """
-    量化选股模块。这里内置了一个资金筛选逻辑。
-    如果在真实盘中，会筛选出符合题材、市值在30-300亿、且有资金异动的前排股。
-    """
-    # 模拟抓取该题材下的异动龙头（实盘中这里是你对接东财接口的地方）
-    # 为了保证你的代码能直接跑通不报错，这里做安全返回
-    target_stocks = [
-        {"name": f"{topic_name}龙头A", "change": 6.5, "super_wan": 3500},
-        {"name": f"{topic_name}先锋B", "change": 4.2, "super_wan": 1200}
-    ]
-    return target_stocks
-
-# ======================
-# 4. 双端降级强推引擎
+# 4. 强力推送引擎
 # ======================
 def send_alert(text):
-    """带重试机制的强力推送，死活都要送到你手机上"""
-    print("开始执行双端推送...")
-    # 微信推送 (Server酱)
+    print("准备发送信号...")
     if SERVER_KEY:
         sc_url = f"https://sctapi.ftqq.com/{SERVER_KEY}.send"
-        try:
-            # 微信更喜欢 Markdown，这里做个简单转换
-            md_text = text.replace("<b>", "**").replace("</b>", "**")
-            res = requests.post(sc_url, data={"title": "A股游资暗潜雷达", "desp": md_text}, timeout=15)
-            if res.status_code == 200:
-                print("✅ 微信推送成功")
-            else:
-                print(f"⚠️ 微信发送异常: {res.text}")
-        except Exception as e:
-            print(f"❌ 微信网络异常: {e}")
-
-    # Telegram 推送
+        md_text = text.replace("<b>", "**").replace("</b>", "**")
+        requests.post(sc_url, data={"title": "A股游资暗潜雷达", "desp": md_text}, timeout=10)
+        
     if TOKEN and CHAT_ID:
         tg_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-        try:
-            res = requests.post(tg_url, json={"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}, timeout=15)
-            if res.status_code != 200:
-                print(f"⚠️ TG 格式被拒，剥离格式强发...")
-                clean_text = text.replace("<b>", "").replace("</b>", "").replace("💡", "").replace("🔥", "")
-                requests.post(tg_url, json={"chat_id": CHAT_ID, "text": clean_text}, timeout=15)
-            else:
-                print("✅ TG 推送成功")
-        except Exception as e:
-            print(f"❌ TG 网络异常: {e}")
+        res = requests.post(tg_url, json={"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}, timeout=10)
+        if res.status_code != 200:
+            clean_text = text.replace("<b>", "").replace("</b>", "").replace("💡", "").replace("🔥", "")
+            requests.post(tg_url, json={"chat_id": CHAT_ID, "text": clean_text}, timeout=10)
 
 # ======================
-# 5. 主程序雷达 (组装车间)
+# 5. 主程序雷达
 # ======================
 def run_radar():
-    print("--- 游资雷达启动 ---")
+    print("--- 游资雷达启动：深度穿透模式 ---")
     
-    # 1. 抓取关键词
+    # 1. 关键词库
     try:
         with open("keywords.json", "r", encoding="utf-8") as f: KEYWORDS = json.load(f)
     except:
-        KEYWORDS = {"低空经济": ["低空", "飞行汽车"], "算力": ["算力", "GPU"]} # 兜底词库
+        KEYWORDS = {"低空经济": ["低空", "飞行汽车"], "算力": ["算力", "GPU"], "商业航天": ["航天", "SpaceX", "卫星"]}
 
-    # 2. 获取新闻 (你原有的获取路径)
+    # 2. 读取新闻 (确保拿到的是最新的，这里用了倒序逆转)
     all_news = []
     for file in ["data/miit_titles.json", "data/ndrc_titles.json", "data/gov_titles.json", "data/global_titles.json"]:
         if os.path.exists(file):
             try:
                 with open(file, "r", encoding="utf-8") as f:
                     data = json.load(f)
-                    for item in data:
-                        # 确保只拿有效数据
+                    for item in reversed(data): # 倒序，把最新的顶到前面
                         title = item if isinstance(item, str) else item.get("title", "")
                         if title: all_news.append({"title": title})
             except: pass
 
-    # 3. 核心清洗：只看最新新闻，并去除冗余
-    result = {}
-    for topic, aliases in KEYWORDS.items():
-        # 寻找匹配的新闻
-        matched = [n for n in all_news if any(a.lower() in n["title"].lower() for a in aliases)]
-        if matched:
-            # 【关键修改】：[:1] 代表只取最新的一条新闻，绝不看历史旧账
-            result[topic] = {"latest_news": matched[:1]}
-
-    # 4. 组装终极推送面板
+    # 3. 匹配与 AI 筛选
     today_str = datetime.now().strftime("%Y-%m-%d")
     message_body = f"<b>【A股异动雷达】 {today_str}</b>\n\n"
     has_target = False
 
-    for topic, info in result.items():
+    for topic, aliases in KEYWORDS.items():
+        matched = [n for n in all_news if any(a.lower() in n["title"].lower() for a in aliases)]
+        if not matched: continue
+        
+        latest_news = matched[0]["title"] # 取最新的一条
+        
+        # 将新闻交给 AI 进行 7 分过滤
+        decision = get_ai_decision(latest_news, topic)
+        
+        if "IGNORE" in decision:
+            continue # 爆发力不够，直接丢弃，不推给你看！
+            
+        # 解析 AI 的输出
+        logic_line = "逻辑解析中..."
+        stock_codes = []
+        for line in decision.split('\n'):
+            if line.startswith('逻辑：'): logic_line = line.replace('逻辑：', '').strip()
+            if line.startswith('代码：'): 
+                stock_codes = [c.strip() for c in line.replace('代码：', '').split(',') if c.strip()]
+
+        if not stock_codes: continue # 没选出股票也跳过
+
         has_target = True
-        news_title = info["latest_news"][0]["title"]
+        message_body += f"<b>🔥 {topic}</b>\n"
+        message_body += f"📰 驱动：{latest_news[:40]}...\n"
+        message_body += f"💡 逻辑：{escape_html(logic_line)}\n"
+        message_body += "🎯 真实量价潜伏池：\n"
         
-        # 让 AI 提炼
-        insight = get_ai_insight(news_title)
+        # 遍历 AI 给出的代码，去腾讯接口拿实时数据
+        for code in stock_codes[:5]: # 最多看5只
+            real_data = get_realtime_stock_data(code)
+            if real_data:
+                # 反人性指标：量比 > 2 代表资金突袭，换手率确保活跃
+                vol_status = "🔥异动" if float(real_data['vol_ratio']) > 2.0 else "平稳"
+                message_body += f" • {real_data['name']}({real_data['code']}) | 涨幅: {real_data['change']}% | 量比: {real_data['vol_ratio']} ({vol_status}) | 换手: {real_data['turnover']}%\n"
+            else:
+                message_body += f" • 暂无行情 ({code})\n"
         
-        # 获取个股 (直接调出潜伏标的)
-        stocks = auto_quant_stock_pick(topic)
-        
-        # 拼接排版
-        message_body += f"<b>🔥 题材：{topic}</b>\n"
-        message_body += f"📰 驱动：{news_title[:30]}...\n" # 新闻标题太长就截断
-        message_body += f"💡 逻辑：{insight}\n"
-        message_body += "🎯 资金潜伏池：\n"
-        for s in stocks:
-            message_body += f" • {s['name']} (异动:{s['change']}%, 大单:{s['super_wan']}万)\n"
         message_body += "--------------------\n"
 
-    # 5. 发送决策
+    # 4. 落地推送
     if has_target:
         send_alert(message_body)
     else:
-        send_alert(f"<b>【空仓警报】 {today_str}</b>\n\n当前市场极度静默，各大部委/外网无核心驱动政策，资金无明显合力方向。管住手，切勿满仓博弈。")
+        send_alert(f"<b>【空仓警报】 {today_str}</b>\n\n所有新闻均未通过 AI 的 7分爆发力测试。无确定性逻辑，严格防守，管住手。")
 
 if __name__ == "__main__":
     run_radar()
