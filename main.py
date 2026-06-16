@@ -13,6 +13,10 @@ CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 SERVER_KEY = os.getenv("SERVER_CHAN_KEY")
 DS_KEY = os.getenv("DEEPSEEK_API_KEY")
 
+# 【非常重要：这里填入你的 GitHub Pages 网址】
+# 例如：https://your-username.github.io/your-repo-name/
+GITHUB_PAGES_URL = "https://你的用户名.github.io/你的仓库名/" 
+
 client = OpenAI(api_key=DS_KEY, base_url="https://api.deepseek.com")
 
 def escape_html(text):
@@ -36,67 +40,35 @@ def get_realtime_stock_data(stock_code):
     except: pass
     return None
 
-def get_chart_image_url(topic_counts):
-    if not topic_counts: return None
-    labels = list(topic_counts.keys())
-    data = list(topic_counts.values())
-    chart_config = {
-        "type": "outlabeledPie",
-        "data": {
-            "labels": labels,
-            "datasets": [{"backgroundColor": ["#ef4444", "#f59e0b", "#10b981", "#3b82f6", "#8b5cf6", "#ec4899"], "data": data}]
-        },
-        "options": {
-            "backgroundColor": "#0f172a",
-            "plugins": {
-                "legend": {"display": False},
-                "outlabels": {"text": "%l (%v)", "color": "white", "stretch": 35, "font": {"resizable": True, "minSize": 12, "maxSize": 18}}
-            }
-        }
-    }
-    try:
-        json_str = json.dumps(chart_config)
-        return f"https://quickchart.io/chart?width=600&height=400&c={json_str}"
-    except: return None
-
 # ======================
-# 2. 强力双端推送引擎 (V44 彻底分离图文)
+# 2. 强力双端推送引擎 (V45 极致纯净文字版)
 # ======================
-def send_alert_with_image(text, image_url=None):
-    # --- 1. 微信 (Server酱) 推送 ---
+def send_alert(text):
+    # 添加统一的大屏入口
+    full_text = text + f"\n\n🌐 [点击查看今日热力图与可视化大屏]({GITHUB_PAGES_URL})"
+    
+    # --- 1. 微信 (Server酱) ---
     if SERVER_KEY:
         sc_url = f"https://sctapi.ftqq.com/{SERVER_KEY}.send"
-        # 微信端去除 HTML 标签，转为简单文本
-        clean_wx_text = text.replace("<b>", "").replace("</b>", "")
-        # 去除 HTML 超链接，保留文字
-        clean_wx_text = re.sub(r'<a href=".*?">(.*?)</a>', r'\1', clean_wx_text)
-        
-        # 微信端不再强行插入 Markdown 图片，直接附上大屏链接
-        if image_url:
-            clean_wx_text = f"👉 [点击查看图表大屏]({image_url})\n\n" + clean_wx_text
-            
-        requests.post(sc_url, data={"title": "A股游资内参", "desp": clean_wx_text}, timeout=10)
+        # 微信 Markdown 适配
+        wx_text = full_text.replace("<b>", "**").replace("</b>", "**")
+        wx_text = re.sub(r'<a href="(.*?)">(.*?)</a>', r'[\2](\1)', wx_text) # HTML 链接转 Markdown
+        requests.post(sc_url, data={"title": "A股游资内参", "desp": wx_text}, timeout=10)
 
-    # --- 2. Telegram 推送 ---
+    # --- 2. Telegram ---
     if TOKEN and CHAT_ID:
-        # A. 独立发送图片 (如果获取到了)
-        if image_url:
-            tg_photo_url = f"https://api.telegram.org/bot{TOKEN}/sendPhoto"
-            try:
-                requests.post(tg_photo_url, json={"chat_id": CHAT_ID, "photo": image_url, "caption": "📊 今日题材热力图"}, timeout=15)
-            except Exception as e: print(f"TG 发图失败: {e}")
-        
-        # B. 独立发送深度文字战报
         tg_msg_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+        # TG 需要 HTML，所以要把附加的大屏链接转成 HTML
+        tg_text = text + f"\n\n🌐 <a href='{GITHUB_PAGES_URL}'>点击查看今日热力图与可视化大屏</a>"
         try:
-            res = requests.post(tg_msg_url, json={"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True}, timeout=15)
-            # 极限容错：如果 HTML 解析依然被拒，剥离所有格式重发
+            res = requests.post(tg_msg_url, json={"chat_id": CHAT_ID, "text": tg_text, "parse_mode": "HTML", "disable_web_page_preview": True}, timeout=15)
+            # 容错：如果 HTML 解析失败，剥离所有格式重发纯净版
             if res.status_code != 200:
-                print(f"TG HTML解析失败，状态码: {res.status_code}")
-                clean_tg_text = text.replace("<b>", "").replace("</b>", "")
+                print(f"TG HTML解析失败: {res.text}，触发降级重发")
+                clean_tg_text = tg_text.replace("<b>", "").replace("</b>", "")
                 clean_tg_text = re.sub(r'<a href=".*?">(.*?)</a>', r'\1', clean_tg_text)
                 requests.post(tg_msg_url, json={"chat_id": CHAT_ID, "text": clean_tg_text}, timeout=15)
-        except Exception as e: print(f"TG 文字推送失败: {e}")
+        except Exception as e: print(f"TG 发送异常: {e}")
 
 # ======================
 # 3. 自动生成前端 Web 大屏
@@ -210,8 +182,6 @@ def run_radar():
     for topic, aliases in KEYWORDS.items():
         matched = [n for n in all_news if any(a.lower() in n["title"].lower() for a in aliases)]
         if matched: topic_counts[topic] = len(matched)
-        
-    chart_url = get_chart_image_url(topic_counts)
 
     # 模式 A：晚间复盘
     if current_hour >= 20:
@@ -228,7 +198,7 @@ def run_radar():
                     status = "🔥异动" if real_data['vol_ratio'] > 1.5 else "➖平稳"
                     message_body += f" • {real_data['name']}({code}) | 涨幅:{real_data['change']}% | 量比:{real_data['vol_ratio']} ({status})\n"
         
-        send_alert_with_image(message_body, chart_url)
+        send_alert(message_body)
         generate_dashboard(topic_counts, review_text, today_str) 
         return 
 
@@ -265,7 +235,7 @@ def run_radar():
         message_body += "--------------------\n"
 
     if has_target:
-        send_alert_with_image(message_body, chart_url)
+        send_alert(message_body)
     
     generate_dashboard(topic_counts, "盘中刺客模式：重点关注手机推送的实时异动卡片。", today_str)
 
