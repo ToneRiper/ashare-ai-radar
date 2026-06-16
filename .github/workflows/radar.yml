@@ -4,9 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    # 盘中刺客模式：工作日北京时间 9:30 到 15:30，每小时执行一次 (UTC 1:30-7:30)
     - cron: '30 1,2,3,4,5,6,7 * * 1-5'
-    # 盘后守夜人模式：工作日北京时间 21:00 准时生成全天宏观战报 (UTC 13:00)
     - cron: '0 13 * * 1-5'
 
 permissions:
@@ -14,13 +12,12 @@ permissions:
 
 jobs:
   radar:
-
     runs-on: ubuntu-latest
-
     steps:
-
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # 必须加这个才能提交网页
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -34,20 +31,16 @@ jobs:
           pip install --force-reinstall requests bs4 feedparser deep-translator openai google-generativeai
 
       - name: Fetch MIIT
-        run: |
-          python fetch_miit.py
+        run: python fetch_miit.py || true
 
       - name: Fetch NDRC
-        run: |
-          python fetch_ndrc.py
+        run: python fetch_ndrc.py || true
 
       - name: Fetch GOV
-        run: |
-          python fetch_gov.py
+        run: python fetch_gov.py || true
 
       - name: Fetch Global
-        run: |
-          python fetch_global.py
+        run: python fetch_global.py || true
 
       - name: Run Radar
         env:
@@ -58,21 +51,17 @@ jobs:
           SERVER_CHAN_KEY: ${{ secrets.SERVER_CHAN_KEY }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python main.py
+        run: python main.py
 
       - name: Commit Data
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
-          git add history.json
-          git add index.html
-          git add trend.json
-          git add hot_rank.json
-          git add hot_streak.json
-          git add data/*.json
-
-          git diff --cached --quiet || git commit -m "update radar data"
-
+          git add history.json || true
+          git add index.html || true
+          git add trend.json || true
+          git add hot_rank.json || true
+          git add hot_streak.json || true
+          git add data/*.json || true
+          git diff --cached --quiet || git commit -m "update radar data and dashboard"
           git push
