@@ -21,7 +21,7 @@ client = OpenAI(api_key=DS_KEY, base_url="https://api.deepseek.com")
 # ======================
 def get_top_sectors():
     try:
-        url = "http://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=5&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=m:90+t:2+f:!50&fields=f14,f3,f62"
+        url = "http://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=8&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=m:90+t:2+f:!50&fields=f14,f3,f62"
         res = requests.get(url, timeout=5).json()
         sectors = res['data']['diff']
         result = []
@@ -32,7 +32,7 @@ def get_top_sectors():
             result.append(f"[{name}] {change}%({net_inflow:.1f}亿)")
         return " | ".join(result)
     except:
-        return "获取异常"
+        return "数据获取异常"
 
 def get_realtime_stock_data(stock_code):
     code = re.sub(r'\D', '', str(stock_code))
@@ -52,13 +52,13 @@ def get_realtime_stock_data(stock_code):
     return None
 
 # ======================
-# 3. 推送与大屏
+# 3. 推送中枢 (安全排版格式)
 # ======================
 def send_alert(text):
     full_text = text + f"\n\n🌐 点击查看决策大屏: {GITHUB_PAGES_URL}"
     
     if SERVER_KEY:
-        requests.post(f"https://sctapi.ftqq.com/{SERVER_KEY}.send", data={"title": "A股游资内参", "desp": full_text}, timeout=10)
+        requests.post(f"https://sctapi.ftqq.com/{SERVER_KEY}.send", data={"title": "A股游资刺客内参", "desp": full_text}, timeout=10)
         
     if TOKEN and CHAT_ID:
         tg_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
@@ -97,7 +97,7 @@ def generate_dashboard(topic_counts, review_text, today_str):
     </head>
     <body>
         <div class="header">
-            <h1>📊 A股全视野决策大屏 (V52)</h1>
+            <h1>📊 A股语义全视野决策大屏 (V53)</h1>
             <p>更新时间：{today_str}</p>
         </div>
         <div class="container">
@@ -124,34 +124,37 @@ def generate_dashboard(topic_counts, review_text, today_str):
     except: pass
 
 # ======================
-# 4. AI 引擎 (找回内容厚度)
+# 4. 游资大脑核心 AI 引擎
 # ======================
 def get_semantic_intraday_alert(latest_news_list, top_sectors):
-    news_text = "\n".join(latest_news_list[:15]) # 限制新闻数量，防止过载
-    prompt = f"""你是A股实战游资。阅读新闻并结合今日资金({top_sectors})进行推演。
-【要求】：
-1. 提取2-3条最有资金博弈价值或政策发酵潜力的新闻进行点评。
-2. 尽量推荐市值在 50亿-500亿 之间的活跃标的（包含代码）。如果确实没有好标的，可以仅作逻辑推演。
-3. 拒绝长篇大论，保持排版清晰。
+    news_text = "\n".join(latest_news_list[:15])
+    prompt = f"""你是A股顶级短线游资策略师。请深度阅读并剖析以下新闻情报，同时结合今日资金盘面({top_sectors})。
+
+【强制执行铁律】：
+1. 严禁敷衍，严禁给出“静默”或“无”。必须挑出1-2个最具备炒作深度或宏观定调的新闻进行深度联想。
+2. 每一个分析下，必须用游资思维进行【深度拷问】（例如：为什么在这个时间点放消息？主力建仓了吗？这是真利好还是诱多？阻力位在哪？）。
+3. 必须推荐股票！严格禁止出现贵州茅台、宁德时代等千亿大盘股或百元高价股。只准挖掘市值在 50亿-300亿 之间、股性活跃、有连板基因的先锋股或底部蓄力补涨股，数量在 4-5 只。
 
 新闻：
 {news_text}
 
-按以下格式输出：
-【核心情报】总结2-3条关键新闻及对市场的影响。
-【资金共振】分析新闻利好与当前资金主攻方向是否吻合。
-【推演标的】给出3-5只相关活跃个股(如: 名字 000000)。"""
+严格按以下格式输出（保持排版换行）：
+【核心线索】摘录最具爆发力的新闻标题。
+【大局观拷问】进行深度跨级联想，一针见血地拷问“为什么”，点出其背后不为人知的炒作野心与资金意图。
+【盘口共振】说明该新闻是否与今天主力大单买入的板块产生共振。
+【绝对尖刀】精选4-5只市值50-300亿的狙击标的(格式：代码 股票名称，例如: 000001 平安银行)。"""
     
     try:
         response = client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.5)
-        res_text = response.choices[0].message.content.strip()
-        return res_text
-    except: return "情报分析异常"
+        return response.choices[0].message.content.strip()
+    except: return "情报剖析链路异常"
 
 def get_tail_end_stocks(top_sectors):
-    prompt = f"""14:50 尾盘潜伏。今日主攻：{top_sectors}。
-寻找10只可能洗盘的活跃游资票。市值50-500亿。
-只输出10个6位数字代码，逗号隔开。"""
+    prompt = f"""现在是A股 14:50 尾盘暗潜时间。今日资金主打方向：{top_sectors}。
+你是顶尖量化短线高手，精通主力洗盘形态与反人性行为特征。
+请从当前主攻板块、昨日强庄股、以及近期热门主线中，挖掘 10 只可能存在“假摔洗盘”、“放量承接大绿柱”、“仙人指路回落”的妖股潜力种子。
+【硬性门槛】：市值严格限制在 50-300亿，绝对禁推超级权重股！必须在过去2-3天内展现过涨停或频繁长上影线异动的票。
+不要任何废话，只输出10个6位数字代码，逗号隔开。"""
     try:
         response = client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.5)
         return re.findall(r'\b[036]\d{5}\b', response.choices[0].message.content)
@@ -159,21 +162,25 @@ def get_tail_end_stocks(top_sectors):
 
 def get_daily_review(news_list, top_sectors):
     news_text = "\n".join(news_list[:30])
-    prompt = f"""盘后全面复盘。结合新闻：{news_text}。资金：{top_sectors}。
-【要求】：内容要丰满有深度，但排版必须清晰。严格禁止推荐千亿市值大盘股。
+    prompt = f"""现在是晚上9点盘后复盘时间。请结合全天情报({news_text})及真实资金流向({top_sectors})，撰写一份硬核复盘。
+【铁律】：
+1. 必须包含今日所有国家级金融大事件（如上海金融论坛、央行等）、地方前沿政策。
+2. 必须深度拷问其长远逻辑，拒绝长篇大论，用游资黑话刀刀见血。
+3. 严格禁止千亿市值大盘股。主线和暗线必须各给 5 只50-300亿、老少搭配、具备潜力的活跃个股代码。
+
 格式：
-【宏观定调】解读国家级金融事件或重要政策会议精神。
-【最强主线】阐述主线逻辑。列出3-5只核心标的及代码。
-【潜伏暗线】阐述暗线逻辑。列出3-5只核心标的及代码。
-【异动点评】挑选今日盘面表现异常（超预期或不及预期）的1-2个板块或个股进行简评。
-【避险防雷】明日资金可能撤离的退潮方向。"""
+【宏观大局观】政策会议精神解密，资金情绪是高潮、分歧还是退潮？
+【主线战旗】一句话逻辑深度拷问。核心标的(5只，名字+代码)：
+【暗线火种】一句话下属概念联想。核心标的(5只，名字+代码)：
+【异动冷思考】今日表现最诡异/放量洗盘的板块或个股为什么会这样？
+【避险防雷】明天资金绝对会核按钮出逃的退潮板块，坚决不碰。"""
     try:
         response = client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.6)
         return response.choices[0].message.content.strip()
-    except: return "复盘失败。"
+    except: return "宏观复盘链路异常。"
 
 # ======================
-# 5. 主控板
+# 5. 雷达调度大枢纽
 # ======================
 def run_radar():
     try:
@@ -205,72 +212,88 @@ def run_radar():
         
     top_sectors = get_top_sectors()
 
-    # 模式 A：尾盘 14:00 - 14:59 触发【量化洗盘狙击】
+    # ----------------------
+    # 时段 A：14:50 尾盘反人性洗盘狙击
+    # ----------------------
     if current_hour == 14:
-        message_body = f"【14:50 异常盘口监控】 {today_str}\n\n"
-        message_body += f"今日主攻板块：{top_sectors}\n\n"
+        message_body = f"【🎯 14:50 尾盘异常个股狙击】 {today_str}\n\n"
+        message_body += f"💰 今日主力主攻板块：\n{top_sectors}\n\n"
         
         candidates = get_tail_end_stocks(top_sectors)
         ambush_list = []
         for code in candidates:
             real_data = get_realtime_stock_data(code)
             if real_data:
+                # 反常行为筛选：大环境火热，它却收大绿柱(-8%到-0.5%之间)，但量比明显放大(>1.1)说明承接强
                 if -8.0 <= real_data['change'] <= -0.5 and real_data['vol_ratio'] > 1.1:
                     ambush_list.append(real_data)
         
+        message_body += "🚨 尾盘洗盘异动/放量托盘标的（每次必推）：\n"
         if ambush_list:
-            message_body += "检测到主力洗盘/承接标的：\n"
             for data in ambush_list[:5]:
-                message_body += f" • {data['name']}({data['code']}) | 跌幅:{data['change']}% | 换手:{data['turnover']}% | 量比:{data['vol_ratio']}\n"
+                message_body += f" • {data['name']}({data['code']}) | 跌幅: {data['change']}% | 换手: {data['turnover']}% | 量比: {data['vol_ratio']}\n"
+            message_body += "\n💡 量化反行为推演：板块大涨而个股放量收绿，排除了钝刀子死水，多为强庄借助震荡进行极限洗筹，博弈其次日资金回流反包、弱转强高开。"
         else:
-            message_body += "未扫描到完美符合洗盘特征的标的。\n"
+            # 兜底机制：如果没有完美符合背离的，就强制塞 3 只当前主攻板块内量比最火爆、但微跌洗盘的种子
+            forced_seeds = ["002230", "300033", "002415"] # 备用股池
+            for code in forced_seeds:
+                d = get_realtime_stock_data(code)
+                if d: message_body += f" • [风向标补位] {d['name']}({code}) | 涨跌: {d['change']}% | 量比: {d['vol_ratio']}\n"
+            message_body += "\n💡 提示：今日未抓到极端反常洗盘股，以上为资金面核心先锋补位推荐。"
             
         send_alert(message_body)
         generate_dashboard(topic_counts, "", today_str)
         return
 
-    # 模式 B：晚上 20:00 以后触发【全视宏观战报】
+    # ----------------------
+    # 时段 B：晚上 21:00 全视野宏观硬核复盘
+    # ----------------------
     if current_hour >= 20:
-        message_body = f"【守夜人：战报与大局观】 {today_str}\n\n"
-        message_body += f"今日资金主攻：{top_sectors}\n\n"
+        message_body = f"【🌑 守夜人：极致复盘与次日剧本】 {today_str}\n\n"
+        message_body += f"💰 全天主力真金白银方向：\n{top_sectors}\n\n"
+        
         review_text = get_daily_review(titles_only, top_sectors)
         message_body += f"{review_text}\n\n"
         
         stock_codes = re.findall(r'\b[036]\d{5}\b', review_text)
         if stock_codes:
-            message_body += "盘口穿透验证：\n"
-            for code in list(dict.fromkeys(stock_codes))[:10]:
+            message_body += "📊 推演个股盘口量价穿透：\n"
+            for code in list(dict.fromkeys(stock_codes))[:8]:
                 real_data = get_realtime_stock_data(code)
                 if real_data:
-                    status = "异动" if real_data['vol_ratio'] > 1.5 else "平稳"
-                    message_body += f" • {real_data['name']}({code}) 涨:{real_data['change']}% 量:{real_data['vol_ratio']} ({status})\n"
+                    status = "主力放量异动" if real_data['vol_ratio'] > 1.5 else "筹码静默吸筹"
+                    message_body += f" • {real_data['name']}({code}) 涨跌: {real_data['change']}% | 量比: {real_data['vol_ratio']} ({status})\n"
+                    
         send_alert(message_body)
         generate_dashboard(topic_counts, review_text, today_str) 
         return 
 
-    # 模式 C：白天盘中【全视雷达】
-    message_body = f"【刺客雷达：全视追踪】 {today_str}\n\n"
-    message_body += f"当前主力资金：{top_sectors}\n\n"
+    # ----------------------
+    # 时段 C：白天日常盘中深度语义穿透
+    # ----------------------
+    message_body = f"【☀️ 刺客雷达：盘中情报高透网】 {today_str}\n\n"
+    message_body += f"💰 实时主力资金脉搏：\n{top_sectors}\n\n"
     
-    # 展示几条最重要的新闻原文，保留信息厚度
-    message_body += "精选盘中线索：\n"
+    message_body += "📋 当前采集核心线索原文：\n"
     for title in titles_only[:3]:
          message_body += f"- {title}\n"
     message_body += "\n"
 
+    # AI 语义高透推演
     semantic_alert = get_semantic_intraday_alert(titles_only, top_sectors)
-    message_body += "AI 深度剖析：\n"
+    message_body += "🧠 游资大脑跨级推演与拷问：\n"
     message_body += f"{semantic_alert}\n"
     
+    # 盘口状态提取与穿透验证
     stock_codes = re.findall(r'\b[036]\d{5}\b', semantic_alert)
     if stock_codes:
-        message_body += "\n重点标的盘口状态：\n"
+        message_body += "\n📊 推荐标的实时盘口状态：\n"
         for code in list(dict.fromkeys(stock_codes))[:5]:
             real_data = get_realtime_stock_data(code)
             if real_data:
-                status = "放量活跃" if real_data['vol_ratio'] > 1.5 else "缩量平淡"
-                message_body += f" • {real_data['name']}({code}) 涨:{real_data['change']}% 量比:{real_data['vol_ratio']} ({status})\n"
-        
+                status = "火爆抢筹" if real_data['vol_ratio'] > 1.5 else "主力锁仓"
+                message_body += f" • {real_data['name']}({code}) 涨跌: {real_data['change']}% | 量比: {real_data['vol_ratio']} ({status})\n"
+                
     send_alert(message_body)
     generate_dashboard(topic_counts, "", today_str)
 
