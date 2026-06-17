@@ -20,17 +20,17 @@
     </head>
     <body>
         <div class="header">
-            <h1>📊 A股游资雷达决策大屏</h1>
-            <p>数据更新时间：2026-06-17 14:34</p>
+            <h1>📊 A股语义雷达决策大屏 (V48)</h1>
+            <p>数据更新时间：2026-06-17 14:42</p>
         </div>
         <div class="container">
             <div class="card">
-                <h2>🔥 今日政策与情报热力图</h2>
+                <h2>🔥 今日产业链资金热力图</h2>
                 <div id="chart"></div>
             </div>
             <div class="card" style="flex: 2; max-width: 800px;">
                 <h2>🌑 核心战报与次日推演</h2>
-                <pre>正在等待数据生成...</pre>
+                <pre>等待晚间 20:00 数据生成...</pre>
             </div>
         </div>
         <script>
@@ -41,7 +41,7 @@
                     name: '热度', type: 'pie', radius: ['40%', '70%'],
                     itemStyle: { borderRadius: 10, borderColor: '#1e293b', borderWidth: 2 },
                     label: { color: '#e2e8f0', fontSize: 14 },
-                    data: [{"value": 80, "name": "AI与算力"}, {"value": 3, "name": "未来产业"}]
+                    data: [{"value": 1, "name": "部委政策与国企"}, {"value": 1, "name": "卫健委与前沿医疗"}, {"value": 2, "name": "AI与算力基建"}, {"value": 3, "name": "新旧能源与智能车"}]
                 }]
             };
             chart.setOption(option);
