@@ -6,7 +6,7 @@ from openai import OpenAI
 from datetime import datetime, timedelta
 
 # ======================
-# 1. 核心配置 (请确保填入你真实的 Github Pages 网址)
+# 1. 核心配置
 # ======================
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
@@ -21,18 +21,53 @@ def escape_html(text):
     return str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 # ======================
-# 2. 强力防断连推送引擎 (双端净化)
+# 2. 真实资金流向雷达 (同花顺/东财底层平替)
+# ======================
+def get_top_sectors():
+    """实时抓取全市场今日领涨与主力资金净流入板块 (解决新闻滞后问题)"""
+    try:
+        # 东财实时板块 API
+        url = "http://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=5&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=m:90+t:2+f:!50&fields=f14,f3,f62"
+        res = requests.get(url, timeout=5).json()
+        sectors = res['data']['diff']
+        result = []
+        for s in sectors:
+            name = s['f14']
+            change = s['f3']
+            net_inflow = s['f62'] / 100000000 if s['f62'] else 0
+            result.append(f"[{name}] 涨幅:{change}%, 净流入:{net_inflow:.1f}亿")
+        return " | ".join(result)
+    except:
+        return "资金流向获取异常"
+
+def get_realtime_stock_data(stock_code):
+    code = re.sub(r'\D', '', str(stock_code))
+    if not code or len(code) != 6: return None
+    prefix = "sh" if code.startswith(('6', '9')) else "sz"
+    try:
+        url = f"http://qt.gtimg.cn/q={prefix}{code}"
+        res = requests.get(url, timeout=5)
+        data = res.text.split('~')
+        if len(data) > 49:
+            return {
+                "name": data[1], "code": code,
+                "change": float(data[32]), "turnover": float(data[38]),
+                "amplitude": float(data[43]), "vol_ratio": float(data[49])
+            }
+    except: pass
+    return None
+
+# ======================
+# 3. 推送引擎与大屏生成
 # ======================
 def send_alert(text):
     full_text = text + f"\n\n🌐 [点击查看今日可视化大屏]({GITHUB_PAGES_URL})"
     
-    # 微信推送
     if SERVER_KEY:
         wx_text = full_text.replace("<b>", "**").replace("</b>", "**")
         wx_text = re.sub(r'<a href="(.*?)">(.*?)</a>', r'[\2](\1)', wx_text)
         requests.post(f"https://sctapi.ftqq.com/{SERVER_KEY}.send", data={"title": "A股游资内参", "desp": wx_text}, timeout=10)
 
-    # TG 推送
     if TOKEN and CHAT_ID:
         tg_text = text + f"\n\n🌐 <a href='{GITHUB_PAGES_URL}'>点击查看今日可视化大屏</a>"
         tg_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
@@ -44,9 +79,6 @@ def send_alert(text):
                 requests.post(tg_url, json={"chat_id": CHAT_ID, "text": clean_tg_text}, timeout=15)
         except: pass
 
-# ======================
-# 3. 大屏前端生成器 (新增强制拒翻标签)
-# ======================
 def generate_dashboard(topic_counts, review_text, today_str):
     labels = list(topic_counts.keys())
     data_values = list(topic_counts.values())
@@ -84,8 +116,8 @@ def generate_dashboard(topic_counts, review_text, today_str):
                 <div id="chart"></div>
             </div>
             <div class="card" style="flex: 2; max-width: 800px;">
-                <h2>🌑 宏观战报与明日推演</h2>
-                <pre>{review_text if review_text else "正在等待晚间 21:00 全市场复盘数据生成..."}</pre>
+                <h2>🌑 核心战报与次日推演</h2>
+                <pre>{review_text if review_text else "正在等待数据生成..."}</pre>
             </div>
         </div>
         <script>
@@ -93,7 +125,7 @@ def generate_dashboard(topic_counts, review_text, today_str):
             var option = {{
                 tooltip: {{ trigger: 'item' }},
                 series: [{{
-                    name: '新闻热度', type: 'pie', radius: ['40%', '70%'],
+                    name: '热度', type: 'pie', radius: ['40%', '70%'],
                     itemStyle: {{ borderRadius: 10, borderColor: '#1e293b', borderWidth: 2 }},
                     label: {{ color: '#e2e8f0', fontSize: 14 }},
                     data: {pie_data_str}
@@ -110,25 +142,31 @@ def generate_dashboard(topic_counts, review_text, today_str):
     except: pass
 
 # ======================
-# 4. 游资大脑 AI 引擎 (重装归位)
+# 4. 游资大脑 AI 引擎 (极端精简 + 选股铁律)
 # ======================
-def get_daily_review(news_list):
-    news_text = "\n".join(news_list[:25])
-    prompt = f"""你是顶级A股游资。现在是晚上9点，基于以下今日全网核心情报，推演【明日大局观与操作剧本】。
-情报：{news_text}
+def get_daily_review(news_list, top_sectors):
+    news_text = "\n".join(news_list[:20])
+    prompt = f"""你是顶级A股游资。现在是盘后复盘时间。
+今日政策情报：{news_text}
+今日真实资金买入前五板块：{top_sectors}
 
-严禁任何废话，直接用游资黑话输出：
-【大局观定调】今日政策与消息面偏向进攻还是防守？资金大概率的高低切方向在哪？
-【主线推演】提炼出最有可能爆发的1条主线和1条暗线。
-【核心标的】为你推演的主线和暗线，分别提供至少2只最具辨识度的核心龙头代码（格式要求：主线代码：000001；暗线代码：600000）。
-【避险盲区】指出明天绝对不能接盘的旧题材退潮方向。"""
+【严格纪律】：
+1. 极度提炼，拒绝任何废话和套话，像军队战报一样精简。
+2. 绝对禁止推荐市值超 500 亿的大盘股或百元高价股！只准选市值 50亿-300亿、价格亲民、股性活跃的票。
+3. 每条主线必须推荐 5 只股票：包含 1-2 只明牌人气龙头（看风向），外加 3-4 只底部蓄力、形态好的潜力补涨股（做潜伏）。
+
+严格按以下格式输出：
+【大局观】一句话概括情绪高低与明日操作基调。
+【最强主线】一句话主线逻辑。核心标的：(格式: 000001,000002...共5只)。
+【潜伏暗线】一句话暗线逻辑。核心标的：(格式: 000003,000004...共5只)。
+【避险防雷】一句话指出明日坚决不碰的退潮方向。"""
     try:
         response = client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.5)
         return escape_html(response.choices[0].message.content.strip())
-    except: return "复盘推演失败，API异常。"
+    except: return "复盘推演失败。"
 
-def get_intraday_decision(news_title, topic):
-    prompt = f"游资视角分析。情报：{news_title}。题材：{topic}。\n【事件本质】一句话翻译。\n【资金推演】利好哪个细分环节？\n【龙头代码】提供2只相关性最高的A股代码(仅数字)。"
+def get_intraday_decision(news_title, topic, top_sectors):
+    prompt = f"游资视角。情报：{news_title}。题材：{topic}。今日资金动向：{top_sectors}。\n【本质】一句话翻译。\n【推演】资金切向哪？\n【龙头与潜力】5只低位+活跃相关代码(仅6位数字逗号隔开，绝不要大盘股)。"
     try:
         response = client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.3)
         return escape_html(response.choices[0].message.content.strip())
@@ -164,12 +202,27 @@ def run_radar():
     for topic, aliases in KEYWORDS.items():
         matched = [n for n in all_news if any(a.lower() in n["title"].lower() for a in aliases)]
         if matched: topic_counts[topic] = len(matched)
+        
+    # 核心：抓取真实资金面数据
+    top_sectors = get_top_sectors()
 
     # 模式 A：晚上 20:00 以后触发【宏观大局观复盘】
     if current_hour >= 20:
-        message_body = f"<b>【🌑 守夜人：宏观战报与明日推演】 {today_str}</b>\n\n"
-        review_text = get_daily_review(titles_only)
-        message_body += f"{review_text}\n"
+        message_body = f"<b>【🌑 守夜人：极致战报与精选】 {today_str}</b>\n\n"
+        message_body += f"💰 <b>今日真实资金主攻：</b>\n{top_sectors}\n\n"
+        
+        review_text = get_daily_review(titles_only, top_sectors)
+        message_body += f"{review_text}\n\n"
+        
+        # 盘口穿透验证
+        stock_codes = re.findall(r'\b[036]\d{5}\b', review_text)
+        if stock_codes:
+            message_body += "📊 <b>核心标的量价穿透验证：</b>\n"
+            for code in list(dict.fromkeys(stock_codes))[:10]: # 最多验证10只
+                real_data = get_realtime_stock_data(code)
+                if real_data:
+                    status = "🔥吸筹" if real_data['vol_ratio'] > 1.5 else "➖震荡"
+                    message_body += f" • {real_data['name']}({code}) | 涨幅:{real_data['change']}% | 量比:{real_data['vol_ratio']} ({status})\n"
         
         send_alert(message_body)
         generate_dashboard(topic_counts, review_text, today_str) 
@@ -183,15 +236,29 @@ def run_radar():
         matched = [n for n in all_news if any(a.lower() in n["title"].lower() for a in aliases)]
         if not matched: continue
         
-        decision = get_intraday_decision(matched[0]["title"], topic)
+        decision = get_intraday_decision(matched[0]["title"], topic, top_sectors)
+        
+        # 盘中也加入盘口穿透
+        stock_codes = re.findall(r'\b[036]\d{5}\b', decision)
+        decision_clean = decision
+        if stock_codes:
+            decision_clean += "\n📊 <b>实时状态：</b>\n"
+            for code in list(dict.fromkeys(stock_codes))[:5]:
+                real_data = get_realtime_stock_data(code)
+                if real_data:
+                    status = "🔥" if real_data['vol_ratio'] > 1.5 else "➖"
+                    decision_clean += f" • {status}{real_data['name']} 涨:{real_data['change']}% 量:{real_data['vol_ratio']}\n"
+
         has_target = True
-        message_body += f"<b>📌 题材命中：{topic}</b>\n{decision}\n--------------------\n"
+        message_body += f"<b>📌 题材命中：{topic}</b>\n{decision_clean}\n--------------------\n"
 
     if has_target:
+        # 盘中有异动时，也带上资金面情况
+        message_body = f"💰 <b>盘中主力资金：</b>\n{top_sectors}\n\n" + message_body
         send_alert(message_body)
     else:
-        # 心跳包机制：即使没异动，也要报平安，防止你觉得系统坏了
-        send_alert(f"<b>【雷达心跳】 {today_str}</b>\n\n当前时段政策情报面无重大异动，保持静默监控。")
+        # 没新闻时，直接推送资金面动向
+        send_alert(f"<b>【雷达心跳】 {today_str}</b>\n\n当前无政策消息异动。\n💰 <b>目前全市场资金主攻：</b>\n{top_sectors}")
         
     generate_dashboard(topic_counts, "", today_str)
 
