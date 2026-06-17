@@ -3,8 +3,9 @@
     <html lang="zh-CN">
     <head>
         <meta charset="UTF-8">
+        <meta name="google" content="notranslate">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>游资暗潜雷达 - 可视化大屏</title>
+        <title>游资暗潜雷达 - 决策大屏</title>
         <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
         <style>
             body { background-color: #0f172a; color: #e2e8f0; font-family: 'Microsoft YaHei', sans-serif; margin: 0; padding: 20px; }
@@ -13,31 +14,23 @@
             .container { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
             .card { background: #1e293b; border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); flex: 1; min-width: 300px; max-width: 600px; }
             .card h2 { color: #fbbf24; border-bottom: 2px solid #fbbf24; padding-bottom: 10px; margin-top: 0; }
-            pre { white-space: pre-wrap; word-wrap: break-word; font-family: inherit; font-size: 15px; line-height: 1.6; }
+            pre { white-space: pre-wrap; word-wrap: break-word; font-family: inherit; font-size: 15px; line-height: 1.6; color: #cbd5e1; }
             #chart { width: 100%; height: 400px; }
         </style>
     </head>
     <body>
         <div class="header">
             <h1>📊 A股游资雷达决策大屏</h1>
-            <p>数据更新时间：2026-06-16 22:07</p>
+            <p>数据更新时间：2026-06-17 14:31</p>
         </div>
         <div class="container">
             <div class="card">
-                <h2>🔥 今日题材热力图</h2>
+                <h2>🔥 今日政策与情报热力图</h2>
                 <div id="chart"></div>
             </div>
             <div class="card" style="flex: 2; max-width: 800px;">
-                <h2>🌑 宏观战报与推演</h2>
-                <pre>【大局观】情绪周期处于【震荡分化期】。近期政策密集（汽车、船舶、通信、有色等工业数据及标准发布），但缺乏超预期宏观利好，市场对前期涨幅较大的科技、汽车板块存在获利兑现压力，整体呈现“权重稳、题材轮动快”的特征，明日大概率延续结构性行情，指数窄幅震荡。
-
-【主线与妖股】  
-主线：**汽车产业链（政策催化+数据支撑）**  
-最强代码：000625（长安汽车）、600104（上汽集团）  
-暗线：**船舶制造（一季度数据全球领先+周期景气）**  
-最强代码：600150（中国船舶）、600685（中船防务）  
-
-【盲区预警】散户最易踩的坑是**追高已连续上涨的通信、有色金属板块**（前4个月通信数据及一季度有色数据已充分反映，利好兑现后缺乏新催化，明日大概率冲高回落）。</pre>
+                <h2>🌑 核心战报与次日推演</h2>
+                <pre>正在等待数据生成...</pre>
             </div>
         </div>
         <script>
@@ -45,10 +38,10 @@
             var option = {
                 tooltip: { trigger: 'item' },
                 series: [{
-                    name: '新闻热度', type: 'pie', radius: ['40%', '70%'],
+                    name: '热度', type: 'pie', radius: ['40%', '70%'],
                     itemStyle: { borderRadius: 10, borderColor: '#1e293b', borderWidth: 2 },
-                    label: { color: '#e2e8f0' },
-                    data: [{"value": 93, "name": "AI"}, {"value": 14, "name": "算力"}, {"value": 6, "name": "机器人"}, {"value": 2, "name": "脑机接口"}, {"value": 3, "name": "新能源"}, {"value": 1, "name": "低空经济"}, {"value": 14, "name": "商业航天"}, {"value": 3, "name": "自动驾驶"}, {"value": 1, "name": "创新药"}]
+                    label: { color: '#e2e8f0', fontSize: 14 },
+                    data: [{"value": 80, "name": "AI与算力"}, {"value": 3, "name": "未来产业"}]
                 }]
             };
             chart.setOption(option);
