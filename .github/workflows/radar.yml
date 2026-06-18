@@ -4,13 +4,17 @@ on:
   workflow_dispatch:
 
   schedule:
-    # 9:25 集合竞价结束分析 (UTC 01:25)
+    # 交易时间内每 20 分钟疯狂巡逻一次 (北京时间 9:00 - 15:00 覆盖)
+    # 对应的 UTC 时间是 01:00 到 07:00，每20分钟执行一次
+    - cron: '*/20 1-6 * * 1-5'
+    
+    # 额外增加一个 9:25 竞价卡点分析 (UTC 01:25)
     - cron: '25 1 * * 1-5'
-    # 10:30 盘中异动追踪 (UTC 02:30)
-    - cron: '30 2 * * 1-5'
-    # 14:50 尾盘潜伏狙击 (UTC 06:50)
+    
+    # 额外增加一个 14:50 尾盘狙击卡点 (UTC 06:50)
     - cron: '50 6 * * 1-5'
-    # 21:00 深度复盘战报 (UTC 13:00)
+    
+    # 晚上 21:00 深度复盘卡点 (UTC 13:00)
     - cron: '0 13 * * 1-5'
 
 permissions:
@@ -52,11 +56,8 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          BAIDU_APP_ID: ${{ secrets.BAIDU_APP_ID }}
-          BAIDU_SECRET_KEY: ${{ secrets.BAIDU_SECRET_KEY }}
           SERVER_CHAN_KEY: ${{ secrets.SERVER_CHAN_KEY }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python main.py
 
       - name: Commit Data
@@ -65,9 +66,6 @@ jobs:
           git config user.email "github-actions@github.com"
           git add history.json || true
           git add index.html || true
-          git add trend.json || true
-          git add hot_rank.json || true
-          git add hot_streak.json || true
           git add data/*.json || true
-          git diff --cached --quiet || git commit -m "update radar data and dashboard"
+          git diff --cached --quiet || git commit -m "update radar data and cache"
           git push
