@@ -28,16 +28,16 @@
     "link": "https://openai.com/index/openai-to-acquire-ona"
   },
   {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva"
+  },
+  {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
   },
   {
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
-  },
-  {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva"
   },
   {
     "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -96,12 +96,12 @@
     "link": "https://openai.com/index/wasmer"
   },
   {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "link": "https://openai.com/index/frontier-safety-blueprint"
-  },
-  {
     "title": "OpenAI public policy agenda",
     "link": "https://openai.com/index/public-policy-agenda"
+  },
+  {
+    "title": "A blueprint for democratic governance of frontier AI",
+    "link": "https://openai.com/index/frontier-safety-blueprint"
   },
   {
     "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
@@ -632,6 +632,10 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-17/ai-health-startup-wants-to-assist-half-of-latin-american-doctors"
   },
   {
+    "title": "Taiwan Holds Its Benchmark Rate Even as Reasons to Hike Pile Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-17/taiwan-seen-holding-benchmark-rate-even-as-inflation-speeds-up"
+  },
+  {
     "title": "SNB Keeps Up Franc Intervention Threat With Rate at Zero",
     "link": "https://www.bloomberg.com/news/articles/2026-06-18/snb-keeps-up-franc-intervention-threat-with-rate-held-at-zero"
   },
@@ -710,10 +714,6 @@
   {
     "title": "Lee Says Korea-US Ties ‘Eternal’ as Trump Invites Him to Golf",
     "link": "https://www.bloomberg.com/news/articles/2026-06-18/lee-says-korea-us-ties-eternal-as-trump-invites-him-to-golf"
-  },
-  {
-    "title": "Taiwan Seen Holding Policy Rate Even as Inflation Speeds Up",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-17/taiwan-seen-holding-benchmark-rate-even-as-inflation-speeds-up"
   },
   {
     "title": "BOJ Will Hike Rates Again by December, Says 90% of Economists",
