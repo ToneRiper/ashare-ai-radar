@@ -1,11 +1,15 @@
 [
   {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet"
+    "title": "How Omio is building the future of conversational travel",
+    "link": "https://openai.com/index/omio"
   },
   {
     "title": "Daybreak: Tools for securing every organization in the world",
     "link": "https://openai.com/index/daybreak-securing-the-world"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet"
   },
   {
     "title": "Codex-maxxing for long-running work",
@@ -52,20 +56,20 @@
     "link": "https://openai.com/index/preply"
   },
   {
-    "title": "OpenAI to acquire Ona",
-    "link": "https://openai.com/index/openai-to-acquire-ona"
-  },
-  {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
-  },
-  {
     "title": "BBVA puts AI at the core of banking with OpenAI",
     "link": "https://openai.com/index/bbva"
   },
   {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
+  },
+  {
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+  },
+  {
+    "title": "OpenAI to acquire Ona",
+    "link": "https://openai.com/index/openai-to-acquire-ona"
   },
   {
     "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -116,8 +120,8 @@
     "link": "https://openai.com/index/biodefense-in-the-intelligence-age"
   },
   {
-    "title": "Introducing new capabilities to GPT-Rosalind",
-    "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+    "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+    "link": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/"
   },
   {
     "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
@@ -186,10 +190,6 @@
   {
     "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
     "link": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/"
-  },
-  {
-    "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
-    "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/"
   },
   {
     "title": "'Reward for failure': Investor support for Target Chair Brian Cornell falls to lowest level ever",
@@ -312,6 +312,18 @@
     "link": "https://www.cnbc.com/2026/06/11/spacex-billionaire-investing.html"
   },
   {
+    "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
+    "link": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
+  },
+  {
+    "title": "Singtel sells $773 million Thai energy stake as it ramps up AI and data center investments",
+    "link": "https://www.cnbc.com/2026/06/23/singtel-sells-gulf-development-stake-asset-recycling-ai-investment.html"
+  },
+  {
+    "title": "Singapore inflation holds at 1.8% in May, cooler than expected as services costs ease",
+    "link": "https://www.cnbc.com/2026/06/23/singapore-may-inflation-fastest-energy-prices.html"
+  },
+  {
     "title": "How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp",
     "link": "https://www.cnbc.com/2026/06/23/4-billion-startup-cred-meta-whatsapp.html"
   },
@@ -420,23 +432,11 @@
     "link": "https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html"
   },
   {
-    "title": "Telegram's Durov says India punishing 150 million users after country temporarily bans messaging app",
-    "link": "https://www.cnbc.com/2026/06/16/indias-solution-to-entrance-exam-fraud-a-temporary-ban-on-telegram.html"
-  },
-  {
-    "title": "Australia central bank warns hikes are not off the table as it keeps rates steady at 4.35%",
-    "link": "https://www.cnbc.com/2026/06/16/australia-central-bank-holds-rates-as-cpi.html"
-  },
-  {
-    "title": "Bank of Japan hikes rates to 1%, highest since 1995, as yen and inflation worries take hold",
-    "link": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html"
-  },
-  {
     "title": "The running list: major tech layoffs in 2026 where employers cited AI",
     "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
   },
   {
-    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "title": "OpenAI launches new initiative to help find and patch open source bugs",
     "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
   },
   {
@@ -512,6 +512,26 @@
     "link": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/"
   },
   {
+    "title": "US Tech Stocks Set to Slide as AI Rout Spreads to Global Peers",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-stock-futures-tumble-as-megacap-tech-rout-hits-asian-peers"
+  },
+  {
+    "title": "Korean Stocks Fall 10% From Record",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/korean-stocks-fall-10-from-record-video"
+  },
+  {
+    "title": "Prosus Develops OpenClaw Rival to Avoid Europe Privacy Concerns",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/prosus-develops-openclaw-rival-to-avoid-europe-privacy-concerns"
+  },
+  {
+    "title": "Tech Firms Lead European Stocks Lower as AI Momentum Cools",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/tech-firms-lead-european-stocks-lower-as-ai-momentum-cools"
+  },
+  {
+    "title": "Tech Selloff Hits Asia as Korea Stocks Slide | Insight with Haslinda Amin 06/23/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/insight-with-haslinda-amin-6-23-2026-video"
+  },
+  {
     "title": "India’s Biggest Equity Fund Makes Contrarian IT Stocks Bet",
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/india-s-biggest-equity-fund-makes-contrarian-bet-on-it-stocks"
   },
@@ -520,12 +540,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/masa-son-dismisses-musk-s-space-data-center-as-an-ai-race-winner"
   },
   {
-    "title": "Tencent in Talks to Offload Marvelous and Other Global Game Bets",
+    "title": "Billionaire Sex-For-Visa Claim at WiseTech Tests Investor Limits",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/billionaire-sex-for-visa-claim-at-wisetech-tests-investor-limits"
+  },
+  {
+    "title": "Tencent Is Said to Mull Exits From Game Studios Like Marvelous",
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/tencent-in-talks-to-offload-marvelous-and-other-global-game-bets"
   },
   {
     "title": "The Hidden Costs of Leveraged ETFs",
     "link": "https://www.bloomberg.com/news/videos/2026-06-23/the-hidden-costs-of-leveraged-etfs-video"
+  },
+  {
+    "title": "Europe Sees 6 Billion Reasons for New Levy on Online Shoppers",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/europe-sees-6-billion-reasons-for-new-levy-on-online-shoppers"
   },
   {
     "title": "India to Share Rocket Tech to Hasten Development of Space Firms",
@@ -604,40 +632,48 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-22/ai-services-startup-baseten-nabs-13-billion-valuation-video"
   },
   {
-    "title": "Valve Prices Steam Machine Video Game Console Above $1,000, Citing Component Shortage",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/valve-prices-steam-machine-games-console-above-1-000-citing-component-shortage"
+    "title": "Gold Bulls Gut Outlooks as Deutsche Bank Follows Goldman’s Cut",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/deutsche-bank-cuts-gold-forecasts-up-to-22-as-bulls-temper-view"
   },
   {
-    "title": "Apple’s New CEO Must Restore Company’s Design Edge: Power On",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-22/apple-s-new-ceo-must-restore-company-s-design-edge-video"
+    "title": "UK Economy Shrinks for Second Straight Month, Flash PMI Shows",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/uk-economy-shrinks-for-second-straight-month-flash-pmi-shows"
   },
   {
-    "title": "Microsoft, Chevron Sign Power Deal for Texas Data Center",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-22/microsoft-chevron-sign-power-deal-for-texas-data-center-video"
+    "title": "South African Consumer Mood Darkens as Iran War Hits Fuel Prices",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/south-african-consumer-mood-darkens-as-iran-war-hits-fuel-prices"
   },
   {
-    "title": "Kids’ Online Safety Bill Deal Struck by House GOP, Democrats",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/kids-online-safety-bill-deal-struck-by-house-gop-democrats"
-  },
-  {
-    "title": "Tech Rally Is Seen Having More Runway as AI Spending Gains Speed",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/tech-rally-is-seen-having-more-runway-as-ai-spending-gains-speed"
-  },
-  {
-    "title": "Centrica CEO Eyes US for More LNG Deals and Trading Expansion",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/centrica-ceo-eyes-us-for-more-lng-deals-and-trading-expansion"
-  },
-  {
-    "title": "How Eli Lilly Became a $1 Trillion Company",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-22/how-eli-lilly-became-a-1-trillion-company-video"
-  },
-  {
-    "title": "Iran Rushes to Woo Asia’s Largest Oil Importers After US Waiver",
+    "title": "Iran Rushes to Woo Asia’s Top Oil Importers After US Waiver",
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/iran-rushes-to-woo-asia-s-largest-oil-importers-after-us-waiver"
   },
   {
-    "title": "Deutsche Bank Cuts Gold Forecasts up to 22% as Bulls Temper View",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/deutsche-bank-cuts-gold-forecasts-up-to-22-as-bulls-temper-view"
+    "title": "German Business Activity Unexpectedly Worsens on Services Slump",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/german-business-activity-unexpectedly-worsens-on-services-slump"
+  },
+  {
+    "title": "French Business Activity Extends Drop With Economy ‘Frail’",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/french-business-activity-extends-drop-with-economy-frail"
+  },
+  {
+    "title": "India’s Inflation Is Anchored Despite May Pickup, RBI Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/india-s-inflation-is-still-anchored-despite-may-pickup-rbi-says"
+  },
+  {
+    "title": "US Trade Chief Greer in India to Resolve Trade Pact Hurdles",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-trade-chief-greer-in-india-to-resolve-trade-pact-hurdles"
+  },
+  {
+    "title": "India’s Economic Activity Slowed in June, Flash PMI Shows",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/india-s-economic-activity-slowed-in-june-flash-pmi-shows"
+  },
+  {
+    "title": "China Pursues Austerity With First Fiscal Gap Cutback Since 2023",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/china-pursues-austerity-with-first-fiscal-gap-cutback-since-2023"
+  },
+  {
+    "title": "Singapore’s Core Inflation Steady at 1.4% Despite Oil Crunch",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/singapore-s-core-inflation-steady-at-1-4-despite-oil-crunch"
   },
   {
     "title": "Greeks Get Priced Out of Summer Even After Economic Recovery",
@@ -648,16 +684,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/hungary-likely-to-cut-rates-as-forint-gains-and-inflation-slows"
   },
   {
-    "title": "China Pursues Austerity With First Fiscal Gap Cutback Since 2023",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/china-pursues-austerity-with-first-fiscal-gap-cutback-since-2023"
-  },
-  {
     "title": "US-Japan More Aligned on FX, Katayama Says After Bessent Talks",
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/japan-s-katayama-confirms-talks-with-bessent-on-fx-agreement"
-  },
-  {
-    "title": "India’s Inflation Is Still Anchored Despite May Pickup, RBI Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/india-s-inflation-is-still-anchored-despite-may-pickup-rbi-says"
   },
   {
     "title": "Buy-Now-Pay-Later for $3 Bubble Tea Highlights Thai Debt Risk",
@@ -720,38 +748,6 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-22/china-and-trade-imbalances-and-fragmentation"
   },
   {
-    "title": "Andy Burnham Might Shift the UK’s Fiscal Goalposts Again",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-22/uk-latest-starmer-s-exit-for-burnham-may-prompt-fiscal-rule-revamp"
-  },
-  {
-    "title": "AI Could Boost Poland’s Economy by 12% by 2035, World Bank Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/ai-could-boost-poland-s-economy-by-12-by-2035-world-bank-says"
-  },
-  {
-    "title": "BOE Sets £40 Billion Stablecoin Cap and Drops Holding Limit",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/boe-sets-40-billion-cap-per-stablecoin-and-drops-holding-limit"
-  },
-  {
-    "title": "Business Meets to Discuss Intervention in Johannesburg Crisis",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/business-meets-to-discuss-intervention-in-johannesburg-crisis"
-  },
-  {
-    "title": "Escrivá Says ECB Must Be Vigilant on Oil Price Impact on Wages",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/escriva-says-ecb-must-be-vigilant-on-oil-price-impact-on-wages"
-  },
-  {
-    "title": "Trump’s New US Tariff Wall Shakes Up Winners, Losers Lineup",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/trump-builds-a-new-us-tariff-wall-in-shakeup-of-winners-losers"
-  },
-  {
-    "title": "Philippines Slashes 2026 Growth Outlook on Iran War, Graft Mess",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/philippines-slashes-2026-growth-outlook-on-iran-war-graft-mess"
-  },
-  {
-    "title": "BCG Impacted by Saudi Arabia's Spending Pullback",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-22/bcg-impacted-by-saudi-arabia-s-spending-pullback-video"
-  },
-  {
     "title": "Three things to watch amid Anthropic’s latest feud with the government",
     "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
   },
@@ -792,6 +788,10 @@
     "link": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"
   },
   {
+    "title": "Amflow&#8217;s TL e-bike is ready for baby&#8217;s first mountain adventure",
+    "link": "https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure"
+  },
+  {
     "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
     "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling"
   },
@@ -826,9 +826,5 @@
   {
     "title": "Valve will finally let you build your own Steam Machine with SteamOS for desktop",
     "link": "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia"
-  },
-  {
-    "title": "Valve explains why it isn&#8217;t subsidizing the Steam Machine",
-    "link": "https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing"
   }
 ]
