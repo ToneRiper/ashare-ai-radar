@@ -56,20 +56,20 @@
     "link": "https://openai.com/index/preply"
   },
   {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva"
-  },
-  {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
+    "title": "OpenAI to acquire Ona",
+    "link": "https://openai.com/index/openai-to-acquire-ona"
   },
   {
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
   },
   {
-    "title": "OpenAI to acquire Ona",
-    "link": "https://openai.com/index/openai-to-acquire-ona"
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva"
+  },
+  {
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
   },
   {
     "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/biodefense-in-the-intelligence-age"
   },
   {
+    "title": "How Businesses Are Building Specialized AI They Can Trust",
+    "link": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/"
+  },
+  {
     "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
     "link": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/"
   },
@@ -136,12 +140,12 @@
     "link": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/"
   },
   {
-    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-    "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
-  },
-  {
     "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
     "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
+  },
+  {
+    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+    "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
   },
   {
     "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -186,10 +190,6 @@
   {
     "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
     "link": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/"
-  },
-  {
-    "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/"
   },
   {
     "title": "'Reward for failure': Investor support for Target Chair Brian Cornell falls to lowest level ever",
@@ -432,6 +432,30 @@
     "link": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html"
   },
   {
+    "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
+    "link": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/"
+  },
+  {
+    "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+    "link": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/"
+  },
+  {
+    "title": "Meta debuts new, cheaper smart glasses under its own brand",
+    "link": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/"
+  },
+  {
+    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/"
+  },
+  {
+    "title": "Ribbie turns real-time baseball stats into arcade-like, pixel-art broadcasts",
+    "link": "https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/"
+  },
+  {
+    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/"
+  },
+  {
     "title": "The running list: major tech layoffs in 2026 where employers cited AI",
     "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
   },
@@ -488,28 +512,72 @@
     "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"
   },
   {
-    "title": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah and invests $900M in startup",
-    "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/"
+    "title": "Tech Selloff in Korea Continues in US Trading",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/tech-selloff-in-korea-continues-in-us-trading-video"
   },
   {
-    "title": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app",
-    "link": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/"
+    "title": "How Eli Lilly Became a $1 Trillion Company",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-22/how-eli-lilly-became-a-1-trillion-company-video"
   },
   {
-    "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-    "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/"
+    "title": "Amazon Ordered to Collectively Bargain at San Francisco Warehouse",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/amazon-ordered-by-nlrb-judge-to-collectively-bargain-at-san-francisco-warehouse"
   },
   {
-    "title": "Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’",
-    "link": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/"
+    "title": "EU Sees 6 Billion Reasons for New Levy on Online Shoppers",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/europe-sees-6-billion-reasons-for-new-levy-on-online-shoppers"
   },
   {
-    "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
-    "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/"
+    "title": "AI is Most Transformative Technology of our Times Says Former SEC Chair Gary Gensler",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/ai-is-most-transformative-tech-of-our-time-says-gensler-video"
   },
   {
-    "title": "Klue hack results in data breach at several cybersecurity firms",
-    "link": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/"
+    "title": "Supreme Court Puts Curbs on Human-Rights Suits in Cisco Win",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/supreme-court-puts-new-curbs-on-human-rights-suits-in-cisco-win"
+  },
+  {
+    "title": "MGX’s $50 Billion Raise Sets Up One of the Biggest AI Funds Ever",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/abu-dhabi-s-mgx-raises-about-50-billion-to-accelerate-ai-deals"
+  },
+  {
+    "title": "SpaceX Loses $600 Billion in Value Over Three Days",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/spacex-loses-600-billion-in-value-over-three-days-video"
+  },
+  {
+    "title": "Tech Stocks Drive Indexes Lower as AI Rout Hits Global Markets",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-stock-futures-tumble-as-megacap-tech-rout-hits-asian-peers"
+  },
+  {
+    "title": "SpaceX Shares Waver Near $2 Trillion Mark After 3-Day Rout",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/spacex-rout-set-to-push-market-value-below-2-trillion"
+  },
+  {
+    "title": "European Stocks Drop as Tech Rout Spreads; Puma Plummets 10%",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/tech-firms-lead-european-stocks-lower-as-ai-momentum-cools"
+  },
+  {
+    "title": "Meta Debuts Glasses Under Its Own Brand at Lower $299 Price",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/meta-launches-299-in-house-adventure-fury-kylie-jenner-starfire-glasses"
+  },
+  {
+    "title": "Early Anthropic Backer Menlo Lands $3 Billion in Its Largest-Ever Haul",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-backer-menlo-ventures-lands-3-billion-in-its-largest-ever-haul"
+  },
+  {
+    "title": "Games Industry Faces More Painful Months Ahead",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/tencent-and-microsoft-add-to-painful-adjustment-for-games-industry"
+  },
+  {
+    "title": "Gracias’ Valor to Raise $2.5 Billion Fund Amid SpaceX Win",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/gracias-valor-to-raise-2-5-billion-fund-amid-spacex-win"
+  },
+  {
+    "title": "Julian Emanuel Remains Bullish as Tech Selloff Deepens",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/julian-emanuel-remains-bullish-as-tech-selloff-deepens-video"
+  },
+  {
+    "title": "Getty Just Became an AI Company. It Now Has to Perform Like One",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/getty-images-stock-soars-145-after-openai-content-licensing-deal"
   },
   {
     "title": "Masayoshi Son Dismisses Musk’s Orbital Data Centers Idea",
@@ -518,10 +586,6 @@
   {
     "title": "Oracle Slashed 21,000 in 12 Months as AI Replaces Some Roles",
     "link": "https://www.bloomberg.com/news/videos/2026-06-23/oracle-slashed-21-000-in-12-months-as-ai-replaces-roles-video"
-  },
-  {
-    "title": "SpaceX Slump Is Set to Push Market Value Below $2 Trillion",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/spacex-rout-set-to-push-market-value-below-2-trillion"
   },
   {
     "title": "BBVA Offloads AI Risk With $2 Billion Infrastructure-Linked SRT",
@@ -536,10 +600,6 @@
     "link": "https://www.bloomberg.com/features/2026-ai-mental-health-crisis-law-enforcement/"
   },
   {
-    "title": "European Stocks Drop as Korea Tech Rout Ripples Through Markets",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/tech-firms-lead-european-stocks-lower-as-ai-momentum-cools"
-  },
-  {
     "title": "Stocks Hit by Tech Selloff as Korean Shares Plunge",
     "link": "https://www.bloomberg.com/news/videos/2026-06-23/stocks-hit-by-tech-selloff-as-korean-shares-plunge-video"
   },
@@ -550,10 +610,6 @@
   {
     "title": "EU to Escalate Meta Probe Into Addictive Design That Hooks Kids",
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/eu-to-escalate-meta-probe-into-addictive-design-that-hooks-kids"
-  },
-  {
-    "title": "US Tech Stocks Set to Slide as AI Rout Hits Global Peers",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-stock-futures-tumble-as-megacap-tech-rout-hits-asian-peers"
   },
   {
     "title": "Allianz CIO Sees Markets Pricing 'Darwinian Effect of AI'",
@@ -576,60 +632,52 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/india-s-biggest-equity-fund-makes-contrarian-bet-on-it-stocks"
   },
   {
-    "title": "Masayoshi Son Dismisses Musk’s Idea for Orbital Data Centers",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/masa-son-dismisses-musk-s-space-data-center-as-an-ai-race-winner"
+    "title": "US Sanctions Key Cuban Bank, Miner in Fresh Blow to Havana",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-sanctions-key-cuban-bank-and-miner-in-fresh-blow-to-havana"
   },
   {
-    "title": "Billionaire Sex-For-Visa Claim at WiseTech Tests Investor Limits",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/billionaire-sex-for-visa-claim-at-wisetech-tests-investor-limits"
+    "title": "Macklem Warns Over-Investment in US Poses Financial Risks",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/macklem-warns-over-investment-in-us-poses-global-financial-risks"
   },
   {
-    "title": "Tencent Is Said to Mull Exits From Game Studios Like Marvelous",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/tencent-in-talks-to-offload-marvelous-and-other-global-game-bets"
+    "title": "Brazil Central Bank Flags Price Woes as Rate Cuts Near Pause",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/brazil-central-bank-says-easing-hinges-on-new-data-as-risks-rise"
   },
   {
-    "title": "The Hidden Costs of Leveraged ETFs",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-23/the-hidden-costs-of-leveraged-etfs-video"
+    "title": "Taylor Says BOE Must be Ready to Cut Rates in Benign Scenario",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/taylor-says-boe-must-be-ready-to-cut-rates-in-benign-scenario"
   },
   {
-    "title": "Europe Sees 6 Billion Reasons for New Levy on Online Shoppers",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/europe-sees-6-billion-reasons-for-new-levy-on-online-shoppers"
+    "title": "US Business Activity Picks Up on Manufacturing Strength",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-business-activity-picks-up-on-manufacturing-strength"
   },
   {
-    "title": "India to Share Rocket Tech to Hasten Development of Space Firms",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/india-to-share-rocket-tech-to-hasten-development-of-space-firms"
+    "title": "Hungary Starts Rate-Cut Cycle as Strong Forint Tames Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/hungary-cuts-key-interest-rate-after-forint-gain-slows-inflation"
   },
   {
-    "title": "Qualcomm Is Said to Near Deal for AI Software Firm Modular",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular"
+    "title": "Europe Has $200 Billion Treasury Leverage Over US, Study Argues",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/europe-has-200-billion-treasury-leverage-over-us-study-argues"
   },
   {
-    "title": "Amazon Ordered to Collectively Bargain at San Francisco Warehouse",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/amazon-ordered-by-nlrb-judge-to-collectively-bargain-at-san-francisco-warehouse"
+    "title": "South African Consumer Confidence Sours on Fuel Price Surge",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/south-african-consumer-mood-darkens-as-iran-war-hits-fuel-prices"
   },
   {
-    "title": "WiseTech Chairman White Denies Human Trafficking Involvement",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/wisetech-says-founder-white-denies-human-trafficking-involvement"
+    "title": "Emerging Market Stocks Fall on Korea Selloff; Currencies Weaken",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/emerging-market-stocks-fall-on-korea-selloff-currencies-weaken"
   },
   {
-    "title": "Internet Stocks Will Be Next Area of AI Cycle, Standard Chartered Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-23/internet-stocks-will-be-next-area-of-ai-cycle-stanchart-video"
+    "title": "British Retailers Brace for Fallout From EU’s New E-commerce Customs Fees",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/eu-and-de-minimis-exemption"
   },
   {
-    "title": "SpaceX Fall Continues, Erasing Billions in Market Value",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-23/spacex-fall-continues-erasing-billions-in-market-value-video"
+    "title": "Greenspan Reflections, From ‘Alan Greenstud’ to a ‘Flaw’ in His Model",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/greenspan-reflections-from-alan-greenstud-to-a-flaw-in-his-model"
   },
   {
-    "title": "Gas Stations Accused of Using AI to Boost California Prices",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/gas-stations-accused-of-using-ai-to-inflate-prices-in-california"
-  },
-  {
-    "title": "Tech Selloff Drags Stocks Lower | The Close 6/22/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-22/the-close-6-22-2026-video"
-  },
-  {
-    "title": "Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/oracle-layoffs-fueled-by-ai-reduces-workforce-by-21-000"
+    "title": "Digital Euro Clears Key Hurdle to Rollout in EU Parliament",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/digital-euro-clears-key-hurdle-to-rollout-in-eu-parliament"
   },
   {
     "title": "US Workers Lose Buying Power After War Drives Up Prices",
@@ -654,10 +702,6 @@
   {
     "title": "Gold Bulls Gut Outlooks as Deutsche Bank Follows Goldman’s Cut",
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/deutsche-bank-cuts-gold-forecasts-up-to-22-as-bulls-temper-view"
-  },
-  {
-    "title": "South African Consumer Mood Darkens as Iran War Hits Fuel Prices",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/south-african-consumer-mood-darkens-as-iran-war-hits-fuel-prices"
   },
   {
     "title": "Iran Rushes to Woo Asia’s Top Oil Importers After US Waiver",
@@ -704,48 +748,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/buy-now-pay-later-for-3-bubble-tea-highlights-thai-debt-risk"
   },
   {
-    "title": "Starmer Leaves No. 10 Without Ever Managing to Explain What He Stood For",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/starmer-leaves-no-10-without-ever-managing-to-explain-what-he-stood-for"
-  },
-  {
-    "title": "Fed’s Goolsbee Says Too-High Inflation Is ‘Going the Wrong Way’",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/fed-s-goolsbee-says-too-high-inflation-is-going-the-wrong-way"
-  },
-  {
-    "title": "Mexico Raises $6.3 Billion in New Bonds to Fund Buyback",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/mexico-is-tapping-global-debt-markets-to-fund-bond-buyback"
-  },
-  {
-    "title": "Citadel Securities Says Warsh Could Stabilize Long US Bonds",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/citadel-says-fed-s-new-regime-could-stabilize-treasury-long-end"
-  },
-  {
-    "title": "Greenspan’s Legacy: From Irrational Exuberance to 2008 Crisis",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/greenspan-s-legacy-from-irrational-exuberance-to-2008-crisis"
-  },
-  {
-    "title": "Lagarde Says China Should Be Part of Any Talks on FX Imbalances",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/lagarde-says-china-should-be-part-of-any-talks-on-fx-imbalances"
-  },
-  {
-    "title": "Mauritius Freezes Pension Means-Test After Backlash on Budget",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/mauritius-freezes-pension-means-test-after-backlash-on-budget"
-  },
-  {
-    "title": "Remembering Alan Greenspan",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-22/remembering-alan-greenspan-video"
-  },
-  {
-    "title": "Bond Traders Plot Impact of Next UK Chancellor With Starmer Out",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/bond-traders-want-to-know-who-manages-the-money-with-starmer-out"
-  },
-  {
-    "title": "Lagarde Sees No Need for More Forceful ECB Response to War",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/lagarde-sees-no-need-for-more-forceful-ecb-response-to-iran-war"
-  },
-  {
-    "title": "Iran War Puts $124 Billion Gulf Remittance Lifeline at Risk",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/iran-war-puts-uae-saudi-arabia-s-foreign-workers-under-strain"
+    "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+    "link": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/"
   },
   {
     "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
@@ -784,47 +788,43 @@
     "link": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/"
   },
   {
-    "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
-    "link": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/"
+    "title": "Meta’s smart glasses now have a dedicated charging stand",
+    "link": "https://www.theverge.com/tech/954900/meta-glasses-charging-stand-price-launch"
   },
   {
-    "title": "The Verge’s guide to Amazon Prime Day 2026",
-    "link": "https://www.theverge.com/gadgets/951437/amazon-prime-day-tech-deals-guide-2026"
+    "title": "How much would the Steam Machine cost to build?",
+    "link": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative"
   },
   {
     "title": "The best Prime Day deals we found on our favorite gear",
     "link": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale"
   },
   {
-    "title": "Amflow&#8217;s TL e-bike is ready for baby&#8217;s first mountain adventure",
-    "link": "https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure"
+    "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+    "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach"
   },
   {
-    "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-    "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling"
+    "title": "Hoto’s 25-bit electric screwdriver is 40 percent off during Prime Day",
+    "link": "https://www.theverge.com/gadgets/953038/hoto-electric-screwdriver-kit-pro-amazon-deal-sale"
   },
   {
-    "title": "Valve describes just how brutal RAM negotiations are in 2026",
-    "link": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis"
+    "title": "The Oura Ring 4 is as low as $226 for Prime Day",
+    "link": "https://www.theverge.com/gadgets/953517/oura-ring-4-prime-day-smart-ring-deal-sale"
   },
   {
-    "title": "AI is cursing renters with the promise of impossible homes",
-    "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"
+    "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+    "link": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant"
   },
   {
-    "title": "The Apple Watch SE 3 is just $199 for Prime Day",
-    "link": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale"
+    "title": "My go-to Kindle is back at its best price yet for Prime Day",
+    "link": "https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale"
   },
   {
-    "title": "The Steam Machine is the start of an even more expensive future for game consoles",
-    "link": "https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix"
+    "title": "Valve confirms it&#8217;s working with Intel and Nvidia on SteamOS for more GPUs",
+    "link": "https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux"
   },
   {
-    "title": "Google invests in A24 to build AI movie tools",
-    "link": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership"
-  },
-  {
-    "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
-    "link": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler"
+    "title": "I’m not giving up my Steam Deck for MSI’s new Claw",
+    "link": "https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on"
   }
 ]
