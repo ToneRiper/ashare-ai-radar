@@ -25,8 +25,13 @@ client = OpenAI(api_key=DS_KEY, base_url="https://api.deepseek.com")
 CACHE_FILE = "data/sent_news.json"
 
 # ======================
-# 2. 极速数据与量化引擎 
+# 2. 极速数据与量化引擎 (V73 多空双轨词库扩容)
 # ======================
+BULL_WORDS = ["增持", "回购", "突破", "中标", "批复", "重组", "借壳", "异动", "拉升", "发布", "突发", "订单", "政策", "涨停", "利好"]
+BEAR_WORDS = ["减持", "立案", "调查", "亏损", "爆雷", "退市", "问询", "澄清", "违规", "跌停", "闪崩", "黑天鹅", "警示", "利空", "大跌"]
+CORE_WORDS = ["股", "市", "板块", "融资", "期指", "央行"]
+ALL_MONITOR_WORDS = BULL_WORDS + BEAR_WORDS + CORE_WORDS
+
 def get_live_flash_news():
     flash_news = []
     try:
@@ -35,9 +40,11 @@ def get_live_flash_news():
         items = res.get('result', {}).get('data', {}).get('feed', {}).get('list', [])
         for item in items:
             rich_text = item.get('rich_text', '')
-            if rich_text and any(k in rich_text for k in ["股", "市", "板块", "异动", "拉升", "发布", "突发", "订单", "重组", "政策", "融资", "期指"]):
+            if rich_text and any(k in rich_text for k in ALL_MONITOR_WORDS):
                 clean_text = re.sub(r'<[^>]+>', '', rich_text)
-                flash_news.append(clean_text[:120])
+                # 简单给新闻打个标签，方便AI识别
+                prefix = "[⚠️利空]" if any(b in clean_text for b in BEAR_WORDS) else ("[🔥利好]" if any(b in clean_text for b in BULL_WORDS) else "[📰快讯]")
+                flash_news.append(f"{prefix} {clean_text[:120]}")
     except: pass
     return flash_news
 
@@ -132,35 +139,33 @@ def clean_stock_codes(raw_text):
     return [c for c in codes if c.startswith(('00', '30', '60')) and not c.startswith('688')]
 
 # ======================
-# 4. 游资全息主动大脑 (自我进化与多维融合)
+# 4. 游资全息主动大脑 (利空一票否决 + 深度博弈)
 # ======================
 def get_semantic_intraday_alert(news_list, top_sectors, spikes_5min, quant_data, focus_keywords, mode):
     news_text = "\n".join(news_list[:15])
-    prompt = f"""你是具备独立思考与跨界算力的顶级游资合伙人。你不仅要用我教你的逻辑，还要用你自己的高阶量化认知来帮我避坑选股。
+    prompt = f"""你是我的核心量化游资合伙人。现在情报网同时截获了多空双面信息。
 模式：【{mode}】 | 风向：{top_sectors} | 异动：{spikes_5min} | 硬核指标：{quant_data}
 
-【合伙人主动算力指令】：
-1. 你的主动思考维度（必须融入分析）：
-   - 跨市场嗅觉：结合大盘情况，预判是否存在“现货拉升掩护期指空单”的衍生品挤压风险？
-   - 绞杀陷阱判断：当前板块异动是龙头启动，还是高潮末期的“中位股诱多绞杀”？
-   - 资金底牌：去排查异动个股的量价，有没有Level-2拆单骗炮嫌疑？有没有融资盘踩踏风险？
-2. 选股死命令：必须推荐 5-8 只最优标的，且强制分散在至少 3 个完全不同的板块！只准要00/30/60开头，30-200亿市值。
-3. 对每一只推荐的票，写明它的【高阶死穴拆解】（包含：FVG缺口、套牢盘密度、主力缩量洗盘动作、以及中位股风险排查）。
+【合伙人多空博弈指令】：
+1. 致命利空拦截：查阅提供的新闻，如果带有 [⚠️利空] 标签（如减持、立案、退市），你必须在【黑天鹅避险预警】板块中严厉警告，并绝对禁止推荐与该利空相关的任何板块和个股！
+2. 跨市场与Level-2视角：结合当前异动，预判是否存在期指做空压制？异动拉升是否有假单骗炮嫌疑？
+3. 选股死命令：必须在安全的题材中，推荐 5-8 只最优标的，且强制分散在至少 3 个完全不同的板块！只准要00/30/60开头，30-200亿市值。
+4. 每只票必须说明【高阶死穴拆解】（FVG缺口、套牢盘密度、洗盘动作排查）。
 
-参考快讯：{news_text}
+多空情报：{news_text}
 
 【严格排版】：
-**🎯 市场全息定调 (衍生品与情绪跨界视角)**
-* (主动输出：情绪处于什么周期？是否存在期指贴水或杠杆踩踏风险？主力在玩什么把戏？)
+**🎯 市场全息定调 (多空博弈与衍生品视角)**
+* (主动拆解情绪周期，研判主力真实的进攻与撤退路线)
+
+**🚨 黑天鹅避险预警 (一票否决)**
+* (如截获利空快讯，必须在此指出雷区；如无大雷，分析当前容易导致踩踏的高位板块)
 
 **🔥 多维分散尖刀池 (精选5-8只，强制跨界3个题材)**
 * `代码` 股票名称 | 所属板块
-  - 【全息死穴拆解】：(结合周线堆量、日线FVG缺口、套牢盘压力、撤单骗炮风险排查)
-  - 【实战潜伏点】：(核心买入逻辑)
-* (继续列出，确保分散)
-
-**⚠️ 绝对禁区 (高潮中位股与爆仓雷区)**
-* (主动指出哪些标的或板块正处于“中位股绞杀”阶段，坚决防核)"""
+  - 【全息死穴拆解】：(结合周线堆量、日线FVG缺口、上方抛压、撤单骗炮排查)
+  - 【实战潜伏点】：(核心逻辑与潜在利好催化)
+* (继续列出...)"""
     try:
         return client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.5).choices[0].message.content.strip()
     except: return "分析核心异常"
@@ -170,7 +175,7 @@ def get_tail_end_stocks(top_sectors):
 挖掘5-8只次日溢价标的，执行最高级别多维过滤：
 1. 题材强制分散在3个不同板块。
 2. 形态：周线堆量，存在日线向上FVG缺口。
-3. 你的主动排雷：绝对不碰处于连续阴跌且融资余额极高（面临爆仓踩踏）的票；绝对不碰量比畸高但无下影线承接的票。
+3. 主动排雷：绝对不碰连续阴跌且融资盘极高（爆仓踩踏预警）的票；绝对避开今日爆出利空公告的板块。
 要求：只要00/30/60。市值30-200亿。只输出6位代码，逗号隔开。"""
     try:
         res = client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.3).choices[0].message.content
@@ -179,26 +184,26 @@ def get_tail_end_stocks(top_sectors):
 
 def get_daily_review(news_list, top_sectors):
     news_text = "\n".join(news_list[:30])
-    prompt = f"""收盘大复盘。严禁留白，必须全量输出干货！资金：{top_sectors}。
-今日全网快讯：{news_text}
+    prompt = f"""收盘大复盘。严禁留白，必须全量输出干货！
+今日多空快讯：{news_text}
 
 【合伙人复盘铁律】：
-1. 用你的大局观：不要只读报纸，分析今天的龙虎榜协同效应（游资和机构是在合力还是在互相出货？）、微盘股流动性抽血效应。
-2. 选股：挑选 5-8 只纯血小盘股（30-200亿，限00/30/60）。必须分散在至少 3 个题材。
-3. 穿透拆解：每只票都必须带上【周线堆量】、【FVG缺口位置】、【套牢盘压力区】以及【洗盘/杠杆风险】的综合点评。
+1. 宏观风控：不要只报喜不报忧，梳理今天被核按钮闷杀的重灾区，找出暴跌的共性（比如中位股杀跌、或是利空发酵）。
+2. 选股：挑选 5-8 只避开雷区的小盘股（30-200亿，限00/30/60）。分散在至少 3 个题材。
+3. 每只票带上【周线堆量】、【FVG缺口】、【套牢盘压力】及【洗盘风险】点评。
 
 【严格排版】：
-**🌑 盘后全维度周期透视**
-* (深度拆解资金暗线、衍生品溢出效应与龙虎榜协同逻辑)
+**🌑 盘后全维多空透视**
+* (深度拆解资金暗线、期指协同、以及今日跌停板释放的恐慌信号)
+
+**⚠️ 绞杀阵地与排雷复盘**
+* (梳理今日黑天鹅利空事件，指出哪些散户接盘区明天还会惯性下杀)
 
 **🔥 次日备战跨界分散池 (5-8只)**
 * `代码` 股票名称 | 题材板块
   - 【多维结构解剖】：(FVG缺口、套牢盘、融资盘踩踏预警、洗盘质量)
-  - 【明日博弈点】：(实战预期)
-* (继续列举...)
-
-**⚠️ 绞杀阵地防核指南**
-* (指出当前的高潮退潮区、中位股陷阱和散户接盘重灾区)"""
+  - 【明日博弈点】：(利好发酵预期)
+* (继续列举...)"""
     try:
         return client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.4).choices[0].message.content.strip()
     except: return "复盘异常"
@@ -211,7 +216,6 @@ def run_radar():
         with open("keywords.json", "r", encoding="utf-8") as f: KEYWORDS = json.load(f)
     except: KEYWORDS = {}
 
-    focus_keywords_str = "、".join(KEYWORDS.keys())
     live_flash = get_live_flash_news()
     bjt_now = datetime.utcnow() + timedelta(hours=8)
     today_str = bjt_now.strftime("%Y-%m-%d %H:%M")
@@ -224,7 +228,8 @@ def run_radar():
         news_hash = hashlib.md5(news.encode('utf-8')).hexdigest()
         if news_hash not in processed_hashes:
             processed_hashes.add(news_hash)
-            is_critical = any(k in news for k in ["批准", "突发", "拉升", "发布", "规划", "涨停", "重组", "融资", "爆仓", "期指"]) or \
+            # 无论利好利空，只要包含在 ALL_MONITOR_WORDS 或者是用户自定义关键词中，全部截获
+            is_critical = any(k in news for k in ALL_MONITOR_WORDS) or \
                           any(any(a.lower() in news.lower() for a in aliases) for aliases in KEYWORDS.values())
             if is_critical: new_critical_news.append(news)
                 
@@ -238,7 +243,14 @@ def run_radar():
     is_复盘时段 = hour >= 20
     
     ai_source_news = new_critical_news if new_critical_news else live_flash[:15]
-    current_mode = "⚡ 突发截获与全息穿透" if new_critical_news else "📡 盘面全维常态巡航"
+    
+    # 动态标题：判断截获的是利空还是利好
+    if new_critical_news and any("[⚠️利空]" in n for n in new_critical_news):
+        current_mode = "🚨 致命雷区拦截"
+    elif new_critical_news:
+        current_mode = "⚡ 多空情报突发"
+    else:
+        current_mode = "📡 盘面全维常态巡航"
 
     msg = f"**【A股数字合伙人 · {current_mode}】**\n"
     msg += f"🕒 {today_str}\n\n"
@@ -246,11 +258,12 @@ def run_radar():
     msg += f"🔥 **5分钟异动**: {spikes_text}\n\n"
 
     if new_critical_news:
-        msg += "**🚨 异动与跨市场雷达:**\n"
-        for n in new_critical_news[:3]: msg += f"• {n}\n"
+        msg += "**📢 截获多空核心情报:**\n"
+        for n in new_critical_news[:4]: msg += f"• {n}\n"
         msg += "\n"
 
     msg += "---\n\n"
+    focus_keywords_str = "、".join(KEYWORDS.keys())
     semantic_alert = get_semantic_intraday_alert(ai_source_news, top_sectors, spikes_text, quant_evidence, focus_keywords_str, current_mode)
     msg += f"{semantic_alert}\n"
     
@@ -278,11 +291,11 @@ def run_radar():
                 msg += f"• `{data['code']}` {data['name']} | 涨跌: {data['change']}% | 换手: {data['turnover']}%\n"
             msg += "\n*💡 终极过滤: 跨越至少3题材分散 + FVG公允缺口支撑 + 避开融资盘密集区.*"
         else:
-            msg += "⚠️ 经过全息量化与风控过滤，今日尾盘无完美形态，管住手。"
+            msg += "⚠️ 经过全息量价与利空排雷，今日尾盘无完美形态，管住手。"
         msg += "\n" + "="*20 + "\n\n"
 
     if is_复盘时段:
-        msg += "\n---\n\n**🌑【守夜人 · 盘后极致大复盘战报】**\n\n"
+        msg += "\n---\n\n**🌑【守夜人 · 盘后极致多空大复盘】**\n\n"
         review_content = get_daily_review(ai_source_news, top_sectors)
         msg += f"{review_content}\n\n"
         
