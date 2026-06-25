@@ -6,7 +6,6 @@ from openai import OpenAI
 from datetime import datetime, timedelta
 import hashlib
 
-# 引入量化包
 try:
     import pandas as pd
     import akshare as ak
@@ -26,7 +25,7 @@ client = OpenAI(api_key=DS_KEY, base_url="https://api.deepseek.com")
 CACHE_FILE = "data/sent_news.json"
 
 # ======================
-# 2. 极速数据与量化计算引擎 
+# 2. 极速数据与量化引擎 
 # ======================
 def get_live_flash_news():
     flash_news = []
@@ -36,7 +35,7 @@ def get_live_flash_news():
         items = res.get('result', {}).get('data', {}).get('feed', {}).get('list', [])
         for item in items:
             rich_text = item.get('rich_text', '')
-            if rich_text and any(k in rich_text for k in ["股", "市", "板块", "异动", "拉升", "发布", "突发", "订单", "重组", "政策"]):
+            if rich_text and any(k in rich_text for k in ["股", "市", "板块", "异动", "拉升", "发布", "突发", "订单", "重组", "政策", "融资", "期指"]):
                 clean_text = re.sub(r'<[^>]+>', '', rich_text)
                 flash_news.append(clean_text[:120])
     except: pass
@@ -48,12 +47,6 @@ def get_top_sectors():
         res = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=4).json()
         result = [f"[{s['f14']}] {s['f3']}%" for s in res['data']['diff'] if s.get('f14')]
         if result: return " | ".join(result)
-    except: pass
-    try:
-        res = requests.get("http://qt.gtimg.cn/q=sh000001,sz399001,sz399006", headers={'User-Agent': 'Mozilla/5.0'}, timeout=4).text
-        lines = res.strip().split(';')
-        idx_data = [f"{p.split('~')[1]}: {p.split('~')[32]}%" for p in lines if p and len(p.split('~'))>32]
-        if idx_data: return "大盘: " + " | ".join(idx_data)
     except: pass
     return "资金接口受限"
 
@@ -70,7 +63,6 @@ def get_5min_spikes_with_codes():
                 if not str(s['f12']).startswith(('688', '8', '4')):
                     spikes_text.append(f"{s['f14']}(拉升{s['f11']}%)")
                     codes.append(str(s['f12']))
-                    
         return " | ".join(spikes_text) if spikes_text else "无极端拉升", codes
     except: return "监控中", []
 
@@ -81,10 +73,8 @@ def calculate_quant_features(codes):
         try:
             df = ak.stock_zh_a_hist(symbol=code, period="daily", adjust="qfq")
             if len(df) < 20: continue
-            
             df = df.tail(20)
             close_price = df['收盘'].iloc[-1]
-            
             ma5 = df['收盘'].rolling(5).mean().iloc[-1]
             bias5 = (close_price - ma5) / ma5 * 100
             
@@ -103,10 +93,9 @@ def calculate_quant_features(codes):
                 
             recent_10 = df.tail(10)
             has_zt = "有" if recent_10['涨跌幅'].max() > 9.5 else "无"
-            
-            quant_reports.append(f"{code}: 5日乖离{bias5:.1f}%, MACD{macd_status}, 近10日涨停基因:{has_zt}")
+            quant_reports.append(f"{code}: 5日乖离{bias5:.1f}%, MACD{macd_status}, 近10日涨停:{has_zt}")
         except: continue
-    return "\n".join(quant_reports) if quant_reports else "盘面处于混沌期"
+    return "\n".join(quant_reports) if quant_reports else "盘面混沌"
 
 def get_realtime_stock_data(stock_code):
     code = re.sub(r'\D', '', str(stock_code))
@@ -119,25 +108,17 @@ def get_realtime_stock_data(stock_code):
     except: pass
     return None
 
-# ======================
-# 3. 基础中枢 (去重记录与推送，修复缺失部分)
-# ======================
 def load_processed_hashes():
-    """读取本地缓存的新闻哈希值，防止重复推送"""
     if os.path.exists(CACHE_FILE):
         try:
-            with open(CACHE_FILE, "r", encoding="utf-8") as f: 
-                return set(json.load(f))
-        except: 
-            return set()
+            with open(CACHE_FILE, "r", encoding="utf-8") as f: return set(json.load(f))
+        except: return set()
     return set()
 
 def save_processed_hashes(hashes):
-    """保存新闻哈希值到本地"""
     os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
     try:
-        with open(CACHE_FILE, "w", encoding="utf-8") as f: 
-            json.dump(list(hashes), f, ensure_ascii=False)
+        with open(CACHE_FILE, "w", encoding="utf-8") as f: json.dump(list(hashes), f, ensure_ascii=False)
     except: pass
 
 def send_alert(text):
@@ -151,53 +132,79 @@ def clean_stock_codes(raw_text):
     return [c for c in codes if c.startswith(('00', '30', '60')) and not c.startswith('688')]
 
 # ======================
-# 4. 合伙人主动大脑 (硬编码游资高阶逻辑)
+# 4. 游资全息主动大脑 (自我进化与多维融合)
 # ======================
 def get_semantic_intraday_alert(news_list, top_sectors, spikes_5min, quant_data, focus_keywords, mode):
     news_text = "\n".join(news_list[:15])
-    prompt = f"""作为我的A股数字游资合伙人，不要等我问，你要主动思考！
-当前模式：【{mode}】
-资金风向：{top_sectors} | 5分钟异动：{spikes_5min}
-核心关注：{focus_keywords}
-【底层量化数据】：{quant_data}
+    prompt = f"""你是具备独立思考与跨界算力的顶级游资合伙人。你不仅要用我教你的逻辑，还要用你自己的高阶量化认知来帮我避坑选股。
+模式：【{mode}】 | 风向：{top_sectors} | 异动：{spikes_5min} | 硬核指标：{quant_data}
 
-【合伙人主动延展铁律】：
-1. 就算没有突发大新闻，你也要根据【资金风向】和【5分钟异动】主动判断当前市场的【情绪周期】（冰点、退潮、混沌还是高潮？）。
-2. 主动挖掘主力意图：结合是否有FVG(公允价值缺口)和套牢盘抛压，判断是主力诱多还是真洗盘建仓。
-3. 必须输出 3-5 只符合量化逻辑的纯正小盘股（30-200亿市值，非688/北交所）。不能空仓不推！
+【合伙人主动算力指令】：
+1. 你的主动思考维度（必须融入分析）：
+   - 跨市场嗅觉：结合大盘情况，预判是否存在“现货拉升掩护期指空单”的衍生品挤压风险？
+   - 绞杀陷阱判断：当前板块异动是龙头启动，还是高潮末期的“中位股诱多绞杀”？
+   - 资金底牌：去排查异动个股的量价，有没有Level-2拆单骗炮嫌疑？有没有融资盘踩踏风险？
+2. 选股死命令：必须推荐 5-8 只最优标的，且强制分散在至少 3 个完全不同的板块！只准要00/30/60开头，30-200亿市值。
+3. 对每一只推荐的票，写明它的【高阶死穴拆解】（包含：FVG缺口、套牢盘密度、主力缩量洗盘动作、以及中位股风险排查）。
 
-参考资讯：{news_text}
+参考快讯：{news_text}
 
-【严格按以下排版输出，禁止废话】：
-**🎯 市场情绪与周期定调**
-* (主动思考当前市场情绪温度，指出主力的下一步动向)
+【严格排版】：
+**🎯 市场全息定调 (衍生品与情绪跨界视角)**
+* (主动输出：情绪处于什么周期？是否存在期指贴水或杠杆踩踏风险？主力在玩什么把戏？)
 
-**🧠 盘面量价深度拷问**
-* (结合异动数据和量化指标，拆解洗盘或点火逻辑)
+**🔥 多维分散尖刀池 (精选5-8只，强制跨界3个题材)**
+* `代码` 股票名称 | 所属板块
+  - 【全息死穴拆解】：(结合周线堆量、日线FVG缺口、套牢盘压力、撤单骗炮风险排查)
+  - 【实战潜伏点】：(核心买入逻辑)
+* (继续列出，确保分散)
 
-**🗡️ 尖刀潜伏池** (无论有无突发，必须在异动/热点中选出3-5只)
-* 000000 股票A：(简述其FVG缺口、量化优势与题材契合度)
-* 000000 股票B：(简述逻辑)
-
-**⚠️ 核按钮防雷**
-* (主动规避乖离率过大、面临密集套牢盘的诱多标的)"""
+**⚠️ 绝对禁区 (高潮中位股与爆仓雷区)**
+* (主动指出哪些标的或板块正处于“中位股绞杀”阶段，坚决防核)"""
     try:
         return client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.5).choices[0].message.content.strip()
     except: return "分析核心异常"
 
 def get_tail_end_stocks(top_sectors):
-    prompt = f"""14:50尾盘。资金：{top_sectors}。
-按【游资N字洗盘量化战法】严格挖掘5只次日溢价标的：
-1. 周线有堆量，套牢盘轻，存在向上FVG缺口未回补。
-2. 近两日缩量回调，今日盘中有下影线，绝对不破前一个涨停底（屠龙刀战法）。
-死命令：绝对不准选688/北交所！只要00/30/60。市值30-200亿。只输出5个6位代码，逗号隔开。"""
+    prompt = f"""14:50尾盘。资金风向：{top_sectors}。
+挖掘5-8只次日溢价标的，执行最高级别多维过滤：
+1. 题材强制分散在3个不同板块。
+2. 形态：周线堆量，存在日线向上FVG缺口。
+3. 你的主动排雷：绝对不碰处于连续阴跌且融资余额极高（面临爆仓踩踏）的票；绝对不碰量比畸高但无下影线承接的票。
+要求：只要00/30/60。市值30-200亿。只输出6位代码，逗号隔开。"""
     try:
         res = client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.3).choices[0].message.content
         return re.findall(r'\b[036]\d{5}\b', res)
     except: return []
 
+def get_daily_review(news_list, top_sectors):
+    news_text = "\n".join(news_list[:30])
+    prompt = f"""收盘大复盘。严禁留白，必须全量输出干货！资金：{top_sectors}。
+今日全网快讯：{news_text}
+
+【合伙人复盘铁律】：
+1. 用你的大局观：不要只读报纸，分析今天的龙虎榜协同效应（游资和机构是在合力还是在互相出货？）、微盘股流动性抽血效应。
+2. 选股：挑选 5-8 只纯血小盘股（30-200亿，限00/30/60）。必须分散在至少 3 个题材。
+3. 穿透拆解：每只票都必须带上【周线堆量】、【FVG缺口位置】、【套牢盘压力区】以及【洗盘/杠杆风险】的综合点评。
+
+【严格排版】：
+**🌑 盘后全维度周期透视**
+* (深度拆解资金暗线、衍生品溢出效应与龙虎榜协同逻辑)
+
+**🔥 次日备战跨界分散池 (5-8只)**
+* `代码` 股票名称 | 题材板块
+  - 【多维结构解剖】：(FVG缺口、套牢盘、融资盘踩踏预警、洗盘质量)
+  - 【明日博弈点】：(实战预期)
+* (继续列举...)
+
+**⚠️ 绞杀阵地防核指南**
+* (指出当前的高潮退潮区、中位股陷阱和散户接盘重灾区)"""
+    try:
+        return client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.4).choices[0].message.content.strip()
+    except: return "复盘异常"
+
 # ======================
-# 5. 主控大枢纽 (永不静默)
+# 5. 主控大枢纽 
 # ======================
 def run_radar():
     try:
@@ -217,7 +224,7 @@ def run_radar():
         news_hash = hashlib.md5(news.encode('utf-8')).hexdigest()
         if news_hash not in processed_hashes:
             processed_hashes.add(news_hash)
-            is_critical = any(k in news for k in ["批准", "突发", "重要", "拉升", "发布", "规划", "涨停", "重组"]) or \
+            is_critical = any(k in news for k in ["批准", "突发", "拉升", "发布", "规划", "涨停", "重组", "融资", "爆仓", "期指"]) or \
                           any(any(a.lower() in news.lower() for a in aliases) for aliases in KEYWORDS.values())
             if is_critical: new_critical_news.append(news)
                 
@@ -225,14 +232,13 @@ def run_radar():
 
     top_sectors = get_top_sectors()
     spikes_text, spike_codes = get_5min_spikes_with_codes()
-    quant_evidence = calculate_quant_features(spike_codes) if spike_codes else "无微观异动量化数据"
+    quant_evidence = calculate_quant_features(spike_codes) if spike_codes else "无异动数据"
     
-    is_尾盘时段 = (14 <= hour <= 15)  # 容错：下午2点到3点59分全部带上尾盘逻辑
+    is_尾盘时段 = (14 <= hour <= 15)  
     is_复盘时段 = hour >= 20
     
-    # 废除静默机制，只要运行必发分析
     ai_source_news = new_critical_news if new_critical_news else live_flash[:15]
-    current_mode = "⚡ 突发阻击截获" if new_critical_news else "📡 盘面常态巡航"
+    current_mode = "⚡ 突发截获与全息穿透" if new_critical_news else "📡 盘面全维常态巡航"
 
     msg = f"**【A股数字合伙人 · {current_mode}】**\n"
     msg += f"🕒 {today_str}\n\n"
@@ -240,7 +246,7 @@ def run_radar():
     msg += f"🔥 **5分钟异动**: {spikes_text}\n\n"
 
     if new_critical_news:
-        msg += "**🚨 最新异动前瞻:**\n"
+        msg += "**🚨 异动与跨市场雷达:**\n"
         for n in new_critical_news[:3]: msg += f"• {n}\n"
         msg += "\n"
 
@@ -250,15 +256,15 @@ def run_radar():
     
     stock_codes = clean_stock_codes(semantic_alert)
     if stock_codes:
-        msg += "\n**📊 标的真实盘口:**\n"
-        for code in list(dict.fromkeys(stock_codes))[:5]:
+        msg += "\n**📊 推荐池实时盘口量化验证:**\n"
+        for code in list(dict.fromkeys(stock_codes))[:8]:
             d = get_realtime_stock_data(code)
             if d:
-                status = "🛑停牌" if d['vol_ratio']==0 else ("🔥强势承接" if d['vol_ratio']>1.2 and d['turnover']>2.5 else "➖缩量洗盘")
+                status = "🛑停牌" if d['vol_ratio']==0 else ("🔥强势抢筹" if d['vol_ratio']>1.2 and d['turnover']>2.5 else "➖缩量洗盘/诱多嫌疑")
                 msg += f"• `{d['code']}` {d['name']} | 涨跌: {d['change']}% | 量比: {d['vol_ratio']} ({status})\n"
 
     if is_尾盘时段:
-        msg += "\n---\n\n**🎯【尾盘 N 字反包潜伏池】**\n\n"
+        msg += "\n---\n\n**🎯【尾盘 N 字反包极致严选池】**\n\n"
         candidates = get_tail_end_stocks(top_sectors)
         ambush_list = []
         for code in clean_stock_codes(" ".join(candidates)):
@@ -267,15 +273,25 @@ def run_radar():
                 ambush_list.append(d)
         
         if ambush_list:
-            for data in ambush_list[:5]:
+            msg += "**🚨 尾盘跨题材严选筹码 (过滤杠杆踩踏/中位陷阱):**\n"
+            for data in ambush_list[:8]:
                 msg += f"• `{data['code']}` {data['name']} | 涨跌: {data['change']}% | 换手: {data['turnover']}%\n"
-            msg += "\n*💡 逻辑: FVG缺口支撑 + 下影线洗盘 + 量化确认底背离.*"
+            msg += "\n*💡 终极过滤: 跨越至少3题材分散 + FVG公允缺口支撑 + 避开融资盘密集区.*"
         else:
-            msg += "⚠️ 经过多重量化过滤，今日尾盘无完美形态，严格管住手。"
+            msg += "⚠️ 经过全息量化与风控过滤，今日尾盘无完美形态，管住手。"
+        msg += "\n" + "="*20 + "\n\n"
 
     if is_复盘时段:
-        msg += "\n---\n\n**🌑【盘后大局观复盘】**\n\n"
-        msg += "已扫描全天数据，情绪周期与资金暗线分析完毕。" 
+        msg += "\n---\n\n**🌑【守夜人 · 盘后极致大复盘战报】**\n\n"
+        review_content = get_daily_review(ai_source_news, top_sectors)
+        msg += f"{review_content}\n\n"
+        
+        codes_night = clean_stock_codes(review_content)
+        if codes_night:
+            msg += "**📊 复盘池量价数据底线:**\n"
+            for code in list(dict.fromkeys(codes_night))[:8]:
+                d = get_realtime_stock_data(code)
+                if d: msg += f"• `{d['code']}` {d['name']} | 当前价: {d['change']}% | 换手: {d['turnover']}%\n"
 
     send_alert(msg)
 
