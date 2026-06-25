@@ -144,12 +144,12 @@
     "link": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/"
   },
   {
-    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-    "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
-  },
-  {
     "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
     "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
+  },
+  {
+    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+    "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
   },
   {
     "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -312,6 +312,22 @@
     "link": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html"
   },
   {
+    "title": "Second worker dies at BYD's Hungary factory already under scrutiny for labor practices",
+    "link": "https://www.cnbc.com/2026/06/25/second-worker-dies-at-hungary-byd-factory-scrutinized-for-labor-issues.html"
+  },
+  {
+    "title": "One of India's largest gold exporters paid its managing director just $180 a month, investigators say in accounting probe",
+    "link": "https://www.cnbc.com/2026/06/25/india-rajesh-exports-investigation-accounting-irregularities-valcambi.html"
+  },
+  {
+    "title": "Despite Trump trade rhetoric, Asian investors keep betting on U.S.: Former House Majority Leader Eric Cantor",
+    "link": "https://www.cnbc.com/2026/06/25/asian-investors-us-exposure-eric-cantor-trump-trade-singapore-moelis.html"
+  },
+  {
+    "title": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill dozens",
+    "link": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html"
+  },
+  {
     "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next",
     "link": "https://www.cnbc.com/2026/06/25/anthropic-global-ai-data-center-push.html"
   },
@@ -320,7 +336,7 @@
     "link": "https://www.cnbc.com/2026/06/25/irans-neighbor-us-ally-what-pakistan-gains-from-being-a-peacemaker.html"
   },
   {
-    "title": "Iran declares new Hormuz route 'unacceptable and dangerous,' warns against ships transiting without approval",
+    "title": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
     "link": "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html"
   },
   {
@@ -416,22 +432,6 @@
     "link": "https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html"
   },
   {
-    "title": "Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn",
-    "link": "https://www.cnbc.com/2026/06/19/hormuz-relief-may-not-ease-the-economic-toll-thats-already-baked-in-analysts-warn.html"
-  },
-  {
-    "title": "U.S.-Iran accord hits early snag after Swiss talks fail to proceed as planned",
-    "link": "https://www.cnbc.com/2026/06/19/us-iran-talks-switzerland-canceled-interim-deal-markets.html"
-  },
-  {
-    "title": "Indian IT stocks slump up to 7% as Accenture cuts revenue outlook, fueling fresh concerns over sector growth",
-    "link": "https://www.cnbc.com/2026/06/19/india-it-stocks-fall-accenture-cuts-revenue-forecast.html"
-  },
-  {
-    "title": "Yen slides past 161 against the dollar, nearing 40-year low and reviving intervention bets",
-    "link": "https://www.cnbc.com/2026/06/19/japan-yen-161-dollar-intervention-risk-currency-markets.html"
-  },
-  {
     "title": "Europe is pushing back on Washington’s chip war",
     "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/"
   },
@@ -512,16 +512,52 @@
     "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/"
   },
   {
+    "title": "Micron Soars After AI-Fueled Forecast Shatters Estimates",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-sales-forecast-tops-estimates-on-insatiable-memory-demand"
+  },
+  {
+    "title": "Ex-China Exec of Advertising Giant Sentenced to Life in $176 Million Bribery Case",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/ex-wpp-china-exec-sentenced-to-life-in-176-million-bribery-case"
+  },
+  {
+    "title": "Stretched Tech Valuations Raise Questions on Capex, BofA Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/stretched-tech-valuations-raise-questions-on-capex-bofa-video"
+  },
+  {
+    "title": "Micron Earnings Inflate the AI Bubble: 3-Minutes MLIV",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/micron-earnings-inflate-the-ai-bubble-3-minutes-mliv-video"
+  },
+  {
+    "title": "SK Hynix ADR Seen Driving 30% Upside as Micron Gap Narrows",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-adr-seen-driving-30-upside-as-micron-gap-narrows"
+  },
+  {
+    "title": "AI Demand Roils Aumovio’s Talks to Buy Chips, CFO Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/ai-demand-roils-aumovio-s-talks-to-buy-chips-cfo-says-video"
+  },
+  {
+    "title": "Japanese, South Korean Stocks Gain on Renewed Confidence in AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/japanese-south-korean-stocks-gain-on-renewed-confidence-in-ai"
+  },
+  {
+    "title": "Kioxia Plans New US Listing in Spring, Stock Split at Home",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-kioxia-plans-to-offer-us-depositary-shares-next-spring"
+  },
+  {
+    "title": "Micron Shares Jump as Forecast Beats Estimates",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/micron-jumps-as-forecast-beats-estimates-video"
+  },
+  {
+    "title": "H.B. Fuller Nears £628 Million Deal for UK Medtech AMS",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/h-b-fuller-nears-628-million-deal-for-uk-medtech-ams"
+  },
+  {
     "title": "Japan’s Regional Banks Sell More Senior Bonds as Rates Rise",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-regional-banks-sell-more-senior-bonds-as-rates-rise"
   },
   {
     "title": "Alibaba Slides to 16-Month Low After Anthropic’s AI Accusations",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/alibaba-drops-after-anthropic-accuses-firm-of-accessing-ai-model"
-  },
-  {
-    "title": "Japan’s Kioxia Plans to Offer US Depositary Shares in Spring",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-kioxia-plans-to-offer-us-depositary-shares-next-spring"
   },
   {
     "title": "Stocks Rally as Micron Revives AI Trade",
@@ -544,24 +580,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-micron-solidify-memory-chips-as-runaway-stars-of-ai"
   },
   {
-    "title": "Japanese, South Korean Stocks Gain on Renewed Confidence in AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/japanese-south-korean-stocks-gain-on-renewed-confidence-in-ai"
-  },
-  {
     "title": "Canadian Defence Minister on Indo-Pacific Strategy",
     "link": "https://www.bloomberg.com/news/videos/2026-06-25/canadian-defence-minister-on-indo-pacific-strategy-video"
   },
   {
     "title": "Memory Chipmaker SK Hynix's $29 Billion US Listing Seizes on AI Demand",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-29-4-billion-us-listing-to-seize-on-memory-chip-frenzy"
-  },
-  {
-    "title": "Ex-WPP China Exec Sentenced to Life in $176 Million Bribery Case",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/ex-wpp-china-exec-sentenced-to-life-in-176-million-bribery-case"
-  },
-  {
-    "title": "Micron Soars After AI-Fueled Forecast Shatters Estimates",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-sales-forecast-tops-estimates-on-insatiable-memory-demand"
   },
   {
     "title": "Qualcomm Projects Data Center Sales of $15 Billion by 2029",
@@ -608,28 +632,24 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/alphabet-s-dow-debut-shows-index-headache-in-tech-driven-economy"
   },
   {
-    "title": "Focused on AI at the Enterprise Level: Ganguly",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/focused-on-ai-at-the-enterprise-level-ganguly-video"
+    "title": "Swiss President Will Meet US’s Jamieson Greer Amid Tariff Spat",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/swiss-president-will-meet-us-s-jamieson-greer-amid-tariff-spat"
   },
   {
-    "title": "Cerebras Plunges Below IPO Price on Disappointing Outlook",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/cerebras-projects-2026-sales-that-leave-investors-wanting-more"
+    "title": "Mansour: Iran War Impacted Egypt’s Construction Cost",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/mansour-iran-war-impacted-egypt-s-construction-cost-video"
   },
   {
-    "title": "MGX’s $50B Raise Sets Up One of the Biggest AI Funds Ever",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/mgx-s-50b-raise-sets-up-one-of-the-biggest-ai-funds-video"
+    "title": "Six Charts That Explain China’s Weakening Economy",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/china-economy-6-charts-explain-why-how-economic-growth-is-slowing-down"
   },
   {
-    "title": "Qualcomm Says Data Center Chips to Produce ‘Billions’ in ’27",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-announces-new-ai-chips-adds-meta-as-customer"
+    "title": "Hungary’s Bond Rally Means Yields Are Now Trading Close to UK",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/hungary-s-bond-rally-means-yields-are-now-trading-close-to-uk"
   },
   {
-    "title": "HSBC's Oden Highlights Potential in Chip Sector Amid Market Volatility & AI Growth",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/hsbc-s-racquel-oden-highlights-potential-in-chip-sector-video"
-  },
-  {
-    "title": "SK Hynix Seeks $29B With US Listing to Fund AI Boom",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/sk-hynix-seeks-29b-with-us-listing-to-fund-ai-boom-video"
+    "title": "What If AI Simply Ruins Your Job Instead of Taking It?",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/what-if-ai-simply-ruins-your-job-instead-of-taking-it"
   },
   {
     "title": "RBI May Revise India Growth to Top 7% This Year, MPC Member Says",
@@ -730,26 +750,6 @@
   {
     "title": "Chile Central Bank Vows Caution in Policy as Price Risks Decline",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/chile-central-bank-vows-caution-in-policy-as-price-risks-decline"
-  },
-  {
-    "title": "Ramaphosa Taps Former Treasury Budget Chief as Economic Adviser",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/ramaphosa-taps-former-treasury-budget-chief-as-economic-adviser"
-  },
-  {
-    "title": "India’s RBI Governor Gives Strongest Signal Yet of No Rate Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/rbi-in-wait-and-watch-mode-as-us-iran-talk-peace-governor-says"
-  },
-  {
-    "title": "EU Proposes Tax Simplification Measures in Bid to Boost Business",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/eu-proposes-tax-simplification-measures-in-bid-to-boost-business"
-  },
-  {
-    "title": "Heat Is on Central Bankers Setting Rates",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-24/global-central-banks-latest-heat-mounts-for-officials-setting-rates"
-  },
-  {
-    "title": "Maersk Looks to Widen Its Foothold in Vietnam’s Container Ports",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-24/vietnam-and-maersk-and-ports"
   },
   {
     "title": "Europe’s extreme heat is shutting down power plants",
