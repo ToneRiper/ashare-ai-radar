@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/"
   },
   {
+    "title": "TikTok and YouTube are reinventing sports viewership. Broadcasters are taking note",
+    "link": "https://www.cnbc.com/2026/06/25/tiktok-youtube-sports-viewership.html"
+  },
+  {
     "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
     "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html"
   },
@@ -306,10 +310,6 @@
   {
     "title": "JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway",
     "link": "https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html"
-  },
-  {
-    "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
-    "link": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html"
   },
   {
     "title": "Amazon adds new funding, lifting India AI and cloud investment to $48 billion",
@@ -432,6 +432,10 @@
     "link": "https://www.cnbc.com/2026/06/19/jio-platforms-low-earth-orbit-satellites-starlink.html"
   },
   {
+    "title": "Cellebrite said it cut off Russia, but Russia used is tools anyway",
+    "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/"
+  },
+  {
     "title": "Europe is pushing back on Washington’s chip war",
     "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/"
   },
@@ -508,8 +512,32 @@
     "link": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/"
   },
   {
-    "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-    "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/"
+    "title": "OpenAI, Anthropic and SpaceX Are Shaking Up VC Fundraising",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/spacex-openai-and-anthropic-spur-record-vc-funding"
+  },
+  {
+    "title": "A Veteran Apple Designer Reimagines the Golf Cart",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/golf-carts-get-apple-design-treatment-from-julian-hoenig-at-amble"
+  },
+  {
+    "title": "Guild: Memory Chip Spending Can Be Underestimated",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/guild-memory-chip-spending-can-be-underestimated-video"
+  },
+  {
+    "title": "Micron Soars After AI-Fueled Forecast Shatters Estimates | The Opening Trade 6/25/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/the-opening-trade-6-25-2026-video"
+  },
+  {
+    "title": "Ex-China Exec of Advertising Giant Sentenced to Life in $176 Million Bribery Case",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/ex-wpp-china-exec-sentenced-to-life-in-176-million-bribery-case"
+  },
+  {
+    "title": "Russia Used Cellebrite Technology in Case Against Activist, Report Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/russia-used-cellebrite-technology-in-case-against-activist-report-says"
+  },
+  {
+    "title": "Microsoft, Amazon Cloud Units Face Tough EU Rules for Big Tech",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/microsoft-amazon-cloud-units-face-tough-eu-rules-for-big-tech"
   },
   {
     "title": "Blackstone, Bain Are Said Among Bidders for Fuji Media Unit",
@@ -538,10 +566,6 @@
   {
     "title": "Micron Soars After AI-Fueled Forecast Shatters Estimates",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-sales-forecast-tops-estimates-on-insatiable-memory-demand"
-  },
-  {
-    "title": "Ex-China Exec of Advertising Giant Sentenced to Life in $176 Million Bribery Case",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/ex-wpp-china-exec-sentenced-to-life-in-176-million-bribery-case"
   },
   {
     "title": "Stretched Tech Valuations Raise Questions on Capex, BofA Says",
@@ -608,32 +632,28 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-24/the-close-6-24-2026-video"
   },
   {
-    "title": "Warren Calls for AI Antitrust Scrutiny, Deal Review Revamp",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/warren-to-call-for-antitrust-scrutiny-of-ai-deal-review-revamp"
-  },
-  {
-    "title": "DoubleLine’s Sherman: AI ‘Early’ in Tapping Bond Market",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/doubleline-s-sherman-ai-early-in-tapping-bond-market-video"
-  },
-  {
-    "title": "Morgan Health CEO: Tech, GLP-1s, Labor Driving up Costs",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/morgan-health-ceo-tech-glp-1s-labor-driving-up-costs-video"
-  },
-  {
-    "title": "Micron Forecast Shatters Estimates",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/micron-forecast-shatters-estimates-video"
-  },
-  {
-    "title": "Google Poised to Lose Two More Senior AI Staffers to Anthropic",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic"
-  },
-  {
-    "title": "Micron's Growth Rate Is Remarkable, Munster Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/micron-s-growth-rate-is-remarkable-munster-says-video"
+    "title": "US Corporate Profits Hit Levels That Alarmed Harry Truman’s Aides",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/us-corporate-profits-hit-levels-that-alarmed-harry-truman-s-aides"
   },
   {
     "title": "Burnham Team Looks at Treasury Breakup and BOE Reforms",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/burnham-team-looks-at-treasury-breakup-and-boe-reforms"
+  },
+  {
+    "title": "ECB Rate-Hike Forecasts Pared Back as Oil Regains Pre-War Level",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/ecb-rate-hike-forecasts-pared-back-as-oil-regains-pre-war-level"
+  },
+  {
+    "title": "Japan Unveils Multi-Year Framework as Part of Budget Reform",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-unveils-multi-year-framework-as-part-of-budget-reform"
+  },
+  {
+    "title": "Hungary Yields Approach UK Gilts as Pro-EU Turn Fuels Rally",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/hungary-s-bond-rally-means-yields-are-now-trading-close-to-uk"
+  },
+  {
+    "title": "Gilt Returns Climb to Three-Month High After Oil-Fueled Recovery",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/gilt-returns-climb-to-three-month-high-after-oil-fueled-recovery"
   },
   {
     "title": "SNB Must Stay Nimble for Hike or Cut to Negative Rate, IMF Says",
@@ -646,10 +666,6 @@
   {
     "title": "Norway Set for Longer Pause After One More Hike, Survey Finds",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/norway-set-for-longer-pause-after-one-more-hike-survey-finds"
-  },
-  {
-    "title": "Hungary Yields Approach UK Gilts as Pro-EU Turn Fuels Rally",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/hungary-s-bond-rally-means-yields-are-now-trading-close-to-uk"
   },
   {
     "title": "China Wants ‘Malicious’ Bondholders Curbed in Poor-Nation Relief",
@@ -736,20 +752,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/gasoline-price-spike-adds-to-war-s-economic-toll-for-russians"
   },
   {
-    "title": "ECB’s Schnabel Sees Need for Further Hiking to Meet 2% Target",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/ecb-s-schnabel-sees-need-for-further-hiking-to-meet-2-target"
+    "title": "What Europe’s heat wave means for the power grid",
+    "link": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/"
   },
   {
-    "title": "US New-Home Sales Unexpectedly Fall Amid High Mortgage Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/us-new-home-sales-unexpectedly-fall-as-mortgage-rates-stay-high"
-  },
-  {
-    "title": "Milei Shuns Wall Street to Raise Dollars at Rate Lower Than 7%",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/milei-shuns-wall-street-to-raise-dollars-at-rate-lower-than-7"
-  },
-  {
-    "title": "Australia Home Prices May Fall Up to 8% After Surging for Years",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/australia-home-prices-may-fall-up-to-8-after-surging-for-years"
+    "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+    "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
   },
   {
     "title": "Europe’s extreme heat is shutting down power plants",
@@ -784,12 +792,16 @@
     "link": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/"
   },
   {
-    "title": "A man of many words",
-    "link": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/"
+    "title": "Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers",
+    "link": "https://www.theverge.com/streaming/956712/disney-youtube-tv-directv-streaming-settlement"
   },
   {
-    "title": "Sharing a love for calculus",
-    "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/"
+    "title": "The 124 best tech deals for day three of Prime Day",
+    "link": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three"
+  },
+  {
+    "title": "Is this solar e-bike a good idea or sophisticated e-waste?",
+    "link": "https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy"
   },
   {
     "title": "Facebook’s Creator Studio has been revived as an AI companion app",
@@ -818,17 +830,5 @@
   {
     "title": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
     "link": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims"
-  },
-  {
-    "title": "Congresswoman denies staff used AI to write defense funding amendment",
-    "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude"
-  },
-  {
-    "title": "GTA VI is a worrying sign for the future of physical games",
-    "link": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games"
-  },
-  {
-    "title": "Google is finally opening the Play Store to outside payments",
-    "link": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust"
   }
 ]
