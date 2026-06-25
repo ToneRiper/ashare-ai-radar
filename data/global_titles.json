@@ -1,5 +1,9 @@
 [
   {
+    "title": "How agents are transforming work",
+    "link": "https://openai.com/index/how-agents-are-transforming-work"
+  },
+  {
     "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
     "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
   },
@@ -16,12 +20,12 @@
     "link": "https://openai.com/index/omio"
   },
   {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "link": "https://openai.com/index/daybreak-securing-the-world"
-  },
-  {
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
     "link": "https://openai.com/index/patch-the-planet"
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world"
   },
   {
     "title": "Codex-maxxing for long-running work",
@@ -72,16 +76,16 @@
     "link": "https://openai.com/index/openai-to-acquire-ona"
   },
   {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva"
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
   },
   {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
   },
   {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva"
   },
   {
     "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -116,10 +120,6 @@
     "link": "https://openai.com/index/built-to-benefit-everyone-our-plan"
   },
   {
-    "title": "Introducing the OpenAI Economic Research Exchange",
-    "link": "https://openai.com/index/economic-research-exchange"
-  },
-  {
     "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
     "link": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/"
   },
@@ -144,12 +144,12 @@
     "link": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/"
   },
   {
-    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-    "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
-  },
-  {
     "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
     "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
+  },
+  {
+    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+    "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
   },
   {
     "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -312,6 +312,14 @@
     "link": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html"
   },
   {
+    "title": "Amazon adds new funding, lifting India AI and cloud investment to $48 billion",
+    "link": "https://www.cnbc.com/2026/06/25/amazon-investment-billion-ai-india.html"
+  },
+  {
+    "title": "Air con and building efficiency stocks rally as Europe bakes in extreme heat",
+    "link": "https://www.cnbc.com/2026/06/25/europe-heat-wave-cooling-energy-stocks.html"
+  },
+  {
     "title": "Second worker dies at BYD's Hungary factory already under scrutiny for labor practices",
     "link": "https://www.cnbc.com/2026/06/25/second-worker-dies-at-hungary-byd-factory-scrutinized-for-labor-issues.html"
   },
@@ -424,14 +432,6 @@
     "link": "https://www.cnbc.com/2026/06/19/jio-platforms-low-earth-orbit-satellites-starlink.html"
   },
   {
-    "title": "India's largest telecom and digital service Jio Platforms files for IPO",
-    "link": "https://www.cnbc.com/2026/06/19/india-jio-platforms-ipo-mukesh-ambani.html"
-  },
-  {
-    "title": "Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack",
-    "link": "https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html"
-  },
-  {
     "title": "Europe is pushing back on Washington’s chip war",
     "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/"
   },
@@ -512,6 +512,30 @@
     "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/"
   },
   {
+    "title": "Blackstone, Bain Are Said Among Bidders for Fuji Media Unit",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/blackstone-bain-said-among-bidders-for-fuji-media-property-unit"
+  },
+  {
+    "title": "GoreBox Game Owner ‘Heartbroken’ by Philippine School Shooting",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/gorebox-game-owner-heartbroken-by-philippine-shooting-will-cooperate-in-probe"
+  },
+  {
+    "title": "Amazon Pledges Additional $13 Billion in India AI Outlays",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/amazon-to-invest-additional-13-billion-in-india-for-ai-by-2030"
+  },
+  {
+    "title": "Qualcomm Jumps as Data Center Sales Seen at $15 Billion by 2029",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-projects-data-center-chip-sales-of-15-billion-by-2029"
+  },
+  {
+    "title": "SK Hynix ADR Seen Driving 30% Upside as Micron Gap Narrows",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-adr-seen-driving-30-upside-as-micron-gap-narrows"
+  },
+  {
+    "title": "Chipmakers Rally With Traders Piling In After Micron Results",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-and-qualcomm-lift-chipmakers-amid-rapid-ai-growth"
+  },
+  {
     "title": "Micron Soars After AI-Fueled Forecast Shatters Estimates",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-sales-forecast-tops-estimates-on-insatiable-memory-demand"
   },
@@ -526,10 +550,6 @@
   {
     "title": "Micron Earnings Inflate the AI Bubble: 3-Minutes MLIV",
     "link": "https://www.bloomberg.com/news/videos/2026-06-25/micron-earnings-inflate-the-ai-bubble-3-minutes-mliv-video"
-  },
-  {
-    "title": "SK Hynix ADR Seen Driving 30% Upside as Micron Gap Narrows",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-adr-seen-driving-30-upside-as-micron-gap-narrows"
   },
   {
     "title": "AI Demand Roils Aumovio’s Talks to Buy Chips, CFO Says",
@@ -568,10 +588,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models"
   },
   {
-    "title": "Blackstone, Bain Are Said Among Bidders for Fuji Media Unit",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/blackstone-bain-said-among-bidders-for-fuji-media-property-unit"
-  },
-  {
     "title": "DigitalBridge Is Said to Explore Options for AIMS Data Centre",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/digitalbridge-is-said-to-explore-options-for-aims-data-centre"
   },
@@ -586,10 +602,6 @@
   {
     "title": "Memory Chipmaker SK Hynix's $29 Billion US Listing Seizes on AI Demand",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-29-4-billion-us-listing-to-seize-on-memory-chip-frenzy"
-  },
-  {
-    "title": "Qualcomm Projects Data Center Sales of $15 Billion by 2029",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-projects-data-center-chip-sales-of-15-billion-by-2029"
   },
   {
     "title": "Stocks Churn Before Micron’s Earnings as Oil Sinks | The Close 6/24/2026",
@@ -608,10 +620,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-24/morgan-health-ceo-tech-glp-1s-labor-driving-up-costs-video"
   },
   {
-    "title": "Micron and Qualcomm Lift Chipmakers Amid Rapid AI Growth",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-and-qualcomm-lift-chipmakers-amid-rapid-ai-growth"
-  },
-  {
     "title": "Micron Forecast Shatters Estimates",
     "link": "https://www.bloomberg.com/news/videos/2026-06-24/micron-forecast-shatters-estimates-video"
   },
@@ -624,12 +632,28 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-24/micron-s-growth-rate-is-remarkable-munster-says-video"
   },
   {
-    "title": "Micron Sales Forecast Shatters Estimates on AI Demand",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/micron-sales-forecast-shatters-estimates-on-ai-demand-video"
+    "title": "Burnham Team Looks at Treasury Breakup and BOE Reforms",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/burnham-team-looks-at-treasury-breakup-and-boe-reforms"
   },
   {
-    "title": "Alphabet’s Dow Debut Shows Index Headache in Tech-Driven Economy",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/alphabet-s-dow-debut-shows-index-headache-in-tech-driven-economy"
+    "title": "SNB Must Stay Nimble for Hike or Cut to Negative Rate, IMF Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/snb-must-stay-nimble-for-hike-or-cut-to-negative-rate-imf-says"
+  },
+  {
+    "title": "Turkey’s Karahan Said to Signal No Rush to Ease Before Late July",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/turkey-s-karahan-said-to-signal-no-rush-to-ease-before-late-july"
+  },
+  {
+    "title": "Norway Set for Longer Pause After One More Hike, Survey Finds",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/norway-set-for-longer-pause-after-one-more-hike-survey-finds"
+  },
+  {
+    "title": "Hungary Yields Approach UK Gilts as Pro-EU Turn Fuels Rally",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/hungary-s-bond-rally-means-yields-are-now-trading-close-to-uk"
+  },
+  {
+    "title": "China Wants ‘Malicious’ Bondholders Curbed in Poor-Nation Relief",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/china-wants-malicious-bondholders-curbed-in-poor-nation-relief"
   },
   {
     "title": "Swiss President Will Meet US’s Jamieson Greer Amid Tariff Spat",
@@ -642,10 +666,6 @@
   {
     "title": "Six Charts That Explain China’s Weakening Economy",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/china-economy-6-charts-explain-why-how-economic-growth-is-slowing-down"
-  },
-  {
-    "title": "Hungary’s Bond Rally Means Yields Are Now Trading Close to UK",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/hungary-s-bond-rally-means-yields-are-now-trading-close-to-uk"
   },
   {
     "title": "What If AI Simply Ruins Your Job Instead of Taking It?",
@@ -696,10 +716,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/fed-says-basis-trade-key-driver-of-hedge-fund-treasury-exposure"
   },
   {
-    "title": "Burnham Team Looks at Treasury Breakup and BOE Reforms",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/burnham-team-looks-at-treasury-breakup-and-boe-reforms"
-  },
-  {
     "title": "Conservative Fujimori Poised to Win Peru’s Presidency, Vote Count Shows",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/conservative-keiko-fujimori-poised-to-win-peru-s-presidency-vote-count-shows"
   },
@@ -734,22 +750,6 @@
   {
     "title": "Australia Home Prices May Fall Up to 8% After Surging for Years",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/australia-home-prices-may-fall-up-to-8-after-surging-for-years"
-  },
-  {
-    "title": "Swiss Open Talks on Air Defense System to Diversify From Patriot",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/swiss-open-talks-on-air-defense-system-to-diversify-from-patriot"
-  },
-  {
-    "title": "Bessent Says Warsh Came Out Talking ‘Tough’ on Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/bessent-signals-confidence-in-warsh-sees-inflation-coming-down"
-  },
-  {
-    "title": "Mexico’s Annual Inflation Eases More Than Expected Ahead of Rate Decision",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/mexico-annual-inflation-undershoots-forecasts"
-  },
-  {
-    "title": "Chile Central Bank Vows Caution in Policy as Price Risks Decline",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/chile-central-bank-vows-caution-in-policy-as-price-risks-decline"
   },
   {
     "title": "Europe’s extreme heat is shutting down power plants",
@@ -792,6 +792,10 @@
     "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/"
   },
   {
+    "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+    "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch"
+  },
+  {
     "title": "The top tech Prime Day deals to shop on day two",
     "link": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale"
   },
@@ -826,9 +830,5 @@
   {
     "title": "Google is finally opening the Play Store to outside payments",
     "link": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust"
-  },
-  {
-    "title": "Prime Day deals under $50 that are really worth it",
-    "link": "https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50"
   }
 ]
