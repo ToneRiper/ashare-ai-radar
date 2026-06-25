@@ -20,12 +20,12 @@
     "link": "https://openai.com/index/omio"
   },
   {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "link": "https://openai.com/index/daybreak-securing-the-world"
-  },
-  {
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
     "link": "https://openai.com/index/patch-the-planet"
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world"
   },
   {
     "title": "Codex-maxxing for long-running work",
@@ -72,16 +72,16 @@
     "link": "https://openai.com/index/preply"
   },
   {
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+  },
+  {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
   },
   {
     "title": "OpenAI to acquire Ona",
     "link": "https://openai.com/index/openai-to-acquire-ona"
-  },
-  {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
   },
   {
     "title": "BBVA puts AI at the core of banking with OpenAI",
@@ -190,6 +190,14 @@
   {
     "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
     "link": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/"
+  },
+  {
+    "title": "GM reveals 2027 GMC Sierra pickup with new V-8 engines, redesigned styling",
+    "link": "https://www.cnbc.com/2026/06/25/gm-gmc-sierra-pickup.html"
+  },
+  {
+    "title": "Luxury spending now driven by experiences and 'inheritourism'",
+    "link": "https://www.cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html"
   },
   {
     "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
@@ -302,14 +310,6 @@
   {
     "title": "Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market",
     "link": "https://www.cnbc.com/2026/06/16/carvana-new-cars-dealerships.html"
-  },
-  {
-    "title": "Yum Brands sells Pizza Hut to private equity firm LongRange Capital and Yum China for $2.7 billion",
-    "link": "https://www.cnbc.com/2026/06/16/yum-brands-sells-pizza-hut-to-private-equity-firm-longrange-capital-for-2point7-billion.html"
-  },
-  {
-    "title": "Centene to offer buyouts to some employees as health insurer cuts costs",
-    "link": "https://www.cnbc.com/2026/06/15/centene-to-offer-buyouts-to-some-employees.html"
   },
   {
     "title": "Amazon adds new funding, lifting India AI and cloud investment to $48 billion",
@@ -432,11 +432,35 @@
     "link": "https://www.cnbc.com/2026/06/19/jio-platforms-low-earth-orbit-satellites-starlink.html"
   },
   {
+    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/"
+  },
+  {
+    "title": "Trump admin bars Polestar from selling its new EVs in the US",
+    "link": "https://techcrunch.com/2026/06/25/trump-admin-bars-polestar-from-selling-its-new-evs-in-the-us/"
+  },
+  {
+    "title": "Apple raises Mac and iPad prices, spares iPhone for now",
+    "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/"
+  },
+  {
+    "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+    "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/"
+  },
+  {
+    "title": "Trump admin proposes axing brake-pedal requirement for AVs in a boost for Tesla",
+    "link": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/"
+  },
+  {
+    "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+    "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/"
+  },
+  {
     "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
     "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/"
   },
   {
-    "title": "Cellebrite said it cut off Russia, but Russia used is tools anyway",
+    "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
     "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/"
   },
   {
@@ -488,32 +512,52 @@
     "link": "https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/"
   },
   {
-    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-    "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/"
+    "title": "DeepSeek Plans to Double Staff Across All Departments",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/deepseek-plans-to-double-staff-across-all-departments-mqtlpz76"
   },
   {
-    "title": "NTSB launches probe into fatal Texas Tesla crash",
-    "link": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/"
+    "title": "Trump Sons Invested in Private Fund Making Millions on Microcaps",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/trump-sons-invested-in-private-fund-making-millions-on-microcaps"
   },
   {
-    "title": "Figma adds code layers, support for animations, more AI features in new update",
-    "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"
+    "title": "Sonos Cuts 3% of Staff Across User Experience, Product Teams",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/sonos-cuts-3-of-staff-across-user-experience-product-teams"
   },
   {
-    "title": "Zoox upgrades its robotaxi as it prepares for commercial service",
-    "link": "https://techcrunch.com/2026/06/24/zoox-upgrades-its-robotaxi-as-it-prepares-for-commercial-service/"
+    "title": "Nvidia Wants to Make Humanoid AI Robots Safer Around Humans",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/nvidia-wants-to-make-humanoid-ai-robots-safer-for-humans-video"
   },
   {
-    "title": "This new tracking label could help solve cargo theft",
-    "link": "https://techcrunch.com/2026/06/24/this-new-tracking-label-could-help-solve-cargo-theft/"
+    "title": "Cerebras On Track for Record Two-Day Loss as Outlook Disappoints",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/cerebras-cbrs-on-track-for-record-two-day-loss-as-outlook-disappoints"
   },
   {
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
+    "title": "Apple Raises Prices on Some Products by $500",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/apple-raises-prices-on-some-products-by-500-video"
   },
   {
-    "title": "Apple Raises Mac, iPad Prices as Memory Shortage Pushes Up Costs",
+    "title": "Apple Hikes Mac, iPad Prices on Memory Shortage; Shares Fall",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages"
+  },
+  {
+    "title": "Qualcomm Jumps on $15 billion Data Center Sales Projection",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-projects-data-center-chip-sales-of-15-billion-by-2029"
+  },
+  {
+    "title": "Samsung Joins With US Battery Startup Seeking Pentagon Cash",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/samsung-teams-up-with-us-battery-startup-eyeing-defense-funds"
+  },
+  {
+    "title": "SK Hynix, Micron Solidify the Memory Chip as Runaway Star of AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-micron-solidify-memory-chips-as-runaway-stars-of-ai"
+  },
+  {
+    "title": "Micron Shares Soar After AI-Fueled Forecast Shatters Projections",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-sales-forecast-tops-estimates-on-insatiable-memory-demand"
+  },
+  {
+    "title": "Apple Raises Prices on Macs, iPads, Home Devices",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/apple-raises-prices-on-macs-ipads-home-devices-video"
   },
   {
     "title": "Bloomberg Tech San Francisco 2026 Highlights",
@@ -528,16 +572,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/for-4-500-a-week-ai-can-tutor-your-kids-in-the-hamptons"
   },
   {
+    "title": "EU Held Talks With White House on Anthropic After Mythos Cutoff",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/eu-held-talks-with-white-house-on-anthropic-after-mythos-cutoff"
+  },
+  {
     "title": "This $5 Billion Startup Is Putting Humanoid Robots To Work",
     "link": "https://www.bloomberg.com/news/videos/2026-06-25/this-5-billion-startup-is-putting-humanoid-robots-to-work"
   },
   {
     "title": "BofA’s Raedler Says Defensives Ready to Roar if AI Trade Falters",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/bofa-s-raedler-says-defensives-ready-to-roar-if-ai-trade-falters"
-  },
-  {
-    "title": "Samsung Teams Up With US Battery Startup Seeking Pentagon Cash",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/samsung-teams-up-with-us-battery-startup-eyeing-defense-funds"
   },
   {
     "title": "AI Revenue Starts to Exceed a Key Infrastructure Cost But Not By Much",
@@ -588,48 +632,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/gorebox-game-owner-heartbroken-by-philippine-shooting-will-cooperate-in-probe"
   },
   {
-    "title": "Amazon Pledges Additional $13 Billion in India AI Outlays",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/amazon-to-invest-additional-13-billion-in-india-for-ai-by-2030"
-  },
-  {
-    "title": "Qualcomm Jumps as Data Center Sales Seen at $15 Billion by 2029",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-projects-data-center-chip-sales-of-15-billion-by-2029"
-  },
-  {
-    "title": "SK Hynix ADR Seen Driving 30% Upside as Micron Gap Narrows",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-adr-seen-driving-30-upside-as-micron-gap-narrows"
-  },
-  {
-    "title": "Chipmakers Rally With Traders Piling In After Micron Results",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-and-qualcomm-lift-chipmakers-amid-rapid-ai-growth"
-  },
-  {
-    "title": "Micron Soars After AI-Fueled Forecast Shatters Estimates",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-sales-forecast-tops-estimates-on-insatiable-memory-demand"
-  },
-  {
-    "title": "Stretched Tech Valuations Raise Questions on Capex, BofA Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/stretched-tech-valuations-raise-questions-on-capex-bofa-video"
-  },
-  {
-    "title": "Micron Earnings Inflate the AI Bubble: 3-Minutes MLIV",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/micron-earnings-inflate-the-ai-bubble-3-minutes-mliv-video"
-  },
-  {
-    "title": "AI Demand Roils Aumovio’s Talks to Buy Chips, CFO Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/ai-demand-roils-aumovio-s-talks-to-buy-chips-cfo-says-video"
-  },
-  {
-    "title": "Japanese, South Korean Stocks Gain on Renewed Confidence in AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/japanese-south-korean-stocks-gain-on-renewed-confidence-in-ai"
-  },
-  {
-    "title": "Kioxia Plans New US Listing in Spring, Stock Split at Home",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-kioxia-plans-to-offer-us-depositary-shares-next-spring"
-  },
-  {
-    "title": "Micron Shares Jump as Forecast Beats Estimates",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/micron-jumps-as-forecast-beats-estimates-video"
+    "title": "Turkey’s Karahan Signals No Rush to Ease Before Late July",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/turkey-s-karahan-said-to-signal-no-rush-to-ease-before-late-july"
   },
   {
     "title": "US Consumer Spending Picks Up as Inflation Hits Three-Year High",
@@ -682,10 +686,6 @@
   {
     "title": "SNB Must Stay Nimble for Hike or Cut to Negative Rate, IMF Says",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/snb-must-stay-nimble-for-hike-or-cut-to-negative-rate-imf-says"
-  },
-  {
-    "title": "Turkey’s Karahan Said to Signal No Rush to Ease Before Late July",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/turkey-s-karahan-said-to-signal-no-rush-to-ease-before-late-july"
   },
   {
     "title": "Norway Set for Longer Pause After One More Hike, Survey Finds",
@@ -752,6 +752,10 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/fed-says-basis-trade-key-driver-of-hedge-fund-treasury-exposure"
   },
   {
+    "title": "Repositioning retail for the AI era",
+    "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+  },
+  {
     "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
     "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/"
   },
@@ -788,8 +792,24 @@
     "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/"
   },
   {
-    "title": "Heads in the game",
-    "link": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/"
+    "title": "How the World Cup became a US streaming success story",
+    "link": "https://www.theverge.com/column/956756/world-cup-streaming"
+  },
+  {
+    "title": "Get Macbooks at a Prime Day discount before Apple&#8217;s new price hikes kick in",
+    "link": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes"
+  },
+  {
+    "title": "Bungie hit with ‘significant’ layoffs after ending Destiny 2",
+    "link": "https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2"
+  },
+  {
+    "title": "EverQuest Legends is a powerful nostalgia machine",
+    "link": "https://www.theverge.com/games/954841/everquest-legends-nostalgia"
+  },
+  {
+    "title": "Samsung&#8217;s new budget phone costs $50 more despite downgrades",
+    "link": "https://www.theverge.com/tech/956835/samsung-galaxy-a27-5g-launch-price-specs"
   },
   {
     "title": "Leica’s $6,690 SL3-P pairs 44-megapixel stills with 8K video",
@@ -800,7 +820,7 @@
     "link": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale"
   },
   {
-    "title": "Apple reveals price hikes for MacBooks and iPads",
+    "title": "Apple raises prices on Macs, iPads, and more by hundreds of dollars",
     "link": "https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage"
   },
   {
@@ -810,25 +830,5 @@
   {
     "title": "Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers",
     "link": "https://www.theverge.com/streaming/956712/disney-youtube-tv-directv-streaming-settlement"
-  },
-  {
-    "title": "The 124 best tech deals for day three of Prime Day",
-    "link": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three"
-  },
-  {
-    "title": "Is this solar e-bike a good idea or sophisticated e-waste?",
-    "link": "https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy"
-  },
-  {
-    "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-    "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch"
-  },
-  {
-    "title": "The top tech Prime Day deals to shop on day two",
-    "link": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale"
-  },
-  {
-    "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-    "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026"
   }
 ]
