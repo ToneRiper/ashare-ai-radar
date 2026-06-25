@@ -144,12 +144,12 @@
     "link": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/"
   },
   {
-    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-    "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
-  },
-  {
     "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
     "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
+  },
+  {
+    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+    "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
   },
   {
     "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html"
   },
   {
+    "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next",
+    "link": "https://www.cnbc.com/2026/06/25/anthropic-global-ai-data-center-push.html"
+  },
+  {
     "title": "Iran's neighbor, U.S. ally: What Pakistan gains from being a peacemaker",
     "link": "https://www.cnbc.com/2026/06/25/irans-neighbor-us-ally-what-pakistan-gains-from-being-a-peacemaker.html"
   },
@@ -426,10 +430,6 @@
   {
     "title": "Yen slides past 161 against the dollar, nearing 40-year low and reviving intervention bets",
     "link": "https://www.cnbc.com/2026/06/19/japan-yen-161-dollar-intervention-risk-currency-markets.html"
-  },
-  {
-    "title": "MSCI isn't done with Indonesia yet: new report signals continued concerns over market transparency",
-    "link": "https://www.cnbc.com/2026/06/19/msci-still-concerned-about-indonesian-stock-market-transparency.html"
   },
   {
     "title": "Europe is pushing back on Washington’s chip war",
