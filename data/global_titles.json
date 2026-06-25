@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/built-to-benefit-everyone-our-plan"
   },
   {
+    "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/"
+  },
+  {
     "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
     "link": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/"
   },
@@ -186,10 +190,6 @@
   {
     "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
     "link": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/"
-  },
-  {
-    "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
-    "link": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/"
   },
   {
     "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
@@ -512,8 +512,20 @@
     "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
   },
   {
-    "title": "Apple Raises Mac and iPad Prices to Counter Memory Shortages",
+    "title": "Apple Raises Mac, iPad Prices as Memory Shortage Pushes Up Costs",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages"
+  },
+  {
+    "title": "Bloomberg Tech San Francisco 2026 Highlights",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-24/bloomberg-tech-san-francisco-2026-highlights-video"
+  },
+  {
+    "title": "AI Cloud Provider IREN Gets Logo on Golden State Warriors Jerseys",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/ai-neocloud-iren-adds-name-to-nba-s-golden-state-warriors-jersey"
+  },
+  {
+    "title": "For $4,500 a Week, AI Can Tutor Your Kids in the Hamptons",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/for-4-500-a-week-ai-can-tutor-your-kids-in-the-hamptons"
   },
   {
     "title": "This $5 Billion Startup Is Putting Humanoid Robots To Work",
@@ -620,19 +632,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-25/micron-jumps-as-forecast-beats-estimates-video"
   },
   {
-    "title": "H.B. Fuller Nears £628 Million Deal for UK Medtech AMS",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/h-b-fuller-nears-628-million-deal-for-uk-medtech-ams"
-  },
-  {
-    "title": "Japan’s Regional Banks Sell More Senior Bonds as Rates Rise",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-regional-banks-sell-more-senior-bonds-as-rates-rise"
-  },
-  {
-    "title": "Alibaba Slides to 16-Month Low After Anthropic’s AI Accusations",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/alibaba-drops-after-anthropic-accuses-firm-of-accessing-ai-model"
-  },
-  {
-    "title": "US Inflation Climbs to Three-Year High, Spending Picks Up",
+    "title": "US Consumer Spending Picks Up as Inflation Hits Three-Year High",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-inflation-climbs-to-three-year-high-spending-picks-up"
   },
   {
@@ -792,6 +792,10 @@
     "link": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/"
   },
   {
+    "title": "Leica’s $6,690 SL3-P pairs 44-megapixel stills with 8K video",
+    "link": "https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price"
+  },
+  {
     "title": "Our 29 favorite gaming deals on Prime Day for Switch, PS5, and Xbox",
     "link": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale"
   },
@@ -826,9 +830,5 @@
   {
     "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
     "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026"
-  },
-  {
-    "title": "The 16 best robot vacuum deals available during Prime Day",
-    "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026"
   }
 ]
