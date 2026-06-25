@@ -129,10 +129,35 @@ def save_processed_hashes(hashes):
     except: pass
 
 def send_alert(text):
-    if TOKEN and CHAT_ID: 
-        res = requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", json={"chat_id": CHAT_ID, "text": text, "parse_mode": "Markdown", "disable_web_page_preview": True}, timeout=15)
-        if res.status_code != 200:
-            requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", json={"chat_id": CHAT_ID, "text": text.replace('*', '').replace('_', ''), "disable_web_page_preview": True}, timeout=15)
+    if not TOKEN or not CHAT_ID: 
+        print("未检测到 Telegram 配置")
+        return
+
+    # 强制分段发送，单条最大 3800 字符，预留余量防止被 Telegram 拦截
+    max_length = 3800
+    parts = [text[i:i+max_length] for i in range(0, len(text), max_length)]
+
+    for part in parts:
+        try:
+            res = requests.post(
+                f"https://api.telegram.org/bot{TOKEN}/sendMessage", 
+                json={"chat_id": CHAT_ID, "text": part, "parse_mode": "Markdown", "disable_web_page_preview": True}, 
+                timeout=15
+            )
+            # 如果带 Markdown 格式发送失败（可能是切片导致符号不闭合或超长）
+            if res.status_code != 200:
+                print(f"原格式发送失败，正在剥离格式降级重发... 错误码: {res.text}")
+                res_fallback = requests.post(
+                    f"https://api.telegram.org/bot{TOKEN}/sendMessage", 
+                    json={"chat_id": CHAT_ID, "text": part.replace('*', '').replace('_', ''), "disable_web_page_preview": True}, 
+                    timeout=15
+                )
+                if res_fallback.status_code != 200:
+                    print(f"降级发送依然失败: {res_fallback.text}")
+            else:
+                print("分段推送成功！")
+        except Exception as e:
+            print(f"推送遭遇网络异常: {e}")
 
 def clean_stock_codes(raw_text):
     codes = re.findall(r'\b[036]\d{5}\b', raw_text)
