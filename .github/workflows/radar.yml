@@ -57,6 +57,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           SERVER_CHAN_KEY: ${{ secrets.SERVER_CHAN_KEY }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: python main.py
 
       - name: Commit Data
