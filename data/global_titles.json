@@ -144,12 +144,12 @@
     "link": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/"
   },
   {
-    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-    "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
-  },
-  {
     "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
     "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
+  },
+  {
+    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+    "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
   },
   {
     "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -194,6 +194,10 @@
   {
     "title": "TikTok and YouTube are reinventing sports viewership. Broadcasters are taking note",
     "link": "https://www.cnbc.com/2026/06/25/tiktok-youtube-sports-viewership.html"
+  },
+  {
+    "title": "Darden Restaurants earnings beat estimates but Olive Garden growth weakens",
+    "link": "https://www.cnbc.com/2026/06/25/darden-restaurants-dri-q4-2026-earnings.html"
   },
   {
     "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
@@ -306,10 +310,6 @@
   {
     "title": "KFC leans into boneless chicken, new drinks as chain tries to regain market share",
     "link": "https://www.cnbc.com/2026/06/15/kfc-menu-chicken.html"
-  },
-  {
-    "title": "JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway",
-    "link": "https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html"
   },
   {
     "title": "Amazon adds new funding, lifting India AI and cloud investment to $48 billion",
@@ -512,12 +512,24 @@
     "link": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/"
   },
   {
+    "title": "AI Revenue Starts to Exceed a Key Infrastructure Cost But Not By Much",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/ai-revenue-hits-25-billion-topping-depreciation-for-meta-alphabet-microsoft"
+  },
+  {
     "title": "OpenAI, Anthropic and SpaceX Are Shaking Up VC Fundraising",
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/spacex-openai-and-anthropic-spur-record-vc-funding"
   },
   {
     "title": "A Veteran Apple Designer Reimagines the Golf Cart",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/golf-carts-get-apple-design-treatment-from-julian-hoenig-at-amble"
+  },
+  {
+    "title": "US Customs Ramps Up AI Investment in Push to Sharpen Enforcement",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-customs-ramps-up-ai-investment-in-push-to-sharpen-enforcement"
+  },
+  {
+    "title": "AI Demand Begins to Justify Massive Cost of Data-Center Buildout",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/ai-demand-begins-to-justify-massive-cost-of-data-center-buildout"
   },
   {
     "title": "Guild: Memory Chip Spending Can Be Underestimated",
@@ -620,20 +632,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-micron-solidify-memory-chips-as-runaway-stars-of-ai"
   },
   {
-    "title": "Canadian Defence Minister on Indo-Pacific Strategy",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/canadian-defence-minister-on-indo-pacific-strategy-video"
-  },
-  {
-    "title": "Memory Chipmaker SK Hynix's $29 Billion US Listing Seizes on AI Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-29-4-billion-us-listing-to-seize-on-memory-chip-frenzy"
-  },
-  {
-    "title": "Stocks Churn Before Micron’s Earnings as Oil Sinks | The Close 6/24/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/the-close-6-24-2026-video"
-  },
-  {
     "title": "US Corporate Profits Hit Levels That Alarmed Harry Truman’s Aides",
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/us-corporate-profits-hit-levels-that-alarmed-harry-truman-s-aides"
+  },
+  {
+    "title": "Conservatives Urge Overturn of Trump’s Biofuel Blending Quotas",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/conservatives-urge-overturn-of-trump-s-biofuel-blending-quotas"
   },
   {
     "title": "Burnham Team Looks at Treasury Breakup and BOE Reforms",
@@ -746,10 +750,6 @@
   {
     "title": "Bank of Canada Rejects Recession Label for Economy’s Weakness",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/bank-of-canada-rejects-recession-label-for-economy-s-weakness"
-  },
-  {
-    "title": "Gasoline Price Spike Adds to War’s Economic Toll for Russians",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/gasoline-price-spike-adds-to-war-s-economic-toll-for-russians"
   },
   {
     "title": "What Europe’s heat wave means for the power grid",
