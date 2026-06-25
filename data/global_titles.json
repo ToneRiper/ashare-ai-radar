@@ -144,12 +144,12 @@
     "link": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/"
   },
   {
-    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-    "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
-  },
-  {
     "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
     "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
+  },
+  {
+    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+    "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
   },
   {
     "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -192,12 +192,20 @@
     "link": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/"
   },
   {
+    "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
+    "link": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html"
+  },
+  {
     "title": "TikTok and YouTube are reinventing sports viewership. Broadcasters are taking note",
     "link": "https://www.cnbc.com/2026/06/25/tiktok-youtube-sports-viewership.html"
   },
   {
     "title": "Darden Restaurants earnings beat estimates but Olive Garden growth weakens",
     "link": "https://www.cnbc.com/2026/06/25/darden-restaurants-dri-q4-2026-earnings.html"
+  },
+  {
+    "title": "U.S. giving topped $600 billion for the first time last year. Megadonors and bequests are to thank",
+    "link": "https://www.cnbc.com/2026/06/25/us-charitable-giving-megadonors.html"
   },
   {
     "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
@@ -302,14 +310,6 @@
   {
     "title": "Centene to offer buyouts to some employees as health insurer cuts costs",
     "link": "https://www.cnbc.com/2026/06/15/centene-to-offer-buyouts-to-some-employees.html"
-  },
-  {
-    "title": "Fox to buy streaming device maker Roku for $22 billion",
-    "link": "https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html"
-  },
-  {
-    "title": "KFC leans into boneless chicken, new drinks as chain tries to regain market share",
-    "link": "https://www.cnbc.com/2026/06/15/kfc-menu-chicken.html"
   },
   {
     "title": "Amazon adds new funding, lifting India AI and cloud investment to $48 billion",
@@ -512,6 +512,10 @@
     "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
   },
   {
+    "title": "Apple Raises Mac and iPad Prices to Counter Memory Shortages",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages"
+  },
+  {
     "title": "This $5 Billion Startup Is Putting Humanoid Robots To Work",
     "link": "https://www.bloomberg.com/news/videos/2026-06-25/this-5-billion-startup-is-putting-humanoid-robots-to-work"
   },
@@ -628,12 +632,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/alibaba-drops-after-anthropic-accuses-firm-of-accessing-ai-model"
   },
   {
-    "title": "Stocks Rally as Micron Revives AI Trade",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/stocks-rally-as-micron-revives-ai-trade-video"
+    "title": "Property Tycoon With Ties to Reeves Left UK Before Tax Hit",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/property-mogul-with-ties-to-rachel-reeves-left-uk-before-tax-hit"
+  },
+  {
+    "title": "US Inflation Climbs to Three-Year High, Spending Picks Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-inflation-climbs-to-three-year-high-spending-picks-up"
   },
   {
     "title": "Brazil Central Bank Raises Economic Growth Forecast as Stimulus Flows",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/brazil-central-bank-raises-economic-growth-forecast"
+  },
+  {
+    "title": "Bank of England to Spend £300 Million After Bernanke Review",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/bank-of-england-to-spend-300-million-after-bernanke-review"
   },
   {
     "title": "US Customs Broadens AI Use in Push to Strengthen Enforcement",
@@ -720,10 +732,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/uk-plc-warns-burnham-more-tax-hikes-would-push-firms-over-edge"
   },
   {
-    "title": "Property Mogul With Ties to Rachel Reeves Left UK Before Tax Hit",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/property-mogul-with-ties-to-rachel-reeves-left-uk-before-tax-hit"
-  },
-  {
     "title": "BOJ Sees AI Export Boom Cushioning Economy From Oil Price Shock",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/boj-sees-ai-export-boom-cushioning-economy-from-oil-price-shock"
   },
@@ -742,14 +750,6 @@
   {
     "title": "Basis Trade Fuels Hedge Funds’ US Bond Exposure: Fed Report",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/fed-says-basis-trade-key-driver-of-hedge-fund-treasury-exposure"
-  },
-  {
-    "title": "Conservative Fujimori Poised to Win Peru’s Presidency, Vote Count Shows",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/conservative-keiko-fujimori-poised-to-win-peru-s-presidency-vote-count-shows"
-  },
-  {
-    "title": "ECB’s Zigman Says Price Stability Is Key, Cheaper Oil Will Help",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/ecb-s-zigman-says-price-stability-is-key-cheaper-oil-will-help"
   },
   {
     "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
@@ -792,6 +792,10 @@
     "link": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/"
   },
   {
+    "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+    "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes"
+  },
+  {
     "title": "Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers",
     "link": "https://www.theverge.com/streaming/956712/disney-youtube-tv-directv-streaming-settlement"
   },
@@ -826,9 +830,5 @@
   {
     "title": "Microsoft introduces cheaper Surface devices with half the memory",
     "link": "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram"
-  },
-  {
-    "title": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
-    "link": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims"
   }
 ]
