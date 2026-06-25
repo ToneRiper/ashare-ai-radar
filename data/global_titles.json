@@ -20,12 +20,12 @@
     "link": "https://openai.com/index/omio"
   },
   {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet"
-  },
-  {
     "title": "Daybreak: Tools for securing every organization in the world",
     "link": "https://openai.com/index/daybreak-securing-the-world"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet"
   },
   {
     "title": "Codex-maxxing for long-running work",
@@ -72,16 +72,16 @@
     "link": "https://openai.com/index/preply"
   },
   {
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
+  },
+  {
     "title": "OpenAI to acquire Ona",
     "link": "https://openai.com/index/openai-to-acquire-ona"
   },
   {
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
-  },
-  {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
   },
   {
     "title": "BBVA puts AI at the core of banking with OpenAI",
@@ -512,6 +512,14 @@
     "link": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/"
   },
   {
+    "title": "BofA’s Raedler Says Defensives Ready to Roar if AI Trade Falters",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/bofa-s-raedler-says-defensives-ready-to-roar-if-ai-trade-falters"
+  },
+  {
+    "title": "Samsung Teams Up With US Battery Startup Seeking Pentagon Cash",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/samsung-teams-up-with-us-battery-startup-eyeing-defense-funds"
+  },
+  {
     "title": "AI Revenue Starts to Exceed a Key Infrastructure Cost But Not By Much",
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/ai-revenue-hits-25-billion-topping-depreciation-for-meta-alphabet-microsoft"
   },
@@ -624,12 +632,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models"
   },
   {
-    "title": "DigitalBridge Is Said to Explore Options for AIMS Data Centre",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/digitalbridge-is-said-to-explore-options-for-aims-data-centre"
-  },
-  {
-    "title": "SK Hynix, Micron Solidify Memory Chips as Runaway Stars of AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-micron-solidify-memory-chips-as-runaway-stars-of-ai"
+    "title": "US Customs Broadens AI Use in Push to Strengthen Enforcement",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/us-customs-compliance-and-artificial-intelligence"
   },
   {
     "title": "US Corporate Profits Hit Levels That Alarmed Harry Truman’s Aides",
@@ -746,10 +750,6 @@
   {
     "title": "Fed’s Bowman Finalizes Moves to Reshape Bank-Supervision Unit",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/fed-s-bowman-finalizes-moves-to-reshape-bank-supervision-unit"
-  },
-  {
-    "title": "Bank of Canada Rejects Recession Label for Economy’s Weakness",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/bank-of-canada-rejects-recession-label-for-economy-s-weakness"
   },
   {
     "title": "What Europe’s heat wave means for the power grid",
