@@ -4,7 +4,6 @@ import requests
 import re
 from openai import OpenAI
 from datetime import datetime, timedelta
-import time
 import hashlib
 
 # 引入量化包
@@ -120,6 +119,27 @@ def get_realtime_stock_data(stock_code):
     except: pass
     return None
 
+# ======================
+# 3. 基础中枢 (去重记录与推送，修复缺失部分)
+# ======================
+def load_processed_hashes():
+    """读取本地缓存的新闻哈希值，防止重复推送"""
+    if os.path.exists(CACHE_FILE):
+        try:
+            with open(CACHE_FILE, "r", encoding="utf-8") as f: 
+                return set(json.load(f))
+        except: 
+            return set()
+    return set()
+
+def save_processed_hashes(hashes):
+    """保存新闻哈希值到本地"""
+    os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
+    try:
+        with open(CACHE_FILE, "w", encoding="utf-8") as f: 
+            json.dump(list(hashes), f, ensure_ascii=False)
+    except: pass
+
 def send_alert(text):
     if TOKEN and CHAT_ID: 
         res = requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", json={"chat_id": CHAT_ID, "text": text, "parse_mode": "Markdown", "disable_web_page_preview": True}, timeout=15)
@@ -131,7 +151,7 @@ def clean_stock_codes(raw_text):
     return [c for c in codes if c.startswith(('00', '30', '60')) and not c.startswith('688')]
 
 # ======================
-# 4. 合伙人主动大脑 (主动延展思考，废除被动回答)
+# 4. 合伙人主动大脑 (硬编码游资高阶逻辑)
 # ======================
 def get_semantic_intraday_alert(news_list, top_sectors, spikes_5min, quant_data, focus_keywords, mode):
     news_text = "\n".join(news_list[:15])
@@ -142,9 +162,9 @@ def get_semantic_intraday_alert(news_list, top_sectors, spikes_5min, quant_data,
 【底层量化数据】：{quant_data}
 
 【合伙人主动延展铁律】：
-1. 就算没有突发大新闻，你也要根据【资金风向】和【5分钟异动】主动判断当前市场的【情绪周期】（是冰点、退潮还是高潮？）。
-2. 主动挖掘主力意图：有没有存在板块高低切？有没有隐蔽洗盘？
-3. 必须输出 3-5 只符合量化逻辑（FVG缺口、乖离率合理、MACD多头）的纯正小盘股（30-200亿市值，非688/北交所）。不能空仓不推！
+1. 就算没有突发大新闻，你也要根据【资金风向】和【5分钟异动】主动判断当前市场的【情绪周期】（冰点、退潮、混沌还是高潮？）。
+2. 主动挖掘主力意图：结合是否有FVG(公允价值缺口)和套牢盘抛压，判断是主力诱多还是真洗盘建仓。
+3. 必须输出 3-5 只符合量化逻辑的纯正小盘股（30-200亿市值，非688/北交所）。不能空仓不推！
 
 参考资讯：{news_text}
 
@@ -156,11 +176,11 @@ def get_semantic_intraday_alert(news_list, top_sectors, spikes_5min, quant_data,
 * (结合异动数据和量化指标，拆解洗盘或点火逻辑)
 
 **🗡️ 尖刀潜伏池** (无论有无突发，必须在异动/热点中选出3-5只)
-* 000000 股票A：(简述其量化优势与题材契合度)
+* 000000 股票A：(简述其FVG缺口、量化优势与题材契合度)
 * 000000 股票B：(简述逻辑)
 
 **⚠️ 核按钮防雷**
-* (主动规避那些涨幅过大、面临套牢盘抛压的诱多标的)"""
+* (主动规避乖离率过大、面临密集套牢盘的诱多标的)"""
     try:
         return client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.5).choices[0].message.content.strip()
     except: return "分析核心异常"
@@ -168,8 +188,8 @@ def get_semantic_intraday_alert(news_list, top_sectors, spikes_5min, quant_data,
 def get_tail_end_stocks(top_sectors):
     prompt = f"""14:50尾盘。资金：{top_sectors}。
 按【游资N字洗盘量化战法】严格挖掘5只次日溢价标的：
-1. 周线有堆量，套牢盘轻，FVG缺口未回补。
-2. 近两日缩量回调，今日盘中有下影线，绝对不破前一个涨停底。
+1. 周线有堆量，套牢盘轻，存在向上FVG缺口未回补。
+2. 近两日缩量回调，今日盘中有下影线，绝对不破前一个涨停底（屠龙刀战法）。
 死命令：绝对不准选688/北交所！只要00/30/60。市值30-200亿。只输出5个6位代码，逗号隔开。"""
     try:
         res = client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.3).choices[0].message.content
@@ -197,7 +217,6 @@ def run_radar():
         news_hash = hashlib.md5(news.encode('utf-8')).hexdigest()
         if news_hash not in processed_hashes:
             processed_hashes.add(news_hash)
-            # 筛选重要新闻
             is_critical = any(k in news for k in ["批准", "突发", "重要", "拉升", "发布", "规划", "涨停", "重组"]) or \
                           any(any(a.lower() in news.lower() for a in aliases) for aliases in KEYWORDS.values())
             if is_critical: new_critical_news.append(news)
@@ -208,12 +227,10 @@ def run_radar():
     spikes_text, spike_codes = get_5min_spikes_with_codes()
     quant_evidence = calculate_quant_features(spike_codes) if spike_codes else "无微观异动量化数据"
     
-    # 彻底放大时段容错率，应对 GitHub 延迟！
-    is_尾盘时段 = (14 <= hour <= 15)  # 只要是在下午2点到3点59分跑，全部带上尾盘逻辑！
+    is_尾盘时段 = (14 <= hour <= 15)  # 容错：下午2点到3点59分全部带上尾盘逻辑
     is_复盘时段 = hour >= 20
     
-    # 【核心修改：废除静默】
-    # 不管有没有新闻，只要触发了 GitHub Action，就以“盘面常态巡航”模式分析当前所有的快讯和异动！
+    # 废除静默机制，只要运行必发分析
     ai_source_news = new_critical_news if new_critical_news else live_flash[:15]
     current_mode = "⚡ 突发阻击截获" if new_critical_news else "📡 盘面常态巡航"
 
@@ -240,14 +257,12 @@ def run_radar():
                 status = "🛑停牌" if d['vol_ratio']==0 else ("🔥强势承接" if d['vol_ratio']>1.2 and d['turnover']>2.5 else "➖缩量洗盘")
                 msg += f"• `{d['code']}` {d['name']} | 涨跌: {d['change']}% | 量比: {d['vol_ratio']} ({status})\n"
 
-    # [14:50 尾盘，极度宽松的触发时间，绝对不漏]
     if is_尾盘时段:
         msg += "\n---\n\n**🎯【尾盘 N 字反包潜伏池】**\n\n"
         candidates = get_tail_end_stocks(top_sectors)
         ambush_list = []
         for code in clean_stock_codes(" ".join(candidates)):
             d = get_realtime_stock_data(code)
-            # 宽容度增加，保证选出标的
             if d and d['vol_ratio'] > 0 and -8.0 <= d['change'] <= 6.0:
                 ambush_list.append(d)
         
@@ -260,7 +275,7 @@ def run_radar():
 
     if is_复盘时段:
         msg += "\n---\n\n**🌑【盘后大局观复盘】**\n\n"
-        msg += "已扫描全天数据，情绪周期与资金暗线分析完毕。" # 简化防超长报错
+        msg += "已扫描全天数据，情绪周期与资金暗线分析完毕。" 
 
     send_alert(msg)
 
