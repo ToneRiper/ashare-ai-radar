@@ -144,12 +144,12 @@
     "link": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/"
   },
   {
-    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-    "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
-  },
-  {
     "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
     "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
+  },
+  {
+    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+    "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
   },
   {
     "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -332,7 +332,7 @@
     "link": "https://www.cnbc.com/2026/06/25/asian-investors-us-exposure-eric-cantor-trump-trade-singapore-moelis.html"
   },
   {
-    "title": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill dozens",
+    "title": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill hundreds",
     "link": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html"
   },
   {
@@ -432,6 +432,10 @@
     "link": "https://www.cnbc.com/2026/06/19/jio-platforms-low-earth-orbit-satellites-starlink.html"
   },
   {
+    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+    "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/"
+  },
+  {
     "title": "Cellebrite said it cut off Russia, but Russia used is tools anyway",
     "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/"
   },
@@ -508,8 +512,8 @@
     "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
   },
   {
-    "title": "If you want to cut your screen time, just get a Brick",
-    "link": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/"
+    "title": "This $5 Billion Startup Is Putting Humanoid Robots To Work",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/this-5-billion-startup-is-putting-humanoid-robots-to-work"
   },
   {
     "title": "BofA’s Raedler Says Defensives Ready to Roar if AI Trade Falters",
@@ -536,7 +540,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-customs-ramps-up-ai-investment-in-push-to-sharpen-enforcement"
   },
   {
-    "title": "AI Demand Begins to Justify Massive Cost of Data-Center Buildout",
+    "title": "AI Sales Start to Justify Data-Center Spending Boom, Report Says",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/ai-demand-begins-to-justify-massive-cost-of-data-center-buildout"
   },
   {
@@ -628,8 +632,8 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-25/stocks-rally-as-micron-revives-ai-trade-video"
   },
   {
-    "title": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models"
+    "title": "Brazil Central Bank Raises Economic Growth Forecast as Stimulus Flows",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/brazil-central-bank-raises-economic-growth-forecast"
   },
   {
     "title": "US Customs Broadens AI Use in Push to Strengthen Enforcement",
@@ -748,8 +752,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/ecb-s-zigman-says-price-stability-is-key-cheaper-oil-will-help"
   },
   {
-    "title": "Fed’s Bowman Finalizes Moves to Reshape Bank-Supervision Unit",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/fed-s-bowman-finalizes-moves-to-reshape-bank-supervision-unit"
+    "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+    "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/"
   },
   {
     "title": "What Europe’s heat wave means for the power grid",
@@ -786,10 +790,6 @@
   {
     "title": "Heads in the game",
     "link": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/"
-  },
-  {
-    "title": "Super Mario is mathier than you think",
-    "link": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/"
   },
   {
     "title": "Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers",
