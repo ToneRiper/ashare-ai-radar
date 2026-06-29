@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/notion"
   },
   {
+    "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+    "link": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/"
+  },
+  {
     "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
     "link": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/"
   },
@@ -186,10 +190,6 @@
   {
     "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
     "link": "https://blogs.nvidia.com/blog/nvidia-xr-ai/"
-  },
-  {
-    "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
-    "link": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/"
   },
   {
     "title": "Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet",
@@ -432,6 +432,26 @@
     "link": "https://www.cnbc.com/2026/06/23/singtel-sells-gulf-development-stake-asset-recycling-ai-investment.html"
   },
   {
+    "title": "TIDAL cracks down on AI music by cutting off monetization",
+    "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+  },
+  {
+    "title": "In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights",
+    "link": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/"
+  },
+  {
+    "title": "WhatsApp now lets you reserve usernames",
+    "link": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/"
+  },
+  {
+    "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
+    "link": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/"
+  },
+  {
+    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"
+  },
+  {
     "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
     "link": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/"
   },
@@ -492,28 +512,44 @@
     "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
   },
   {
-    "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
+    "title": "MrBeast, Top YouTubers Sell Their Scraps at New Age Auction",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/mrbeast-top-youtubers-sell-their-scraps-at-new-age-auction"
   },
   {
-    "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-    "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/"
+    "title": "Dual Perspectives on AI Investment Costs",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-29/dual-perspectives-on-ai-investment-costs-video"
   },
   {
-    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-    "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/"
+    "title": "WhatsApp Opens Username Reservations to 3 Billion Users",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/whatsapp-opens-username-reservations-to-3-billion-users"
   },
   {
-    "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
-    "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/"
-  },
-  {
-    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
-  },
-  {
-    "title": "US Futures Up as Dip Buyers Lift Tech, US-Iran Hostilities Fade",
+    "title": "US Stocks Gain as Dip Buyers Lift Tech, Mideast Fighting Eases",
     "link": "https://www.bloomberg.com/news/articles/2026-06-29/us-futures-up-as-dip-buyers-lift-tech-us-iran-hostilities-fade"
+  },
+  {
+    "title": "Comcast to Spin Off NBCUniversal and Sky, Sending Shares Soaring",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/comcast-plans-to-spin-off-nbcuniversal-and-sky-into-media-unit"
+  },
+  {
+    "title": "Verizon, BT Merge International Units in Home Markets Pivot",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/verizon-bt-are-said-to-near-jv-deal-for-international-business"
+  },
+  {
+    "title": "World Bank, AfDB to Boost African Power Plan This Year",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-26/world-bank-afdb-to-boost-african-electrification-plan-this-year"
+  },
+  {
+    "title": "Ardian Plans to Invest Over €3 Billion in Nordic Data Centers",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/ardian-plans-to-invest-over-3-billion-in-nordic-data-centers"
+  },
+  {
+    "title": "Baidu’s CFO on the Company’s Approach to Recruiting Young Talent",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-29/baidu-s-cfo-on-the-company-s-approach-to-recruiting-young-talent"
+  },
+  {
+    "title": "Comcast Shares Surge on Plan to Spin Off NBCUniversal",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-29/comcast-shares-surge-on-plan-to-spin-off-nbcuniversal-video"
   },
   {
     "title": "Relx Plans to Buy Back Up to £100 Million in Shares Next Month",
@@ -530,14 +566,6 @@
   {
     "title": "The Uninvited Meeting Guest Is an AI Notetaker",
     "link": "https://www.bloomberg.com/news/articles/2026-06-29/ai-notetaker-tools-recording-zoom-meetings-threaten-privacy-etiquette"
-  },
-  {
-    "title": "Verizon, BT Merge International Units in Pivot to Home Markets",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/verizon-bt-are-said-to-near-jv-deal-for-international-business"
-  },
-  {
-    "title": "Comcast to Spin Off NBCUniversal and Sky, Sending Shares Soaring",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/comcast-plans-to-spin-off-nbcuniversal-and-sky-into-media-unit"
   },
   {
     "title": "Ferrari Luce, New Golf Cart Reflect Apple Design Aesthetic",
@@ -604,36 +632,24 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-29/the-china-show-6-29-2026-video"
   },
   {
-    "title": "Prosus Focused on Growing Just Eat Globally, CEO Bloisi Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/prosus-focused-on-growing-just-eat-globally-bloisi-says-video"
-  },
-  {
-    "title": "China's Robots Try World Cup-Style Penalty Kicks",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/china-s-robots-try-world-cup-style-penalty-kicks-video"
-  },
-  {
-    "title": "South Korea Unveils Plan to Sustain Lead in AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/south-korea-unveils-plan-to-sustain-lead-in-ai-video"
-  },
-  {
-    "title": "Anthropic's Mythos 5 Cleared by US for Wider Use",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/anthropic-s-mythos-5-cleared-by-us-for-wider-use-video"
-  },
-  {
-    "title": "Samsung, SK Hynix to Build Two Chip Fabs in $518 Billion Project",
-    "link": "https://www.bloomberg.com/news/live-blog/2026-06-29/south-korea-presidential-briefing"
-  },
-  {
-    "title": "Germany Is Showcase for How to Use AI to Juice Your Economy",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/german-ai-rollout-offers-300-billion-fix-for-worker-shortage"
-  },
-  {
-    "title": "GM-Backed Self-Driving Firm Momenta Seeks $752 Million From Hong Kong Listing",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing"
-  },
-  {
     "title": "Burnham Vows to Grow Economy by Taking Powers Out of London",
     "link": "https://www.bloomberg.com/news/articles/2026-06-29/burnham-vows-economic-boost-by-taking-fiscal-power-out-of-london"
+  },
+  {
+    "title": "USMCA's First Periodic Review Approaches",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-29/usmca-s-first-periodic-review-approaches-video"
+  },
+  {
+    "title": "Cook Stays at Fed But Trump Wins More Power Over Other Agencies",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/supreme-court-lets-fed-s-lisa-cook-stay-in-job-for-now"
+  },
+  {
+    "title": "Corn Drops With USDA Set to Show Biggest US Supply Since 1988",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/corn-drops-with-usda-set-to-show-biggest-us-supply-since-1988"
+  },
+  {
+    "title": "Citadel Securities Warns of ‘Shifting Landscape’ Under Warsh Fed",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/citadel-securities-warns-of-shifting-landscape-under-warsh-fed"
   },
   {
     "title": "UK Growth Outlook Brightens After US-Iran Truce Lowers Oil Costs",
@@ -708,6 +724,10 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-29/brexit-makes-inflation-spirals-more-likely-says-bank-of-england-economist-pill"
   },
   {
+    "title": "Germany Is Showcase for How to Use AI to Juice Your Economy",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/german-ai-rollout-offers-300-billion-fix-for-worker-shortage"
+  },
+  {
     "title": "Greenland Keeps Attracting Investors It May Not Even Want",
     "link": "https://www.bloomberg.com/news/features/2026-06-29/greenland-is-attracting-more-investors-does-it-even-want-them"
   },
@@ -732,20 +752,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-27/warsh-makes-debut-on-the-global-stage-with-the-class-of-2008"
   },
   {
-    "title": "AI Bust Risks Ripple Effects From Growth to Credit, BIS Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-28/ai-bust-risks-ripple-effects-from-growth-to-credit-bis-says"
-  },
-  {
-    "title": "Japan Policy Draft Backs ‘Appropriate’ Monetary Policy",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-28/japan-policy-draft-backs-appropriate-monetary-policy"
-  },
-  {
-    "title": "China Says It Can Withstand EU Trade Freeze, CCTV Account Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-28/china-says-it-can-withstand-eu-trade-freeze-cctv-account-says"
-  },
-  {
-    "title": "S. Korea to Unveil ‘Three Mega Projects’ With Samsung, SK Group",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-28/s-korea-to-unveil-three-mega-projects-with-samsung-sk-group"
+    "title": "Agent confidence on the technical frontier",
+    "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
   },
   {
     "title": "The Download: metric weaknesses and AI elephant warnings",
@@ -784,8 +792,32 @@
     "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/"
   },
   {
-    "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-    "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/"
+    "title": "WhatsApp is launching usernames: here’s how to reserve yours",
+    "link": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability"
+  },
+  {
+    "title": "Lawmakers want to ban AI companies from selling your health data",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"
+  },
+  {
+    "title": "Dbrand cancels Companion Cube because it didn&#8217;t actually ask Valve for permission",
+    "link": "https://www.theverge.com/games/959056/dbrand-steam-machine-companion-cube-valve-take-down-canceled"
+  },
+  {
+    "title": "These camera-free smart glasses made me feel like Tony Stark",
+    "link": "https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on"
+  },
+  {
+    "title": "Supreme Court allows firing of FTC commissioners, ends agency independence",
+    "link": "https://www.theverge.com/policy/958974/supreme-court-slaughter-trump-decision-ftc-agency-independence"
+  },
+  {
+    "title": "Let him cook: How Weber Blackstone CEO Roger Dahle went from upstart to the biggest name in grilling",
+    "link": "https://www.theverge.com/podcast/958790/weber-blackstone-ceo-roger-dahle-grilling-griddles-merger-outdoor-cooking"
+  },
+  {
+    "title": "Rocket Lab is buying Iridium&#8217;s satellite network for $8 billion to take on SpaceX",
+    "link": "https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications"
   },
   {
     "title": "The Flipper Zero creators’ Busy Bar productivity display will go on sale next month",
@@ -798,33 +830,5 @@
   {
     "title": "Comcast is splitting in two",
     "link": "https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement"
-  },
-  {
-    "title": "The war against &#8216;woke&#8217; could end US science as we know it",
-    "link": "https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research"
-  },
-  {
-    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity"
-  },
-  {
-    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine"
-  },
-  {
-    "title": "China claims the world&#8217;s fastest supercomputer",
-    "link": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer"
-  },
-  {
-    "title": "The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece",
-    "link": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review"
-  },
-  {
-    "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial"
-  },
-  {
-    "title": "Nest&#8217;s quest to fix your thermostat",
-    "link": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history"
   }
 ]
