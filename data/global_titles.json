@@ -152,12 +152,12 @@
     "link": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/"
   },
   {
-    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-    "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
-  },
-  {
     "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
     "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
+  },
+  {
+    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+    "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
   },
   {
     "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -512,6 +512,10 @@
     "link": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/"
   },
   {
+    "title": "Verizon, BT Merge International Units in Pivot to Home Markets",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/verizon-bt-are-said-to-near-jv-deal-for-international-business"
+  },
+  {
     "title": "Comcast Plans to Spin Off NBCUniversal Into New Media Firm",
     "link": "https://www.bloomberg.com/news/articles/2026-06-29/comcast-plans-to-spin-off-nbcuniversal-and-sky-into-media-unit"
   },
@@ -572,10 +576,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-29/sintra-has-catalyst-potential-this-week-3-minutes-mliv-video"
   },
   {
-    "title": "Verizon and BT Create Joint Venture for International Arms",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/verizon-bt-are-said-to-near-jv-deal-for-international-business"
-  },
-  {
     "title": "Korean Stocks Rebound as Samsung, SK Hynix Unveil Spending Plan",
     "link": "https://www.bloomberg.com/news/articles/2026-06-29/korean-stocks-rebound-as-samsung-sk-hynix-unveil-spending-plan"
   },
@@ -630,6 +630,10 @@
   {
     "title": "Animation’s AI Reckoning: Filmmakers Say They Can Make Movies for 90% Less",
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-28/animation-s-ai-reckoning-filmmakers-say-they-can-make-movies-for-90-less"
+  },
+  {
+    "title": "UK Growth Outlook Brightens After US-Iran Truce Lowers Oil Costs",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/uk-growth-outlook-brightens-after-us-iran-truce-lowers-oil-costs"
   },
   {
     "title": "Burnham Vows Economic Boost by Taking Fiscal Power Out of London",
@@ -744,10 +748,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-28/s-korea-to-unveil-three-mega-projects-with-samsung-sk-group"
   },
   {
-    "title": "Sydney Home Auction Activity Weakens as Costs, Tax Changes Weigh",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-28/sydney-home-auction-activity-weakens-as-costs-tax-changes-weigh"
-  },
-  {
     "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
     "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/"
   },
@@ -788,6 +788,10 @@
     "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
   },
   {
+    "title": "Comcast is splitting in two",
+    "link": "https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement"
+  },
+  {
     "title": "The war against &#8216;woke&#8217; could end US science as we know it",
     "link": "https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research"
   },
@@ -822,9 +826,5 @@
   {
     "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
     "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review"
-  },
-  {
-    "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
-    "link": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler"
   }
 ]
