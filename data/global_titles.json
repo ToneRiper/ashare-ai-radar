@@ -120,6 +120,18 @@
     "link": "https://openai.com/index/notion"
   },
   {
+    "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+    "link": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/"
+  },
+  {
+    "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+    "link": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/"
+  },
+  {
+    "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+    "link": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/"
+  },
+  {
     "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
     "link": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/"
   },
@@ -178,18 +190,6 @@
   {
     "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
     "link": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/"
-  },
-  {
-    "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
-    "link": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/"
-  },
-  {
-    "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/"
-  },
-  {
-    "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
-    "link": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/"
   },
   {
     "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know",
@@ -312,11 +312,11 @@
     "link": "https://www.cnbc.com/2026/06/18/california-ipo-tax-windfall.html"
   },
   {
-    "title": "U.S. crude oil hovers above $70 as Trump, Iran issue mixed messages on talks in Qatar",
+    "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
     "link": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html"
   },
   {
-    "title": "Indonesia jails former education minister for 10 years in Google Chromebook graft case",
+    "title": "Google Chromebook graft case sees Indonesia's former education minister jailed for 10 years",
     "link": "https://www.cnbc.com/2026/06/30/indonesia-jails-former-education-minister-for-10-years-in-google-chromebook-graft-case.html"
   },
   {
@@ -432,6 +432,30 @@
     "link": "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html"
   },
   {
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/"
+  },
+  {
+    "title": "Arcturus could halve the grid’s electrical losses using its nano-infused copper",
+    "link": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/"
+  },
+  {
+    "title": "Podcasting platform Riverside enters the newsletter publishing game",
+    "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/"
+  },
+  {
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
+  },
+  {
+    "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+    "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/"
+  },
+  {
     "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
     "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/"
   },
@@ -440,7 +464,7 @@
     "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
   },
   {
-    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
     "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
   },
   {
@@ -488,28 +512,68 @@
     "link": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/"
   },
   {
-    "title": "WhatsApp now lets you reserve usernames",
-    "link": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/"
+    "title": "Sovereign Funds Back Private Credit",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-30/sovereign-funds-back-private-credit-video"
   },
   {
-    "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
-    "link": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/"
+    "title": "SAP Gives AI Product Oversight to CEO and COO in Reshuffle",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle"
   },
   {
-    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-    "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"
+    "title": "Bloomberg Invest Hong Kong 2026 Highlights",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-30/bloomberg-invest-hong-kong-2026-highlights-video"
   },
   {
-    "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
-    "link": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/"
+    "title": "AI Won’t Be Substitute for Human Workers, OpenAI Economist Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ai-won-t-be-substitute-for-human-workers-openai-economist-says"
   },
   {
-    "title": "Flipper Device’s new Busy Bar is a customizable display for productivity",
-    "link": "https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/"
+    "title": "Spain's War on Football Piracy Knocks Legitimate Sites Offline",
+    "link": "https://www.bloomberg.com/news/features/2026-06-30/laliga-s-football-piracy-crackdown-is-breaking-the-internet"
   },
   {
-    "title": "Omen AI’s plan to optimize data centers is all wet",
-    "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/"
+    "title": "Call Center Stocks Fall on Fear AI Makes Them ‘Uninvestible’",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/call-center-stocks-fall-on-worry-ai-is-makes-them-uninvestible"
+  },
+  {
+    "title": "Exiled Chinese Tycoon Gets 30 Years in Prison for Billion-Dollar Fraud",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-29/exiled-chinese-tycoon-guo-gets-30-years-in-us-prison-for-fraud"
+  },
+  {
+    "title": "AI Chip Startup Etched Lures Jane Street, TSMC-Linked VC as Investors",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ai-chip-startup-etched-says-jane-street-tsmc-linked-vc-invested"
+  },
+  {
+    "title": "Dan Ives Expects Mag 7 to ‘Significantly’ Outperform in Second Half",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-30/mag-7-to-significantly-outperform-in-second-half-ives-video"
+  },
+  {
+    "title": "SpaceX IPO Left Mirae With No Shares on Misunderstanding",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/spacex-ipo-left-korea-broker-with-no-shares-on-misunderstanding"
+  },
+  {
+    "title": "AI Leverage Is More Worrying Than Valuations, IMF’s Adrian Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ai-leverage-is-more-worrying-than-valuations-imf-s-adrian-says"
+  },
+  {
+    "title": "BOE’s Breeden Says AI Agents Could Amplify Market Stress",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-30/boe-s-breeden-says-ai-agents-could-amplify-market-stress-video"
+  },
+  {
+    "title": "BOE’s Breeden Warns AI Agents Risk Causing Market Meltdowns",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/boe-s-breeden-warns-ai-agents-risk-triggering-market-meltdowns"
+  },
+  {
+    "title": "Jon and Mindy Gray Bet on AI Science Research to Prevent Cancer",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/jon-and-mindy-gray-bet-on-ai-science-research-to-prevent-cancer"
+  },
+  {
+    "title": "Chinese AI Firms’ Newest Battleground: World Cup Predictions",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-30/chinese-ai-firms-compete-to-pick-world-cup-winners"
+  },
+  {
+    "title": "AI Notetakers in Meetings Raise Mounting Privacy Concerns",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-30/ai-meeting-notetakers-spark-privacy-concerns-recording-you-without-consent"
   },
   {
     "title": "IMF: Cyberattacks Getting Faster",
@@ -528,8 +592,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/equirus-is-said-to-consider-fundraising-at-600-million-value"
   },
   {
-    "title": "SAP Gives AI Product Oversight to Top Executives in Reshuffle",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle"
+    "title": "Midea Is Said to Consider China IPO for German Robot Maker Kuka",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/midea-is-said-to-consider-china-ipo-for-german-robot-maker-kuka"
   },
   {
     "title": "The Original Prediction Market Boosters Have Qualms About the Boom",
@@ -552,14 +616,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/neopulse-led-group-to-acquire-stake-in-korean-game-maker-wemade"
   },
   {
-    "title": "SpaceX IPO Left Korea Broker With No Shares on Misunderstanding",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/spacex-ipo-left-korea-broker-with-no-shares-on-misunderstanding"
-  },
-  {
-    "title": "Spain’s War on Football Piracy Is Breaking the Internet",
-    "link": "https://www.bloomberg.com/news/features/2026-06-30/laliga-s-football-piracy-crackdown-is-breaking-the-internet"
-  },
-  {
     "title": "AirPods Maker Luxshare Seeks Up to $3.1 Billion From Hong Kong Listing",
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/airpods-maker-luxshare-seeks-up-to-3-1-billion-from-hong-kong-listing"
   },
@@ -576,64 +632,52 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-29/super-micro-office-raided-as-taiwan-expands-chip-smuggling-probe"
   },
   {
-    "title": "Amazon to Pay $2.25 Million to End US Case Over ID Theft Victims",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/amazon-to-pay-2-25-million-to-end-us-case-over-id-theft-victims"
-  },
-  {
-    "title": "StanChart Former AI Chief Joins Accenture as Southeast Asia Head",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/stanchart-former-ai-chief-joins-accenture-as-southeast-asia-head"
-  },
-  {
-    "title": "South Korea to Speed Nuclear Push to Meet Surging Power Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/south-korea-to-speed-nuclear-push-to-meet-surging-power-demand"
-  },
-  {
-    "title": "Tencent Ramps Up Buybacks as Share Rout Wipes Out $309 Billion",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/tencent-ramps-up-buybacks-as-share-rout-wipes-out-309-billion"
-  },
-  {
-    "title": "House Passes Online Safety Bill as Senate Eyes Stricter Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/house-passes-online-safety-bill-as-senators-seek-more-safeguards"
-  },
-  {
-    "title": "Amazon Sued by Australian Consumer Watchdog Over Prime Video Ads",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/amazon-sued-by-australian-consumer-watchdog-over-prime-video-ads"
-  },
-  {
-    "title": "Exiled Chinese Tycoon Gets 30 Years in Prison for Billion-Dollar Fraud",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/exiled-chinese-tycoon-guo-gets-30-years-in-us-prison-for-fraud"
-  },
-  {
-    "title": "Comcast’s NBC Spinoff Raises Questions About Businesses’ Future",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/comcast-s-nbc-spin-off-raises-questions-about-businesses-future"
-  },
-  {
-    "title": "Grid Woes Push UK Clean Power Goal Back Five Years, Report Shows",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/grid-woes-push-uk-clean-power-goal-back-five-years-report-shows"
-  },
-  {
-    "title": "Supreme Court Re-Shapes Power of Presidency | The Close 6/29/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/the-close-6-29-2026-video"
-  },
-  {
-    "title": "LSEG CEO on AI Market Impact, Share Buybacks, Volatility",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/lseg-ceo-highlights-ai-as-a-major-growth-driver-video"
-  },
-  {
-    "title": "Comcast Plans to Spin Off NBCUniversal in Strategy Reversal",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/comcast-plans-to-spin-off-nbcuniversal-and-sky-into-media-unit"
-  },
-  {
-    "title": "Wealth Managers Vie for Korean Workers Getting Record AI Bonuses",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/south-korean-financial-firms-fight-for-share-of-ai-pay-bonanza"
-  },
-  {
-    "title": "Nasdaq 100 Jumps More Than 2% as Dip Buyers Lift Tech Stocks",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/us-futures-up-as-dip-buyers-lift-tech-us-iran-hostilities-fade"
-  },
-  {
-    "title": "ECB Officials Stay Alert as Lane Shifts Focus to Price Pipeline",
+    "title": "ECB Officials Stay Alert as Focus Shifts to Price Pipeline",
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/ecb-officials-stay-alert-as-lane-shifts-focus-to-price-pipeline"
+  },
+  {
+    "title": "Russians Turn to Apps, Black Market as Fuel Shortages Bite",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/apps-networking-black-market-how-russians-battle-fuel-crunch"
+  },
+  {
+    "title": "Goldman Sees South Africa Rate Hike as CPI Expectations Rise",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/inflation-expectations-rise-before-south-africa-rate-decision"
+  },
+  {
+    "title": "US Consumer Confidence Inches Up, Helped by Lower Gas Prices",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/us-consumer-confidence-inches-up-helped-by-lower-gas-prices"
+  },
+  {
+    "title": "US Job Openings Tick Up in Sign of Steady Labor Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/us-job-openings-little-changed-suggesting-stable-labor-demand"
+  },
+  {
+    "title": "US Job Openings and Consumer Confidence Edge Higher",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-30/us-job-openings-and-consumer-confidence-edge-higher-video"
+  },
+  {
+    "title": "India Says Growth Outlook Brightens as Middle East Risks Ease",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/india-says-growth-outlook-brightens-as-middle-east-risks-ease"
+  },
+  {
+    "title": "Canada Economy Set for Rebound, Bucking Recession Talk",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/canada-economy-set-for-second-quarter-rebound-breaking-slump"
+  },
+  {
+    "title": "German Inflation Eases as Oil Retreat Tames Prices in Europe",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/german-inflation-eases-as-oil-s-retreat-tames-prices-in-europe"
+  },
+  {
+    "title": "Argentina’s Beef Export Boom to US Leaves Locals Paying More for Steak",
+    "link": "https://www.bloomberg.com/news/features/2026-06-30/beef-prices-argentina-exports-more-to-us-as-locals-eat-less-red-meat"
+  },
+  {
+    "title": "Rate Hike Gives ECB Sense of Confidence",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-30/ecb-latest-sintra-forum-shows-confidence-after-rate-hike"
+  },
+  {
+    "title": "China’s Factories Show Resilience Weathering Iran War Turmoil",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-30/china-factory-production"
   },
   {
     "title": "Polish Inflation Slows Again, Tilting Rate Outlook to Easing",
@@ -648,6 +692,10 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/katayama-says-japan-ready-to-act-after-yen-hits-40-year-low"
   },
   {
+    "title": "Bangladesh Central Bank Holds Rate as Risks Linger",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/bangladesh-central-bank-holds-rate-as-risks-linger"
+  },
+  {
     "title": "French Inflation Unexpectedly Falls Back to ECB’s 2% Target",
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/french-inflation-eases-to-lowest-since-march-as-oil-prices-drop"
   },
@@ -660,8 +708,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/new-world-screwworm-returns-to-texas-as-ranchers-race-to-contain-cases"
   },
   {
-    "title": "Apps, Networking, Black Market: How Russians Battle Fuel Crunch",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/apps-networking-black-market-how-russians-battle-fuel-crunch"
+    "title": "Colombia to Resume Interest-Rate Hikes After Election",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/colombia-to-resume-rate-hikes-after-election-decision-guide"
   },
   {
     "title": "Why the US-Mexico-Canada Trade Deal Is in Jeopardy",
@@ -680,10 +728,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/slok-says-ecb-may-hike-again-in-september-despite-energy-drop"
   },
   {
-    "title": "Inflation Expectations Rise Before South African Rate Call",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/inflation-expectations-rise-before-south-africa-rate-decision"
-  },
-  {
     "title": "Japan Nears Longest Postwar Growth Even as Households Struggle",
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/japan-nears-longest-postwar-growth-even-as-households-struggle"
   },
@@ -692,60 +736,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-lane-sees-second-round-effects-taking-some-time-to-appear"
   },
   {
-    "title": "ECB’s Wunsch Says Case for Another Rate Hike Not as Strong Now",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-wunsch-says-case-for-another-rate-hike-not-as-strong-now"
+    "title": "The Download: AI “coworkers” and stratospheric internet",
+    "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/"
   },
   {
-    "title": "Canada Pitches Stability to Japan as China Tensions Persist",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/canada-pitches-stability-to-japan-as-china-tensions-persist"
+    "title": "Agriculture is ready for AI, but its data isn’t",
+    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
   },
   {
-    "title": "UK Households Save Less to Prop Up Spending as Incomes Fall",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/uk-s-saving-ratio-dips-as-spending-rises-on-bills-and-going-out"
-  },
-  {
-    "title": "SNB Intervened to Halt Rush for Franc at Iran War Outbreak",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/snb-intervened-to-halt-rush-for-franc-at-iran-war-outbreak"
-  },
-  {
-    "title": "ECB’s Sleijpen Says Extent of Inflation Shock Remains to Be Seen",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-sleijpen-says-extent-of-inflation-shock-remains-to-be-seen"
-  },
-  {
-    "title": "India Plans to Add Strategic Fuel Reserves After Iran War Shock",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/india-plans-to-add-strategic-fuel-reserves-after-iran-war-shock"
-  },
-  {
-    "title": "Chinese Economic Momentum Stirs Anew But Slowdown Remains Likely",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/china-s-manufacturing-activity-returns-to-growth-as-exports-boom"
-  },
-  {
-    "title": "China Escalates Takaichi Feud, Blacklists More Japan Firms",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/china-blacklists-more-japan-entities-as-takaichi-feud-deepens"
-  },
-  {
-    "title": "New Zealand Firms More Confident as Fuel Prices Ease, ANZ Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/new-zealand-firms-more-confident-as-fuel-prices-ease-anz-says"
-  },
-  {
-    "title": "South Korea Tightens Property Curbs as Chip Boom Spurs Home Prices",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/s-korea-tightens-property-curbs-as-chip-boom-spurs-home-prices"
-  },
-  {
-    "title": "Former BOJ Official Sees Next Hike Probably Before December",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/former-boj-official-sees-next-hike-probably-before-december"
-  },
-  {
-    "title": "UK Food Inflation Drops to 15-Month Low, Retailers’ Survey Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/uk-food-inflation-drops-to-15-month-low-retailers-survey-says"
-  },
-  {
-    "title": "Taiwan Dollar Set to Face Pressure From Record Dividend Payouts",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/taiwan-dollar-set-to-face-pressure-from-record-dividend-payouts"
-  },
-  {
-    "title": "Supreme Court Affirms Presidential Power, with a Carve-Out for the Fed",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/lisa-cook-supreme-court-ruling-sets-the-fed-apart-big-take-podcast"
+    "title": "Building tech in the world’s secret R&D hub",
+    "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/"
   },
   {
     "title": "AI agents are not your “coworkers”",
@@ -776,16 +776,24 @@
     "link": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/"
   },
   {
-    "title": "What Europe’s heat wave means for the power grid",
-    "link": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/"
+    "title": "The Supreme Court stops Trump&#8217;s attempt to end birthright citizenship",
+    "link": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump"
   },
   {
-    "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-    "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
+    "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
+    "link": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled"
   },
   {
-    "title": "Europe’s extreme heat is shutting down power plants",
-    "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/"
+    "title": "Meet the lawyer who beat Elon Musk — twice",
+    "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter"
+  },
+  {
+    "title": "This motor could be the future of e-bikes",
+    "link": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt"
+  },
+  {
+    "title": "Our best look yet at Samsung’s new wide foldable",
+    "link": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks"
   },
   {
     "title": "T-Mobile is booting customers from its oldest plans",
@@ -806,25 +814,5 @@
   {
     "title": "Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’",
     "link": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room"
-  },
-  {
-    "title": "OpenAI is teasing new hardware… for Codex",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder"
-  },
-  {
-    "title": "At $499, Apple&#8217;s M3-powered iPad Air is a good deal",
-    "link": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale"
-  },
-  {
-    "title": "The best July 4th sales we found so far",
-    "link": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale"
-  },
-  {
-    "title": "WhatsApp is launching usernames: here’s how to reserve yours",
-    "link": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability"
-  },
-  {
-    "title": "Lawmakers want to ban AI companies from selling your health data",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"
   }
 ]
