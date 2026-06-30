@@ -160,12 +160,12 @@
     "link": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/"
   },
   {
-    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-    "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
-  },
-  {
     "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
     "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/"
+  },
+  {
+    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+    "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
   },
   {
     "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -312,6 +312,14 @@
     "link": "https://www.cnbc.com/2026/06/18/hollister-partners-with-target-to-sell-dorm-bedding-apparel.html"
   },
   {
+    "title": "Indonesia jails former education minister for 10 years in Google Chromebook graft case",
+    "link": "https://www.cnbc.com/2026/06/30/indonesia-jails-former-education-minister-for-10-years-in-google-chromebook-graft-case.html"
+  },
+  {
+    "title": "Short sellers keep betting against Pop Mart — even though it's been a losing trade",
+    "link": "https://www.cnbc.com/2026/06/30/short-sellers-betting-against-toymaker-pop-mart-even-though-they-are-losing-money.html"
+  },
+  {
     "title": "China factory activity grows faster than expected in June on tech export demand",
     "link": "https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html"
   },
@@ -424,14 +432,6 @@
     "link": "https://www.cnbc.com/2026/06/24/ukraine-russia-drone-strikes-moscow-escalation.html"
   },
   {
-    "title": "Three New York Democrats backed by Mamdani win House seat primaries; 2 incumbents lose",
-    "link": "https://www.cnbc.com/2026/06/24/mamdani-democrats-house-primary-lander-valdez-chevalier.html"
-  },
-  {
-    "title": "MSCI keeps South Korea as emerging market, delays Indonesia review amid downgrade risk",
-    "link": "https://www.cnbc.com/2026/06/24/msci-south-korea-emerging-market-indonesia-review-extended.html"
-  },
-  {
     "title": "The AI jobs debate just got messier",
     "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
   },
@@ -510,6 +510,26 @@
   {
     "title": "California law targeting loud streaming ads takes effect on July 1",
     "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/"
+  },
+  {
+    "title": "Citi’s Chew Sees Selloff Risk in Tech Stocks From Positioning",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/citi-s-chew-sees-selloff-risk-in-tech-stocks-from-positioning"
+  },
+  {
+    "title": "M&G's Fedeli Says Its Worth Investing in 'AI Losers'",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-30/m-g-s-fedeli-says-its-worth-investing-in-ai-losers-video"
+  },
+  {
+    "title": "NeoPulse-Led Group to Acquire Stake in Korean Game Maker Wemade",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/neopulse-led-group-to-acquire-stake-in-korean-game-maker-wemade"
+  },
+  {
+    "title": "SpaceX IPO Left Korea Broker With No Shares on Misunderstanding",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/spacex-ipo-left-korea-broker-with-no-shares-on-misunderstanding"
+  },
+  {
+    "title": "Spain’s War on Football Piracy Is Breaking the Internet",
+    "link": "https://www.bloomberg.com/news/features/2026-06-30/laliga-s-football-piracy-crackdown-is-breaking-the-internet"
   },
   {
     "title": "AirPods Maker Luxshare Seeks Up to $3.1 Billion From Hong Kong Listing",
@@ -612,24 +632,40 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-29/uber-waymo-have-ended-robotaxi-tie-up-in-phoenix-uber-to-announce-new-partner"
   },
   {
-    "title": "Comcast’s Big NBCUniversal Shakeup | Open Interest 6/29/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/open-interest-6-29-2026-video"
+    "title": "Inflation Expectations Rise Before South African Rate Call",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/inflation-expectations-rise-before-south-africa-rate-decision"
   },
   {
-    "title": "Alibaba, Tencent Dropped by DC Lobbyists to Comply With US Curbs",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/alibaba-tencent-dropped-by-dc-lobbyists-to-comply-with-us-curbs"
+    "title": "Lane Signals ECB Remains Concerned About Inflation Risks Ahead",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-lane-sees-second-round-effects-taking-some-time-to-appear"
   },
   {
-    "title": "Hugging Face CEO Weighs In on Anthropic AI Model's 'Dangerous' Label",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/delangue-on-anthropic-ai-model-s-dangerous-label-video"
+    "title": "French Inflation Unexpectedly Falls Back to ECB’s 2% Target",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/french-inflation-eases-to-lowest-since-march-as-oil-prices-drop"
   },
   {
-    "title": "Bob Iger, Joshua Kushner Discuss NBA Expansion Bid",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/bob-iger-joshua-kushner-discuss-nba-expansion-bid-video"
+    "title": "ECB’s Wunsch Says Case for Another Rate Hike Not as Strong Now",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-wunsch-says-case-for-another-rate-hike-not-as-strong-now"
   },
   {
-    "title": "Anthropic's Mythos 5 Gets US Approval for Wider Use",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-29/anthropic-s-mythos-5-gets-us-approval-for-wider-use-video"
+    "title": "Canada Pitches Stability to Japan as China Tensions Persist",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/canada-pitches-stability-to-japan-as-china-tensions-persist"
+  },
+  {
+    "title": "Polish Inflation Slows for Third Month as Rate-Hike Risk Fades",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/polish-inflation-slows-for-third-month-as-rate-hike-risk-fades"
+  },
+  {
+    "title": "UK Households Save Less to Prop Up Spending as Incomes Fall",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/uk-s-saving-ratio-dips-as-spending-rises-on-bills-and-going-out"
+  },
+  {
+    "title": "SNB Intervened to Halt Rush for Franc at Iran War Outbreak",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/snb-intervened-to-halt-rush-for-franc-at-iran-war-outbreak"
+  },
+  {
+    "title": "India Plans to Add Strategic Fuel Reserves After Iran War Shock",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/india-plans-to-add-strategic-fuel-reserves-after-iran-war-shock"
   },
   {
     "title": "Chinese Economic Momentum Stirs Anew But Slowdown Remains Likely",
@@ -714,42 +750,6 @@
   {
     "title": "Global Trade Braces for Another Period of Policy Uncertainty",
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-29/global-trade-uncertainty"
-  },
-  {
-    "title": "UK Political Angst Turned Foreigners Into Gilt Sellers in May",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/uk-political-angst-turned-foreigners-into-gilt-sellers-in-may"
-  },
-  {
-    "title": "Nigerian Government Seeks Advisers for Planned Eurobond Offering",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/nigerian-government-seeks-advisers-for-planned-eurobond-offering"
-  },
-  {
-    "title": "AI Will Drive a Strong US Earnings Season, Goldman’s Snider Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/ai-will-drive-a-strong-us-earnings-season-goldman-s-snider-says"
-  },
-  {
-    "title": "‘Southern Squeeze’ Grips US Cities Once Known for Affordability",
-    "link": "https://www.bloomberg.com/news/features/2026-06-29/high-gas-prices-and-home-prices-make-atlanta-nashville-less-affordable"
-  },
-  {
-    "title": "El Niño Threatens to Deepen Crisis for Brazilian Rice Farmers",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/el-nino-threatens-to-deepen-crisis-for-brazilian-rice-farmers"
-  },
-  {
-    "title": "UK Mortgage Approvals Drop as Rush to Lock in Rates Fades",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/uk-mortgage-approvals-drop-as-scramble-to-lock-in-rates-fades"
-  },
-  {
-    "title": "Spain Lifts 2026 Economic-Growth Forecast Despite Iran War",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/spain-lifts-2026-economic-growth-forecast-despite-iran-war"
-  },
-  {
-    "title": "Moody’s Says India Rating Safe Despite Potential Deficit Gap",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/moody-s-says-india-can-handle-modest-fiscal-slippage-this-year"
-  },
-  {
-    "title": "Japan Protests China’s Maritime Claims After Bomber Flights",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/japan-protests-china-maritime-claims-near-southern-island"
   },
   {
     "title": "AI agents are not your “coworkers”",
