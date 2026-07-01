@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/openai-on-oracle-cloud"
   },
   {
+    "title": "NVIDIA and Partners Build in America, for America",
+    "link": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/"
+  },
+  {
     "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
     "link": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/"
   },
@@ -188,8 +192,8 @@
     "link": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/"
   },
   {
-    "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
-    "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/"
+    "title": "U.S. auto industry faces more uncertainty without extension of USMCA trade deal",
+    "link": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html"
   },
   {
     "title": "Lamborghini reveals new Urus performance hybrid SUV after ditching EVs",
@@ -308,11 +312,7 @@
     "link": "https://www.cnbc.com/2026/06/22/ups-healthcare-logistics-investment.html"
   },
   {
-    "title": "SNAP restrictions could change what shoppers buy — and food giants are watching",
-    "link": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html"
-  },
-  {
-    "title": "Oil prices wobble as breakdown in U.S.-Iran talks casts doubt over peace process",
+    "title": "Oil prices wobble as uncertainty persists over U.S.-Iran talks in Qatar",
     "link": "https://www.cnbc.com/2026/07/01/oil-prices-brent-wti-crude-trump-iran.html"
   },
   {
@@ -512,16 +512,48 @@
     "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
   },
   {
+    "title": "A Giant Cable Exposes Ireland’s AI Ambitions and Security Risks",
+    "link": "https://www.bloomberg.com/news/features/2026-07-01/amazon-cable-shows-ireland-s-status-as-ai-hub-and-highlights-security-risk"
+  },
+  {
+    "title": "Meta Is Building a Cloud Business to Sell Excess AI Compute",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute"
+  },
+  {
+    "title": "Sony to End Production of Physical PlayStation Discs in 2028",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/sony-to-end-production-of-physical-playstation-discs-in-2028"
+  },
+  {
+    "title": "Bloomberg Wealth: Rick Wurster",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/bloomberg-wealth-rick-wurster-video"
+  },
+  {
+    "title": "US Limits on Anthropic’s Mythos Keep Foreign Firms in Limbo",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-limits-on-anthropic-s-mythos-keep-foreign-firms-in-limbo"
+  },
+  {
+    "title": "Google Told to Pay Klarna Nearly $2 Billion in Shopping Spat",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/google-ordered-to-pay-klarna-nearly-2-billion-in-antitrust-suit"
+  },
+  {
+    "title": "Taiwan Detains Super Micro Workers in China Chip Smuggling Probe",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/taiwan-detains-super-micro-workers-probing-smuggling-of-nvidia-chips-to-china"
+  },
+  {
+    "title": "Wayve Files for Share Sale on LSE’s New Private Market",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/wayve-files-for-share-sale-on-london-bourse-s-new-private-market"
+  },
+  {
+    "title": "Bending Spoons IPO Turns Italian College Pals Into Billionaires",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/bending-spoons-ipo-turns-italian-college-pals-into-billionaires"
+  },
+  {
     "title": "Oracle Warns Its Splurge on AI Data Centers May Not Pay Off",
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/oracle-warns-ai-data-center-splurge-may-not-pay-off"
   },
   {
     "title": "Video Search Startup Raises $100 Million From Amazon, VC Funds",
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/video-search-startup-raises-100-million-from-amazon-vc-funds"
-  },
-  {
-    "title": "Wayve Files for Share Sale on London Bourse’s New Private Market",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/wayve-files-for-share-sale-on-london-bourse-s-new-private-market"
   },
   {
     "title": "AI, Forging New Risks, Isn’t a Market Wizard After All",
@@ -588,10 +620,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/agilent-ceo-on-business-strategy-innovation-video"
   },
   {
-    "title": "A Giant Cable Exposes Ireland’s AI Ambitions and Security Risks",
-    "link": "https://www.bloomberg.com/news/features/2026-07-01/amazon-cable-shows-ireland-s-status-as-ai-hub-and-highlights-security-risk"
-  },
-  {
     "title": "Vertiv Opens Malaysia Plant to Meet AI Data Centers’ Power Needs",
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/vertiv-opens-malaysia-plant-to-meet-ai-data-centers-power-needs"
   },
@@ -604,32 +632,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/panasonic-targets-further-ai-growth-to-build-on-record-valuation"
   },
   {
-    "title": "Uber-Backed Bike Firm Lime, Investors Raise $174 Million in IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/uber-backed-lime-investors-said-to-price-ipo-at-25-per-share"
+    "title": "Warsh Says Fed Charting New Course, Repeats No Forward Guidance",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/warsh-says-fed-charting-new-course-repeats-no-forward-guidance"
   },
   {
-    "title": "Lee’s $880 Billion AI Bet Ties Legacy to Korea’s Chip Boom",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/lee-s-880-billion-ai-bet-ties-legacy-to-south-korea-chip-boom"
+    "title": "US Companies Added 98,000 Jobs in June, ADP Data Show",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-companies-added-98-000-jobs-in-june-adp-data-show"
   },
   {
-    "title": "Vimeo Parent Bending Spoons, Backers Raise $1.68 Billion in IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/vimeo-parent-bending-spoons-backers-raise-1-68-billion-in-ipo"
+    "title": "Warsh Says He’s Moving to Chart a New Course at Fed",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-07-01/sintra-central-banker-panel-live-updates"
   },
   {
-    "title": "Oaktree Capital-Backed ITG Raises $312.2 Million in US IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/oaktree-capital-backed-itg-raises-312-2-million-in-us-ipo"
-  },
-  {
-    "title": "Nike Earnings Surpass Expectations as Q2 Comes to a Close | The Close 6/30/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-30/the-close-6-30-2026-video"
-  },
-  {
-    "title": "Nike Succession in Focus With New CFO Ready To Take Helm",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-30/nike-succession-in-focus-with-new-cfo-ready-to-take-helm-video"
-  },
-  {
-    "title": "Bloomberg Crypto 6/30/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-30/bloomberg-crypto-6-30-2026-video"
+    "title": "Greece’s Jobless Rate Falls to 8.1% in May, Lowest Since 2008",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/greece-s-jobless-rate-falls-to-8-1-in-may-lowest-since-2008"
   },
   {
     "title": "AI Productivity Hopes Collide With Job and Market Worries",
@@ -656,7 +672,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/euro-zone-inflation-slows-more-than-expected-as-oil-retreats"
   },
   {
-    "title": "Trump Souring on USMCA Triggers Review of $2 Trillion Trade Deal",
+    "title": "Trump Souring on USMCA Sets Up Rethink of $2 Trillion Trade Deal",
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/usmca-limbo-looms-with-trump-cool-on-his-2-trillion-a-year-deal"
   },
   {
@@ -728,20 +744,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/miguel-gomez-to-be-next-colombia-finance-minister-el-tiempo-mr16awmh"
   },
   {
-    "title": "ASX Gets RBA, Regulator Support for Transformation Program Reset",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/asx-gets-rba-regulator-support-for-transformation-program-reset"
-  },
-  {
-    "title": "New Zealand Should Raise Interest Rates Toward Neutral, IMF Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/new-zealand-should-raise-interest-rates-toward-neutral-imf-says"
-  },
-  {
-    "title": "Brazil Begins Rolling Back Fuel Subsidies as Oil Prices Fall",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/brazil-government-to-start-paring-back-emergency-fuel-subsidies-mr0wq0ja"
-  },
-  {
-    "title": "ECB Faces No Urgency to Hike Rates Again in July, Kazaks Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ecb-faces-no-urgency-to-hike-rates-again-in-july-kazaks-says"
+    "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+    "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
   },
   {
     "title": "Claude Science is Anthropic’s newest flagship product",
@@ -780,8 +784,20 @@
     "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/"
   },
   {
-    "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-    "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
+    "title": "Sony is closing the PS3 and Vita digital stores",
+    "link": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down"
+  },
+  {
+    "title": "Sony is killing all physical PlayStation game discs",
+    "link": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending"
+  },
+  {
+    "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+    "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home"
+  },
+  {
+    "title": "Rhythm Heaven never misses a beat",
+    "link": "https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch"
   },
   {
     "title": "Range anxiety",
@@ -806,21 +822,5 @@
   {
     "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
     "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back"
-  },
-  {
-    "title": "Dish files for bankruptcy, but is not shutting down",
-    "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy"
-  },
-  {
-    "title": "Amazon fined $2.25 million for failing to help identity theft victims",
-    "link": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine"
-  },
-  {
-    "title": "Acer&#8217;s Swift Go 16 is a lot of laptop for $900",
-    "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale"
-  },
-  {
-    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-    "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips"
   }
 ]
