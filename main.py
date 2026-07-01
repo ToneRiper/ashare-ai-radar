@@ -4,7 +4,6 @@ import requests
 import re
 from openai import OpenAI
 from datetime import datetime, timedelta
-import hashlib
 import time
 
 try:
@@ -23,21 +22,21 @@ FEISHU_WEBHOOK = os.getenv("FEISHU_WEBHOOK")
 DS_KEY = os.getenv("DEEPSEEK_API_KEY")
 
 client = OpenAI(api_key=DS_KEY, base_url="https://api.deepseek.com")
-CACHE_FILE = "data/sent_news.json"
 
-# 多空双轨 + 垂直政务监控词库
-BULL_WORDS = ["增持", "回购", "突破", "中标", "批复", "重组", "借壳", "异动", "拉升", "发布", "突发", "订单", "政策", "涨停", "利好", "获批", "证书", "许可", "专利", "NMPA", "药监局", "工信部", "发改委"]
-BEAR_WORDS = ["减持", "立案", "调查", "亏损", "爆雷", "退市", "问询", "澄清", "违规", "跌停", "闪崩", "黑天鹅", "警示", "利空", "大跌"]
-ALL_MONITOR_WORDS = BULL_WORDS + BEAR_WORDS + ["股", "市", "板块", "融资", "期指", "央行"]
+# 【情报网重构】：加入宏观、国际、垂直部委，绝不漏掉底层驱动利好
+MACRO_WORDS = ["美联储", "降息", "非农", "央行", "国务院", "工信部", "发改委", "药监局", "NMPA", "商务部", "印发", "规划", "条例"]
+BULL_WORDS = ["增持", "回购", "突破", "中标", "批复", "重组", "借壳", "异动", "拉升", "发布", "突发", "订单", "政策", "利好", "获批", "量产"]
+BEAR_WORDS = ["减持", "立案", "调查", "亏损", "爆雷", "退市", "问询", "澄清", "违规", "跌停", "闪崩", "黑天鹅", "警示", "利空", "大跌", "制裁"]
+ALL_MONITOR_WORDS = MACRO_WORDS + BULL_WORDS + BEAR_WORDS + ["股", "市", "板块", "期指"]
 
 # ======================
-# 2. 强力数据底座 (日夜双轨双擎)
+# 2. 强力数据底座
 # ======================
 def get_live_news_robust():
-    """获取新闻，自带兜底机制，保证绝不为空"""
     flash_news = []
     try:
-        url = "https://zhibo.sina.com.cn/api/zhibo/feed?page=1&num=60&top_id=152&type=0&dpc=1"
+        # 扩大抓取量至 80 条，防止遗漏
+        url = "https://zhibo.sina.com.cn/api/zhibo/feed?page=1&num=80&top_id=152&type=0&dpc=1"
         res = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=10).json()
         items = res.get('result', {}).get('data', {}).get('feed', {}).get('list', [])
         
@@ -45,19 +44,15 @@ def get_live_news_robust():
             rich_text = item.get('rich_text', '')
             if rich_text:
                 clean_text = re.sub(r'<[^>]+>', '', rich_text)
-                # 如果包含我们的核心监控词，优先抓取
                 if any(k in clean_text for k in ALL_MONITOR_WORDS):
-                    prefix = "[⚠️利空]" if any(b in clean_text for b in BEAR_WORDS) else ("[🔥利好/突破]" if any(b in clean_text for b in BULL_WORDS) else "[📰快讯]")
-                    flash_news.append(f"{prefix} {clean_text[:150]}")
-        
-        # 【兜底逻辑】：如果深夜实在没有触发关键词的新闻，强行提取前 5 条金融头条，保证大盘有情报支撑
-        if not flash_news and items:
-            for item in items[:5]:
-                clean_text = re.sub(r'<[^>]+>', '', item.get('rich_text', ''))
-                flash_news.append(f"[📡日常巡航] {clean_text[:100]}")
-
+                    # 智能打标签
+                    if any(b in clean_text for b in BEAR_WORDS): prefix = "[⚠️重磅利空]"
+                    elif any(b in clean_text for b in MACRO_WORDS): prefix = "[🌍宏观/政务]"
+                    elif any(b in clean_text for b in BULL_WORDS): prefix = "[🔥产业利好]"
+                    else: prefix = "[📰异动快讯]"
+                    flash_news.append(f"{prefix} {clean_text[:200]}")
     except Exception as e:
-        print(f"新闻源获取失败: {e}")
+        print(f"新闻源异常: {e}")
     return flash_news
 
 def get_market_temperature():
@@ -69,27 +64,24 @@ def get_market_temperature():
             if not line: continue
             parts = line.split('~')
             if len(parts) > 32:
-                name = parts[1]
-                change_pct = parts[32]
-                idx_data.append(f"[{name}] {change_pct}%")
-        return " | ".join(idx_data) if idx_data else "板块数据暂时盲区"
+                idx_data.append(f"[{parts[1]}] {parts[32]}%")
+        return " | ".join(idx_data) if idx_data else "板块数据盲区"
     except:
-        return "大盘数据获取受限，激活盲飞逻辑"
+        return "大盘获取受限"
 
-def get_expanded_spikes(hour):
-    """
-    【核心修复：日夜双轨引擎】
-    盘中看异动（f11），盘后看换手（f8）。绝对保证盘后有票可复！
-    """
+def get_expanded_spikes(mode_type):
+    """根据时间段智能切换异动抓取策略"""
     try:
         headers = {'User-Agent': 'Mozilla/5.0', 'Referer': 'http://quote.eastmoney.com/'}
-        
-        if 9 <= hour < 15:
-            # 盘中：抓 5分钟异动榜 (f11)
+        if mode_type == "morning":
+            # 盘前/早盘：抓取竞价和资金抢筹榜
+            url = "http://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=50&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048&fields=f12,f14,f3,f38"
+        elif mode_type == "intraday":
+            # 盘中：抓 5分钟急速拉升 (f11)
             url = "http://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=50&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f11&fs=m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048&fields=f12,f14,f3,f11,f38"
         else:
-            # 盘后：抓 全天换手率活跃榜 (f8)，过滤掉死水股
-            url = "http://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=50&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f8&fs=m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048&fields=f12,f14,f3,f11,f38"
+            # 尾盘/复盘：抓全天高换手活跃池 (f8)
+            url = "http://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=60&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f8&fs=m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048&fields=f12,f14,f3,f38"
 
         res = requests.get(url, headers=headers, timeout=5).json()
         data = res.get('data', {}).get('diff', [])
@@ -97,29 +89,24 @@ def get_expanded_spikes(hour):
         codes_for_quant = []
         for s in data:
             code = str(s.get('f12', ''))
-            # 物理死规矩：00, 30, 60开头，不选科创北交
-            if not code.startswith(('00', '30', '60')) or code.startswith('688'):
-                continue
-            
+            # 剔除大票/科创/北交，只保留 00/30/60
+            if not code.startswith(('00', '30', '60')) or code.startswith('688'): continue
             change = s.get('f3', 0)
-            turnover = s.get('f38', 0)
             
-            # 不接飞刀：只要今天跌幅没超过 -5%，且换手活跃 (>3%)，统统拉进备选池！
-            if change > -5.0 and turnover > 3.0:
+            # 不接暴跌飞刀
+            if change > -6.0:
                 codes_for_quant.append(code)
-                
         return codes_for_quant
     except Exception as e:
-        print(f"异动获取异常: {e}")
         return []
 
 def get_quant_evidence(codes):
-    """【放宽过滤，让AI去抉择】"""
-    if not HAS_QUANT or not codes: return "无底层量化数据支撑"
+    """【彻底杜绝价格幻觉】：强制传回真实价格与市值过滤"""
+    if not HAS_QUANT or not codes: return "无底层数据"
     quant_reports = []
     
     for code in codes: 
-        if len(quant_reports) >= 15: break # 给AI喂足15个高质量备选
+        if len(quant_reports) >= 20: break # 给AI足够多的活水备选
         try:
             df = ak.stock_zh_a_hist(symbol=code, period="daily", adjust="qfq")
             if len(df) < 35: continue
@@ -130,18 +117,18 @@ def get_quant_evidence(codes):
             bias5 = (close_price - ma5) / ma5 * 100
             
             recent_10_max = df.tail(10)['涨跌幅'].max()
-            has_zt = "【有涨停基因】" if recent_10_max > 9.5 else "【无近端涨停】"
-            trend = "10日线上多头" if close_price >= ma10 else "破位10日线"
+            has_zt = "近端有涨停" if recent_10_max > 9.5 else "无近端涨停"
             
             name = ak.stock_info_a_code_name().set_index('code').to_dict()['name'].get(code, "未知")
-            # 不再用 continue 杀死股票，把属性如实汇报给 AI，让 AI 根据大盘决定
-            quant_reports.append(f"标的[{code} {name}]: 乖离{bias5:.1f}%, {trend}, {has_zt}。")
+            
+            # 核心修复：把真实【现价】写死送给 AI，断绝幻觉！
+            quant_reports.append(f"标的[{code} {name}] 现价:{close_price:.2f}元 | 乖离:{bias5:.1f}%, 10日线支撑:{'是' if close_price>=ma10 else '否'}, {has_zt}")
         except: continue
         
     return "\n".join(quant_reports) if quant_reports else "当前池无有效解析标的。"
 
 # ======================
-# 3. 强力分发引擎
+# 3. 分发引擎
 # ======================
 def send_alert(text):
     if not text.strip(): return
@@ -153,8 +140,7 @@ def send_alert(text):
             try:
                 requests.post(FEISHU_WEBHOOK, json={"msg_type": "text", "content": {"text": part}}, timeout=10)
                 time.sleep(0.5) 
-            except Exception as e:
-                pass
+            except: pass
 
     if TOKEN and CHAT_ID:
         for part in parts:
@@ -163,40 +149,61 @@ def send_alert(text):
                 if res.status_code != 200:
                     requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", json={"chat_id": CHAT_ID, "text": part.replace('*', '').replace('_', ''), "disable_web_page_preview": True}, timeout=15)
                 time.sleep(0.5)
-            except Exception as e:
-                pass
+            except: pass
 
 # ======================
-# 4. 游资合伙人 AI 大脑
+# 4. 顶级合伙人 AI 大脑 (四轴驱动提示词)
 # ======================
-def get_deep_analysis(news_list, top_sectors, quant_data, mode):
-    news_text = "\n".join(news_list[:20])
+def get_deep_analysis(news_list, top_sectors, quant_data, mode_type, current_time):
+    news_text = "\n".join(news_list[:30]) # 给足新闻
     
-    prompt = f"""【系统死命令】：你是一个冰冷、专业的量化游资推演机器。绝对禁止输出“好的、明白”等废话。直接输出正文！
+    # 根据时间段，彻底切换AI的工作重点
+    if mode_type == "morning":
+        prompt_mission = """【早盘核心定调】：
+1. 挖掘今日宏观/全球利好，指明今日大A可能主攻的方向。
+2. 从量化标的池中选出 3-5 只最具【集合竞价抢筹】潜力的先锋股。"""
+    elif mode_type == "tail_end":
+        prompt_mission = """【尾盘5只黄金潜伏】：
+1. 必须精准推荐 5 只最优潜力的股票，绝不多推或少推！
+2. 绝对分散：这 5 只票必须涵盖完全不同的产业题材（龙头、次龙、补涨皆可搭配）。
+3. 价格亲民：不选百元大票，挑选价格适中、极具次日溢价空间（N字反包、缩量回踩）的标的。"""
+    elif mode_type == "review":
+        prompt_mission = """【盘后全维度深度复盘】：
+1. 详细总结今日大A情绪、利好/利空发酵情况。
+2. 给出明日的干货方向与机会。
+3. 从全天高活跃池中挖掘 3-5 只明日具备极强反包/连板潜力的标的。"""
+    else:
+        prompt_mission = """【盘中异动与情报狙击】：
+1. 紧盯最新突发的利好/利空情报，解读其对相关板块的量化冲击。
+2. 从 5分钟异动池中捕捉 2-4 只最具涨停潜力或联动爆发的活水标的。"""
 
-当前模式：【{mode}】
-【盘面硬核数据】：
-* 大盘温度：{top_sectors}
-* 今日全市场高活跃存活标的池：\n{quant_data}
-* 快讯情报：\n{news_text}
+    prompt = f"""作为国际顶尖的量化游资合伙人，严禁说任何废话，直接按格式输出极其专业的深度研报。
 
-【战术执行纪律（违令必究）】：
-1. 强制推票底线：上方“存活标的池”中已经为你准备了当日最活跃的股票。你【必须】从中挑选 3-5 只最符合游资战法的票推荐出来，并附上完整的6位代码及名称。绝不允许因为市场弱就交白卷！
-2. 强制题材分散：推荐的这 3-5 只股票，必须【绝对属于不同的产业题材】（例如不能出现两只都属半导体），必须实现仓位避险。
-3. 万字级验尸拆解：对每一只推荐的票，写明它的【量价死穴】（FVG缺口支撑在哪？周线是否有堆量？上方套牢盘有多重？次日溢价的博弈点在哪？）。
+当前时间：{current_time}
+【底层绝对真实数据】：
+* 大盘风向：{top_sectors}
+* 真实量化活水池 (带有最新现价，严禁私自篡改价格或编造代码)：\n{quant_data}
+* 全网多空/政务重磅情报：\n{news_text}
 
-【严格排版（内容必须极度详实，要长篇深度推演）】：
-**🎯 市场全息定调**
-(深度分析情绪周期、衍生品博弈与大资金意图。如果是盘后，详细总结今日龙虎榜和做空力量)
+【你的核心任务】：
+{prompt_mission}
 
-**🚨 雷区预警与防核**
-(指出利空发酵区、中位股陷阱、或量价背离的死亡板块)
+【纪律死命令】：
+1. 价格与代码必须绝对真实，直接引用我提供给你的现价！
+2. 每只推荐票必须拆解【核心量价逻辑】（FVG缺口、堆量、套牢盘厚度等）和【题材驱动逻辑】。
 
-**🗡️ 深度拆解：实战跨界潜伏池（强制分散，严选3-5只）**
-* `代码` 股票名称 [所属唯一题材]
-  - 【深度量价结构剖析】：(详细展开FVG缺口、堆量、套牢盘厚度、洗盘质量)
-  - 【次日实战博弈点】：(结合情报与量价的接力预期，哪里是买点，哪里是止损死穴)
-* (继续列举，必须跨行业...)
+【排版要求（层次分明，内容详实）】：
+**🌍 全球与国内宏观/产业前瞻**
+(深挖我提供的新闻，分析政策落地、国际波动对大A的直接影响)
+
+**🎯 核心阵地与雷区避险**
+(今日资金主攻方向是什么？哪些板块面临利空或兑现压力必须规避？)
+
+**🗡️ 优选实战标的池 (强制跨界分散)**
+* `代码` 股票名称 (现价: X.XX元) | 所属板块: XXX
+  - 【驱动逻辑】：(结合新闻与行业利好)
+  - 【量价拆解】：(详细分析支撑位、洗盘状态、次日博弈点)
+* (继续列举，确保题材绝对不同...)
 """
     try:
         return client.chat.completions.create(model="deepseek-chat", messages=[{"role": "user", "content": prompt}], temperature=0.3).choices[0].message.content.strip()
@@ -204,45 +211,42 @@ def get_deep_analysis(news_list, top_sectors, quant_data, mode):
         return f"深度推演引擎报错: {str(e)}"
 
 # ======================
-# 5. 调度中枢
+# 5. 调度中枢 (严格卡点执行)
 # ======================
 def run_radar():
     bjt_now = datetime.utcnow() + timedelta(hours=8)
     today_str = bjt_now.strftime("%Y-%m-%d %H:%M")
     hour = bjt_now.hour
+    minute = bjt_now.minute
 
-    # 1. 抓底座数据
+    # 严格的四轴时间线判断
+    if hour == 9 and 20 <= minute <= 45:
+        mode_type = "morning"
+        mode_title = "🌅 09:25 早盘核心定调与机会"
+    elif hour == 14 and 30 <= minute <= 59:
+        mode_type = "tail_end"
+        mode_title = "🎯 14:30 尾盘潜伏 (5只最优优选)"
+    elif hour >= 20:
+        mode_type = "review"
+        mode_title = "🌑 盘后深度复盘与明日沙盘"
+    else:
+        mode_type = "intraday"
+        mode_title = "⚡ 盘中情报狙击与异动抓取"
+
+    # 拉取数据
     live_flash = get_live_news_robust()
     top_sectors = get_market_temperature()
-    
-    # 2. 【日夜双擎】抓标的
-    codes_for_quant = get_expanded_spikes(hour)
+    codes_for_quant = get_expanded_spikes(mode_type)
     quant_evidence = get_quant_evidence(codes_for_quant)
 
-    # 3. 模式判定
-    is_尾盘 = (14 <= hour <= 15)
-    is_复盘 = hour >= 20
-    
-    if is_尾盘:
-        mode = "🎯 尾盘潜伏狙击 (量价筛选模式)"
-    elif is_复盘:
-        mode = "🌑 盘后万字级全维大复盘"
-    else:
-        mode = "🚨 盘中突发雷区预警" if any("[⚠️利空]" in n for n in live_flash) else "📡 盘中异动深度透视"
-
-    report = f"**【游资合伙人 · {mode}】** ({today_str})\n\n"
+    # 组装报表
+    report = f"**【游资合伙人 · {mode_title}】** ({today_str})\n\n"
     report += f"💰 **大盘温度**: {top_sectors}\n\n"
     
-    if live_flash:
-        report += "**📢 全网核心情报:**\n"
-        for n in live_flash[:6]: report += f"• {n}\n"
-        report += "\n---\n\n"
-
-    # 4. 深度推演
-    ai_analysis = get_deep_analysis(live_flash, top_sectors, quant_evidence, mode)
+    ai_analysis = get_deep_analysis(live_flash, top_sectors, quant_evidence, mode_type, today_str)
     report += ai_analysis
 
-    # 5. 双重分发
+    # 分发
     send_alert(report)
 
 if __name__ == "__main__":
