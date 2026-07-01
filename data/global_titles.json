@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/"
   },
   {
+    "title": "Lamborghini reveals new Urus performance hybrid SUV after ditching EVs",
+    "link": "https://www.cnbc.com/2026/07/01/lamborghini-urus-suv.html"
+  },
+  {
     "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund",
     "link": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html"
   },
@@ -308,8 +312,16 @@
     "link": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html"
   },
   {
-    "title": "Bob Iger reflects on 10 years of Shanghai Disneyland as it defies the Chinese pullback",
-    "link": "https://www.cnbc.com/2026/06/19/bob-iger-shanghai-disneyland-chinese-pullback.html"
+    "title": "Oil prices wobble as breakdown in U.S.-Iran talks casts doubt over peace process",
+    "link": "https://www.cnbc.com/2026/07/01/oil-prices-brent-wti-crude-trump-iran.html"
+  },
+  {
+    "title": "Xi touts China Communist Party's global influence in speech marking 105th anniversary",
+    "link": "https://www.cnbc.com/2026/07/01/china-xi-jinping-ccp-105th-anniversary-global-influence-taiwan.html"
+  },
+  {
+    "title": "KKR to control South Korea's $1.3 billion renewables platform with SK as AI power demand rises",
+    "link": "https://www.cnbc.com/2026/07/01/kkr-sk-launch-1-3-billion-south-korea-renewable-energy-platform-ai-data-centers.html"
   },
   {
     "title": "LNG market disruption may continue for months as a top producer withholds some Italian shipments",
@@ -420,18 +432,6 @@
     "link": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html"
   },
   {
-    "title": "Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race",
-    "link": "https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html"
-  },
-  {
-    "title": "Trump claims Iran has assured U.S. there won't be tolls on the Strait of Hormuz",
-    "link": "https://www.cnbc.com/2026/06/24/trump-claims-iran-has-assured-us-there-wont-be-tolls-on-the-strait-of-hormuz.html"
-  },
-  {
-    "title": "South Korea’s biggest chipmaker SK Hynix plans to raise $29 billion via Nasdaq listing as soon as July 10",
-    "link": "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html"
-  },
-  {
     "title": "The ‘Father of the Internet’ is finally retiring",
     "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/"
   },
@@ -512,6 +512,50 @@
     "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
   },
   {
+    "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor"
+  },
+  {
+    "title": "Google and Actor Idris Elba to Fund African Creator Access to AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai"
+  },
+  {
+    "title": "ByteDance Picks Brazil for Its Largest Data Center Outside China",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-creator-bytedance-picks-brazil-for-largest-data-center-outside-china"
+  },
+  {
+    "title": "The Wall Street Women Who Traded Finance Careers for Influencer Success",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/women-on-wall-street-leave-finance-careers-to-become-influencers"
+  },
+  {
+    "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/schneider-to-buy-industrial-ai-firm-cognite-for-3-1-billion"
+  },
+  {
+    "title": "Goldman Sees Hyperscaler Spending as Continued Boost for Europe Stocks",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/goldman-sees-hyperscaler-spend-further-benefiting-europe-video"
+  },
+  {
+    "title": "TikTok Eyes About 300 More Job Cuts at European Hub in Dublin",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-eyes-about-300-more-job-cuts-at-european-hub-in-dublin"
+  },
+  {
+    "title": "French Gas Users to See Higher Bills on Network Costs, CRE Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/french-gas-users-to-see-higher-bills-on-network-costs-cre-says"
+  },
+  {
+    "title": "Anthropic Says US Lifted Restrictions on Fable 5",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video"
+  },
+  {
+    "title": "Abu Dhabi’s MGX Raises $49 Billion for One of the Biggest Ever AI Funds",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/uae-abu-dhabi-s-mgx-raises-49-billion-for-one-of-the-biggest-ai-funds-ever"
+  },
+  {
+    "title": "US Lifts Export Restrictions on Anthropic’s Fable 5 AI Model",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model"
+  },
+  {
     "title": "Kim Dotcom Loses Latest Appeal in Case Against Extradition to US",
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/kim-dotcom-loses-latest-appeal-in-case-against-extradition-to-us"
   },
@@ -546,10 +590,6 @@
   {
     "title": "Uber-Backed Bike Firm Lime, Investors Raise $174 Million in IPO",
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/uber-backed-lime-investors-said-to-price-ipo-at-25-per-share"
-  },
-  {
-    "title": "US Lifts Export Restrictions on Anthropic’s Fable 5 AI Model",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model"
   },
   {
     "title": "Lee’s $880 Billion AI Bet Ties Legacy to Korea’s Chip Boom",
@@ -588,44 +628,44 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-30/new-crypto-bill-draft-expected-soon-video"
   },
   {
-    "title": "Supreme Court to Hear Apple Appeal Over Contempt Ruling",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/supreme-court-to-hear-apple-appeal-over-epic-app-store-fees"
+    "title": "Euro-Zone Inflation Slows More Than Expected as Oil Retreats",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/euro-zone-inflation-slows-more-than-expected-as-oil-retreats"
   },
   {
-    "title": "Bitcoin Miners Valuable Asset for Electric Grid: Vera",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-30/bitcoin-miners-valuable-asset-for-electric-grid-vera-video"
+    "title": "USMCA Limbo Looms With Trump Cool on His $2 Trillion-a-Year Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/usmca-limbo-looms-with-trump-cool-on-his-2-trillion-a-year-deal"
   },
   {
-    "title": "Bitget CEO Discusses Tokenization, Market-Making",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-30/bitget-ceo-discusses-tokenization-market-making-video"
+    "title": "Kganyago Signals South Africa Could Hike Rates Again This Month",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/kganyago-signals-south-africa-could-hike-rates-again-this-month"
   },
   {
-    "title": "Securitize Set to Go Public Thursday",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-30/securitize-set-to-go-public-thursday-video"
+    "title": "South Africa Factory Mood Dips as Iran War Deal Delays Purchases",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/south-africa-factory-mood-dips-as-iran-war-deal-delays-purchases"
   },
   {
-    "title": "SpaceX Cuts Starlink Internet Prices in Memphis After Data Center Opposition",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/spacex-drops-starlink-costs-in-memphis-amid-data-center-pushback"
+    "title": "Spain to Hand Papers to Over 1 Million Undocumented Migrants",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/spain-set-to-hand-papers-to-over-1-million-undocumented-migrants"
   },
   {
-    "title": "Anthropic Releases Claude Science for Automating Research",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/anthropic-releases-claude-science-for-automating-research"
+    "title": "ECB’s Kocher Says the Next Decisions Will Be Either Hike or Hold",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/ecb-s-kocher-says-the-next-decisions-will-be-either-hike-or-hold"
   },
   {
-    "title": "Comcast’s NBC Spinoff Sets Stage for More Media, Cable Deals",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-29/comcast-s-nbc-spin-off-raises-questions-about-businesses-future"
+    "title": "Germany’s Pension Fund Would Be Safe With Bundesbank, Nagel Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/germany-s-pension-fund-would-be-safe-with-bundesbank-nagel-says"
   },
   {
-    "title": "High Interest in Perpetual Futures: Kalshi's DeNault",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-30/high-interest-in-perpetual-futures-kalshi-s-denault-video"
+    "title": "ECB’s Nagel Says He’s Keeping Options Open for Next Two Meetings",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/ecb-s-nagel-says-he-s-keeping-options-open-for-next-two-meetings"
   },
   {
-    "title": "Bitcoin ETFs on Track for Record Monthly Outflow",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-30/bitcoin-etfs-on-track-for-record-monthly-outflow-video"
+    "title": "Japan’s FX Chief Flags Contact With US, Intervention Impact",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/japan-s-mimura-cites-impact-of-past-intervention-and-us-support"
   },
   {
-    "title": "Saylor's Strategy May Sell Up to $1.25 Billion of Bitcoin",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-30/breakdown-strategy-may-sell-more-bitcoin-in-overhaul-video"
+    "title": "UK House Prices Stagnate as Cheaper Loans Bring Limited Relief",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/uk-house-prices-stagnate-despite-easing-mortgage-costs"
   },
   {
     "title": "China’s Factories Cap Best Quarter Since 2020, Survey Shows",
@@ -638,10 +678,6 @@
   {
     "title": "South Africa Plans to Tap Existing Rand Sukuk Bonds This Year",
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/south-africa-plans-to-tap-existing-rand-sukuk-bonds-this-year"
-  },
-  {
-    "title": "Japan’s FX Chief Says Past Yen Intervention Has Shown Impact",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/japan-s-mimura-cites-impact-of-past-intervention-and-us-support"
   },
   {
     "title": "Sydney Housing Slump Drags Australia Prices Down Most Since 2022",
@@ -668,6 +704,10 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/takaichi-sets-target-for-nominal-gdp-of-6-8-trillion-in-2040"
   },
   {
+    "title": "Paris-Educated Economist Tapped as Colombian Finance Chief",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/miguel-gomez-to-be-next-colombia-finance-minister-el-tiempo-mr16awmh"
+  },
+  {
     "title": "ASX Gets RBA, Regulator Support for Transformation Program Reset",
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/asx-gets-rba-regulator-support-for-transformation-program-reset"
   },
@@ -692,60 +732,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-dolenc-sees-no-urgency-to-hike-if-energy-markets-stay-calm"
   },
   {
-    "title": "Spain Set to Hand Papers to Over 1 Million Undocumented Migrants",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/spain-set-to-hand-papers-to-over-1-million-undocumented-migrants"
-  },
-  {
     "title": "BOE’s Bailey Says Oil Shock Frustrates Policy With Economy Weak",
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/boe-s-bailey-says-oil-shock-frustrates-policy-with-economy-weak"
   },
   {
     "title": "BLS Should Strengthen Safeguards Around Data, Watchdog Says",
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/bls-needs-to-strengthen-safeguards-around-data-watchdog-says"
-  },
-  {
-    "title": "EU to Allocate €3.2 Billion From New Budget for Montenegro",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/eu-to-allocate-3-2-billion-from-new-budget-for-montenegro"
-  },
-  {
-    "title": "AI Won’t Be Substitute for Human Workers, OpenAI Economist Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ai-won-t-be-substitute-for-human-workers-openai-economist-says"
-  },
-  {
-    "title": "ECB Officials Stay Alert as Focus Shifts to Price Pipeline",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ecb-officials-stay-alert-as-lane-shifts-focus-to-price-pipeline"
-  },
-  {
-    "title": "ECB’s Rehn Says Energy Shock Is Producing Stagflationary Effects",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/ecb-s-rehn-says-energy-shock-is-producing-stagflationary-effects"
-  },
-  {
-    "title": "Russians Turn to Apps, Black Market as Fuel Shortages Bite",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/apps-networking-black-market-how-russians-battle-fuel-crunch"
-  },
-  {
-    "title": "Goldman Sees South Africa Rate Hike as CPI Expectations Rise",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/inflation-expectations-rise-before-south-africa-rate-decision"
-  },
-  {
-    "title": "US Consumer Confidence Inches Up, Helped by Lower Gas Prices",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/us-consumer-confidence-inches-up-helped-by-lower-gas-prices"
-  },
-  {
-    "title": "US Job Openings Tick Up in Sign of Steady Labor Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/us-job-openings-little-changed-suggesting-stable-labor-demand"
-  },
-  {
-    "title": "US Job Openings and Consumer Confidence Edge Higher",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-30/us-job-openings-and-consumer-confidence-edge-higher-video"
-  },
-  {
-    "title": "India Says Growth Outlook Brightens as Middle East Risks Ease",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/india-says-growth-outlook-brightens-as-middle-east-risks-ease"
-  },
-  {
-    "title": "Canada Economy Set for Rebound, Bucking Recession Talk",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-30/canada-economy-set-for-second-quarter-rebound-breaking-slump"
   },
   {
     "title": "Claude Science is Anthropic’s newest flagship product",
@@ -788,6 +780,10 @@
     "link": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
   },
   {
+    "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
+    "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination"
+  },
+  {
     "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
     "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit"
   },
@@ -796,7 +792,7 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back"
   },
   {
-    "title": "Dish files for bankruptcy, but not shutting down",
+    "title": "Dish files for bankruptcy, but is not shutting down",
     "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy"
   },
   {
@@ -822,9 +818,5 @@
   {
     "title": "Moto&#8217;s Tag 2 tracker is $20 for a limited time",
     "link": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale"
-  },
-  {
-    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-    "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder"
   }
 ]
