@@ -512,16 +512,20 @@
     "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
   },
   {
+    "title": "SAP Restricts Hiring, Travel to Fund ‘Significant’ AI Push",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push"
+  },
+  {
+    "title": "SpaceX Analyst Debut Set to Test $2.2 Trillion Valuation",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/spacex-analyst-debut-set-to-test-2-2-trillion-valuation"
+  },
+  {
     "title": "Google Loses EU Top Court Fight Over €4.1 Billion Android Fine",
     "link": "https://www.bloomberg.com/news/articles/2026-07-02/google-loses-eu-court-fight-over-4-1-billion-android-fine"
   },
   {
     "title": "Chip Stocks Slump Across Asia as Global Tech Selloff Intensifies",
     "link": "https://www.bloomberg.com/news/articles/2026-07-02/us-tech-rout-sours-mood-for-japan-south-korean-chip-stocks"
-  },
-  {
-    "title": "SAP Restricts Hiring, Travel to Fund ‘Significant’ AI Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push"
   },
   {
     "title": "SoftBank Plans AI Cloud Services in US to Tap Surging Demand",
@@ -628,8 +632,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/trump-s-nuclear-watchdog-to-ditch-50-year-old-radiation-guidance"
   },
   {
-    "title": "Alibaba, Payment Firm Will Pay $600 Million to Resolve US Probe",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/alibiba-payment-firm-will-pay-600-million-to-resolve-us-probe"
+    "title": "Modi Calls Takaichi ‘Younger Sister’ as India, Japan Deepen Ties",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/japan-s-takaichi-to-meet-modi-on-first-official-india-visit"
   },
   {
     "title": "What Dan Wang Saw on His Last Trip to China",
@@ -638,10 +642,6 @@
   {
     "title": "Switzerland’s Inflation Slows for First Time in Eight Months",
     "link": "https://www.bloomberg.com/news/articles/2026-07-02/switzerland-s-inflation-slows-for-first-time-in-eight-months"
-  },
-  {
-    "title": "Japan’s Takaichi Meets Modi on First Official India Visit",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/japan-s-takaichi-to-meet-modi-on-first-official-india-visit"
   },
   {
     "title": "Japan’s Tax Revenue Rose to Another Record in Latest Fiscal Year",
@@ -752,6 +752,10 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/world-cup-across-the-pond-moves-more-pints-in-british-pubs"
   },
   {
+    "title": "Why California’s carbon manure math doesn’t add up",
+    "link": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/"
+  },
+  {
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
     "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
   },
@@ -788,8 +792,8 @@
     "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
   },
   {
-    "title": "The Download: metric weaknesses and AI elephant warnings",
-    "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
+    "title": "Amazon has enough satellites to launch its Starlink competitor",
+    "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point"
   },
   {
     "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
@@ -826,9 +830,5 @@
   {
     "title": "The best Switch 2 case I’ve tried is cheaper than usual",
     "link": "https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale"
-  },
-  {
-    "title": "Sony is killing discs — and showing us why it’s a terrible idea",
-    "link": "https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation"
   }
 ]
