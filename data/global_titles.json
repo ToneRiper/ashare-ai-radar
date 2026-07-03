@@ -312,6 +312,14 @@
     "link": "https://www.cnbc.com/2026/06/25/darden-restaurants-dri-q4-2026-earnings.html"
   },
   {
+    "title": "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets",
+    "link": "https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html"
+  },
+  {
+    "title": "Safe havens aren't behaving like they used to. Here's what's changed",
+    "link": "https://www.cnbc.com/2026/07/03/safe-havens-arent-behaving-like-they-used-to-heres-whats-changed.html"
+  },
+  {
     "title": "Russia’s neighbor to scrap ban on nuclear weapons, says ‘situation is getting worse’",
     "link": "https://www.cnbc.com/2026/07/02/russia-ukraine-nato-lithuania-nuclear-weapons.html"
   },
@@ -424,12 +432,8 @@
     "link": "https://www.cnbc.com/2026/06/25/europe-heat-wave-cooling-energy-stocks.html"
   },
   {
-    "title": "Second worker dies at BYD's Hungary factory already under scrutiny for labor practices",
-    "link": "https://www.cnbc.com/2026/06/25/second-worker-dies-at-hungary-byd-factory-scrutinized-for-labor-issues.html"
-  },
-  {
-    "title": "One of India's largest gold exporters paid its managing director just $180 a month, investigators say in accounting probe",
-    "link": "https://www.cnbc.com/2026/06/25/india-rajesh-exports-investigation-accounting-irregularities-valcambi.html"
+    "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+    "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/"
   },
   {
     "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
@@ -508,36 +512,60 @@
     "link": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/"
   },
   {
-    "title": "Yep, we’re using OpenClaw to date now",
-    "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/"
+    "title": "Alibaba, Tencent Join $2.8 Billion Round for Kling AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations"
   },
   {
-    "title": "Kioxia Ships Samples of New Flash Memory for AI Data Centers",
+    "title": "Allianz's Subran Has Doubts Over Europe's 'AI Dividend'",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-03/allianz-s-subran-has-doubts-over-europe-s-ai-dividend-video"
+  },
+  {
+    "title": "China Quant Funds Draw Billions as AI Trounces Human Traders",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/china-quant-funds-draw-billions-as-ai-trounces-human-traders"
+  },
+  {
+    "title": "Hong Kong Rises as Crucial Node in Asia’s $2 Trillion AI Trade",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china"
+  },
+  {
+    "title": "Windsor: Market Has Mistaken Demand for AI Compute",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-03/windsor-market-has-mistaken-demand-for-ai-compute-video"
+  },
+  {
+    "title": "South Korean Stocks Jump 6% After Turbulent Week on AI Swings",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-03/south-korean-stocks-jump-5-after-turbulent-week-on-ai-swings"
+  },
+  {
+    "title": "Kioxia Ships Next-Gen AI Memory Samples to Get Ahead of Rivals",
     "link": "https://www.bloomberg.com/news/articles/2026-07-02/kioxia-ships-samples-of-newest-flash-memory-for-ai-data-centers"
   },
   {
-    "title": "Alibaba, Tencent Join $2 Billion Funding for Kuaishou’s Kling AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations"
+    "title": "China Tech’s Deepening Valuation Slump Fails to Lure Buyers",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-03/china-tech-s-deepening-valuation-slump-fails-to-win-back-buyers"
+  },
+  {
+    "title": "AI Factories Create Winners and Losers in Power Equipment Market",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-03/ai-factories-create-winners-and-losers-in-power-equipment-market"
+  },
+  {
+    "title": "The AI Trade Is Losing One of Its Key Signals",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock"
+  },
+  {
+    "title": "Korea Said to Prepare for Currency Flow From SK Hynix US Listing",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-03/korea-said-to-prepare-for-currency-flow-from-sk-hynix-us-listing"
+  },
+  {
+    "title": "Greek Politician Investigating Spyware Had Mobile Phone Hacked",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-03/greek-politician-investigating-spyware-had-mobile-phone-hacked"
   },
   {
     "title": "India’s Space Industry Hunts for Its SpaceX Moment",
     "link": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment"
   },
   {
-    "title": "China Tech’s Deepening Valuation Slump Fails to Win Back Buyers",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-03/china-tech-s-deepening-valuation-slump-fails-to-win-back-buyers"
-  },
-  {
     "title": "Chip Industry Urges US to Avoid Moves That Distort Memory Market",
     "link": "https://www.bloomberg.com/news/articles/2026-07-02/chip-industry-urges-us-to-avoid-moves-that-distort-memory-market"
-  },
-  {
-    "title": "Booming AI Chip Trade Seals Hong Kong’s Role as Gateway to China",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china"
-  },
-  {
-    "title": "China Quant Funds Draw Billions as AI Trounces Human Traders",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/china-quant-funds-draw-billions-as-ai-trounces-human-traders"
   },
   {
     "title": "Canada’s Pembina Advances Gas-Fired Data Center Project",
@@ -604,32 +632,20 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-02/bloomberg-tech-7-02-2026-video"
   },
   {
-    "title": "Jobs Report Signals Cooling Labor Market | Open Interest 7/2/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-02/open-interest-7-2-2026-video"
+    "title": "Odd Lots: How Aldi Strategizes to Lower Grocery Costs (Podcast)",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-03/odd-lots-how-aldi-strategizes-to-lower-grocery-costs-podcast"
   },
   {
-    "title": "Nuclear Reactor Powers Nvidia AI Chip in US First",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-02/nuclear-reactor-powers-nvidia-ai-chip-in-us-first-video"
+    "title": "Turkish Prices Ease After Two Months of Energy-Driven Climbs",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-03/turkish-inflation-eases-after-two-months-of-energy-driven-climbs"
   },
   {
-    "title": "Microsoft Shifts Strategy on Enterprise AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-02/microsoft-shifts-strategy-on-enterprise-ai-video"
+    "title": "Lagarde Won’t Exclude Early ECB Exit to Enter French Politics",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-02/ecb-made-right-choice-in-june-rate-hike-lagarde-tells-les-echos"
   },
   {
-    "title": "IQM CEO Explains Quantum's Big Opportunity",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-02/iqm-ceo-explains-quantum-s-big-opportunity-video"
-  },
-  {
-    "title": "Kayne Anderson CEO on Bridgepoint Deal",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-02/kayne-anderson-ceo-on-bridgepoint-deal-video"
-  },
-  {
-    "title": "Tesla's Big Beat Raises Questions",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-02/tesla-s-big-beat-raises-questions-video"
-  },
-  {
-    "title": "Microsoft Mobilizes 6,000 Workers to Help Customers Adopt AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/microsoft-mobilizes-6-000-workers-to-help-customers-adopt-ai"
+    "title": "France’s Lescure Wants 2027 Budget That Brings Deficit Below 5%",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-03/france-s-lescure-wants-2027-budget-that-brings-deficit-below-5"
   },
   {
     "title": "PBOC Cuts Bond Purchases in Sign of Wariness Over Yield Declines",
@@ -662,10 +678,6 @@
   {
     "title": "German Reform Plan Could Lift 2027 GDP Above 1%, Merz Says",
     "link": "https://www.bloomberg.com/news/articles/2026-07-02/german-reform-plan-could-lift-2027-gdp-above-1-merz-tells-ard"
-  },
-  {
-    "title": "ECB Made Right Choice on Rate Hike, Lagarde Tells Les Echos",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/ecb-made-right-choice-in-june-rate-hike-lagarde-tells-les-echos"
   },
   {
     "title": "UBS Attacks Swiss Central Bank for ‘Misleading’ Stability Report",
@@ -738,18 +750,6 @@
   {
     "title": "Russian Gasoline Shortage Begins to Spill Into Central Asia",
     "link": "https://www.bloomberg.com/news/articles/2026-07-02/russian-gasoline-shortage-begins-to-spill-into-central-asia"
-  },
-  {
-    "title": "UK Consumer Loan Default Gauge Jumps to Highest Since 2009",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/uk-consumer-loan-default-gauge-jumps-to-highest-since-2009"
-  },
-  {
-    "title": "Warren Urges Fed’s Waller To Halt Work On Reserve Bank Proposal",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/warren-urges-fed-s-waller-to-halt-work-on-reserve-bank-proposal"
-  },
-  {
-    "title": "China and US Target Tariff Reductions on Agricultural Products",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-02/china-and-us-target-tariff-reductions-on-agricultural-products"
   },
   {
     "title": "Achieving operational excellence with AI",
