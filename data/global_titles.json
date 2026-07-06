@@ -120,6 +120,14 @@
     "link": "https://openai.com/index/openai-on-oracle-cloud"
   },
   {
+    "title": "How Open Models Are Driving AI Research",
+    "link": "https://blogs.nvidia.com/blog/open-models-icml-2026/"
+  },
+  {
+    "title": "How Nations Are Deploying AI for Strategic Priorities",
+    "link": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/"
+  },
+  {
     "title": "Joyride Through July With 12 Games Coming to GeForce NOW",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/"
   },
@@ -184,12 +192,12 @@
     "link": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/"
   },
   {
-    "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
-    "link": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/"
+    "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
+    "link": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html"
   },
   {
-    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-    "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
+    "title": "Versant agrees to buy golf simulator company Full Swing for $530 million",
+    "link": "https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html"
   },
   {
     "title": "Record heat, crowds drive offseason boom in international travel",
@@ -304,14 +312,6 @@
     "link": "https://www.cnbc.com/2026/06/26/world-cup-marketing-levis-nike-taco-bell.html"
   },
   {
-    "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones",
-    "link": "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html"
-  },
-  {
-    "title": "Estrogen patches are hard to find, and it may not be resolved any time soon",
-    "link": "https://www.cnbc.com/2026/06/26/estrogen-patches-are-in-short-supply-as-women-seek-menopause-support.html"
-  },
-  {
     "title": "Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta",
     "link": "https://www.cnbc.com/2026/07/06/apple-veteran-takes-on-meta-with-1-billion-smart-glasses-maker.html"
   },
@@ -332,7 +332,7 @@
     "link": "https://www.cnbc.com/2026/07/06/meta-instagram-india-warning-whatsapp.html"
   },
   {
-    "title": "Lockheed Martin leading race for $3.5 billion purchase of naval defense firm Ultra Maritime",
+    "title": "Lockheed Martin to buy naval defense firm Ultra Maritime for $3.45 billion",
     "link": "https://www.cnbc.com/2026/07/06/lockheed-martin-leading-race-for-3point5-billion-buy-of-ultra-maritime-.html"
   },
   {
@@ -432,6 +432,26 @@
     "link": "https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html"
   },
   {
+    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+    "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/"
+  },
+  {
+    "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+    "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/"
+  },
+  {
+    "title": "Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year",
+    "link": "https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/"
+  },
+  {
+    "title": "How to reserve and change your WhatsApp username",
+    "link": "https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/"
+  },
+  {
+    "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+    "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/"
+  },
+  {
     "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
     "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/"
   },
@@ -492,28 +512,72 @@
     "link": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/"
   },
   {
-    "title": "Chevy built an all-American EV truck — why is nobody buying it?",
-    "link": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/"
+    "title": "Nvidia Server Delay Report Sends Asian Tech Stocks Sliding",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding"
   },
   {
-    "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-    "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/"
-  },
-  {
-    "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-    "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/"
-  },
-  {
-    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
-  },
-  {
-    "title": "Private space pilots are flying orbital missions for the US Space Force",
-    "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/"
+    "title": "AI Job Disruption Has Come for Ireland's Technology Sector",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/meta-tiktok-jobs-cuts-in-ireland-augur-further-ai-disruption"
   },
   {
     "title": "Memory Chipmaker SK Hynix Kicks Off $28 Billion US Listing",
     "link": "https://www.bloomberg.com/news/articles/2026-07-06/memory-chipmaker-sk-hynix-starts-marketing-us-listing"
+  },
+  {
+    "title": "Chip Stocks Rally in AI Trade Revival After Plunge",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-06/chip-stocks-rally-in-ai-trade-revival-after-plunge-video"
+  },
+  {
+    "title": "Tech Stocks Rebound as Dip Buyers Pounce on Chip Pullback",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/tech-set-to-rebound-as-ai-leadership-faces-fresh-tests"
+  },
+  {
+    "title": "Microsoft’s Xbox to Cut 3,200 Jobs, Divest Five Studios in Major Overhaul",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul"
+  },
+  {
+    "title": "Broadcom, Apple Extend Tie-Up to 2031 With New Custom Chips",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/broadcom-expands-work-for-apple-supplying-products-through-2031"
+  },
+  {
+    "title": "Microsoft’s Xbox to Cut 3,200 Jobs as Part of Massive Reorganization",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-in-massive-reset-video"
+  },
+  {
+    "title": "Novartis Buys Cancer-Drug Firm Myricx for Up to $1.5 Billion",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/novartis-to-buy-cancer-drug-firm-myricx-for-up-to-1-5-billion"
+  },
+  {
+    "title": "HSBC's Kettner Says `Melt-Up' Set to Boost Hyperscalers",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-06/hsbc-s-kettner-says-melt-up-set-to-boost-hyperscalers-video"
+  },
+  {
+    "title": "Jobs Report Won't Sway Fed That Much, Berro Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-06/jpmorgan-s-kelsey-berro-sees-july-fed-rate-hike-unlikely-video"
+  },
+  {
+    "title": "Mike Wilson Sees Semiconductor Stocks Correcting",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-06/mike-wilson-sees-semiconductor-stocks-correcting-video"
+  },
+  {
+    "title": "Amundi Says European Industrials to Benefit From AI Boom",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-06/amundi-says-european-industrials-to-benefit-from-ai-boom-video"
+  },
+  {
+    "title": "Europe’s Equity Bankers Bet on Capex Wave to Ride Out IPO Slump",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/europe-s-equity-bankers-bet-on-capex-wave-to-ride-out-ipo-slump"
+  },
+  {
+    "title": "Reddit Is Cracking Down on AI Marketing Slop With Its Own AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/reddit-is-cracking-down-on-ai-marketing-slop-with-its-own-ai"
+  },
+  {
+    "title": "Tencent Seeks to Sell Up to $1.6 Billion Stake in Kuaishou",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/tencent-seeks-to-sell-up-to-1-6-billion-stake-in-kuaishou"
+  },
+  {
+    "title": "Brookfield’s Data Center Firm Csquare Seeks $1.35 Billion in IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/brookfield-s-data-center-firm-csquare-seeks-1-35-billion-in-ipo"
   },
   {
     "title": "Sony’s All-Digital PlayStation Strategy Doesn’t Sit Well With Gamers",
@@ -548,10 +612,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-06/stalled-ai-rally-has-more-eyeing-old-guard-stocks-markets-pulse"
   },
   {
-    "title": "Amundi Says European Industrials to Benefit From AI Boom",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-06/amundi-says-european-industrials-to-benefit-from-ai-boom-video"
-  },
-  {
     "title": "Ireland's US-Exposed Tech Sector Faces AI Job Disruption",
     "link": "https://www.bloomberg.com/news/videos/2026-07-06/ireland-s-us-exposed-tech-sector-faces-ai-job-disruption-video"
   },
@@ -572,64 +632,36 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-06/these-are-the-only-people-making-real-money-on-kalshi-and-polymarket"
   },
   {
-    "title": "Odd Lots: The Sharps Who Dominate Prediction Markets (Podcast)",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-06/odd-lots-the-sharps-who-dominate-prediction-markets-podcast"
+    "title": "Argentina Shuns Markets for Now, Sees Investment Grade by 2031",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/argentina-shuns-markets-for-now-sees-investment-grade-by-2031"
   },
   {
-    "title": "Kioxia to Draw $18.5 Billion Inflows on Topix Review, SMBC Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/kioxia-to-draw-18-5-billion-inflows-on-topix-review-smbc-says"
+    "title": "Israel Slashes Rates to 2022 Low and Hints at More to Come",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/israel-cuts-interest-rates-to-the-lowest-level-since-2022"
   },
   {
-    "title": "Alibaba Gets Reprieve on Lobbying Ban Tied to DoD Blacklist",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/alibaba-gets-reprieve-from-lobbying-ban-tied-to-pentagon-s-curbs"
+    "title": "Bank of Canada Surveys Show War Boosted Inflation Expectations, Investment",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/bank-of-canada-surveys-show-war-boosted-inflation-expectations-investment"
   },
   {
-    "title": "Horizons Middle East & Africa 7/6/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-06/horizons-middle-east-africa-7-6-2026-video"
+    "title": "Peace Deal Doesn’t Restore Pre-War Situation, ECB’s Schnabel Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/ecb-s-schnabel-says-peace-deal-doesn-t-restore-pre-war-situation"
   },
   {
-    "title": "Novartis to Buy Cancer-Drug Firm Myricx for Up to $1.5 Billion",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/novartis-to-buy-cancer-drug-firm-myricx-for-up-to-1-5-billion"
+    "title": "US Service Sector Expands at a Slower Pace, Hiring Picks Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/us-service-sector-expands-at-a-slower-pace-hiring-picks-up"
   },
   {
-    "title": "Nvidia AI Server Delay Report Sends Asian Tech Stocks Sliding",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding"
+    "title": "Fed’s Waller Says ‘Forward Guidance’ Needs to Be Flexible",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/fed-s-waller-says-forward-guidance-needs-to-be-flexible"
   },
   {
-    "title": "Korea Plans New Investment Fund Using Tax Windfall From AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/south-korea-eyes-growth-fund-from-chip-tax-windfall-yonhap-says"
+    "title": "Russia Oil Price Falls to Pre-Iran War Level in Blow to Kremlin",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/russia-oil-price-falls-to-pre-iran-war-level-in-blow-to-kremlin"
   },
   {
-    "title": "EQT Agrees to Acquire Australian Smart Parking Tech Firm Orikan",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/eqt-agrees-to-acquire-australian-smart-parking-tech-firm-orikan"
-  },
-  {
-    "title": "AI Job Disruption Has Come for Ireland's Technology Sector",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/meta-tiktok-jobs-cuts-in-ireland-augur-further-ai-disruption"
-  },
-  {
-    "title": "Rakuten Travel Xchange CEO on Japan's Tourism",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-06/rakuten-travel-xchange-ceo-on-japan-s-tourism-video"
-  },
-  {
-    "title": "ByteDance, Alibaba Pull AI Companions as Beijing Tightens Rules",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/bytedance-alibaba-pull-ai-companions-as-beijing-tightens-rules"
-  },
-  {
-    "title": "Self-Driving Startup Turing Gets AMD Backing, Adopts AMD GPUs",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/self-driving-startup-turing-gets-amd-backing-adopts-amd-gpus"
-  },
-  {
-    "title": "Samsung Union Leader’s $26 Billion Bonus Victory Turns to Bitterness",
-    "link": "https://www.bloomberg.com/news/features/2026-07-05/samsung-s-ai-bonus-deal-a-short-lived-victory-for-millennial-union-leader"
-  },
-  {
-    "title": "Netflix Viewers Are Abandoning Shows After One Season",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-05/netflix-viewers-are-abandoning-shows-after-one-season"
-  },
-  {
-    "title": "Hyundai Motor Showcases Humanoid at World Cup in Robotics Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push"
+    "title": "BOE Confirms Exit of Chief Cashier Ahead of Controversial Banknote Switch",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/boe-confirms-exit-of-chief-cashier-ahead-of-controversial-banknote-switch"
   },
   {
     "title": "Global Rate Outlook Higher on Trump-Iran War Shock",
@@ -640,7 +672,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-06/trump-and-factory-jobs"
   },
   {
-    "title": "Bolivia Central Bank Sees USD Accounts to Be Reopened",
+    "title": "Bolivia Moves to Lure $4 Billion Cash Hoard Into Banking System",
     "link": "https://www.bloomberg.com/news/articles/2026-07-06/bolivia-central-bank-sees-usd-accounts-to-be-reopened"
   },
   {
@@ -662,6 +694,10 @@
   {
     "title": "Johannesburg Sees Path to Ratings Upgrade From Moody’s Outlook",
     "link": "https://www.bloomberg.com/news/articles/2026-07-06/johannesburg-sees-path-to-ratings-upgrade-from-moody-s-outlook"
+  },
+  {
+    "title": "Korea Plans New Investment Fund Using Tax Windfall From AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-05/south-korea-eyes-growth-fund-from-chip-tax-windfall-yonhap-says"
   },
   {
     "title": "「日本復活」は本物か、ブルームバーグのアンカーが円安と物価高の現場を歩いた",
@@ -716,8 +752,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-04/trump-ramps-up-war-on-regulations-with-702-cuts-in-pipeline"
   },
   {
-    "title": "Brazil’s Durigan Says Credit Lines Won’t Affect Monetary Policy",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-04/brazil-s-durigan-says-credit-lines-won-t-affect-monetary-policy"
+    "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+    "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/"
   },
   {
     "title": "South Korea’s hottest new bachelors are chip workers",
@@ -756,8 +792,32 @@
     "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
   },
   {
-    "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-    "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
+    "title": "I spy",
+    "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy"
+  },
+  {
+    "title": "The DJI Osmo Pocket 3 lookalike is down to $329",
+    "link": "https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale"
+  },
+  {
+    "title": "Inside the big business of the creator economy, with the agents making it happen",
+    "link": "https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing"
+  },
+  {
+    "title": "Nintendo will stop selling the original Switch in Europe next year",
+    "link": "https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued"
+  },
+  {
+    "title": "Can Partiful keep the party going?",
+    "link": "https://www.theverge.com/report/960635/partiful-app-event-planning-data-palantir"
+  },
+  {
+    "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
+    "link": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026"
+  },
+  {
+    "title": "Microsoft is laying off 4,800 employees",
+    "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox"
   },
   {
     "title": "Some of the nation’s rich are letting AI teach their kids",
@@ -770,33 +830,5 @@
   {
     "title": "Where to preorder Grand Theft Auto VI",
     "link": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy"
-  },
-  {
-    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence"
-  },
-  {
-    "title": "The Sourdough Sidekick automates the boring bit of baking",
-    "link": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter"
-  },
-  {
-    "title": "How Keurig saved — and ruined — your coffee",
-    "link": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history"
-  },
-  {
-    "title": "Vizio accidentally made the best dumb TV on the market",
-    "link": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review"
-  },
-  {
-    "title": "Xbox is a disaster",
-    "link": "https://www.theverge.com/column/960600/xbox-is-a-disaster"
-  },
-  {
-    "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
-    "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies"
-  },
-  {
-    "title": "White House deletes thousands of webpages about energy conservation as heatwave slams US",
-    "link": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion"
   }
 ]
