@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/"
   },
   {
+    "title": "Record heat, crowds drive offseason boom in international travel",
+    "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
+  },
+  {
     "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
     "link": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html"
   },
@@ -308,8 +312,8 @@
     "link": "https://www.cnbc.com/2026/06/26/estrogen-patches-are-in-short-supply-as-women-seek-menopause-support.html"
   },
   {
-    "title": "GM reveals 2027 GMC Sierra pickup with new V-8 engines, redesigned styling",
-    "link": "https://www.cnbc.com/2026/06/25/gm-gmc-sierra-pickup.html"
+    "title": "Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta",
+    "link": "https://www.cnbc.com/2026/07/06/apple-veteran-takes-on-meta-with-1-billion-smart-glasses-maker.html"
   },
   {
     "title": "Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert",
@@ -428,10 +432,6 @@
     "link": "https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html"
   },
   {
-    "title": "U.S.-Iran peace deal grants access to Tehran's nuclear sites, UN watchdog says",
-    "link": "https://www.cnbc.com/2026/06/26/us-iran-peace-deal-nuclear-access.html"
-  },
-  {
     "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
     "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/"
   },
@@ -512,7 +512,39 @@
     "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/"
   },
   {
-    "title": "Stalled AI Rally Has More Eyeing Old-Guard Stocks",
+    "title": "Memory Chipmaker SK Hynix Kicks Off $28 Billion US Listing",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/memory-chipmaker-sk-hynix-starts-marketing-us-listing"
+  },
+  {
+    "title": "Sony’s All-Digital PlayStation Strategy Doesn’t Sit Well With Gamers",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-06/sony-s-new-playstation-strategy-gets-gamer-backlash"
+  },
+  {
+    "title": "Ondas to Buy Autonomous Aircraft Maker DZYNE for $875.8 Million",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/ondas-to-buy-autonomous-aircraft-maker-dzyne-for-875-8-million"
+  },
+  {
+    "title": "ITV to Sell Broadcasting Unit to Sky for Up to £1.6 Billion",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/itv-to-sell-broadcasting-unit-to-sky-for-up-to-1-6-billion"
+  },
+  {
+    "title": "Standard Bank Warns of Flight From Sovereign Debt as Safety Ebbs",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/standard-bank-warns-of-flight-from-sovereign-debt-as-safety-ebbs"
+  },
+  {
+    "title": "Ready for the Future, Ireland Is Also Vulnerable to It",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-06/ai-threatens-ireland-s-tech-jobs-as-us-big-tech-cuts-deepen"
+  },
+  {
+    "title": "South Korea's SK Hynix, Samsung to Put AI Trade to the Test | The Pulse 7/6/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-06/the-pulse-7-6-2026-video"
+  },
+  {
+    "title": "Singapore Files New Charges in Nvidia Chip Fraud Case",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/singapore-files-new-charges-in-nvidia-chip-fraud-case"
+  },
+  {
+    "title": "Stalled AI Rally Has More Eyeing Old-Guard Stocks, Markets Pulse Survey Says",
     "link": "https://www.bloomberg.com/news/articles/2026-07-06/stalled-ai-rally-has-more-eyeing-old-guard-stocks-markets-pulse"
   },
   {
@@ -522,10 +554,6 @@
   {
     "title": "Ireland's US-Exposed Tech Sector Faces AI Job Disruption",
     "link": "https://www.bloomberg.com/news/videos/2026-07-06/ireland-s-us-exposed-tech-sector-faces-ai-job-disruption-video"
-  },
-  {
-    "title": "Singapore Files New Charges in Nvidia Chip Fraud Case",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/singapore-files-new-charges-in-nvidia-chip-fraud-case"
   },
   {
     "title": "Nvidia Supplier Unimicron Seeks $1.4 Billion in GDS Offer",
@@ -550,10 +578,6 @@
   {
     "title": "Kioxia to Draw $18.5 Billion Inflows on Topix Review, SMBC Says",
     "link": "https://www.bloomberg.com/news/articles/2026-07-06/kioxia-to-draw-18-5-billion-inflows-on-topix-review-smbc-says"
-  },
-  {
-    "title": "ITV to Sell Broadcasting Unit to Sky for Up to £1.6 Billion",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/itv-to-sell-broadcasting-unit-to-sky-for-up-to-1-6-billion"
   },
   {
     "title": "Alibaba Gets Reprieve on Lobbying Ban Tied to DoD Blacklist",
@@ -608,28 +632,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push"
   },
   {
-    "title": "AI Poses Biggest Security Challenge of Decade, UK’s Cooper Warns",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/ai-poses-biggest-security-challenge-of-decade-uk-s-cooper-warns"
+    "title": "Global Rate Outlook Higher on Trump-Iran War Shock",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-06/global-central-banks-trump-s-war-means-rate-path-is-higher-for-years-to-come"
   },
   {
-    "title": "Universal’s Latest ‘Minions’ Delivers $61 Million in Debut",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/universal-s-latest-minions-delivers-64-million-in-film-debut"
+    "title": "Trump’s Blue-Collar Base Worry Tariffs Aren’t a Cure-All for Factory Malaise",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-06/trump-and-factory-jobs"
   },
   {
-    "title": "Semiconductor Stocks Slide Amid AI Spending Concerns",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-05/semiconductor-stocks-slide-amid-ai-spending-concerns-video"
+    "title": "Bolivia Central Bank Sees USD Accounts to Be Reopened",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/bolivia-central-bank-sees-usd-accounts-to-be-reopened"
   },
   {
-    "title": "Micron Breaks Ground on $9 Billion Japan Fab Expansion",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion"
-  },
-  {
-    "title": "India Tells Meta to Remove Child Abuse Content from Instagram",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/india-tells-meta-to-remove-child-abuse-content-from-instagram"
-  },
-  {
-    "title": "Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand"
+    "title": "Aluminum Gains Despite Goldman Warning of Faster Supply Rebound",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-06/copper-and-aluminum-advance-on-fading-expectations-for-rate-hike"
   },
   {
     "title": "Yen Undervalued by Up to 20%, Former Japanese Currency Czar Says",
@@ -658,10 +674,6 @@
   {
     "title": "Thai Inflation Cools Again, Reinforcing Central Bank’s Rate Hold",
     "link": "https://www.bloomberg.com/news/articles/2026-07-06/thai-inflation-cools-again-reinforcing-central-bank-s-rate-hold"
-  },
-  {
-    "title": "Copper and Aluminum Advance on Fading Expectations for Rate Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/copper-and-aluminum-advance-on-fading-expectations-for-rate-hike"
   },
   {
     "title": "Pakistan Buys More LNG as Flows Through Hormuz Fail to Recover",
@@ -708,8 +720,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-04/brazil-s-durigan-says-credit-lines-won-t-affect-monetary-policy"
   },
   {
-    "title": "ECB Is in ‘Good Position’ Given Inflation Data, Moulin Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-04/ecb-is-in-good-position-given-inflation-data-moulin-says"
+    "title": "South Korea’s hottest new bachelors are chip workers",
+    "link": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/"
   },
   {
     "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
@@ -748,15 +760,11 @@
     "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
   },
   {
-    "title": "Claude Science is Anthropic’s newest flagship product",
-    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
-  },
-  {
     "title": "Some of the nation’s rich are letting AI teach their kids",
     "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep"
   },
   {
-    "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
+    "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip-hop at its most daring",
     "link": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review"
   },
   {
@@ -788,7 +796,7 @@
     "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies"
   },
   {
-    "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+    "title": "White House deletes thousands of webpages about energy conservation as heatwave slams US",
     "link": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion"
   }
 ]
