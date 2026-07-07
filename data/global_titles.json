@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/openai-on-oracle-cloud"
   },
   {
+    "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+    "link": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/"
+  },
+  {
     "title": "How Open Models Are Driving AI Research",
     "link": "https://blogs.nvidia.com/blog/open-models-icml-2026/"
   },
@@ -186,10 +190,6 @@
   {
     "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
     "link": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/"
-  },
-  {
-    "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
-    "link": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/"
   },
   {
     "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas",
@@ -312,6 +312,18 @@
     "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html"
   },
   {
+    "title": "Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz",
+    "link": "https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html"
+  },
+  {
+    "title": "Why oil investors fear the next toll fight could be the Strait of Malacca",
+    "link": "https://www.cnbc.com/2026/07/07/malacca-hormuz-oil-shipping-indonesia.html"
+  },
+  {
+    "title": "India fashion retailer Trent tumbles 11% as revenue growth disappoints",
+    "link": "https://www.cnbc.com/2026/07/07/india-fashion-retailer-trent-tumbles-11percent-as-revenue-growth-disappoints.html"
+  },
+  {
     "title": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines",
     "link": "https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html"
   },
@@ -416,18 +428,6 @@
     "link": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html"
   },
   {
-    "title": "CNBC's The China Connection newsletter: U.S.-China tech rivalry heats up—in other countries",
-    "link": "https://www.cnbc.com/2026/06/29/cnbcs-the-china-connection-newsletter-us-tech-rivalry-heats-up.html"
-  },
-  {
-    "title": "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
-    "link": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html"
-  },
-  {
-    "title": "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure",
-    "link": "https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html"
-  },
-  {
     "title": "Netflix invented binge-watching. Now it may have outgrown it.",
     "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/"
   },
@@ -506,6 +506,34 @@
   {
     "title": "5 desk gadgets that can make your workday better",
     "link": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/"
+  },
+  {
+    "title": "India Objection to WhatsApp Username Switch Gets Somalia Backing",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/india-objection-to-whatsapp-username-switch-gets-somalia-backing"
+  },
+  {
+    "title": "Nuveen's Cooper Sees Rotation Back Into Hyperscalers",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-07/nuveen-s-cooper-sees-rotation-back-into-hyperscalers-video"
+  },
+  {
+    "title": "BAE-Backed Venture Capital Firm Expeditions Raises €197 Million Fund for European Defense Startups",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/bae-backed-venture-capital-fund-raises-197-million-for-defense-startups"
+  },
+  {
+    "title": "Google and RWE Back German Nuclear Startup Proxima Fusion at €2.4 Billion Valuation",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/google-rwe-back-german-nuclear-startup-proxima-fusion-at-2-4-billion-valuation"
+  },
+  {
+    "title": "SpaceX Wins Bullish Calls With Morgan Stanley’s Target at $300",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-shares-win-early-bullish-calls-from-wall-street-brokers"
+  },
+  {
+    "title": "Asia Stocks Drop on Chip Selloff, Nasdaq Futures Down",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-07/asia-stocks-drop-on-chip-selloff-nasdaq-futures-down-video"
+  },
+  {
+    "title": "AI Won’t Bring Back Era of Rapid Growth, Says Nobel Prize Winner",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner"
   },
   {
     "title": "Samsung’s Record Profit Fails to Impress After AI Chip Rally",
@@ -600,36 +628,28 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-video"
   },
   {
-    "title": "Ondas to Buy Military Drone Maker DZYNE for $875.8 Million",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/ondas-to-buy-autonomous-aircraft-maker-dzyne-for-875-8-million"
-  },
-  {
-    "title": "Tech Drives Stock Gains in AI Trade Resurgence",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-06/tech-drives-stock-gains-in-ai-trade-resurgence-video"
-  },
-  {
-    "title": "WEF Founder Schwab Claims He Found Spying Device at His Home",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/wef-founder-schwab-says-he-found-secret-listening-device-in-home"
-  },
-  {
-    "title": "Tepper’s Appaloosa Soars 32% in First Half on Memory-Chip Makers",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/tepper-s-appaloosa-soars-32-in-first-half-on-memory-chip-makers"
-  },
-  {
-    "title": "Nvidia Server Delay Report Sends Asian Tech Stocks Sliding",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding"
-  },
-  {
-    "title": "AI Job Disruption Has Come for Ireland's Technology Sector",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/meta-tiktok-jobs-cuts-in-ireland-augur-further-ai-disruption"
-  },
-  {
-    "title": "Memory Chipmaker SK Hynix Kicks Off $28 Billion US Listing",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/memory-chipmaker-sk-hynix-starts-marketing-us-listing"
-  },
-  {
     "title": "PBOC Unveils Measures to Cement Hong Kong’s Yuan Hub Status",
     "link": "https://www.bloomberg.com/news/articles/2026-07-07/pboc-unveils-new-measures-to-cement-hong-kong-s-yuan-hub-status"
+  },
+  {
+    "title": "Panetta Sees Fragile Outlook With Risks to Inflation, Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/panetta-sees-fragile-outlook-with-risks-to-inflation-and-growth"
+  },
+  {
+    "title": "German Industry Grows More Than Expected on Auto Sector",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/german-industrial-output-grows-more-than-expected-on-auto-sector"
+  },
+  {
+    "title": "Czech June Inflation Slows More Than Expected After Rate Hike",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/czech-june-inflation-slows-more-than-expected-after-rate-hike"
+  },
+  {
+    "title": "South Africa Treasury Cuts Johannesburg Funds Over Wage Bill",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/south-africa-treasury-to-cut-johannesburg-funding-over-wage-bill"
+  },
+  {
+    "title": "Early Forint Bull Barclays Sees Rally Fading as Euro Work Begins",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-07/early-forint-bull-barclays-sees-rally-fading-as-euro-work-begins"
   },
   {
     "title": "Japan Isn’t Pushing for Low Interest Rates, Growth Minister Says",
@@ -726,26 +746,6 @@
   {
     "title": "「日本復活」は本物か、ブルームバーグのアンカーが円安と物価高の現場を歩いた",
     "link": "https://www.bloomberg.com/jp/news/newsletters/2026-07-06/THQM3EKGZAJH00"
-  },
-  {
-    "title": "Israel Set to Cut Rates on Strong Shekel and Enduring Ceasefire",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/israel-set-to-cut-interest-rates-to-3-5-as-shekel-strength-persists"
-  },
-  {
-    "title": "Thai Inflation Cools Again, Reinforcing Central Bank’s Rate Hold",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/thai-inflation-cools-again-reinforcing-central-bank-s-rate-hold"
-  },
-  {
-    "title": "Pakistan Buys More LNG as Flows Through Hormuz Fail to Recover",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/pakistan-buys-more-lng-as-flows-through-hormuz-fail-to-recover"
-  },
-  {
-    "title": "Weaker Commodity Prices Set to Tip Australia Into Trade Deficit",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-06/weaker-commodity-prices-set-to-tip-australia-into-trade-deficit"
-  },
-  {
-    "title": "Burnham Adviser Urges Next PM to Consider Radical Tax Overhaul",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-05/burnham-adviser-urges-next-pm-to-consider-radical-tax-overhaul"
   },
   {
     "title": "Your family’s $300 stake in OpenAI",
