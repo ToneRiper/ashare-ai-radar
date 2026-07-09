@@ -28,16 +28,16 @@
     "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
   },
   {
-    "title": "Introducing GeneBench-Pro",
-    "link": "https://openai.com/index/introducing-genebench-pro"
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
   },
   {
     "title": "Inside Genebench-Pro",
     "link": "https://openai.com/index/genebench-pro/case-studies"
   },
   {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+    "title": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro"
   },
   {
     "title": "Mapping Europe’s AI Workforce Opportunity",
@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html"
   },
   {
+    "title": "From 'dear Donald' to 'Trump trillion': Inside NATO chief Mark Rutte's U.S. strategy",
+    "link": "https://www.cnbc.com/2026/07/09/nato-rutte-trump-europe.html"
+  },
+  {
     "title": "Why the world’s best-performing stock market this year fell into bear territory",
     "link": "https://www.cnbc.com/2026/07/09/kospi-bear-territory-ai-samsung-skhynix-chipmakers.html"
   },
@@ -424,10 +428,6 @@
     "link": "https://www.cnbc.com/2026/07/02/volkswagen-vw-job-cuts-germany-autos.html"
   },
   {
-    "title": "Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners",
-    "link": "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html"
-  },
-  {
     "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
     "link": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/"
   },
@@ -508,12 +508,20 @@
     "link": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/"
   },
   {
-    "title": "SK Hynix US Listing Is Seven Times Oversubscribed",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-09/sk-hynix-us-listing-is-seven-times-oversubscribed-video"
+    "title": "Starbucks Taps AI to Reduce Reliance on Microsoft, IBM Software",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/starbucks-taps-ai-to-reduce-reliance-on-microsoft-ibm-software"
   },
   {
-    "title": "Should India Build Frontier AI Models Despite Challenges?",
+    "title": "Apple Supplier Luxshare Drops After $3 Billion Hong Kong Debut",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing"
+  },
+  {
+    "title": "Can India Leverage Talent to Catch Up in the AI Race?",
     "link": "https://www.bloomberg.com/news/videos/2026-07-09/india-s-ai-challenge-video"
+  },
+  {
+    "title": "SK Hynix US Listing Is Seven Times Oversubscribed",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-09/sk-hynix-us-listing-is-seven-times-oversubscribed-video"
   },
   {
     "title": "SK Hynix US Offering Is More Than Seven Times Oversubscribed",
@@ -572,10 +580,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-09/ispace-ceo-on-lunar-transportation-plans-with-spacex-video"
   },
   {
-    "title": "Apple Supplier Luxshare Drops After $3 Billion Hong Kong Debut",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing"
-  },
-  {
     "title": "Zhipu Surges 22% After $4 Billion Share Sale Priced at Low End",
     "link": "https://www.bloomberg.com/news/articles/2026-07-08/ai-firm-zhipu-prices-4-billion-placement-at-hk-1-588-each-share"
   },
@@ -624,8 +628,16 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-08/mntn-ceo-skeptical-of-meta-s-cloud-ambitions-video"
   },
   {
-    "title": "Bloomberg Deals 7/8/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-08/bloomberg-deals-7-8-2026-video"
+    "title": "Serbia Holds Rates as Election Welfare Plans Signal Price Risks",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/serbia-holds-rates-as-election-welfare-plans-signal-price-risks"
+  },
+  {
+    "title": "Warsh to Get Some Inflation Relief From Upcoming PCE Makeover",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/warsh-to-get-some-inflation-relief-from-upcoming-pce-makeover"
+  },
+  {
+    "title": "Fujimori Legacy Shows Limits of Trump’s Push Against China in Peru",
+    "link": "https://www.bloomberg.com/news/features/2026-07-09/peru-s-fujimori-tests-trump-push-to-counter-china-in-latin-america"
   },
   {
     "title": "Young: Iran’s Hormuz Leverage Leaves Gulf States Exposed",
@@ -654,6 +666,10 @@
   {
     "title": "Thai Court Clears $12 Billion Crisis Loan in Win for Anutin",
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/thai-court-clears-government-s-12-billion-crisis-loan-in-victory-for-anutin"
+  },
+  {
+    "title": "India Seeks Safe Hormuz Pass for Nine Ships as Truce Falters",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-08/india-seeks-safe-hormuz-passage-for-nine-ships-as-truce-falters"
   },
   {
     "title": "Asia Growth Improves But ADB Warns of Persistent Headwinds",
@@ -720,28 +736,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-08/toyota-s-shift-to-us-stokes-fears-for-mexican-auto-industry"
   },
   {
+    "title": "Qatar Economic Forum Will Hold New York Event in September",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-08/qatar-economic-forum-will-hold-new-york-event-in-september"
+  },
+  {
     "title": "Argentina to Repay $4 Billion, Defying Critics Who Doubted Tack",
     "link": "https://www.bloomberg.com/news/articles/2026-07-08/argentina-to-repay-4-billion-defying-critics-who-doubted-tack"
   },
   {
-    "title": "Romania Keeps EU’s Highest Rates With Inflation Stuck Above 10%",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-08/romania-keeps-eu-s-highest-rates-with-inflation-stuck-above-10"
-  },
-  {
-    "title": "Rare Chinese Economist Who Questioned Official GDP Data Dies",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-07/gao-top-china-economist-who-questioned-official-gdp-data-dies"
-  },
-  {
-    "title": "US Trade Deficit Widens in May to Biggest in More Than a Year",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-08/the-us-trade-deficit-widened-in-may-as-imports-increased-and-exports-declined"
-  },
-  {
-    "title": "Gold Gets a New Shine in Era of Volatile Geopolitics",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-08/gold-gets-a-new-shine-in-era-of-volatile-geopolitics"
-  },
-  {
-    "title": "Uzbek Logistics Firm Centrum Bets on Silk Road Trade Before IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-08/uzbek-logistics-firm-centrum-bets-on-silk-road-trade-before-ipo"
+    "title": "Four nuclear reactors hit a big milestone in the US",
+    "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/"
   },
   {
     "title": "EmTech AI 2026: The Rise of the AI Platform",
@@ -778,10 +782,6 @@
   {
     "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
     "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
-  },
-  {
-    "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-    "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
   },
   {
     "title": "Meta is reportedly working on smart glasses that would be recording all the time",
