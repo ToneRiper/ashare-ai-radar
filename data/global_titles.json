@@ -1,7 +1,15 @@
 [
   {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "link": "https://openai.com/index/deutsche-telekom"
+  },
+  {
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+  },
+  {
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "link": "https://openai.com/index/gpt-5-6"
   },
   {
     "title": "ChatGPT is now a partner for your most ambitious work",
@@ -10,10 +18,6 @@
   {
     "title": "GPT-5.5 Bio Bug Bounty",
     "link": "https://openai.com/index/bio-bug-bounty"
-  },
-  {
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "link": "https://openai.com/index/gpt-5-6"
   },
   {
     "title": "Our approach to government and national security partnerships",
@@ -44,12 +48,12 @@
     "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
   },
   {
-    "title": "Introducing GeneBench-Pro",
-    "link": "https://openai.com/index/introducing-genebench-pro"
-  },
-  {
     "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+  },
+  {
+    "title": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro"
   },
   {
     "title": "Inside Genebench-Pro",
@@ -88,12 +92,12 @@
     "link": "https://openai.com/index/omio"
   },
   {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet"
-  },
-  {
     "title": "Daybreak: Tools for securing every organization in the world",
     "link": "https://openai.com/index/daybreak-securing-the-world"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet"
   },
   {
     "title": "Codex-maxxing for long-running work",
@@ -114,10 +118,6 @@
   {
     "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
     "link": "https://openai.com/index/diagnose-rare-childhood-diseases"
-  },
-  {
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "link": "https://openai.com/index/ai-chemist-improves-reaction"
   },
   {
     "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
@@ -312,6 +312,14 @@
     "link": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html"
   },
   {
+    "title": "Volkswagen to slash model lineup and shrink capacity — but no word on job cuts",
+    "link": "https://www.cnbc.com/2026/07/10/volkswagen-vw-autos-job-cuts-germany.html"
+  },
+  {
+    "title": "Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite",
+    "link": "https://www.cnbc.com/2026/07/10/ukraine-russia-crimea-fuel-oil.html"
+  },
+  {
     "title": "India ramps up missile sales in Indo-Pacific as China’s assertiveness turns neighbors wary",
     "link": "https://www.cnbc.com/2026/07/10/india-missiles-brahmos-indonesia-china.html"
   },
@@ -420,14 +428,6 @@
     "link": "https://www.cnbc.com/2026/07/03/oman-strait-hormuz-fees-iran-trump.html"
   },
   {
-    "title": "Safe havens aren't behaving like they used to. Here's what's changed",
-    "link": "https://www.cnbc.com/2026/07/03/safe-havens-arent-behaving-like-they-used-to-heres-whats-changed.html"
-  },
-  {
-    "title": "Russia’s neighbor to scrap ban on nuclear weapons, says ‘situation is getting worse’",
-    "link": "https://www.cnbc.com/2026/07/02/russia-ukraine-nato-lithuania-nuclear-weapons.html"
-  },
-  {
     "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
     "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/"
   },
@@ -508,6 +508,34 @@
     "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/"
   },
   {
+    "title": "Spain's Cuerpo: 'Window Of Opportunity' For Joint EU Debt",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/cuerpo-window-of-opportunity-for-joint-eu-debt-video"
+  },
+  {
+    "title": "Europe's Space Race | Bloomberg Tech: Europe 7/10/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/europe-s-space-race-bloomberg-tech-europe-7-10-2026-video"
+  },
+  {
+    "title": "How Once-Struggling SK Hynix Became a Trillion-Dollar Company",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-what-to-know-about-us-listing-how-it-became-an-ai-powerhouse"
+  },
+  {
+    "title": "Web Scraper Sets $1 Million ‘Bug Bounty’ As Industry Scrutinized",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/web-scraper-sets-1-million-bug-bounty-as-industry-scrutinized"
+  },
+  {
+    "title": "SK Hynix ADR Allocation to Key Investors Said to Be Scaled Back",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-adr-allocation-to-key-investors-said-to-be-scaled-back"
+  },
+  {
+    "title": "BNP Likes Chinese Tech Stocks as AI Rotation Play Unfolds",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/bnp-likes-china-tech-stocks-as-ai-rotation-play-unfolds-video"
+  },
+  {
+    "title": "SK Hynix Rides AI Boom to Blockbuster US Listing | Insight with Haslinda Amin 07/10/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/insight-with-haslinda-amin-7-10-2026-video"
+  },
+  {
     "title": "Gates Heir’s Shopping App Claimed Sales It Didn’t Drive",
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/gates-heir-s-shopping-app-took-credit-for-sales-it-didn-t-drive"
   },
@@ -560,7 +588,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/tcs-meets-estimates-after-deal-momentum-boosts-recovery-campaign"
   },
   {
-    "title": "Payment Firms Emerge as Target in Fight Against Illegal Casinos In Lithuania",
+    "title": "Payment Firms Emerge as Target in Fight Against Illegal Casinos",
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/egba-seeks-probe-of-walletto-over-unlicensed-gambling-payments"
   },
   {
@@ -600,32 +628,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests"
   },
   {
-    "title": "Crypto Criminal Accused of Crypto Crimes Again, While in Jail",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/crypto-criminal-accused-of-crypto-crimes-again-while-in-jail"
+    "title": "AI Fuels Startup Boom Across the US",
+    "link": "https://www.bloomberg.com/news/features/2026-07-10/ai-powered-entrepreneurs-set-to-launch-record-number-of-new-businesses"
   },
   {
-    "title": "Stocks Get Boost From Chipmakers | The Close 7/9/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-09/the-close-7-9-2026-video"
+    "title": "Spain’s Cuerpo Touts US Business Ties to Diffuse Trump Tensions",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/spain-s-cuerpo-touts-us-business-ties-to-diffuse-trump-tensions"
   },
   {
-    "title": "Alger’s Crawford: ‘Everything Is Moving So Fast’ With AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-09/alger-s-crawford-everything-is-moving-so-fast-with-ai-video"
+    "title": "Spain’s Cuerpo Sees ‘Window of Opportunity’ for Joint EU Debt",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/spain-s-cuerpo-sees-window-of-opportunity-for-joint-eu-debt"
   },
   {
-    "title": "Robinhood CIO Discusses Market Trends as Magnificent 7 Underperform",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-09/robinhood-cio-discusses-trends-as-mag-7-underperform-video"
-  },
-  {
-    "title": "Secretive China Chipmaker Is Built to Dodge US Curbs",
-    "link": "https://www.bloomberg.com/news/features/2026-07-09/china-s-cxmt-chipmaker-eyes-ipo-to-challenge-samsung-sk-hynix-micron"
-  },
-  {
-    "title": "Why Young Investors Are Taking So Much Risk",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-09/why-young-investors-are-taking-so-much-risk-video"
-  },
-  {
-    "title": "Lutnick Presses SK Hynix, Samsung to Boost Memory Output in US",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/lutnick-presses-sk-hynix-samsung-to-boost-memory-output-in-us"
+    "title": "Taiwan’s Population Slump Breaks Covid Record in Risk for AI Hub",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/taiwan-s-population-falls-for-30th-month-breaking-post-world-war-ii-record"
   },
   {
     "title": "Spain’s Joint Debt Proposal Queried by Largest EU Economies",
@@ -732,20 +748,8 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-09/andrew-graham-time-to-buy-the-dip-video"
   },
   {
-    "title": "World Bank Sees Kenyan Growth at Weakest Since Covid on Iran War",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/world-bank-sees-kenya-economy-growing-4-3-in-2026-due-to-iran-war"
-  },
-  {
-    "title": "China’s Tame Inflation Is Negative for Domestic Outlook But Win for World",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-09/china-s-tame-inflation-is-negative-for-domestic-outlook-but-win-for-world"
-  },
-  {
-    "title": "Senator Wyden Says Trump Tariffs Are ‘Ill-Designed’ to Combat Forced Labor Globally",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-09/trump-s-latest-tariffs-ill-designed-to-combat-forced-labor-wyden-says"
-  },
-  {
-    "title": "World Bank Grants Ivory Coast $875 Million Loan, Signs Gas Pact",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/world-bank-grants-ivory-coast-875-million-loan-signs-gas-pact"
+    "title": "Sperm donors need limits, says a European fertility group",
+    "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/"
   },
   {
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
@@ -782,10 +786,6 @@
   {
     "title": "Your family’s $300 stake in OpenAI",
     "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
-  },
-  {
-    "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
-    "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/"
   },
   {
     "title": "Microsoft’s carbon emissions went up 25 percent last year",
