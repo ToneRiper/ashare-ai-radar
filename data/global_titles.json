@@ -4,8 +4,16 @@
     "link": "https://openai.com/index/deutsche-telekom"
   },
   {
+    "title": "Getting started with ChatGPT",
+    "link": "https://openai.com/academy/getting-started"
+  },
+  {
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+  },
+  {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty"
   },
   {
     "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
@@ -14,10 +22,6 @@
   {
     "title": "ChatGPT is now a partner for your most ambitious work",
     "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
-  },
-  {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty"
   },
   {
     "title": "Our approach to government and national security partnerships",
@@ -48,16 +52,16 @@
     "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
   },
   {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-  },
-  {
     "title": "Introducing GeneBench-Pro",
     "link": "https://openai.com/index/introducing-genebench-pro"
   },
   {
     "title": "Inside Genebench-Pro",
     "link": "https://openai.com/index/genebench-pro/case-studies"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
   },
   {
     "title": "Mapping Europe’s AI Workforce Opportunity",
@@ -92,12 +96,12 @@
     "link": "https://openai.com/index/omio"
   },
   {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "link": "https://openai.com/index/daybreak-securing-the-world"
-  },
-  {
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
     "link": "https://openai.com/index/patch-the-planet"
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world"
   },
   {
     "title": "Codex-maxxing for long-running work",
@@ -114,10 +118,6 @@
   {
     "title": "Improving health intelligence in ChatGPT",
     "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
-  },
-  {
-    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "link": "https://openai.com/index/diagnose-rare-childhood-diseases"
   },
   {
     "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
@@ -190,6 +190,14 @@
   {
     "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
     "link": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/"
+  },
+  {
+    "title": "Paramount-WBD merger expected to face lawsuit from multiple states, sources say",
+    "link": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html"
+  },
+  {
+    "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
+    "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html"
   },
   {
     "title": "A tiny GLP-1 implant is the latest bet to help patients maintain their weight loss",
@@ -304,12 +312,8 @@
     "link": "https://www.cnbc.com/2026/07/02/stock-market-gains-new-millionaires-ubs.html"
   },
   {
-    "title": "Americans are paying record prices for steak. Here's why demand isn't cracking",
-    "link": "https://www.cnbc.com/2026/07/02/beef-prices-demand-for-steak-isnt-falling.html"
-  },
-  {
-    "title": "Jeff Bezos' family office backed five AI startups in June",
-    "link": "https://www.cnbc.com/2026/07/02/jeff-bezos-family-office-backed-five-ai-startups-in-june.html"
+    "title": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
+    "link": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html"
   },
   {
     "title": "U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates",
@@ -424,8 +428,24 @@
     "link": "https://www.cnbc.com/2026/07/06/south-korean-prosecutors-indict-four-refiners-oil-price-collusion.html"
   },
   {
-    "title": "'NATO 3.0': Defense spending pledges face the Trump test",
-    "link": "https://www.cnbc.com/2026/07/06/nato-summit-turkey-us-trump-defense-spending.html"
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/"
+  },
+  {
+    "title": "SpaceX cleared to fly Starship again after booster failure in May",
+    "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/"
+  },
+  {
+    "title": "Waze adds new AI-powered features and customization updates",
+    "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
+  },
+  {
+    "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
+    "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/"
+  },
+  {
+    "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+    "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/"
   },
   {
     "title": "TechCrunch Mobility: A robotaxi ultimatum",
@@ -488,24 +508,64 @@
     "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/"
   },
   {
-    "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
-    "link": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/"
+    "title": "Lazard's Bilicic Sees 'Tremendous' Demand for AI Data Center Power",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-13/lazard-s-bilicic-sees-tremendous-demand-for-ai-power-video"
   },
   {
-    "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-    "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/"
+    "title": "Sunrun Offers Solar Users Hundreds Per Month in Compute Program",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/sunrun-offers-solar-users-hundreds-per-month-in-compute-program"
   },
   {
-    "title": "Netflix could be planning ‘always-on’ live TV channels",
-    "link": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/"
+    "title": "Sunrun's Experiment to Turn Homes Into AI Hubs",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-13/sunrun-s-experiment-to-turn-homes-into-ai-hubs-video"
   },
   {
-    "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
-    "link": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/"
+    "title": "General Fusion Soars After Nasdaq Debut",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-13/general-fusion-soars-after-nasdaq-debut-video"
   },
   {
-    "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
-    "link": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/"
+    "title": "US Gas-Power Costs at 17-Year High and Climbing, Lazard Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/us-cost-for-gas-power-at-17-year-high-and-climbing-lazard-says"
+  },
+  {
+    "title": "AI Chip Giants TSMC and SK Hynix Pull in Different Directions",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-13/tsmc-and-sk-hynix-pull-in-different-directions-video"
+  },
+  {
+    "title": "Intel Invests €5 Billion to Expand Irish Hub in AI Chip Race",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/intel-invests-5-billion-in-irish-hub-to-keep-up-in-ai-chip-race"
+  },
+  {
+    "title": "Apple’s $650 Billion Rally Fueled by Traders Fleeing AI Selloff",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff"
+  },
+  {
+    "title": "SK Hynix Selloff Is Not a Huge Problem, Kunst Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-13/sk-hynix-selloff-is-not-a-huge-problem-kunst-says-video"
+  },
+  {
+    "title": "Apple’s Lawsuit Threatens to Disrupt OpenAI’s Bid to Rival the iPhone",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone"
+  },
+  {
+    "title": "ChatGPT’s Upgraded Voice Mode Captures the Imperfections of Real Conversations",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/chatgpt-s-voice-mode-can-handle-the-um-and-oh-of-real-conversations"
+  },
+  {
+    "title": "Washington Is Looking to Keep China From Training Its AI on US Models",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc"
+  },
+  {
+    "title": "Researchers Raise Concerns That AI May Atrophy Human Skills",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/ai-risks-never-skilling-new-research-on-loss-of-critical-thinking-skills"
+  },
+  {
+    "title": "Germany’s Smag Sinks in Debut as Defense Stock Appetite Ebbs",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/antenna-maker-smag-sinks-in-debut-as-defense-stock-appetite-ebbs"
+  },
+  {
+    "title": "Who’s Scamming the Scammers?",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/how-scambaiters-fight-online-fraud-scam-texts-and-organized-crime"
   },
   {
     "title": "Dyson’s New $100 Portable Fan Is Beating the Heat &mdash; and Sales Expectations",
@@ -526,10 +586,6 @@
   {
     "title": "TSMC’s Sales Soar 36% in Latest Sign of AI Spending Momentum",
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/tsmc-sales-surge-36-in-fresh-sign-of-ai-spending-momentum"
-  },
-  {
-    "title": "Antenna Maker Smag Sinks in Debut as Defense Stock Appetite Ebbs",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/antenna-maker-smag-sinks-in-debut-as-defense-stock-appetite-ebbs"
   },
   {
     "title": "Xi to Debut at China’s Flagship AI Summit as US Rivalry Heats Up",
@@ -572,36 +628,36 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/hyundai-hymtf-workers-strike-over-bonuses-ai-robot-job-security"
   },
   {
-    "title": "Netflix Combats Questions About Slowing Growth",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-12/netflix-combats-questions-about-slowing-growth"
+    "title": "Zurich Tops Global Disposable Income Survey",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/zurich-ranks-top-in-disposable-income-poll-despite-7-coffees"
   },
   {
-    "title": "Apple’s M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro"
+    "title": "Switzerland and UK Agree Trade Deal to Deepen Post-Brexit Ties",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/switzerland-and-uk-agree-trade-deal-to-deepen-post-brexit-ties"
   },
   {
-    "title": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models"
+    "title": "Kenya Eyes $500 Million Eurobond Buyback to Ease Debt Pressure",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/kenya-eyes-500-million-eurobond-buyback-to-ease-debt-pressure"
   },
   {
-    "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all"
+    "title": "Ethiopian Central Bank Raises Rates for First Time in Two Years",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/ethiopian-central-bank-raises-rates-for-first-time-in-two-years"
   },
   {
-    "title": "China EVs on Road Have Average Age of 1.8 Years, Newspaper Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-12/china-evs-average-1-8-years-on-road-less-than-cell-phones"
+    "title": "StanChart Sees Slower Nigeria Rate Cuts as Inflation Views Rise",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/stanchart-sees-slower-nigeria-rate-cuts-as-inflation-views-rise"
   },
   {
-    "title": "Apple Sues OpenAI Over AI Talent Fight",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video"
+    "title": "A Summer Reading List to Grasp the Geopolitical Shifts Shaping the Future",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/geopolitical-changes-in-the-global-economy"
   },
   {
-    "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple"
+    "title": "India Inflation Tops RBI Target for First Time in 17 Months",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/india-s-inflation-tops-rbi-target-for-first-time-in-17-months"
   },
   {
-    "title": "Why Fox is ‘the most Disciplined’ Media Entertainment Company in the Streaming Era",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-11/michael-wolf-on-why-ai-is-changing-the-value-of-content-video"
+    "title": "Why Global Economy’s Resilience May Rise With Diminished Dollar Dominance",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/why-global-economy-s-resilience-may-rise-with-diminished-dollar-dominance"
   },
   {
     "title": "As Milei’s Aura Fades, Argentina Starts to Look for a Third Way",
@@ -644,20 +700,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-11/banks-record-bond-short-sparks-quest-for-answers-credit-weekly"
   },
   {
-    "title": "Homes Are in Short Supply in the US. How a New Law Could Change the Market",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-11/housing-crisis-how-a-new-us-law-aims-to-boost-supply-and-lower-prices"
-  },
-  {
-    "title": "Help Not Wanted: World Cup Hiring Boost Has Yet to Materialize",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-11/help-not-wanted-world-cup-hiring-boost-has-yet-to-materialize"
-  },
-  {
-    "title": "Fed Task Force Picks Bring Credibility and Support for Warsh",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-11/fed-task-force-picks-bring-credibility-and-support-for-warsh"
-  },
-  {
-    "title": "Vietnam’s Paramount Leader To Lam Has a Grand Vision for His Nation",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-11/vietnam-s-paramount-leader-to-lam-has-a-grand-plan-for-his-nation-new-economy"
+    "title": "The Download: a donor conception cap and world models for AI",
+    "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/"
   },
   {
     "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
@@ -696,8 +740,12 @@
     "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
   },
   {
-    "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-    "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/"
+    "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
+    "link": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla"
+  },
+  {
+    "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
+    "link": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale"
   },
   {
     "title": "This free Mac app reveals the truth about your mystery USB-C cables",
@@ -730,13 +778,5 @@
   {
     "title": "How Philips Hue got the smart home right",
     "link": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history"
-  },
-  {
-    "title": "Less is more with the Oura Ring 5",
-    "link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables"
-  },
-  {
-    "title": "Blue Prince became a bonding — and learning — experience for my family",
-    "link": "https://www.theverge.com/games/964262/blue-prince-family-bonding"
   }
 ]
