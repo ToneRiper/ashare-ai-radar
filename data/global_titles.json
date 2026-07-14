@@ -52,16 +52,16 @@
     "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
   },
   {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+  },
+  {
     "title": "Introducing GeneBench-Pro",
     "link": "https://openai.com/index/introducing-genebench-pro"
   },
   {
     "title": "Inside Genebench-Pro",
     "link": "https://openai.com/index/genebench-pro/case-studies"
-  },
-  {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
   },
   {
     "title": "Mapping Europe’s AI Workforce Opportunity",
@@ -96,12 +96,12 @@
     "link": "https://openai.com/index/omio"
   },
   {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet"
-  },
-  {
     "title": "Daybreak: Tools for securing every organization in the world",
     "link": "https://openai.com/index/daybreak-securing-the-world"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet"
   },
   {
     "title": "Codex-maxxing for long-running work",
@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/07/02/ford-jim-farley-usmca.html"
   },
   {
+    "title": "Taiwan's second-largest chipmaker starts mass production in Singapore; Citi sees improving outlook",
+    "link": "https://www.cnbc.com/2026/07/14/umc-starts-mass-production-in-singapore-citi-sees-improving-outlook.html"
+  },
+  {
     "title": "China exports in June rise at fastest pace since 2021 as AI boom, tariff rush lift trade",
     "link": "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html"
   },
@@ -428,10 +432,6 @@
     "link": "https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html"
   },
   {
-    "title": "CNBC's The China Connection newsletter: What to watch for in the second half",
-    "link": "https://www.cnbc.com/2026/07/06/cnbcs-the-china-connection-newsletter-a-focus-on-ai-ipos-diplomacy.html"
-  },
-  {
     "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
     "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/"
   },
@@ -512,6 +512,38 @@
     "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/"
   },
   {
+    "title": "SoftBank Billionaire: Nuclear Fusion as Key to AI Future",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-14/softbank-billionaire-nuclear-fusion-as-key-to-ai-future-video"
+  },
+  {
+    "title": "Finland’s NestAI Builds Sovereign AI Tools for Europe Militaries",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/finland-s-nestai-builds-sovereign-ai-tools-for-europe-militaries"
+  },
+  {
+    "title": "Ericsson Sees Higher Quarterly Costs on Network Sales Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/ericsson-earnings-fall-as-kit-maker-faces-rising-costs"
+  },
+  {
+    "title": "SoftBank’s Masayoshi Son Sees Fusion as Key to AI’s Future",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/softbank-s-masayoshi-son-sees-fusion-power-as-key-to-ai-s-future"
+  },
+  {
+    "title": "India’s Antitrust Body Fines HP $13.3 Million for Cartelizing",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/india-s-antitrust-body-fines-hp-13-3-million-for-cartelizing"
+  },
+  {
+    "title": "SK Hynix Shares Rebound After Early Rout as AI Jitters Persist",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout"
+  },
+  {
+    "title": "Pure DC Building Finland AI Data Center, Secures Microsoft Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/pure-dc-building-finland-ai-data-center-secures-microsoft-deal"
+  },
+  {
+    "title": "Saudi Arabia Tops Taiwan’s Drone Buyers in Surprise Splurge",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/saudi-arabia-becomes-top-buyer-in-taiwan-s-young-drone-industry"
+  },
+  {
     "title": "Huawei, Apple Get Boost in China From Memory Costs, IDC Says",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/huawei-and-apple-get-boost-in-china-from-memory-crisis-idc-says"
   },
@@ -524,16 +556,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/moonfare-assets-top-4-billion-as-pe-platform-draws-rich-clients"
   },
   {
-    "title": "SK Hynix Slides More Than 20% in Two Days as AI Trade Unravels",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout"
-  },
-  {
     "title": "DeepSeek’s Liang Tops Amodei and Brockman as Richest AI Founder",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/deepseek-s-liang-tops-amodei-and-brockman-as-richest-ai-founder"
-  },
-  {
-    "title": "SoftBank’s Masayoshi Son Sees Fusion Power as Key to AI’s Future",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/softbank-s-masayoshi-son-sees-fusion-power-as-key-to-ai-s-future"
   },
   {
     "title": "South Korea Turns More Bullish on Economy as Chip Boom Rolls On",
@@ -608,32 +632,24 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-13/fcc-s-carr-on-approval-times-paramount-warner-disney-video"
   },
   {
-    "title": "Lazard's Bilicic Sees 'Tremendous' Demand for AI Data Center Power",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/lazard-s-bilicic-sees-tremendous-demand-for-ai-power-video"
-  },
-  {
-    "title": "Sunrun's Experiment to Turn Homes Into AI Hubs",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/sunrun-s-experiment-to-turn-homes-into-ai-hubs-video"
-  },
-  {
-    "title": "General Fusion Soars After Nasdaq Debut",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/general-fusion-soars-after-nasdaq-debut-video"
-  },
-  {
-    "title": "US Gas-Power Costs at 17-Year High and Climbing, Lazard Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/us-cost-for-gas-power-at-17-year-high-and-climbing-lazard-says"
-  },
-  {
-    "title": "AI Chip Giants TSMC and SK Hynix Pull in Different Directions",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/tsmc-and-sk-hynix-pull-in-different-directions-video"
-  },
-  {
-    "title": "Intel Invests €5 Billion to Expand Irish Hub in AI Chip Race",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/intel-invests-5-billion-in-irish-hub-to-keep-up-in-ai-chip-race"
-  },
-  {
-    "title": "Singapore on Track to Beat Cautious Official Forecast on AI Boom",
+    "title": "Singapore on Track to Beat Cautious Official Forecast on AI",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/singapore-s-economic-growth-slows-to-5-7-in-second-quarter"
+  },
+  {
+    "title": "UK’s Miliband Seen as Least Appealing Chancellor: Markets Pulse",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/uk-s-miliband-seen-as-least-appealing-chancellor-markets-pulse"
+  },
+  {
+    "title": "China’s Green-Tech Exports Surge on Energy Transition Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-s-green-tech-exports-surge-on-energy-transition-demand"
+  },
+  {
+    "title": "Japan’s Power Prices Hit Six-Week High on Heat Wave, Gas Crunch",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/japan-s-power-prices-hit-six-week-high-on-heat-wave-gas-crunch"
+  },
+  {
+    "title": "Japan Floats Pension Fund Changes, Tax Breaks for Bond Investors",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/japan-s-katayama-says-gpif-to-adjust-portfolio-if-needed"
   },
   {
     "title": "China Exports, Imports Soar Faster Than Forecast as AI Booms",
@@ -642,10 +658,6 @@
   {
     "title": "RBNZ’s Conway Warns of Sticky Inflation, Risking More Hikes",
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/rbnz-s-conway-warns-of-sticky-inflation-risking-more-rate-hikes"
-  },
-  {
-    "title": "Katayama Floats JGBs in Tax-Free Accounts, GPIF Portfolio Review",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/japan-s-katayama-says-gpif-to-adjust-portfolio-if-needed"
   },
   {
     "title": "Australia Consumer, Business Confidence Rise as Fuel Prices Ease",
@@ -734,18 +746,6 @@
   {
     "title": "Euro-Area Outlook Cut by Economists as Iran War Weighs on Region",
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/euro-area-outlook-cut-by-economists-as-iran-war-weighs-on-region"
-  },
-  {
-    "title": "Romanian Inflation Starts to Ease as Oil Still Casts Shadow",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/romanian-inflation-starts-to-ease-as-oil-still-casts-shadow"
-  },
-  {
-    "title": "Warsh and US Inflation Will Set Tone for July Fed Decision",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision"
-  },
-  {
-    "title": "Bangladesh Says Next Deal With IMF Must Ensure Economic Security",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-12/bangladesh-says-next-deal-with-imf-must-ensure-economic-security"
   },
   {
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
