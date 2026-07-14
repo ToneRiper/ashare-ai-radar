@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/07/02/ford-jim-farley-usmca.html"
   },
   {
+    "title": "Is Hormuz open? Trump's toll threat intensifies rush to bypass the Strait altogether",
+    "link": "https://www.cnbc.com/2026/07/14/strait-hormuz-uae-saudi-gulf-trump-tolls.html"
+  },
+  {
     "title": "Taiwan's second-largest chipmaker starts mass production in Singapore; Citi sees improving outlook",
     "link": "https://www.cnbc.com/2026/07/14/umc-starts-mass-production-in-singapore-citi-sees-improving-outlook.html"
   },
@@ -428,10 +432,6 @@
     "link": "https://www.cnbc.com/2026/07/07/india-fashion-retailer-trent-tumbles-11percent-as-revenue-growth-disappoints.html"
   },
   {
-    "title": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines",
-    "link": "https://www.cnbc.com/2026/07/07/hanwha-ocean-shares-sink-canada-submarines-tkms.html"
-  },
-  {
     "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
     "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/"
   },
@@ -512,16 +512,40 @@
     "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/"
   },
   {
-    "title": "SoftBank Billionaire: Nuclear Fusion as Key to AI Future",
+    "title": "Ericsson Falls as Component Costs Weigh on Networks Unit",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/ericsson-earnings-fall-as-kit-maker-faces-rising-costs"
+  },
+  {
+    "title": "State Street to Continue Buying Tech Dips, Veitmane Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-14/state-street-to-continue-buying-tech-dips-veitmane-says-video"
+  },
+  {
+    "title": "SoftBank Billionaire: Nuclear Fusion Is Key to AI Future",
     "link": "https://www.bloomberg.com/news/videos/2026-07-14/softbank-billionaire-nuclear-fusion-as-key-to-ai-future-video"
+  },
+  {
+    "title": "Byju’s Founder Loses Bid to Overturn Singapore Jail Sentence",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/byju-s-founder-loses-bid-to-overturn-singapore-jail-sentence"
+  },
+  {
+    "title": "SK Hynix Shares Rebound After Early Rout as AI Jitters Persist",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout"
+  },
+  {
+    "title": "Samsung Is Said in Early Discussions on Potential US Share Sale",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/samsung-is-said-in-early-discussions-on-potential-us-share-sale"
+  },
+  {
+    "title": "Trillion Dollar Chip Rout Trains Spotlight on TSMC and ASML Results",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/trillion-dollar-chip-rout-trains-spotlight-on-tsmc-asml-results"
+  },
+  {
+    "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan"
   },
   {
     "title": "Finland’s NestAI Builds Sovereign AI Tools for Europe Militaries",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/finland-s-nestai-builds-sovereign-ai-tools-for-europe-militaries"
-  },
-  {
-    "title": "Ericsson Sees Higher Quarterly Costs on Network Sales Growth",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/ericsson-earnings-fall-as-kit-maker-faces-rising-costs"
   },
   {
     "title": "SoftBank’s Masayoshi Son Sees Fusion as Key to AI’s Future",
@@ -530,10 +554,6 @@
   {
     "title": "India’s Antitrust Body Fines HP $13.3 Million for Cartelizing",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/india-s-antitrust-body-fines-hp-13-3-million-for-cartelizing"
-  },
-  {
-    "title": "SK Hynix Shares Rebound After Early Rout as AI Jitters Persist",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout"
   },
   {
     "title": "Pure DC Building Finland AI Data Center, Secures Microsoft Deal",
@@ -612,31 +632,31 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-13/sk-hynix-adrs-tumble-in-second-trading-day-after-selloff-video"
   },
   {
-    "title": "Carr Accuses Disney of Being 'Disingenuous' of FCC Inquiries",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/carr-says-disney-being-disingenuous-of-fcc-inquiries-video"
+    "title": "Traders Boost BOE and ECB Rate-Hike Bets After Oil Price Surge",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/traders-boost-boe-ecb-rate-hike-bets-after-oil-price-surge"
   },
   {
-    "title": "FCC Cut Satellite Approval Backlog in Half, Carr Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/fcc-cutting-satellite-approval-lag-in-half-chairman-says"
+    "title": "China’s Trade Surplus With EU Hits Record as Tensions Intensify",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-s-trade-surplus-with-eu-hits-record-as-tensions-intensify"
   },
   {
-    "title": "Germany’s Smag Sinks in Debut as Defense Stock Appetite Ebbs",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/antenna-maker-smag-sinks-in-debut-as-defense-stock-appetite-ebbs"
+    "title": "India Price Risks Mount on Renewed US-Iran Tensions, El Nino",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/india-inflation-risks-mount-on-renewed-us-iran-tensions-el-nino"
   },
   {
-    "title": "More Than 200 Experts Urge Action to Steer AI for Society’s Good",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/more-than-200-experts-urge-action-to-steer-ai-for-society-s-good"
+    "title": "China Exports Hit Record $412 Billion as AI Adds to Factory Edge",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-s-exports-imports-soar-faster-than-forecast-amid-ai-rush"
   },
   {
-    "title": "FCC's Carr on Approval Times, Paramount-Warner Deal and Disney",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/fcc-s-carr-on-approval-times-paramount-warner-disney-video"
+    "title": "Indian Insurers Ask for Wider Use of Swaps to Hedge Rate Risks",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/indian-insurers-ask-for-wider-use-of-swaps-to-hedge-rate-risks"
   },
   {
     "title": "Singapore on Track to Beat Cautious Official Forecast on AI",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/singapore-s-economic-growth-slows-to-5-7-in-second-quarter"
   },
   {
-    "title": "UK’s Miliband Seen as Least Appealing Chancellor: Markets Pulse",
+    "title": "UK’s Miliband Seen as Least Market-Friendly Chancellor in Poll",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/uk-s-miliband-seen-as-least-appealing-chancellor-markets-pulse"
   },
   {
@@ -652,10 +672,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/japan-s-katayama-says-gpif-to-adjust-portfolio-if-needed"
   },
   {
-    "title": "China Exports, Imports Soar Faster Than Forecast as AI Booms",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-s-exports-imports-soar-faster-than-forecast-amid-ai-rush"
-  },
-  {
     "title": "RBNZ’s Conway Warns of Sticky Inflation, Risking More Hikes",
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/rbnz-s-conway-warns-of-sticky-inflation-risking-more-rate-hikes"
   },
@@ -666,6 +682,10 @@
   {
     "title": "China’s Growth Seen Weakening to Bottom of Official Target Range",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-s-growth-seen-weakening-to-bottom-of-official-target-range"
+  },
+  {
+    "title": "British Retailers Get a Boost From World Cup and Sunny Weather",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/british-retailers-get-a-boost-from-world-cup-and-sunny-weather"
   },
   {
     "title": "UK Industry Tells PM to Move Energy Levies to General Taxation",
@@ -726,26 +746,6 @@
   {
     "title": "As Milei’s Aura Fades, Argentina Starts to Look for a Third Way",
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/as-milei-s-aura-fades-argentina-starts-to-look-for-a-third-way"
-  },
-  {
-    "title": "Burnham Weighs Bigger Budget as Experts Lobby on Economy",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-12/burnham-weighs-bigger-budget-as-experts-lobby-on-economic-policy"
-  },
-  {
-    "title": "Five Economists Vie for Croat Central Bank’s Vice Governor Posts",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/five-economists-vie-for-croat-central-bank-s-vice-governor-posts"
-  },
-  {
-    "title": "US, Iran Trade Wave of Attacks",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/us-iran-trade-wave-of-attacks-video"
-  },
-  {
-    "title": "France Unemployment to Hit Seven-Year High in 2026, Survey Shows",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/france-unemployment-to-hit-seven-year-high-in-2026-survey-shows"
-  },
-  {
-    "title": "Euro-Area Outlook Cut by Economists as Iran War Weighs on Region",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/euro-area-outlook-cut-by-economists-as-iran-war-weighs-on-region"
   },
   {
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
