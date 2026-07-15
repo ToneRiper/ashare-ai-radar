@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html"
   },
   {
+    "title": "Inside India newsletter: Modi is exporting India's workforce to a world turning against immigration",
+    "link": "https://www.cnbc.com/2026/07/15/modi-export-india-workforce-anti-immigration.html"
+  },
+  {
     "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
     "link": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
   },
@@ -422,10 +426,6 @@
   {
     "title": "Ukrainian drones hit Russia’s largest oil refinery as Zelenskyy says Siberia now ‘within reach’",
     "link": "https://www.cnbc.com/2026/07/07/ukraine-russia-omsk-oil-refinery-putin-nato.html"
-  },
-  {
-    "title": "Oil prices rise after attacks on tankers in Strait of Hormuz, U.S. revokes Iran sale authorization",
-    "link": "https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html"
   },
   {
     "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -548,6 +548,10 @@
     "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/"
   },
   {
+    "title": "Starlink’s V5 dish is now available — here’s how it compares",
+    "link": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison"
+  },
+  {
     "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
     "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play"
   },
@@ -582,9 +586,5 @@
   {
     "title": "Meta accused of using biased AI targeting for mass layoffs",
     "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs"
-  },
-  {
-    "title": "Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries",
-    "link": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant"
   }
 ]
