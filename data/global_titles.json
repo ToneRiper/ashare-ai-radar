@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/codex-maxxing-long-running-work"
   },
   {
+    "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+    "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/"
+  },
+  {
     "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
     "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/"
   },
@@ -188,8 +192,12 @@
     "link": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/"
   },
   {
-    "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
-    "link": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/"
+    "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+    "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html"
+  },
+  {
+    "title": "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding",
+    "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html"
   },
   {
     "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
@@ -304,12 +312,8 @@
     "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
   },
   {
-    "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
-    "link": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html"
-  },
-  {
-    "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
-    "link": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html"
+    "title": "Alibaba’s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence",
+    "link": "https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html"
   },
   {
     "title": "Inside India newsletter: Modi is exporting India's workforce to a world turning against immigration",
@@ -424,8 +428,48 @@
     "link": "https://www.cnbc.com/2026/07/08/china-nuclear-missile-launch-test-pacific-weapons-military-defense-alliance-australia-.html"
   },
   {
-    "title": "Ukrainian drones hit Russia’s largest oil refinery as Zelenskyy says Siberia now ‘within reach’",
-    "link": "https://www.cnbc.com/2026/07/07/ukraine-russia-omsk-oil-refinery-putin-nato.html"
+    "title": "Spotify expands parent-managed accounts to users on its free tier",
+    "link": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/"
+  },
+  {
+    "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
+    "link": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/"
+  },
+  {
+    "title": "US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims",
+    "link": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/"
+  },
+  {
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
+  },
+  {
+    "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+    "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/"
+  },
+  {
+    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+    "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/"
+  },
+  {
+    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+    "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
+  },
+  {
+    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+    "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
+  },
+  {
+    "title": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
+    "link": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/"
+  },
+  {
+    "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+    "link": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/"
+  },
+  {
+    "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
+    "link": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/"
   },
   {
     "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -464,48 +508,8 @@
     "link": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/"
   },
   {
-    "title": "Google faces another AI training lawsuit from major publishers",
-    "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/"
-  },
-  {
-    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-    "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
-  },
-  {
-    "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-    "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/"
-  },
-  {
-    "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-    "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/"
-  },
-  {
-    "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-    "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/"
-  },
-  {
-    "title": "New York State halts construction of all new data centers",
-    "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/"
-  },
-  {
-    "title": "Iran abused mobile networks’ vulnerabilities to locate US military in the Middle East, report says",
-    "link": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/"
-  },
-  {
-    "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
-    "link": "https://techcrunch.com/2026/07/14/ringconn-3-review/"
-  },
-  {
-    "title": "Reflection inks $1B compute deal with Nebius",
-    "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/"
-  },
-  {
-    "title": "The real AI race may no longer be at the frontier",
-    "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/"
-  },
-  {
-    "title": "Telegram’s shortlink domain is back online after day-long suspension",
-    "link": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/"
+    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/"
   },
   {
     "title": "The Download: Claude’s inner workings, and the future of world models",
@@ -544,8 +548,28 @@
     "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/"
   },
   {
-    "title": "EmTech AI 2026: The Rise of the AI Platform",
-    "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/"
+    "title": "The tiniest MMO",
+    "link": "https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest"
+  },
+  {
+    "title": "The Motorola Edge 70 Max is all about power",
+    "link": "https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability"
+  },
+  {
+    "title": "Home Depot’s viral 12-foot skeleton now talks",
+    "link": "https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds"
+  },
+  {
+    "title": "Samsung’s new foldable display is harder to crease and damage",
+    "link": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables"
+  },
+  {
+    "title": "Spotify’s Daniel Ek is bringing his body-scanning clinics to the US",
+    "link": "https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push"
+  },
+  {
+    "title": "The PS6 sure sounds like a handheld",
+    "link": "https://www.theverge.com/games/963132/sony-playstation-future-handheld-pc-business-meeting-end-of-discs"
   },
   {
     "title": "Starlink’s V5 dish is now available — here’s how it compares",
@@ -562,29 +586,5 @@
   {
     "title": "Microsoft’s biggest ever patch Tuesday lets you hold off updating for longer",
     "link": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates"
-  },
-  {
-    "title": "OpenAI may announce a ChatGPT smart speaker this year",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device"
-  },
-  {
-    "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload"
-  },
-  {
-    "title": "Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price",
-    "link": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale"
-  },
-  {
-    "title": "Plex problems prevented users from streaming movies and shows",
-    "link": "https://www.theverge.com/tech/965518/plex-tv-down-outage-issues"
-  },
-  {
-    "title": "Nintendo’s Switch 2 bundle that includes a game is $50 off",
-    "link": "https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale"
-  },
-  {
-    "title": "Meta accused of using biased AI targeting for mass layoffs",
-    "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs"
   }
 ]
