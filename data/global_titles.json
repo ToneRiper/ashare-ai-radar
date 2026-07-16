@@ -312,7 +312,15 @@
     "link": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html"
   },
   {
-    "title": "TSMC second-quarter profit jumps over 77%, beating estimates, on high-end chip boom",
+    "title": "Foreign investors sweeten on Indian government bonds as equities see a sell-off",
+    "link": "https://www.cnbc.com/2026/07/16/fii-buy-india-bonds-sell-nifty.html"
+  },
+  {
+    "title": "Ukraine's Zelenskyy ousts defense minister in surprise shake-up as protest calls emerge",
+    "link": "https://www.cnbc.com/2026/07/16/ukraine-russia-zelenskyy-crimea-putin.html"
+  },
+  {
+    "title": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%",
     "link": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html"
   },
   {
@@ -328,7 +336,7 @@
     "link": "https://www.cnbc.com/2026/07/16/bok-interest-rate-monetary-policy-markets-kospi-skhynix.html"
   },
   {
-    "title": "SK Hynix shares plunge 11% as Asia sees tech rout, tracking U.S. chip losses",
+    "title": "SK Hynix shares plunge over 11% as Asia sees tech rout, tracking U.S. chip losses",
     "link": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html"
   },
   {
@@ -420,14 +428,6 @@
     "link": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html"
   },
   {
-    "title": "Inside India newsletter: India's $50 billion worth of IPOs at risk as Trump ends Iran ceasefire",
-    "link": "https://www.cnbc.com/2026/07/09/india-ipo-50-billion-jio-phonepe-nse.html"
-  },
-  {
-    "title": "Singapore's Temasek boosts China exposure by $7.7 billion, biggest rise in five years, in AI-driven pivot",
-    "link": "https://www.cnbc.com/2026/07/08/temaseks-china-investment-jumps-most-in-five-years-artificial-intelligence-.html"
-  },
-  {
     "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
     "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/"
   },
@@ -508,7 +508,19 @@
     "link": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/"
   },
   {
-    "title": "TSMC Hikes Sales, Spending Outlook in Sign of Strong AI Demand",
+    "title": "Baidu to Switch to Dual US-Hong Kong Listing to Attract Capital",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/baidu-to-switch-to-dual-us-hong-kong-listing-to-attract-capital"
+  },
+  {
+    "title": "Uber Agrees to Buy Delivery Hero in $14.8 Billion Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates"
+  },
+  {
+    "title": "Japan to Buy Nvidia Rubin Chips to Build Sovereign AI for Robots",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/japan-to-buy-nvidia-rubin-chips-to-build-sovereign-ai-for-robots"
+  },
+  {
+    "title": "TSMC Hikes Sales, Spending Outlook to Signal AI ‘Megatrend’",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/tsmc-beats-lofty-estimates-in-latest-sign-of-sustained-ai-demand"
   },
   {
@@ -518,10 +530,6 @@
   {
     "title": "Brookfield-Backed Data-Center Firm Raises $1.05 Billion in IPO",
     "link": "https://www.bloomberg.com/news/articles/2026-07-15/data-center-firm-csquare-is-said-to-price-ipo-at-21-per-share"
-  },
-  {
-    "title": "Uber Agrees to Buy Delivery Hero as Food Sector Consolidates",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates"
   },
   {
     "title": "TSMC to Spend $265 Billion on US Buildout in Key Trump Deal",
@@ -580,12 +588,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-15/palantir-s-cto-sees-chinese-ai-models-posing-economic-risk-to-us"
   },
   {
-    "title": "CIA Says AI Drones Give Russian Troops Only 30 Minutes to Live",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/cia-says-ai-drones-give-russian-troops-only-30-minutes-to-live"
+    "title": "BOE’s Breeden Says Weak UK Economy Cuts Risk of Sticky Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/boe-s-breeden-says-weak-uk-economy-cuts-risk-of-sticky-inflation"
   },
   {
-    "title": "ASML Mulls Price Hike for Chipmaking Tools, Information Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/asml-plans-prices-hikes-for-chipmaking-tools-says-information"
+    "title": "SNB Saw No ‘Immediate’ Need to Respond to Inflation Risks",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/snb-saw-no-immediate-need-to-respond-to-inflation-risks"
+  },
+  {
+    "title": "Greer Praises Swiss Investments as US Weighs Tariff Decision",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/greer-praises-swiss-investments-as-us-weighs-tariff-decision"
+  },
+  {
+    "title": "UK Economy Grows as Services Defy Energy, Political Turmoil",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/uk-economy-grew-in-may-despite-energy-political-turmoil"
   },
   {
     "title": "Macron Successor Faces €126 Billion Challenge on French Debt",
@@ -594,10 +610,6 @@
   {
     "title": "Japan’s Household Inflation Expectations Hit Highest Since 2006",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/japan-s-household-inflation-expectations-hit-highest-since-2006"
-  },
-  {
-    "title": "UK Economy Grew in May Despite Energy, Political Turmoil",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/uk-economy-grew-in-may-despite-energy-political-turmoil"
   },
   {
     "title": "Korea Raises Rates for First Time Since 2023 on Chip-Led Boom",
@@ -618,10 +630,6 @@
   {
     "title": "Japan’s Katayama Leaves Open Possibility of GPIF Domestic Shift",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/japan-s-katayama-leaves-open-possibility-of-gpif-domestic-shift"
-  },
-  {
-    "title": "Greer Praises Swiss Investments as US Weighs Tariff Decision",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/greer-praises-swiss-investments-as-us-weighs-tariff-decision"
   },
   {
     "title": "Russia Sanctions Threat May Complicate US-India Trade Talks",
@@ -658,14 +666,6 @@
   {
     "title": "Fed’s Cook Says Prepared to Act If Inflation Doesn’t Cool",
     "link": "https://www.bloomberg.com/news/articles/2026-07-15/fed-s-cook-says-she-s-prepared-to-act-if-inflation-doesn-t-cool"
-  },
-  {
-    "title": "Fed’s Warsh Cools Talk That AI Boom Is Spurring Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/warsh-says-price-pressures-from-ai-not-necessarily-inflationary"
-  },
-  {
-    "title": "Containers Surge Into Top US Ports Amid Tariff, Iran Uncertainty",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/containers-surge-into-top-us-ports-amid-tariff-iran-uncertainty"
   },
   {
     "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
@@ -708,6 +708,10 @@
     "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/"
   },
   {
+    "title": "OnePlus officially gives up on the US and Europe",
+    "link": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme"
+  },
+  {
     "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
     "link": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones"
   },
@@ -742,9 +746,5 @@
   {
     "title": "Enshittification",
     "link": "https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell"
-  },
-  {
-    "title": "Something&#8217;s glowing on the Pixel 11&#8217;s camera bar",
-    "link": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser"
   }
 ]
