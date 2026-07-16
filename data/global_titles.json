@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html"
   },
   {
+    "title": "TSMC second-quarter profit jumps over 77%, beating estimates, on high-end chip boom",
+    "link": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html"
+  },
+  {
     "title": "Ex-Fed advisor gets over three years in prison for lying about China ties",
     "link": "https://www.cnbc.com/2026/07/16/ex-fed-adviser-gets-jailtime-lying-about-china-ties-economic-espionage-.html"
   },
@@ -424,11 +428,7 @@
     "link": "https://www.cnbc.com/2026/07/08/temaseks-china-investment-jumps-most-in-five-years-artificial-intelligence-.html"
   },
   {
-    "title": "Singapore's Temasek hits record portfolio value, eyes more investment in AI, infrastructure and private credit",
-    "link": "https://www.cnbc.com/2026/07/08/singapores-temasek-eyes-ai-private-credit-with-portfolio-at-record.html"
-  },
-  {
-    "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A",
+    "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
     "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/"
   },
   {
@@ -508,32 +508,48 @@
     "link": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/"
   },
   {
-    "title": "Japan’s Biggest Robot Makers Unite to Take On Overseas Rivals",
+    "title": "TSMC Hikes Sales, Spending Outlook in Sign of Strong AI Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/tsmc-beats-lofty-estimates-in-latest-sign-of-sustained-ai-demand"
+  },
+  {
+    "title": "Hyundai to Buy SoftBank Boston Dynamics Stake in Robot Push",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/hyundai-to-buy-softbank-s-boston-dynamics-stake-in-robot-push"
+  },
+  {
+    "title": "Brookfield-Backed Data-Center Firm Raises $1.05 Billion in IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-15/data-center-firm-csquare-is-said-to-price-ipo-at-21-per-share"
+  },
+  {
+    "title": "Uber Agrees to Buy Delivery Hero as Food Sector Consolidates",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates"
+  },
+  {
+    "title": "TSMC to Spend $265 Billion on US Buildout in Key Trump Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/tsmc-to-spend-265-billion-on-us-buildout-in-key-trump-deal"
+  },
+  {
+    "title": "S. Africa Finance Chief Reviews $219 Billion Fund CEO Suspension",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/s-africa-finance-chief-reviews-219-billion-fund-ceo-suspension"
+  },
+  {
+    "title": "Japan’s Robotics Leaders Unite With Nvidia to Take On China",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/japan-s-robot-makers-join-nvidia-s-physical-ai-cosmos-coalition"
+  },
+  {
+    "title": "China Internet Stocks Catch an AI Lift as Beijing Warms to Tech",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/china-internet-stocks-catch-an-ai-lift-as-beijing-warms-to-tech"
   },
   {
     "title": "Nvidia’s Huang Courts Japanese AI Suppliers With Pork Skewers",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/nvidia-s-huang-courts-japanese-suppliers-with-kanda-pork-skewers"
   },
   {
-    "title": "Hyundai to Buy SoftBank’s Boston Dynamics Stake in Robot Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/hyundai-to-buy-softbank-s-boston-dynamics-stake-in-robot-push"
-  },
-  {
     "title": "Palm Beach Strikes Down Data Center Plan After Local Backlash",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/palm-beach-strikes-down-data-center-plan-after-local-backlash"
   },
   {
-    "title": "EU, India Move to Expand Ties Beyond Landmark Free Trade Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/eu-india-move-to-expand-ties-beyond-landmark-free-trade-deal"
-  },
-  {
     "title": "Nvidia Expands Toyota AI Partnership for Smart Cities, Factories",
     "link": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories"
-  },
-  {
-    "title": "Data Center Firm Csquare Is Said to Price IPO at $21 Per Share",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/data-center-firm-csquare-is-said-to-price-ipo-at-21-per-share"
   },
   {
     "title": "China Sends Robots Out Into the World to Learn How to Be Human",
@@ -572,36 +588,60 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-15/asml-plans-prices-hikes-for-chipmaking-tools-says-information"
   },
   {
-    "title": "Anthropic Plans IPO Investor Meetings as Mega-Listing Nears",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-is-said-to-plan-ipo-investor-meetings-as-listing-nears"
+    "title": "Macron Successor Faces €126 Billion Challenge on French Debt",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-15/macron-s-successor-faces-126-billion-challenge-over-french-debt"
   },
   {
-    "title": "Google to Allow Third-Party Stores in Its App Store Next Week",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/google-to-allow-third-party-stores-in-its-app-store-next-week"
+    "title": "Japan’s Household Inflation Expectations Hit Highest Since 2006",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/japan-s-household-inflation-expectations-hit-highest-since-2006"
   },
   {
-    "title": "OnePlus, Once Popular with Tech Fans, to Pull Out of US and Europe",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/oneplus-once-popular-with-tech-fans-to-pull-out-of-us-and-europe"
-  },
-  {
-    "title": "Missile Maker MBDA Names Airbus Veteran Dumont as New CEO",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/missile-maker-mbda-names-airbus-veteran-dumont-as-new-ceo"
-  },
-  {
-    "title": "Japan’s Katayama Leaves Open Possibility of GPIF Domestic Shift",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/japan-s-katayama-leaves-open-possibility-of-gpif-domestic-shift"
+    "title": "UK Economy Grew in May Despite Energy, Political Turmoil",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/uk-economy-grew-in-may-despite-energy-political-turmoil"
   },
   {
     "title": "Korea Raises Rates for First Time Since 2023 on Chip-Led Boom",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/bok-delivers-first-rate-hike-since-early-2023-amid-chip-led-boom"
   },
   {
+    "title": "Lagarde Watchers Cast Aside Doubts to Say She’ll Finish ECB Term",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/lagarde-watchers-cast-aside-doubts-to-say-she-ll-finish-ecb-term"
+  },
+  {
+    "title": "Modi Pushes to Cut Imports to Shield India From Shocks",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/modi-pushes-to-cut-import-reliance-to-shield-india-from-shocks"
+  },
+  {
+    "title": "US Sets 25% Tariff on Some Brazilian Imports Starting July 22",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/greer-says-us-to-announce-decision-on-brazil-tariffs-wednesdsay"
+  },
+  {
+    "title": "Japan’s Katayama Leaves Open Possibility of GPIF Domestic Shift",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/japan-s-katayama-leaves-open-possibility-of-gpif-domestic-shift"
+  },
+  {
+    "title": "Greer Praises Swiss Investments as US Weighs Tariff Decision",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/greer-praises-swiss-investments-as-us-weighs-tariff-decision"
+  },
+  {
+    "title": "Russia Sanctions Threat May Complicate US-India Trade Talks",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-15/russia-oil-sanctions-threat-may-complicate-us-india-trade-talks"
+  },
+  {
+    "title": "EU, India Move to Expand Ties Beyond Landmark Free Trade Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/eu-india-move-to-expand-ties-beyond-landmark-free-trade-deal"
+  },
+  {
+    "title": "US Pushes Vietnam on Trade Barriers, IP Violations in Deal Talks",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/us-pushes-vietnam-on-trade-barriers-ip-violations-in-deal-talks"
+  },
+  {
     "title": "Australia Inflation Expectations Fall to Lowest Since January",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/australia-inflation-expectations-fall-to-lowest-since-january"
   },
   {
-    "title": "Yen Options Suggest a Slide to 165 Level Before Japan Intervenes",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/yen-options-suggest-a-slide-to-165-level-before-japan-intervenes"
+    "title": "IEA Boss Warns Global Economy in Peril If Hormuz Crisis Persists",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/iea-boss-warns-global-economy-in-peril-if-hormuz-crisis-persists"
   },
   {
     "title": "Iran’s Tanker Attacks Squeeze the Hormuz Oil-Shuttling Trade",
@@ -624,48 +664,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-15/warsh-says-price-pressures-from-ai-not-necessarily-inflationary"
   },
   {
-    "title": "Macron’s Successor Faces €126 Billion Challenge Over French Debt",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/macron-s-successor-faces-126-billion-challenge-over-french-debt"
-  },
-  {
     "title": "Containers Surge Into Top US Ports Amid Tariff, Iran Uncertainty",
     "link": "https://www.bloomberg.com/news/articles/2026-07-15/containers-surge-into-top-us-ports-amid-tariff-iran-uncertainty"
-  },
-  {
-    "title": "Peru Growth Misses Forecasts on Weak Fishing, Manufacturing",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/peru-economy-misses-expectations-on-weak-fishing-and-manufacture"
-  },
-  {
-    "title": "Bank of Canada Holds at 2.25% as Growth Outlook Improves",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/bank-of-canada-holds-rates-at-2-25-as-growth-outlook-improves"
-  },
-  {
-    "title": "Moulin Says ECB Must Be Ready for Any Inflation Eventuality",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/moulin-says-ecb-must-be-ready-for-any-inflation-eventuality"
-  },
-  {
-    "title": "Nigerian Inflation Holds Steady Ahead of Interest-Rate Call",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/nigerian-inflation-holds-steady-ahead-of-rate-setting-meeting"
-  },
-  {
-    "title": "Incoming UK Fiscal Watchdog Head Warns on Debt-Funded Spending",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/incoming-uk-fiscal-watchdog-head-warns-on-debt-funded-spending"
-  },
-  {
-    "title": "India’s SEBI Adopts Code to Curb Conflicts of Interest",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/india-s-sebi-adopts-code-to-curb-conflicts-of-interest"
-  },
-  {
-    "title": "Fed’s Williams Says Rates Well Positioned Despite AI Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/fed-s-williams-says-rates-well-positioned-despite-ai-demand"
-  },
-  {
-    "title": "US Producer Prices Come in Tame as Pipeline Pressures Abate",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/us-producer-prices-rise-at-slower-pace-as-core-gauge-decelerates"
-  },
-  {
-    "title": "Screwworm, US Border Closure Hits Mexican Ranchers",
-    "link": "https://www.bloomberg.com/news/features/2026-07-15/screwworm-us-border-closure-hits-mexican-ranchers"
   },
   {
     "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
