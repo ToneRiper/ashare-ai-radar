@@ -312,6 +312,14 @@
     "link": "https://www.cnbc.com/2026/07/07/stellantis-fiat-topolino-ev.html"
   },
   {
+    "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic",
+    "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html"
+  },
+  {
+    "title": "Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain",
+    "link": "https://www.cnbc.com/2026/07/17/iran-war-us-trump-syria-bahrain.html"
+  },
+  {
     "title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach",
     "link": "https://www.cnbc.com/2026/07/17/x-china-ai-summit-risks-security.html"
   },
@@ -320,7 +328,7 @@
     "link": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html"
   },
   {
-    "title": "Seven & i shares jump 3% on report of stake talks with Polish convenience chain Zabka",
+    "title": "Seven & i shares end 3.6% higher on report of stake talks with Polish convenience chain Zabka",
     "link": "https://www.cnbc.com/2026/07/17/seven-i-zabka-investment-poland.html"
   },
   {
@@ -420,14 +428,6 @@
     "link": "https://www.cnbc.com/2026/07/10/volkswagen-vw-autos-job-cuts-germany.html"
   },
   {
-    "title": "Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite",
-    "link": "https://www.cnbc.com/2026/07/10/ukraine-russia-crimea-fuel-oil.html"
-  },
-  {
-    "title": "India ramps up missile sales in Indo-Pacific as China’s assertiveness turns neighbors wary",
-    "link": "https://www.cnbc.com/2026/07/10/india-missiles-brahmos-indonesia-china.html"
-  },
-  {
     "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
     "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/"
   },
@@ -508,6 +508,22 @@
     "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/"
   },
   {
+    "title": "China’s Powerful New AI Surprises Investors, Fueling Tech Rout",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals"
+  },
+  {
+    "title": "Xi Seeks Global AI Sway as Chinese Models Spur Security Alarm",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/china-s-ai-ascendance-gives-xi-a-stage-and-a-security-dilemma"
+  },
+  {
+    "title": "Japan’s Nikkei 225 Enters Correction on Fears AI Rally Overdone",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-stocks-dive-as-investors-worry-about-ai-rally-s-run-mro83xih"
+  },
+  {
+    "title": "Chipmaker Kioxia’s Market Value Halves From Peak on AI Selloff",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/chipmaker-kioxia-s-market-value-halves-from-peak-on-ai-selloff"
+  },
+  {
     "title": "SoftBank Plans New ¥60 Billion Bond After Retail, Overseas Deals",
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/softbank-plans-new-60-billion-bond-after-retail-overseas-deals"
   },
@@ -520,10 +536,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/xi-vows-to-make-ai-for-all-in-debut-at-china-s-top-tech-summit"
   },
   {
-    "title": "Xi Seeks Global AI Sway as Chinese Models Spur Security Alarm",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/china-s-ai-ascendance-gives-xi-a-stage-and-a-security-dilemma"
-  },
-  {
     "title": "CXMT’s Marquee IPO 212 Times Oversubscribed by Retail Investors",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/cxmt-s-blockbuster-ipo-212-times-covered-for-retail-investors"
   },
@@ -532,20 +544,12 @@
     "link": "https://www.bloomberg.com/news/live-blog/2026-07-17/xi-jinping-ai-speech-china-waic-conference"
   },
   {
-    "title": "Japan’s Stocks Dive as Investors Worry About AI Rally’s Run",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-stocks-dive-as-investors-worry-about-ai-rally-s-run-mro83xih"
-  },
-  {
     "title": "Mitsubishi Electric Eyes Power-Chip Merger With Rohm and Toshiba",
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/mitsubishi-electric-eyes-power-chip-merger-with-rohm-and-toshiba"
   },
   {
     "title": "Tata Group Resorts to Older Tech to Launch Its Chip Foray",
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/tata-group-resorts-to-older-tech-to-launch-its-chip-foray"
-  },
-  {
-    "title": "Chipmaker Kioxia’s Market Value Halves From Peak on AI Selloff",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-17/chipmaker-kioxia-s-market-value-halves-from-peak-on-ai-selloff"
   },
   {
     "title": "DeepSeek Champions China’s Bid to Flood the World With Cheap AI",
@@ -584,8 +588,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/hollywood-sci-fi-lot-pitched-as-site-to-make-real-space-age-weapons"
   },
   {
-    "title": "DHS Seizes 30,000 Mobile SIM Cards in Effort to Stop Phone Fraud",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/dhs-seizes-30-000-mobile-sim-cards-in-effort-to-stop-phone-fraud"
+    "title": "BOJ Is Said Likely to Raise Growth Forecast, Stand Pat on Rates",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/boj-is-said-likely-to-raise-growth-forecast-stand-pat-on-rates"
+  },
+  {
+    "title": "Takaichi Flags Importance of GPIF Investing in Japan Assets",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-takaichi-says-gpif-investing-in-japan-assets-is-key"
+  },
+  {
+    "title": "Mozambique Leader Eyes China Debt Revamp After Brazil Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/mozambique-president-eyes-china-debt-deal-modeled-on-brazil-pact"
   },
   {
     "title": "RBI Governor Flags Elevated Inflation, Monsoon as Key Risks",
@@ -600,6 +612,10 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/ecb-set-to-wait-for-september-to-hike-one-last-time-poll-shows"
   },
   {
+    "title": "EU’s Answer to Trump’s Bank Deregulation Agenda: Explainer",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/eu-s-answer-to-trump-s-bank-deregulation-agenda-explainer"
+  },
+  {
     "title": "Japan’s ‘Decisive Action’ Threat Does Little to Scare Yen Bears",
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-katayama-warns-of-decisive-action-on-yen-if-needed"
   },
@@ -610,10 +626,6 @@
   {
     "title": "Fed’s Jefferson Says Policy Well Positioned If Inflation Cools",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/jefferson-says-policy-well-positioned-can-reconsider-if-needed"
-  },
-  {
-    "title": "Mozambique President Eyes China Debt Deal Modeled on Brazil Pact",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/mozambique-president-eyes-china-debt-deal-modeled-on-brazil-pact"
   },
   {
     "title": "Making Sense of US Consumer Price Indexes, Jobs Numbers and Sentiment Surveys",
@@ -654,18 +666,6 @@
   {
     "title": "US Retail Sales Rise Modestly as Consumers Spend Less on Gas",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/us-retail-sales-rise-modestly-as-consumers-spend-less-on-gas"
-  },
-  {
-    "title": "Britain’s Still Paying the Price of the Truss Crisis, IMF Tells Burnhamuk",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/britain-s-still-paying-the-price-of-the-truss-crisis-imf-tells-burnhamuk"
-  },
-  {
-    "title": "French Government Starts 2027 Budget Showdown With Spending Caps",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/french-government-starts-2027-budget-showdown-with-spending-caps"
-  },
-  {
-    "title": "Trump and tariff authorities",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/trump-and-tariff-authorities"
   },
   {
     "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
