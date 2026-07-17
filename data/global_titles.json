@@ -1,5 +1,9 @@
 [
   {
+    "title": "A scorecard for the AI age",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age"
+  },
+  {
     "title": "Why teens deserve access to safe AI",
     "link": "https://openai.com/index/why-teens-deserve-access-safe-ai"
   },
@@ -44,12 +48,12 @@
     "link": "https://openai.com/index/bio-bug-bounty"
   },
   {
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
-  },
-  {
     "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "link": "https://openai.com/index/gpt-5-6"
+  },
+  {
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
   },
   {
     "title": "Our approach to government and national security partnerships",
@@ -68,16 +72,20 @@
     "link": "https://openai.com/index/introducing-gpt-live"
   },
   {
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus"
-  },
-  {
     "title": "MUFG aims to become AI-native with OpenAI",
     "link": "https://openai.com/index/mufg"
   },
   {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus"
+  },
+  {
     "title": "How ChatGPT adoption has expanded",
     "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+  },
+  {
+    "title": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro"
   },
   {
     "title": "Inside Genebench-Pro",
@@ -86,10 +94,6 @@
   {
     "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-  },
-  {
-    "title": "Introducing GeneBench-Pro",
-    "link": "https://openai.com/index/introducing-genebench-pro"
   },
   {
     "title": "Mapping Europe’s AI Workforce Opportunity",
@@ -114,10 +118,6 @@
   {
     "title": "Helping build shared standards for advanced AI",
     "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
-  },
-  {
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "link": "https://openai.com/index/gpt-5-immunology-mystery"
   },
   {
     "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
@@ -192,7 +192,19 @@
     "link": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/"
   },
   {
-    "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
+    "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+    "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html"
+  },
+  {
+    "title": "Chinese automakers are taking on the UK — and many Brits are embracing it",
+    "link": "https://www.cnbc.com/2026/07/17/chinese-automakers-uk.html"
+  },
+  {
+    "title": "How big is the great wealth transfer? It could be over $100 trillion or $36 trillion",
+    "link": "https://www.cnbc.com/2026/07/17/great-wealth-transfer-estimates.html"
+  },
+  {
+    "title": "Netflix stock falls nearly 10% as earnings forecast disappoints, company says it will give fewer engagement updates",
     "link": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html"
   },
   {
@@ -298,18 +310,6 @@
   {
     "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
     "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html"
-  },
-  {
-    "title": "Delta launches 'basic business' fares without lounge access, seat selection",
-    "link": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html"
-  },
-  {
-    "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
-    "link": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html"
-  },
-  {
-    "title": "Stellantis to sell small Fiat Topolino EV for $13,995 in U.S.",
-    "link": "https://www.cnbc.com/2026/07/07/stellantis-fiat-topolino-ev.html"
   },
   {
     "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic",
@@ -428,6 +428,14 @@
     "link": "https://www.cnbc.com/2026/07/10/volkswagen-vw-autos-job-cuts-germany.html"
   },
   {
+    "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
+    "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/"
+  },
+  {
+    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
+  },
+  {
     "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
     "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/"
   },
@@ -500,20 +508,44 @@
     "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/"
   },
   {
-    "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
-    "link": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/"
+    "title": "ASML to Pay One-Time €20,000 Bonus to Staff as AI Propels Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand"
   },
   {
-    "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-    "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/"
+    "title": "Bethesda Announces New ‘Fallout’ Roadmap Following Xbox Reset",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/bethesda-announces-new-fallout-roadmap-following-xbox-reset"
   },
   {
-    "title": "China’s Powerful New AI Surprises Investors, Fueling Tech Rout",
+    "title": "Netflix Shares Tumble Most in Four Years on Slowing Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/netflix-pledges-more-programs-ai-to-reverse-slowing-growth"
+  },
+  {
+    "title": "Spain, Portugal Data Center Boom Faces Electrical Grid Bottlenecks",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/spain-and-portugal-s-data-center-boom-faces-grid-bottlenecks"
+  },
+  {
+    "title": "China’s Moonshot Unveils AI Model That Narrows Gap With US Firms",
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals"
   },
   {
-    "title": "Xi Seeks Global AI Sway as Chinese Models Spur Security Alarm",
+    "title": "AI-Based Businesses Are Diversifying and Rejecting AI Model Monogamy",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/ai-based-businesses-are-diversifying-and-rejecting-ai-model-monogamy"
+  },
+  {
+    "title": "China Can Still Win the AI Race With Inferior Technology",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/china-can-still-win-the-ai-race-with-inferior-technology"
+  },
+  {
+    "title": "Xi Seeks Global AI Sway as Surging Chinese Models Spur Alarm",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/china-s-ai-ascendance-gives-xi-a-stage-and-a-security-dilemma"
+  },
+  {
+    "title": "China to Impose Consumption Tax on Solar and Lithium Batteries",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/china-to-impose-consumption-tax-on-solar-and-lithium-batteries"
+  },
+  {
+    "title": "The Odyssey: Christopher Nolan Movie Stars Zendaya, Matt Damon in Homer Epic",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/the-odyssey-christopher-nolan-movie-stars-zendaya-matt-damon-in-homer-epic"
   },
   {
     "title": "Japan’s Nikkei 225 Enters Correction on Fears AI Rally Overdone",
@@ -556,39 +588,43 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/deepseek-champions-china-s-bid-to-flood-the-world-with-cheap-ai"
   },
   {
-    "title": "Netflix Feeds Investor Anxiety With Disappointing Forecast",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/netflix-pledges-more-programs-ai-to-reverse-slowing-growth"
+    "title": "Shakira Tax Win Set to Face Supreme Court Appeal in Spain",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/shakira-tax-win-set-to-face-supreme-court-appeal-in-spain"
   },
   {
-    "title": "Tech Stocks Drag S&P 500 Lower as TSMC Results Spur AI Concerns",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/us-stock-futures-tumble-as-tsmc-s-results-revive-ai-concerns"
+    "title": "US Consumer Sentiment Climbs on Cheaper Gas, Tops Forecasts",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/us-consumer-sentiment-climbs-on-cheaper-gas-topping-forecasts"
   },
   {
-    "title": "DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/deepmind-ceo-to-lobby-washington-on-plan-for-group-to-vet-ai-models"
+    "title": "Fed’s Hammack Sees No Conflict in Mandate, Inflation Her Worry",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/fed-s-hammack-sees-no-conflict-in-mandate-inflation-her-worry"
   },
   {
-    "title": "DeepMind CEO Rallies Support for International Group to Vet AI Models",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/deepmind-ceo-rallies-support-for-international-group-to-vet-ai-models"
+    "title": "US Manufacturing Output Stalls, Held Back by Durable Goods",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/us-manufacturing-output-stalls-held-back-by-durable-goods"
   },
   {
-    "title": "An Alien-Abduction Show Lands Among the Top 50 Podcasts in the US",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/an-alien-abduction-show-lands-among-the-top-50-podcasts-in-the-us"
+    "title": "US Housing Starts Surge on Rebound in Multifamily Construction",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/us-housing-starts-rebound-on-multifamily-construction"
   },
   {
-    "title": "New Mexico Denies Gas Pipeline Permit for Oracle Data Center",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/new-mexico-denies-gas-pipeline-permit-for-oracle-data-center"
+    "title": "Brazil’s Activity Surprises on Upside Despite Cooling Outlook",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/brazil-s-activity-surprises-on-upside-despite-cooling-outlook"
   },
   {
-    "title": "Palm Beach Rejects Data Center Near Trump’s Mar-a-Lago Club",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/palm-beach-strikes-down-data-center-plan-after-local-backlash"
+    "title": "Kenya Court Backs Import Levy to Fund China-Backed Rail Project",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/kenya-court-okays-import-levy-to-fund-china-backed-rail-project"
   },
   {
-    "title": "Hollywood Sci-Fi Lot Pitched as Site to Make Real Space-Age Weapons",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/hollywood-sci-fi-lot-pitched-as-site-to-make-real-space-age-weapons"
+    "title": "Warsh Puts an ‘Easter Egg’ in Key Report, Shining Light on Money Supply",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/warsh-puts-an-easter-egg-in-key-report-shining-light-on-money-supply"
   },
   {
-    "title": "BOJ Is Said Likely to Raise Growth Forecast, Stand Pat on Rates",
+    "title": "South Africa Eyes $46 Billion for Industrial Hubs by April",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/south-africa-targets-46-billion-for-industrial-hubs-by-april"
+  },
+  {
+    "title": "BOJ Is Said Likely to Raise Growth Forecast, Stand Pat",
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/boj-is-said-likely-to-raise-growth-forecast-stand-pat-on-rates"
   },
   {
@@ -632,40 +668,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/making-sense-of-us-consumer-price-indexes-jobs-numbers-and-sentiment-surveys"
   },
   {
-    "title": "South Africa Targets $46 Billion for Industrial Hubs by April",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/south-africa-targets-46-billion-for-industrial-hubs-by-april"
+    "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+    "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/"
   },
   {
-    "title": "Fed’s Schmid Says Inflation Too Hot, Above Target Too Long",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/fed-s-schmid-says-inflation-is-too-hot-above-target-too-long"
+    "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+    "link": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/"
   },
   {
-    "title": "Nigeria Expects Remittances to Hit $1 Billion a Month by Year-End",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/nigeria-expects-remittances-to-hit-1-billion-a-month-by-year-end"
-  },
-  {
-    "title": "IMF Cautions Burnham Against Raising UK’s Top Income Tax Rate",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/imf-cautions-burnham-against-raising-uk-s-top-income-tax-rate"
-  },
-  {
-    "title": "Fed’s Watchdog Warns On Insider Risk after China Secrets Case",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/fed-s-watchdog-warns-on-insider-risk-after-china-secrets-case"
-  },
-  {
-    "title": "US Homebuilder Sentiment Slips Again to Match Year’s Low",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/us-homebuilder-sentiment-slips-again-to-match-year-s-low"
-  },
-  {
-    "title": "Chile Senate Hands Kast a Win on Key Economic Reform Bill",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/chile-senate-hands-kast-a-win-on-key-economic-reform-bill"
-  },
-  {
-    "title": "Mahmood’s Economic ‘Blank Slate’ Key to Appeal as UK Chancellor",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/mahmood-s-economic-blank-slate-key-to-appeal-as-uk-chancellor"
-  },
-  {
-    "title": "US Retail Sales Rise Modestly as Consumers Spend Less on Gas",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/us-retail-sales-rise-modestly-as-consumers-spend-less-on-gas"
+    "title": "The risk of weather data sabotage is rising",
+    "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
   },
   {
     "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
@@ -696,16 +708,32 @@
     "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
   },
   {
-    "title": "The Download: a donor conception cap and world models for AI",
-    "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/"
+    "title": "Over half a million power tool batteries have been recalled due to a USB-C charging fire risk",
+    "link": "https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall"
   },
   {
-    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-    "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
+    "title": "Bethesda teases Fallout 5 soon after Xbox’s mass layoffs",
+    "link": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda"
   },
   {
-    "title": "Sperm donors need limits, says a European fertility group",
-    "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/"
+    "title": "The manosphere&#8217;s testosterone fever is coming for the troops",
+    "link": "https://www.theverge.com/column/966770/optimizer-manosphere-testosterone-troops"
+  },
+  {
+    "title": "Even Microsoft couldn’t make Windows 11 work well on 8GB of RAM",
+    "link": "https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review"
+  },
+  {
+    "title": "Trump is selling high-speed access to his market-moving Truth Social posts",
+    "link": "https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders"
+  },
+  {
+    "title": "The war on ‘woke science’ comes for space research",
+    "link": "https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society"
+  },
+  {
+    "title": "God Of War TV series is recasting Kratos",
+    "link": "https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast"
   },
   {
     "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
@@ -718,33 +746,5 @@
   {
     "title": "Netflix says around 300 titles used generative AI",
     "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings"
-  },
-  {
-    "title": "Why are people buying so many CDs?",
-    "link": "https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate"
-  },
-  {
-    "title": "Kalshi says it caught Trump&#8217;s teleprompter operator insider trading",
-    "link": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation"
-  },
-  {
-    "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies"
-  },
-  {
-    "title": "Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price",
-    "link": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale"
-  },
-  {
-    "title": "Google is better than Apple at playing the AI regulations game",
-    "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai"
-  },
-  {
-    "title": "Roblox will let people use AI to make games on their phone",
-    "link": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games"
-  },
-  {
-    "title": "Google is renaming NotebookLM to Gemini Notebook",
-    "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm"
   }
 ]
