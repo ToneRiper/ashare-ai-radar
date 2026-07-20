@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
   },
   {
+    "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+    "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/"
+  },
+  {
     "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
     "link": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/"
   },
@@ -186,10 +190,6 @@
   {
     "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
     "link": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/"
-  },
-  {
-    "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
-    "link": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/"
   },
   {
     "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
@@ -320,7 +320,7 @@
     "link": "https://www.cnbc.com/2026/07/20/samsung-biologics-polypeptide-group-deal-switzerland.html"
   },
   {
-    "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
+    "title": "TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend,' CFO says",
     "link": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html"
   },
   {
@@ -428,6 +428,22 @@
     "link": "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html"
   },
   {
+    "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+    "link": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/"
+  },
+  {
+    "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+    "link": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/"
+  },
+  {
+    "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+    "link": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/"
+  },
+  {
     "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
     "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/"
   },
@@ -460,7 +476,7 @@
     "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
   },
   {
-    "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+    "title": "All the EVs that were discontinued or killed off in the US this year",
     "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/"
   },
   {
@@ -492,20 +508,32 @@
     "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/"
   },
   {
-    "title": "Agility Robotics plants its flag in Tesla’s backyard",
-    "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
+    "title": "Google Shares Gain on Report of Chip to Boost AI Efficiency",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says"
   },
   {
-    "title": "AI-driven memory crunch jolts India’s smartphone market",
-    "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/"
+    "title": "Chinese AI Sensation Moonshot’s Gamble on Big Models Pays Off",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/chinese-ai-sensation-moonshot-s-gamble-on-big-models-pays-off"
   },
   {
-    "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-    "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/"
+    "title": "Andreessen Horowitz Adds Connor Love to American Dynamism Team",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/andreessen-horowitz-adds-connor-love-to-american-dynamism-team"
   },
   {
-    "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-    "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/"
+    "title": "Moonshot’s Kimi AI Model Sets Off Anxiety in the US",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-s-kimi-ai-model-sets-off-anxiety-in-the-us"
+  },
+  {
+    "title": "Alibaba Fined Record €550 Million by EU for Illegal Sales",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/alibaba-fined-550-million-for-illegal-sales-in-biggest-dsa-case"
+  },
+  {
+    "title": "Moonshot AI’s Kimi K3 Stuns Investors, Challenges Anthropic, OpenAI Lead",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead"
+  },
+  {
+    "title": "ChatGPT, Claude Infiltrate Dating Apps by Helping Singles Flirt With Matches",
+    "link": "https://www.bloomberg.com/news/features/2026-07-20/chatgpt-claude-infiltrate-dating-apps-by-helping-singles-flirt-with-matches"
   },
   {
     "title": "Influencers Are Being Paid to Spread the Mormon Church's Gospel",
@@ -560,24 +588,24 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-19/the-brewing-battle-between-netflix-and-youtube-over-creators"
   },
   {
-    "title": "TSMC’s $265 Billion US Spend Driven by Demand, Rivals, CFO Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-19/tsmc-s-265-billion-us-spend-driven-by-demand-rivals-cfo-says"
+    "title": "India’s Central Bank Says Forex Deposits Net $17.4 Billion",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/india-s-central-bank-says-forex-deposits-net-17-4-billion"
   },
   {
-    "title": "Teleperformance Wants Entire BPO Staff to Be AI-Enabled by 2027",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-19/teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027"
+    "title": "Canada Inflation Falls to 2.8%, Core Measures Ease",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/canada-inflation-rate-falls-to-2-8-core-measures-ease"
   },
   {
-    "title": "Moonshot Plans IPO in Six Months After China AI Breakthrough",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough"
+    "title": "South Africa Secures $1.5 Billion World Bank Loan for Infrastructure Upgrades",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/south-africa-wins-1-5-billion-world-bank-infrastructure-loan"
   },
   {
-    "title": "Why Apple’s OpenAI Lawsuit Doesn’t Mention Jony Ive; AI Recording at Genius Bar",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix"
+    "title": "World Cup and global geoeconomics",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/world-cup-and-global-geoeconomics"
   },
   {
-    "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks"
+    "title": "UK Latest: Andy Burnham’s Growth Gamble Starts Today",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/uk-latest-andy-burnham-s-growth-gamble-starts-today"
   },
   {
     "title": "Shakira’s €55 Million Spain Tax Fight Shines Light on Agency",
@@ -590,6 +618,10 @@
   {
     "title": "Britain’s Middle Class Feels the Strain as Burnham Vows to Help",
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/britain-s-middle-class-feels-the-strain-as-burnham-vows-to-help"
+  },
+  {
+    "title": "The Download: AI hiring biases, and weather data sabotage",
+    "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/"
   },
   {
     "title": "AI is more likely than humans to form biases when hiring",
@@ -628,8 +660,28 @@
     "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
   },
   {
-    "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-    "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
+    "title": "Dr. Jill Lepore on why AI backlash is vital for the future",
+    "link": "https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk"
+  },
+  {
+    "title": "The AirPods Max 2 are down to their second-best price",
+    "link": "https://www.theverge.com/gadgets/967822/airpods-max-2-logitech-superstrike-kodak-charmera-deal-sale"
+  },
+  {
+    "title": "Electric air taxis go to war",
+    "link": "https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder"
+  },
+  {
+    "title": "Avengers: Doomsday’s first trailer puts everyone on high alert",
+    "link": "https://www.theverge.com/entertainment/967887/avengers-doomsday-trailer-marvel-release-date"
+  },
+  {
+    "title": "AliExpress fined almost $630 million over illegal product sales",
+    "link": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products"
+  },
+  {
+    "title": "China delivers a one-two punch to America’s AI dominance",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"
   },
   {
     "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
@@ -646,29 +698,5 @@
   {
     "title": "The FBI reportedly won’t investigate ICE anymore",
     "link": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults"
-  },
-  {
-    "title": "Orchid is a delightfully retro and approachable hipster synth",
-    "link": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review"
-  },
-  {
-    "title": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
-    "link": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale"
-  },
-  {
-    "title": "US Marshals arrest the Tate brothers in Miami",
-    "link": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami"
-  },
-  {
-    "title": "The Clapper was a bad smart home gadget — and a viral sensation",
-    "link": "https://www.theverge.com/podcast/967642/the-clapper-version-history"
-  },
-  {
-    "title": "The future of physical games is not looking great",
-    "link": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games"
-  },
-  {
-    "title": "The grueling, 630-mile road race where the only fuel is sunlight",
-    "link": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas"
   }
 ]
