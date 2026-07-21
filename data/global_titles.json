@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html"
   },
   {
+    "title": "India's largest asset management firm makes a muted market debut after a $1 billion IPO",
+    "link": "https://www.cnbc.com/2026/07/21/india-sbi-market-debut-billion-ipo.html"
+  },
+  {
     "title": "U.S. condemns China's 'dangerous and aggressive' acts after Philippine sailor injured at disputed shoal",
     "link": "https://www.cnbc.com/2026/07/21/china-philippines-south-china-sea-disputes-sailor-injured-.html"
   },
@@ -424,10 +428,6 @@
     "link": "https://www.cnbc.com/2026/07/14/japan-bond-jgb-yields-.html"
   },
   {
-    "title": "CNBC's The China Connection newsletter: Betting on Shenzhen over Silicon Valley",
-    "link": "https://www.cnbc.com/2026/07/13/cnbcs-the-china-connection-newsletter-betting-on-shenzhen-over-silicon-valley.html"
-  },
-  {
     "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
     "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
   },
@@ -508,12 +508,12 @@
     "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
   },
   {
-    "title": "Won Daily Trading Volume Jumps on Extended Hours, Stock Selloff",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/won-daily-trading-volume-jumps-on-extended-hours-stock-selloff"
+    "title": "Samsung Hires Ex-Boston Dynamics Executive in Robotics Push",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/samsung-hires-ex-boston-dynamics-executive-in-robotics-push"
   },
   {
-    "title": "Samsung Hires Ex-Boston Dynamics Exec in Robotics Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/samsung-hires-ex-boston-dynamics-executive-in-robotics-push"
+    "title": "Won Daily Trading Volume Jumps on Extended Hours, Stock Selloff",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/won-daily-trading-volume-jumps-on-extended-hours-stock-selloff"
   },
   {
     "title": "UBS Trading Desk Says Buy Momentum Stocks as Selloff Nears End",
@@ -588,16 +588,28 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/influencers-are-being-paid-to-spread-the-mormon-church-s-gospel"
   },
   {
+    "title": "UK Labor Market Steadies Ahead of Bank of England Decision",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/uk-labor-market-holds-steady-ahead-of-bank-of-england-decision"
+  },
+  {
+    "title": "India Diaspora Deposit Push Tops $17 Billion in Strong Start",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/india-s-central-bank-says-forex-deposits-net-17-4-billion"
+  },
+  {
+    "title": "Japan Releases Fiscal Plan Without Answer on Sales Tax Issue",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/japan-releases-economic-plan-without-answer-on-sales-tax-issue"
+  },
+  {
+    "title": "Moody’s Sees State’s Arrears Keeping Kenya’s Bad Loans Elevated",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/moody-s-sees-state-s-arrears-keeping-kenya-s-bad-loans-elevated"
+  },
+  {
     "title": "Hungary Set for Another Rate Cut as Inflation Stays Muted",
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/hungary-set-for-another-rate-cut-as-inflation-stays-muted"
   },
   {
     "title": "Iran War Risk Set to Keep African Interest Rates Higher for Longer",
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/iran-war-risk-set-to-keep-african-interest-rates-higher-for-longer"
-  },
-  {
-    "title": "Japan Releases Economic Plan Without Answer on Sales Tax Issue",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/japan-releases-economic-plan-without-answer-on-sales-tax-issue"
   },
   {
     "title": "North Korea’s Trade With China Soars to Highest Level Since 2017",
@@ -608,12 +620,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/china-vows-to-achieve-annual-growth-target-after-economy-weakens"
   },
   {
-    "title": "How Trump Plans to Maintain His Tariff Wall",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/how-trump-plans-to-maintain-his-tariff-wall"
+    "title": "US Vows Fresh 50% Tariff on Canada as New Trade War Looms",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-sets-50-tariff-on-some-canadian-goods-over-retaliation-claim"
   },
   {
-    "title": "India’s Central Bank Says Forex Deposits Net $17.4 Billion",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/india-s-central-bank-says-forex-deposits-net-17-4-billion"
+    "title": "How Trump Plans to Maintain His Tariff Wall",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/how-trump-plans-to-maintain-his-tariff-wall"
   },
   {
     "title": "Canada Inflation Falls to 2.8%, Core Measures Ease",
