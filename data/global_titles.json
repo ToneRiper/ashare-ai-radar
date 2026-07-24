@@ -320,7 +320,7 @@
     "link": "https://www.cnbc.com/2026/07/24/pentagon-removed-four-official-iran-war-death-toll.html"
   },
   {
-    "title": "Volkswagen profits slump as it flags full-year revenue squeeze ahead of restructuring",
+    "title": "Volkswagen CFO addresses plant closures, job losses as profits sink",
     "link": "https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html"
   },
   {
@@ -508,12 +508,32 @@
     "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/"
   },
   {
-    "title": "Tech Stocks Face Investor Skepticism as Rally Stalls and Profit Estimates Rise",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/tech-names-find-investors-much-harder-to-please-taking-stock"
+    "title": "SoftBank Weighs Deal for Robotics Startup Gravis",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis"
   },
   {
     "title": "SK Hynix Tycoon Ordered to Pay $643 Million Divorce Settlement",
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-billionaire-to-get-long-awaited-ruling-on-divorce-case"
+  },
+  {
+    "title": "SAP Cloud Growth Beats Estimates as Customer Orders Speed Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/sap-cloud-revenue-beats-estimates-as-legacy-support-nears-cutoff"
+  },
+  {
+    "title": "Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million"
+  },
+  {
+    "title": "Bain and LY Are Said to Mull Higher Bid for Kakaku, Rivaling EQT",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/bain-and-ly-are-said-to-mull-higher-bid-for-kakaku-rivaling-eqt"
+  },
+  {
+    "title": "Vietnam Weighs Limiting Social Media Use for Children Under 16",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/vietnam-weighs-limiting-social-media-use-for-children-under-16"
+  },
+  {
+    "title": "Tech Stocks Face Investor Skepticism as Rally Stalls and Profit Estimates Rise",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/tech-names-find-investors-much-harder-to-please-taking-stock"
   },
   {
     "title": "Infosys Taps Veteran to Steer Software Leader Through AI Turmoil",
@@ -536,10 +556,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth"
   },
   {
-    "title": "Robotics Startup Genesis in Talks to Raise About $500 Million",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million"
-  },
-  {
     "title": "Nvidia Signs $1.5 Billion Accord With Amkor for Chip Packaging",
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging"
   },
@@ -554,10 +570,6 @@
   {
     "title": "SpaceX Delays Major Flight Test Again in Post-IPO Spotlight",
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-attempts-major-flight-test-again-in-post-ipo-spotlight"
-  },
-  {
-    "title": "SAP Cloud Revenue Beats Estimates as Legacy Support Nears Cutoff",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/sap-cloud-revenue-beats-estimates-as-legacy-support-nears-cutoff"
   },
   {
     "title": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion",
@@ -576,16 +588,44 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/amd-unveils-new-products-in-pursuit-of-2-trillion-opportunity"
   },
   {
-    "title": "Intel Needs More Than Blowout Earnings as Chips Rally Falters",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/intel-needs-more-than-blowout-earnings-as-chips-rally-falters"
+    "title": "UK Economy Boosted by World Cup and Sunshine, PMI Shows",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/uk-economy-boosted-by-world-cup-and-heat-wave-in-july-pmi-shows"
   },
   {
-    "title": "Google Fined €890 Million by EU Over Search, Play Store Breaches",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/google-fined-890-million-in-eu-over-search-app-store-breaches"
+    "title": "UK Food Prices to Peak Lower Than Thought, BOE Survey Finds",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/uk-food-prices-to-peak-lower-than-thought-boe-survey-finds"
   },
   {
-    "title": "Drone Navigation Firms Seek New Ways Past Warzone Jamming",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/drone-navigation-companies-seek-new-ways-past-warzone-jamming"
+    "title": "Euro-Zone Business Activity Jumps to Five-Month High",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/euro-zone-business-activity-unexpectedly-jumps-to-5-month-high"
+  },
+  {
+    "title": "ECB Starts Onboarding Process for Enhanced Repo Facility",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/ecb-starts-onboarding-process-for-enhanced-repo-facility"
+  },
+  {
+    "title": "ECB Officials Avoid Clear Hints on Possible Hike for Now",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/ecb-officials-avoid-clear-hints-on-possible-rate-hike-for-now"
+  },
+  {
+    "title": "ECB Says Consumer Price Expectations Fell Sharply in June",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/ecb-says-consumer-price-expectations-fell-significantly-in-june"
+  },
+  {
+    "title": "China Set to Look Past New Trump Tariffs Before Xi’s US Trip",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/china-set-to-look-past-trump-s-new-tariffs-before-xi-visit-to-us"
+  },
+  {
+    "title": "German Private-Sector Activity Unexpectedly Returns to Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/german-private-sector-activity-unexpectedly-returns-to-growth"
+  },
+  {
+    "title": "India Activity Slows to Over Four-Year Low on Iran Risks",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/india-activity-slows-to-over-four-year-low-on-iran-risks"
+  },
+  {
+    "title": "French Private-Sector Activity at Highest Level Since February",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/french-private-sector-activity-at-highest-level-since-february"
   },
   {
     "title": "Traders Look to Politburo for Cues on China’s Growth Commitment",
@@ -596,20 +636,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/uk-retail-sales-beat-forecasts-again-with-strong-june-increase"
   },
   {
-    "title": "India Activity Slows to Over Four-Year Low on Iran Risks",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/india-activity-slows-to-over-four-year-low-on-iran-risks"
-  },
-  {
     "title": "Asian Allies Push Back Against Trump’s Forced-Labor Tariffs",
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/asian-allies-push-back-against-trump-s-forced-labor-tariffs"
   },
   {
     "title": "Nagel Says ECB in Good Position, Stays Quiet on Next Rate Move",
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/nagel-says-ecb-in-good-position-stays-quiet-on-next-rate-move"
-  },
-  {
-    "title": "China Set to Look Past Trump’s New Tariffs Before Xi Visit to US",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/china-set-to-look-past-trump-s-new-tariffs-before-xi-visit-to-us"
   },
   {
     "title": "Kyiv’s Strikes Battering Russian Economy Hang Over Rate Decision",
@@ -634,38 +666,6 @@
   {
     "title": "Singapore MAS Set to Hold on Mild Inflation, Signal Tightening",
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/singapore-mas-set-to-hold-on-mild-inflation-signal-tightening"
-  },
-  {
-    "title": "US Treasury Calls Out China for Lack of Transparency on Yuan",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-treasury-calls-out-china-for-lack-of-transparency-on-currency"
-  },
-  {
-    "title": "Historic Yen Slide Poses New Risk to Japan Stocks’ Bull Run",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/historic-yen-slide-poses-new-risk-to-japan-stocks-bull-run"
-  },
-  {
-    "title": "Brazil Races to Safeguard $1.8 Billion of Meat Exports to EU",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/brazil-races-to-safeguard-1-8-billion-of-meat-exports-to-eu"
-  },
-  {
-    "title": "How Houthis’ Red Sea Attacks Worsen Oil Shock",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/how-houthis-red-sea-attacks-worsen-oil-shock"
-  },
-  {
-    "title": "Rand Is World’s Worst Performer After South Africa Holds Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/south-africa-unexpectedly-holds-rates-as-it-flags-growth-risks"
-  },
-  {
-    "title": "Lagarde Opens ECB Succession Race With Hint She’ll Quit Early",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/lagarde-says-she-s-staying-at-the-ecb-at-least-until-year-end"
-  },
-  {
-    "title": "ECB Presents 10 Design Options for New Euro-Area Banknotes",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/ecb-presents-10-design-options-for-new-euro-area-banknotes"
-  },
-  {
-    "title": "ECB Officials Are Ready to Raise Interest Rates in September",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/ecb-officials-are-ready-to-raise-interest-rates-in-september"
   },
   {
     "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
