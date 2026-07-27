@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/australian-payments-plus"
   },
   {
+    "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+    "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/"
+  },
+  {
     "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
     "link": "https://blogs.nvidia.com/blog/vera-cpu-eda/"
   },
@@ -188,8 +192,8 @@
     "link": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/"
   },
   {
-    "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/"
+    "title": "Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments",
+    "link": "https://www.cnbc.com/2026/07/27/ford-vehicle-customization-bronco.html"
   },
   {
     "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
@@ -308,8 +312,8 @@
     "link": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html"
   },
   {
-    "title": "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
-    "link": "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html"
+    "title": "India's Gen Z forced Modi to listen, respond and act — exposing chinks in the ruling party's armor",
+    "link": "https://www.cnbc.com/2026/07/27/india-cjp-modi-protest-genz-jobs.html"
   },
   {
     "title": "China industrial profit growth slows again in June as retreating oil prices sap earnings lift",
@@ -424,8 +428,8 @@
     "link": "https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html"
   },
   {
-    "title": "India's largest asset management firm makes a muted market debut after a $1 billion IPO",
-    "link": "https://www.cnbc.com/2026/07/21/india-sbi-market-debut-billion-ipo.html"
+    "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+    "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/"
   },
   {
     "title": "Are brain waves the next unlock for physical AI?",
@@ -504,8 +508,28 @@
     "link": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/"
   },
   {
-    "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
-    "link": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/"
+    "title": "Meta, Microsoft Face Renewed Unease Over AI Spending: US Earnings Week Ahead",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead"
+  },
+  {
+    "title": "HSBC to Hire 100 AI Specialists as Bank Sets Up Singapore Center",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center"
+  },
+  {
+    "title": "Samsung Galaxy Z Fold 8 Review: Foldable Model to Compete With Google, Apple",
+    "link": "https://www.bloomberg.com/news/features/2026-07-27/samsung-galaxy-z-fold-8-review-foldable-model-to-compete-with-google-apple"
+  },
+  {
+    "title": "Instagram, Facebook Ran AI ‘Nudify’ Ads from China, NGO Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says"
+  },
+  {
+    "title": "CXMT Founder Zhu Yiming Pledges $5.6 Billion in Worker Bonuses After China IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/cxmt-founder-zhu-yiming-pledges-5-6-billion-in-worker-bonuses-after-china-ipo"
+  },
+  {
+    "title": "China Chipmaker CXMT Jumps 466% in Debut After Blockbuster IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-26/china-memory-champion-cxmt-set-to-debut-after-9-8-billion-ipo"
   },
   {
     "title": "Vodafone Service Revenue Beats Estimates on German Growth",
@@ -518,10 +542,6 @@
   {
     "title": "Chinese Biotech Overtakes AI as Emerging-Market Growth Trade",
     "link": "https://www.bloomberg.com/news/articles/2026-07-26/chinese-biotech-overtakes-ai-as-emerging-market-growth-trade"
-  },
-  {
-    "title": "China Chipmaker CXMT Jumps 535% in Debut After Blockbuster IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-26/china-memory-champion-cxmt-set-to-debut-after-9-8-billion-ipo"
   },
   {
     "title": "SoftBank’s $40 Billion Loan for OpenAI Stake Gets 21 New Lenders",
@@ -544,10 +564,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/sk-hynix-samsung-and-kioxia-face-pivotal-earnings-test-on-ai-swings"
   },
   {
-    "title": "Instagram, Facebook Ran AI ‘Nudify’ Ads from China, Report Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says"
-  },
-  {
     "title": "SK Hynix Listing Emboldens Korea’s Drive to Repatriate Dollars",
     "link": "https://www.bloomberg.com/news/articles/2026-07-27/sk-hynix-listing-emboldens-korea-s-drive-to-repatriate-dollars"
   },
@@ -568,16 +584,20 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta"
   },
   {
+    "title": "Germany’s Business Outlook Improves Despite Iran Uncertainty",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/germany-s-business-outlook-improves-despite-iran-uncertainty"
+  },
+  {
+    "title": "France’s Lescure Warns of Economic Shock for Region Hit by Fires",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/france-s-lescure-warns-of-economic-shock-for-region-hit-by-fires"
+  },
+  {
     "title": "Singapore Delivers Back-to-Back Tightening to Tame Price Risks",
     "link": "https://www.bloomberg.com/news/articles/2026-07-27/singapore-tightens-monetary-policy-further-on-price-pressures"
   },
   {
     "title": "Indonesia Central Bank Chief Warjiyo Unexpectedly Resigns",
     "link": "https://www.bloomberg.com/news/articles/2026-07-27/bank-indonesia-chief-warjiyo-resigns-early-deputy-to-take-over"
-  },
-  {
-    "title": "Germany’s Business Outlook Improves Despite Iran Uncertainty",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/germany-s-business-outlook-improves-despite-iran-uncertainty"
   },
   {
     "title": "Kazimir Says ECB Must Hike at Least Once More to Quell Inflation",
@@ -622,10 +642,6 @@
   {
     "title": "Trump’s Section 301 Tariffs: How They’re Being Challenged in Court",
     "link": "https://www.bloomberg.com/news/articles/2026-07-26/trump-s-section-301-tariffs-how-they-re-being-challenged-in-court"
-  },
-  {
-    "title": "Fed, Bank of England, Bank of Japan Face $100 Oil Inflation Test",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-25/fed-bank-of-england-bank-of-japan-face-100-oil-inflation-test"
   },
   {
     "title": "The quest to keep organs alive outside the body",
