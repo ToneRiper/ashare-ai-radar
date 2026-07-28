@@ -428,6 +428,10 @@
     "link": "https://www.cnbc.com/2026/07/22/sonys-playstation-disc-decision-threatens-a-7-billion-resale-market-.html"
   },
   {
+    "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+    "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/"
+  },
+  {
     "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
     "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/"
   },
@@ -504,16 +508,16 @@
     "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/"
   },
   {
-    "title": "Are brain waves the next unlock for physical AI?",
-    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
-  },
-  {
-    "title": "Philips CEO Flags Rising Cost Pressure for Medical Scanners",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/philips-earnings-beat-estimates-with-boost-from-us-tariff-refund"
+    "title": "European Stocks Steady as Unilever Beat Offsets Tech Selloff",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/european-stocks-advance-as-lvmh-results-boost-luxury-sector"
   },
   {
     "title": "Nvidia Staff Detained by Taiwan in China Chip Smuggling Case",
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe"
+  },
+  {
+    "title": "Philips CEO Flags Rising Cost Pressure for Medical Scanners",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/philips-earnings-beat-estimates-with-boost-from-us-tariff-refund"
   },
   {
     "title": "Orange Raises Full-Year Estimates on Spain Deal, Africa Growth",
@@ -522,10 +526,6 @@
   {
     "title": "Anthropic’s Amodei Rejects Open Model Ban, Calls for Testing",
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing"
-  },
-  {
-    "title": "China Draws Lines on US Tariffs, AI Ahead of Xi-Trump Summit",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms"
   },
   {
     "title": "Origin Says About 900,000 Customers’ Data Accessed in Breach",
@@ -588,12 +588,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download"
   },
   {
+    "title": "French Consumer Confidence Increases to Highest Since March",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/french-consumer-confidence-increases-to-highest-since-march"
+  },
+  {
     "title": "Malaysia’s Growth Set to Hit Upper End of Forecast, BNM Says",
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/malaysia-economy-set-to-hit-upper-end-of-growth-target-bnm-says"
   },
   {
     "title": "AI Boom Propels Hong Kong Exports to Strongest Growth Since 1984",
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/ai-boom-propels-hong-kong-exports-to-strongest-growth-since-1984"
+  },
+  {
+    "title": "RBA’s Bullock Says Economy Cooling, Unsure Rates High Enough",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/rba-s-bullock-says-economy-cooling-unsure-if-rates-high-enough"
   },
   {
     "title": "AI to Help UK Recover From Data Crisis, Says Senior Statistician",
@@ -660,12 +668,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-27/biggest-debate-at-state-street-is-where-bessent-bond-metric-goes"
   },
   {
-    "title": "Fed Faces New Pressure to Hike Rates as Price Risks Rebound",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-26/fed-faces-growing-pressure-to-hike-rates-as-price-risks-rebound"
-  },
-  {
-    "title": "US Core Capital Goods Orders Climb by More Than Expected",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/us-core-capital-goods-orders-climb-by-more-than-expected"
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/"
   },
   {
     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
@@ -704,8 +708,8 @@
     "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/"
   },
   {
-    "title": "The Download: energy transmission and US threats against Chinese AI",
-    "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/"
+    "title": "Hugging Face is being used to easily undress women and children",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children"
   },
   {
     "title": "X Money is launching in the US starting today",
@@ -742,9 +746,5 @@
   {
     "title": "Tariffs didn’t bring manufacturing jobs back to the US",
     "link": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada"
-  },
-  {
-    "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-    "link": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale"
   }
 ]
