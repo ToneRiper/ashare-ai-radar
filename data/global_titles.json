@@ -312,11 +312,15 @@
     "link": "https://www.cnbc.com/2026/07/22/mediterranean-yacht-rentals.html"
   },
   {
+    "title": "Ukraine has found a new pressure point in Russia’s wartime economy",
+    "link": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html"
+  },
+  {
     "title": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout",
     "link": "https://www.cnbc.com/2026/07/29/korea-leveraged-etf-kodex-sk-hynix.html"
   },
   {
-    "title": "BTS' concerts have been so successful, it's now bad for its own agency Hybe's shares",
+    "title": "BTS' concerts have been so successful, it’s now bad for its own agency’s shares",
     "link": "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html"
   },
   {
@@ -424,10 +428,6 @@
     "link": "https://www.cnbc.com/2026/07/23/gen-z-protest-india-cockroach-modi-leadership.html"
   },
   {
-    "title": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
-    "link": "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html"
-  },
-  {
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
     "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
   },
@@ -508,8 +508,36 @@
     "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/"
   },
   {
+    "title": "Schneider Electric in Talks to Buy Smart Device Maker Shelly",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/schneider-electric-in-talks-to-buy-smart-device-maker-shelly"
+  },
+  {
+    "title": "Top Off-Grid Solar Firm Targets 1.5 Million Malagasy Customers",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/top-off-grid-solar-firm-targets-1-5-million-malagasy-customers"
+  },
+  {
+    "title": "ASM’s Stronger Revenue Outlook Draws Tepid Investor Response",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/asm-outlook-beats-estimates-as-ai-boosts-demand-for-chip-tools"
+  },
+  {
+    "title": "China’s Moonshot AI Passes Funding Goal to Hit $35 Billion Value",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value"
+  },
+  {
     "title": "US Risks Broadening China Clash With Robot, Inverter Curbs",
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs"
+  },
+  {
+    "title": "Volatility Driving Dealmaking: Goldman Sachs",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/volatility-driving-dealmaking-goldman-sachs-video"
+  },
+  {
+    "title": "UK Plans Fees to Weed Out Speculative Data Center Projects",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/uk-proposes-fees-to-weed-out-speculative-data-center-projects"
+  },
+  {
+    "title": "SK Hynix Drops as Profit Disappoints",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/sk-hynix-drops-as-profit-disappoints-video"
   },
   {
     "title": "Advantest Lifts Outlook After AI Chip Tester Demand Soars",
@@ -560,44 +588,24 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/australia-s-world-first-data-center-rules-face-first-hurdle"
   },
   {
-    "title": "SK Hynix’s Profit Jump Misses Lofty AI Expectations",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-28/sk-hynix-s-profit-jump-misses-lofty-ai-expectations-video"
-  },
-  {
-    "title": "Hong Kong Data Center Loan Sale Shows Banks Hitting Sector Limits",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/hong-kong-data-center-loan-sale-shows-banks-hitting-sector-limits"
-  },
-  {
-    "title": "XRC Ventures Founder on the Need for AI Regulation",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-28/xrc-ventures-founder-on-the-need-for-ai-regulation-video"
-  },
-  {
-    "title": "More Than ​​1,100 AI Workers Call for US to Pace Tech Growth",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress"
-  },
-  {
-    "title": "Bitcoin Excluded From S&P Pantera Digital Asset Index",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-28/bitcoin-excluded-from-new-s-p-pantera-digital-asset-index"
-  },
-  {
-    "title": "Trump’s Crypto Bonanza Is Biggest Clarity Act Hurdle | Bloomberg Crypto 7/28/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-28/bloomberg-crypto-7-28-2026-video"
-  },
-  {
-    "title": "Crypto Rewiring Financial Infrastructure",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-28/crypto-rewiring-financial-infrastructure-video"
+    "title": "Euro-Zone Wage Growth Set to Quicken Into 2027, ECB Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/euro-zone-wage-growth-set-to-quicken-into-next-year-ecb-says"
   },
   {
     "title": "Debt Watchers Warn of Risks From Marcos’ Tax Relief Plan",
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/debt-watchers-warn-of-risks-from-marcos-tax-relief-plan"
   },
   {
-    "title": "Australia’s Unexpectedly Soft Inflation Puts Rate Hike in Doubt",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/australia-core-prices-cooler-than-expected-easing-rba-pressure"
+    "title": "UK Mortgage Approvals Recovered in June, BOE Data Shows",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/uk-mortgage-approvals-recovered-in-june-boe-data-shows"
   },
   {
     "title": "Japan’s Tax Panel Chair Reiterates Proposal for 1% Food Levy",
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/japan-s-tax-panel-chair-reiterates-proposal-for-1-food-levy"
+  },
+  {
+    "title": "Australia’s Unexpectedly Soft Inflation Puts Rate Hike in Doubt",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/australia-core-prices-cooler-than-expected-easing-rba-pressure"
   },
   {
     "title": "Bank Indonesia Says It’s Boosting Efforts to Support Rupiah",
@@ -660,12 +668,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/us-goods-trade-deficit-narrows-on-drop-in-imports"
   },
   {
-    "title": "France and Spain Plan Economic Aid After Wildfires",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-28/france-and-spain-plan-economic-aid-after-wildfires-video"
-  },
-  {
-    "title": "Brazil Inflation Slowdown Sets Up Another Rate Cut Next Week",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/brazil-inflation-slowed-more-than-expected-ahead-of-rate-meeting"
+    "title": "The AI Hype Index: Unsexy AI",
+    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
   },
   {
     "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
@@ -702,10 +706,6 @@
   {
     "title": "The quest to keep organs alive outside the body",
     "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
-  },
-  {
-    "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-    "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
   },
   {
     "title": "The US is banning foreign robots",
