@@ -312,6 +312,14 @@
     "link": "https://www.cnbc.com/2026/07/22/mediterranean-yacht-rentals.html"
   },
   {
+    "title": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout",
+    "link": "https://www.cnbc.com/2026/07/29/korea-leveraged-etf-kodex-sk-hynix.html"
+  },
+  {
+    "title": "BTS' concerts have been so successful, it's now bad for its own agency Hybe's shares",
+    "link": "https://www.cnbc.com/2026/07/29/bts-concerts-hybe-record-results-shares-crash.html"
+  },
+  {
     "title": "CNBC Daily Open: Renewed fire from Iran, a big quarter for SK Hynix and a quake in Japan",
     "link": "https://www.cnbc.com/2026/07/29/cnbc-iran-strikes-american-military-jordan-japan-earthquake-sk-hynix-earnings-.html"
   },
@@ -420,14 +428,6 @@
     "link": "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html"
   },
   {
-    "title": "Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch",
-    "link": "https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html"
-  },
-  {
-    "title": "Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut",
-    "link": "https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html"
-  },
-  {
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
     "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
   },
@@ -508,12 +508,28 @@
     "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/"
   },
   {
-    "title": "SK Hynix Profit Disappoints, Spending Soars to $31 Billion",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/sk-hynix-s-record-profit-misses-investors-lofty-ai-expectations"
+    "title": "US Risks Broadening China Clash With Robot, Inverter Curbs",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs"
   },
   {
-    "title": "US Risks Broadening China Tech Clash With Robot, Inverter Curbs",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs"
+    "title": "Advantest Lifts Outlook After AI Chip Tester Demand Soars",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/advantest-lifts-outlook-after-demand-for-ai-chip-testers-soars"
+  },
+  {
+    "title": "AI Stock Selloff Accelerates as Investors Rotate Out of Chip Winners",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/dramatic-reversal-in-the-ai-trade-looks-overdone-taking-stock"
+  },
+  {
+    "title": "OpenAI Models Accessed Cloud Platform Before Hugging Face Hack",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says"
+  },
+  {
+    "title": "Legrand Lifts Outlook as Clients Pour Billions Into Data Centers",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/legrand-lifts-outlook-as-clients-pour-billions-into-data-centers"
+  },
+  {
+    "title": "SK Hynix Profit Disappoints, Spending Soars to $31 Billion",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/sk-hynix-s-record-profit-misses-investors-lofty-ai-expectations"
   },
   {
     "title": "AirTrunk Gets $2.3 Billion Green Loan for Malaysia Data Center",
@@ -530,10 +546,6 @@
   {
     "title": "HongKong Land CFO on 1H26 Results",
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/hongkong-land-cfo-on-1h26-results-video"
-  },
-  {
-    "title": "OpenAI Models Compromised a Customer at a Second Tech Firm",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says"
   },
   {
     "title": "Capcom Shares Surge After Record Catalog Sales, 1Q Profit Beat",
@@ -576,18 +588,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/crypto-rewiring-financial-infrastructure-video"
   },
   {
-    "title": "NXP’s Upbeat Revenue Forecast Fails to Impress Investors",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/nxp-s-upbeat-revenue-forecast-fails-to-impress-investors"
-  },
-  {
-    "title": "Future of Finance Will Run on 'Crypto Rails': VanGrack",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-28/future-of-finance-will-run-on-crypto-rails-vangrack-video"
-  },
-  {
-    "title": "Race for Chip Riches Heats Up as Kioxia Faces Emboldened Rivals",
-    "link": "https://www.bloomberg.com/news/features/2026-07-28/rescued-by-the-ai-boom-japan-s-kioxia-faces-a-capex-race"
-  },
-  {
     "title": "Debt Watchers Warn of Risks From Marcos’ Tax Relief Plan",
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/debt-watchers-warn-of-risks-from-marcos-tax-relief-plan"
   },
@@ -628,10 +628,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/argentina-snaps-dollar-buying-streak-day-after-imf-hailed-policy"
   },
   {
-    "title": "Yen’s Relentless Slide to Test Ueda’s Capacity to Calm Traders",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/yen-s-relentless-slide-to-test-ueda-s-capacity-to-calm-traders"
-  },
-  {
     "title": "Traders Make Record Rush to Fed Futures as Doubts Shadow Market",
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/traders-make-record-rush-to-fed-futures-as-doubts-shadow-market"
   },
@@ -666,6 +662,10 @@
   {
     "title": "France and Spain Plan Economic Aid After Wildfires",
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/france-and-spain-plan-economic-aid-after-wildfires-video"
+  },
+  {
+    "title": "Brazil Inflation Slowdown Sets Up Another Rate Cut Next Week",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/brazil-inflation-slowed-more-than-expected-ahead-of-rate-meeting"
   },
   {
     "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
