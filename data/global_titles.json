@@ -316,7 +316,7 @@
     "link": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html"
   },
   {
-    "title": "The Strait of Hormuz is just one trade chokepoint facing a new era of maritime warfare",
+    "title": "From Hormuz to the Black Sea: Maritime battlefields are shaping ‘a new world order’",
     "link": "https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html"
   },
   {
@@ -324,11 +324,11 @@
     "link": "https://www.cnbc.com/2026/07/30/india-meta-democracy-protest-boost-instagram-meta.html"
   },
   {
-    "title": "U.S. strikes Iran after surprise missile attack, dashing hopes of de-escalation",
+    "title": "Iran says it will 'punish the aggressor today' after 'heavy wave' of U.S. strikes",
     "link": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html"
   },
   {
-    "title": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
+    "title": "Samsung says chip crunch will last until 2028 as quarterly profit soars",
     "link": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html"
   },
   {
@@ -512,6 +512,30 @@
     "link": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/"
   },
   {
+    "title": "Apple’s Earnings Will Test Stock’s Status as the AI Safety Play",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-earnings-will-test-stock-s-status-as-the-ai-safety-play"
+  },
+  {
+    "title": "Arm Earnings Leave Investors Unmoved Despite Topping Estimates",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/arm-outlook-leaves-investors-unmoved-despite-topping-estimates"
+  },
+  {
+    "title": "Qualcomm Gives Tepid Profit Forecast in Sign of Phone Woes",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/qualcomm-profit-forecast-misses-estimates-in-sign-of-phone-woes"
+  },
+  {
+    "title": "Microsoft’s Cloud Accelerates to Fastest Growth Since 2022",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates"
+  },
+  {
+    "title": "Meta’s Zuckerberg Defends AI Bets to Skeptical Investors",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast"
+  },
+  {
+    "title": "Gilbert: Meta On Hyperscaler Spend Without the Business",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-30/gilbert-meta-on-hyperscaler-spend-without-the-business-video"
+  },
+  {
     "title": "Australia Online Regulator Starts Civil Proceedings Against Telegram",
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/australia-online-regulator-starts-civil-proceedings-against-telegram"
   },
@@ -544,10 +568,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/senators-warn-apple-not-to-buy-memory-chips-from-chinese-firms"
   },
   {
-    "title": "Singtel Confirms It’s in Talks About Potential Optus Stake Sale",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/singtel-in-talks-to-sell-30-optus-stake-to-morrison-afr-says"
-  },
-  {
     "title": "Meta’s Zuckerberg strains to assuage investor worries on AI bet",
     "link": "https://www.bloomberg.com/news/videos/2026-07-30/meta-strains-to-assuage-investor-worries-on-ai-bet-video"
   },
@@ -560,24 +580,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/analog-devices-discloses-data-breach-after-unauthorized-access"
   },
   {
-    "title": "Meta’s Zuckerberg Defends AI Bets to Skeptical Investors",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast"
-  },
-  {
-    "title": "Microsoft’s Cloud Accelerates to Fastest Growth Since 2022",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates"
-  },
-  {
     "title": "Higher Airfares Loom on Busy Routes as AI Squeezes Out Bargains",
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/higher-airfares-loom-on-busy-routes-as-ai-squeezes-out-bargains"
-  },
-  {
-    "title": "Qualcomm Gives Tepid Profit Forecast in Sign of Phone Woes",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/qualcomm-profit-forecast-misses-estimates-in-sign-of-phone-woes"
-  },
-  {
-    "title": "Arm Earnings Leave Investors Unmoved Despite Topping Estimates",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/arm-outlook-leaves-investors-unmoved-despite-topping-estimates"
   },
   {
     "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
@@ -588,12 +592,16 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/meta-gives-lackluster-quarterly-sales-forecast-video"
   },
   {
-    "title": "Qualcomm and Arm Forecasts Fail to Impress Investors",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-29/qualcomm-and-arm-forecasts-fail-to-impress-investors-video"
+    "title": "Euro Zone Grows at Fastest in Over a Year Despite Iran Pressures",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/french-economy-rebounds-with-0-2-growth-in-second-quarter"
   },
   {
-    "title": "French Economy Rebounds With 0.2% Growth in Second Quarter",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/french-economy-rebounds-with-0-2-growth-in-second-quarter"
+    "title": "Zambia’s Inflation Rate Holds Steady, Helped by Kwacha Strength",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/zambia-s-inflation-rate-holds-steady-helped-by-kwacha-strength"
+  },
+  {
+    "title": "Saudi Economy Shrinks Most Since 2020 as War Roils Oil Exports",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/saudi-economy-shrinks-most-since-2020-as-war-roils-oil-exports"
   },
   {
     "title": "Peso Slump, Electronics Demand Lift Philippine Exports to Record High",
@@ -662,14 +670,6 @@
   {
     "title": "Carney Rejects Idea of Using Oil as Weapon Against US Tariffs",
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/carney-rejects-idea-of-using-oil-as-weapon-against-us-tariffs"
-  },
-  {
-    "title": "JPMorgan’s Michele Says Dissenting Fed Trio Sends Crucial Signal",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/jpmorgan-s-michele-says-dissenting-fed-trio-sends-crucial-signal"
-  },
-  {
-    "title": "Key Takeaways From Fed Decision to Hold Rates Steady",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/key-takeaways-from-fed-decision-to-hold-rates-steady"
   },
   {
     "title": "How an overlooked geothermal plant got a second chance",
