@@ -1,5 +1,13 @@
 [
   {
+    "title": "Advancing responsible AI across Europe",
+    "link": "https://openai.com/index/advancing-responsible-ai-across-europe"
+  },
+  {
+    "title": "Univé builds an AI-ready workforce",
+    "link": "https://openai.com/index/unive"
+  },
+  {
     "title": "Advancing the price-performance frontier with GPT-5.6",
     "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
   },
@@ -110,14 +118,6 @@
   {
     "title": "Getting started with ChatGPT",
     "link": "https://openai.com/academy/getting-started"
-  },
-  {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
-  },
-  {
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
   },
   {
     "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
@@ -328,7 +328,7 @@
     "link": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html"
   },
   {
-    "title": "SK Hynix shares surge 25%, while Samsung soars over 20% as AI rally roars back",
+    "title": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
     "link": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html"
   },
   {
@@ -512,16 +512,48 @@
     "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/"
   },
   {
+    "title": "China’s MiniMax and ByteDance Release Dueling AI Video Models",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/china-s-minimax-and-bytedance-release-dueling-ai-video-models"
+  },
+  {
+    "title": "Korea Plans $14 Billion for Wealth Fund’s AI Bets After Rout",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/korea-plans-14-billion-for-wealth-fund-s-ai-bets-after-rout"
+  },
+  {
+    "title": "Hong Kong’s Economy Slows More Than Forecast Despite AI Boom",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/hong-kong-s-economy-slows-more-than-forecast-despite-export-boom"
+  },
+  {
+    "title": "European Execs Show AI Optimism: Markets Snapshot",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/european-execs-show-ai-optimism-markets-snapshot-video"
+  },
+  {
+    "title": "Amazon Gains After Fifth Quarter of Cloud Sales Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth"
+  },
+  {
+    "title": "Apple Slides After Supply Shortages Hurt Sales Forecast",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business"
+  },
+  {
+    "title": "Apple Leads Phone Revenues and Prices Up, Counterpoint Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/apple-leads-phone-revenues-and-prices-up-counterpoint-says"
+  },
+  {
+    "title": "Kioxia’s Outlook Miss Clouds Optimism About Memory Chip Boom",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/kioxia-sets-3-for-1-stock-split-after-profit-misses-estimates"
+  },
+  {
     "title": "China’s Factories, Builders Slump in Sign Slowdown Spreading",
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/china-factory-activity-surprises-with-first-slump-in-five-months"
   },
   {
-    "title": "Kioxia’s Outlook Misses in Sign Memory Chip Boom May Be Slowing",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/kioxia-sets-3-for-1-stock-split-after-profit-misses-estimates"
-  },
-  {
     "title": "DeepSeek Unveils Public Beta API for Flagship AI Model",
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/deepseek-unveils-public-beta-api-for-flagship-ai-model"
+  },
+  {
+    "title": "Murata Warns AI Spending Will Level Off After Raising Outlook",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/murata-raises-outlook-in-sign-of-strong-demand-for-ai-components"
   },
   {
     "title": "Tech Stocks Rally in AI Trade Euphoria | The China Show | 7/31/2026",
@@ -560,36 +592,28 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/what-we-know-so-far-about-hacking-by-anthropic-ai-models-video"
   },
   {
-    "title": "Australia’s Social Media Ban Sees Only Small Dip in Teen Users",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/australia-s-social-media-ban-sees-only-small-dip-in-teen-users"
+    "title": "Taiwan’s Economy Clocks Fastest First-Half Growth Since 1976",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/taiwan-s-growth-tops-forecasts-even-as-ai-buildout-worries-mount"
   },
   {
-    "title": "Samsung, SK Hynix Answer AI Doubters With Big Numbers, Deals",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-sk-hynix-answer-ai-doubters-with-big-numbers-and-deals"
+    "title": "Goldman Sees More South Africa Rating Upgrades on Strong Revenue",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/goldman-sees-more-south-africa-rating-upgrades-on-strong-revenue"
   },
   {
-    "title": "IDC's Ma on Apple, Consumer Electronics Market",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/idc-s-ma-on-apple-consumer-electronics-market-video"
+    "title": "JPY/USD: BOJ Holds Rate Steady And Upgrades View on Economy",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/boj-holds-rate-steady-with-upward-revision-to-economic-outlook"
   },
   {
-    "title": "Korea Plans $14 Billion for Wealth Fund’s AI Bets After Rout",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/korea-plans-14-billion-for-wealth-fund-s-ai-bets-after-rout"
+    "title": "Euro-Area Inflation Strengthens as US-Iran Strikes Boost Oil",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/euro-area-inflation-strengthens-as-us-iran-strikes-boost-oil"
   },
   {
-    "title": "Amazon, Microsoft Results Show AI Spending Spree Remains Solid",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/amazon-microsoft-results-show-ai-spending-spree-remains-solid"
+    "title": "Colombia to Hike Interest Rate in Last Petro-Era Meeting",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/colombia-to-hike-interest-rate-in-last-petro-era-meeting"
   },
   {
-    "title": "Anthropic AI Models Hacked Three Organizations During Tests",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests"
-  },
-  {
-    "title": "Stryker Narrows Earnings Outlook as Cyberattack Challenges Goals",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/stryker-narrows-earnings-outlook-as-cyberattack-challenges-goals"
-  },
-  {
-    "title": "Apple Slides After Supply Shortages Hurt Sales Forecast",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-30/apple-slides-after-supply-shortages-hurt-sales-forecast"
+    "title": "Ueda Stance Seen as Mildly Hawkish After BOJ’s Rate Decision",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/strategists-await-ueda-guidance-after-boj-s-steady-decision"
   },
   {
     "title": "French Inflation Unexpectedly Accelerates on Services, Power",
@@ -600,16 +624,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/uk-house-prices-edge-higher-in-july-nationwide-says"
   },
   {
-    "title": "JPY/USD: BOJ Holds Rate Steady And Upgrades View on Economy",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/boj-holds-rate-steady-with-upward-revision-to-economic-outlook"
-  },
-  {
     "title": "SNB Returns to Profit as Stocks Rally Offsets Gold Losses",
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/snb-swiss-national-bank-profit-earnings-stocks-rally-offsets-gold-losses"
-  },
-  {
-    "title": "Strategists Await Ueda Guidance After BOJ’s Steady Decision",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/strategists-await-ueda-guidance-after-boj-s-steady-decision"
   },
   {
     "title": "Bank of Japan Holds Interest Rate Steady at 1% as Expected",
@@ -656,20 +672,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/boe-s-bailey-says-young-bear-brunt-of-low-hire-low-fire-economy"
   },
   {
-    "title": "Bailey Plays Down Rate Hikes After Bank of England Holds",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/boe-holds-rates-in-split-vote-as-war-clouds-inflation-outlook"
-  },
-  {
-    "title": "Nigeria Central Bank Sees Transition to Inflation Target by 2028",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/nigeria-central-bank-sees-transition-to-inflation-target-by-2028"
-  },
-  {
-    "title": "Short Gilts Surge as Traders Slash Bets on BOE Hike in September",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/short-gilts-surge-as-traders-slash-bets-on-boe-hike-in-september"
-  },
-  {
-    "title": "US GDP Growth Softens Despite Strong Consumer, Investment",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/us-economic-growth-misses-estimates-despite-robust-consumers"
+    "title": "Montana’s new “right to try” law can’t come soon enough for some",
+    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"
   },
   {
     "title": "Montana’s plan to become an experimental medical hub just pushed forward",
@@ -706,10 +710,6 @@
   {
     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
     "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
-  },
-  {
-    "title": "How lasers could help provide fuel for nuclear reactors",
-    "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
   },
   {
     "title": "Tim Cook hints at iCloud Plus tier for AI power users",
