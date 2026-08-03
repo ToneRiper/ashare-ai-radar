@@ -192,6 +192,18 @@
     "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/"
   },
   {
+    "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
+    "link": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html"
+  },
+  {
+    "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+    "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html"
+  },
+  {
+    "title": "Are Americans ready to embrace tiny 'cars'? These companies think so",
+    "link": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html"
+  },
+  {
     "title": "Why flights are so expensive and will likely stay that way",
     "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html"
   },
@@ -300,16 +312,12 @@
     "link": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html"
   },
   {
-    "title": "Cyclospora outbreak tied to Taco Bell will steal the spotlight from Yum Brands' earnings",
-    "link": "https://www.cnbc.com/2026/07/29/cyclospora-outbreak-taco-bell-yum-brands-earnings.html"
+    "title": "What the market is saying about the U.S. intervention to prop up the yen",
+    "link": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html"
   },
   {
-    "title": "Audi continues U.S. product push with three-row Q9 SUV",
-    "link": "https://www.cnbc.com/2026/07/28/audi-q9-suv.html"
-  },
-  {
-    "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
-    "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html"
+    "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
+    "link": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html"
   },
   {
     "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
@@ -424,12 +432,12 @@
     "link": "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html"
   },
   {
-    "title": "India's Gen Z forced Modi to listen, respond and act — exposing chinks in the ruling party's armor",
-    "link": "https://www.cnbc.com/2026/07/27/india-cjp-modi-protest-genz-jobs.html"
+    "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+    "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/"
   },
   {
-    "title": "China industrial profit growth slows again in June as retreating oil prices sap earnings lift",
-    "link": "https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html"
+    "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+    "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/"
   },
   {
     "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
@@ -504,12 +512,48 @@
     "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/"
   },
   {
-    "title": "India is starting to pay for apps, not just download them",
-    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/"
+    "title": "Japanese Yen Surges After Washington Steps In",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/japanese-yen-surges-after-washington-steps-in-video"
   },
   {
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
+    "title": "Sequoia Leads $1 Billion Funding Round for Nuclear Startup Valar",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/sequoia-leads-1-billion-funding-round-for-nuclear-startup-valar"
+  },
+  {
+    "title": "India Eyes More Tax Breaks for Electronics in Win For Apple",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/india-eyes-more-tax-breaks-for-electronics-in-win-for-apple"
+  },
+  {
+    "title": "Robinhood Private Company Fund to Back Y Combinator Startups",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/robinhood-private-company-fund-to-back-y-combinator-startups"
+  },
+  {
+    "title": "IBM’s Gary Cohn on Warsh’s Fed, Yen Intervention, Markets",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/ibm-s-cohn-on-warsh-s-fed-yen-intervention-markets-video"
+  },
+  {
+    "title": "Warsh Is Reverting Fed to Historic Norms, Gary Cohn Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/gary-cohn-says-warsh-is-reverting-fed-to-historic-norms-video"
+  },
+  {
+    "title": "China's Next AI Race Goes Beyond Chatbots",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/opinion-china-s-next-ai-race-goes-beyond-chatbots-video"
+  },
+  {
+    "title": "SpaceX Investors Want to Quiz Elon Musk About a Potential Tesla Merger",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/spacex-investors-want-to-quiz-elon-musk-about-a-potential-tesla-merger"
+  },
+  {
+    "title": "Whole Foods Stocks More Affordable Items With Expanded 365 Brand",
+    "link": "https://www.bloomberg.com/news/features/2026-08-03/whole-foods-stocks-more-affordable-items-with-expanded-365-brand"
+  },
+  {
+    "title": "Prysmian Strikes Deal to Buy US Electric Maker Atkore",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/prysmian-strikes-deal-to-buy-us-electric-maker-atkore-video"
+  },
+  {
+    "title": "The AI Domination Race is Adding to US-China Tensions",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/the-ai-domination-race-is-adding-to-us-china-tensions"
   },
   {
     "title": "AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding",
@@ -526,10 +570,6 @@
   {
     "title": "ASML Supplier Zeiss Says It Can Handle Demand for Key AI Parts",
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/asml-supplier-zeiss-says-it-can-handle-demand-for-key-ai-parts"
-  },
-  {
-    "title": "Citi Says African Sovereign Bond Sales Defied Mideast Conflict",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/citi-says-african-sovereign-bond-sales-defied-mideast-conflict"
   },
   {
     "title": "Jefferies Analyst Slams Simple-Minded Criticism of SpaceX Governance",
@@ -552,36 +592,44 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-02/australia-expands-demand-that-big-tech-pay-for-news-stories"
   },
   {
-    "title": "AI Is Turning Retail Traders Into DIY Hedge Funds",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-02/ai-is-turning-retail-traders-into-diy-hedge-funds"
+    "title": "US Factory Activity Expands at Strongest Pace Since 2022",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/us-manufacturing-activity-expands-at-strongest-pace-since-2022"
   },
   {
-    "title": "Netflix Looks to Add ‘Hot Ones’ to Its Growing Stable of YouTube Hits",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-02/netflix-looks-to-add-hot-ones-to-its-growing-stable-of-youtube-hits"
+    "title": "Chile Economic Activity Caps Second Quarter on Stronger Note",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/chile-economic-activity-caps-second-quarter-with-stronger-growth"
   },
   {
-    "title": "Bloomberg This Weekend | Iran Strikes On Hold, the Digital Divide Over AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-02/bloomberg-this-weekend-8-2-2026-video"
+    "title": "BofA’s Cabana Sees Risk in Silent Fed: ‘You Can’t Fool the Bond’",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/treasuries-to-resume-fall-without-clear-fed-plan-bofa-s-cabana"
   },
   {
-    "title": "Who Governs the AI Boom?",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-02/who-governs-the-ai-boom-video"
+    "title": "Euro-Zone Spending Cuts Driven by Iran Uncertainty Not Inflation, ECB Finds",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/euro-zone-spending-cuts-driven-by-iran-uncertainty-not-inflation-ecb-finds"
   },
   {
-    "title": "Apple Subscriptions; MacBook Air Shortages; Apple to Make Glasses Health Device",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-02/apple-subscriptions-macbook-air-shortages-apple-to-make-glasses-health-device-msbvajjp"
+    "title": "Brazil Analysts Cut 2026 Selic Forecast on Eve of Rate Decision",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/brazil-analysts-cut-2026-selic-forecast-on-eve-of-rate-decision"
   },
   {
-    "title": "Bessent Seen Rebuffing Wall Street on Guidance for US Debt Sales",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/bessent-seen-rebuffing-wall-street-on-guidance-for-us-debt-sales"
+    "title": "US and Japan and yen intervention",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/us-and-japan-and-yen-intervention"
+  },
+  {
+    "title": "Bessent Plays Currency-Market Chess With Likely Eye on US Treasury Yields",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/bessent-plays-currency-market-chess-with-likely-eye-on-us-treasury-yields"
   },
   {
     "title": "BOJ Data Point to $34 Billion Japan FX Intervention Friday",
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/boj-data-point-to-34-billion-japanese-fx-intervention-on-friday"
   },
   {
-    "title": "Euro-Zone Spending Cuts Driven by Iran Uncertainty Not Inflation, ECB Finds",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/euro-zone-spending-cuts-driven-by-iran-uncertainty-not-inflation-ecb-finds"
+    "title": "Fed’s Williams Says Rates Are Well Positioned, Reuters Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/fed-s-williams-says-interest-rates-are-well-positioned-reuters"
+  },
+  {
+    "title": "Bessent Seen Rebuffing Wall Street on Guidance for US Debt Sales",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/bessent-seen-rebuffing-wall-street-on-guidance-for-us-debt-sales"
   },
   {
     "title": "South Korea Unveils Higher Taxes on Pricey, Investment Homes",
@@ -620,8 +668,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-02/warsh-raises-rethink-on-fed-s-policy-meeting-frequency-timing"
   },
   {
-    "title": "Australia’s Housing Market Worsens With Falls Getting Steeper",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-02/australia-s-housing-market-worsens-with-falls-getting-steeper"
+    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
   },
   {
     "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -660,8 +708,32 @@
     "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
   },
   {
-    "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-    "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
+    "title": "Bluesky’s new CEO wants a big tent, not a bubble",
+    "link": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere"
+  },
+  {
+    "title": "Palworld’s expanding to mobile with a new MMORPG",
+    "link": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo"
+  },
+  {
+    "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
+    "link": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax"
+  },
+  {
+    "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
+    "link": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale"
+  },
+  {
+    "title": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
+    "link": "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops"
+  },
+  {
+    "title": "Big Walk is like co-op Breath of the Wild",
+    "link": "https://www.theverge.com/games/973166/big-walk-review"
+  },
+  {
+    "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai"
   },
   {
     "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
@@ -674,33 +746,5 @@
   {
     "title": "Xbox prices are increasing by up to €200 or £170",
     "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros"
-  },
-  {
-    "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
-    "link": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale"
-  },
-  {
-    "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
-    "link": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review"
-  },
-  {
-    "title": "Is paying artists enough to convince them to embrace AI?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
-  },
-  {
-    "title": "Foldables are sort of boring now — and that’s great news for Apple",
-    "link": "https://www.theverge.com/column/972937/foldable-phones-boring-apple"
-  },
-  {
-    "title": "Pixel 11 specs and price leak with no surprises",
-    "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak"
-  },
-  {
-    "title": "Angela Nissel faces down grief with a laugh",
-    "link": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead"
-  },
-  {
-    "title": "Is this Billboard Hot 100 hit AI slop?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop"
   }
 ]
