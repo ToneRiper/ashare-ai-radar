@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html"
   },
   {
+    "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
+    "link": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html"
+  },
+  {
     "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
     "link": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html"
   },
@@ -428,10 +432,6 @@
     "link": "https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html"
   },
   {
-    "title": "Chipmaker CXMT’s 466% market debut surge makes it the most valuable China-listed company",
-    "link": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html"
-  },
-  {
     "title": "The global memory shortage hits the MacBook Air",
     "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
   },
@@ -512,6 +512,14 @@
     "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/"
   },
   {
+    "title": "Jefferies Analyst Slams Simple-Minded Criticism of SpaceX Governance",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-02/jefferies-analyst-slams-simple-minded-criticism-of-spacex-governance"
+  },
+  {
+    "title": "The Cyber Alchemist's Ghosh on AI Cyber-security risks",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks-video"
+  },
+  {
     "title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic",
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance"
   },
@@ -544,16 +552,24 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-02/apple-subscriptions-macbook-air-shortages-apple-to-make-glasses-health-device-msbvajjp"
   },
   {
-    "title": "Jefferies Analyst Slams Simple-Minded Criticism of SpaceX Governance",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-02/jefferies-analyst-slams-simple-minded-criticism-of-spacex-governance"
+    "title": "Turkish Inflation Slows But Central Bank Wary of Oil Risks",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/turkish-inflation-eases-but-energy-costs-test-cenbank-outlook"
+  },
+  {
+    "title": "Swiss Inflation Slows to Four-Month Low as SNB Seen on Hold",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/swiss-inflation-slows-to-four-month-low-as-snb-seen-on-hold"
+  },
+  {
+    "title": "Southeast Asia’s Factory Activity Rebounds From 11-Month Low",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/southeast-asia-s-factory-activity-bounces-back-from-11-month-low"
+  },
+  {
+    "title": "China Factory Slump Reinforces Signs of Economic Slowdown",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/china-s-factory-activity-gauge-slows-as-economy-weakens"
   },
   {
     "title": "Vietnam Trade Deficit Reaches $3.59 Billion as Imports Surge",
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/vietnam-trade-deficit-widens-to-3-59-billion-as-imports-surge"
-  },
-  {
-    "title": "Southeast Asia’s Factory Activity Bounces Back From 11-Month Low",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/southeast-asia-s-factory-activity-bounces-back-from-11-month-low"
   },
   {
     "title": "AI and Chips Are Turning Malaysia Into Asia’s Growth Standout",
@@ -566,10 +582,6 @@
   {
     "title": "Australia’s Housing Market Worsens With Falls Getting Steeper",
     "link": "https://www.bloomberg.com/news/articles/2026-08-02/australia-s-housing-market-worsens-with-falls-getting-steeper"
-  },
-  {
-    "title": "US Job Growth to Pick Up After Disappointing June",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-01/us-job-growth-to-pick-up-after-disappointing-june"
   },
   {
     "title": "The Download: Montana’s new experimental drug rules",
