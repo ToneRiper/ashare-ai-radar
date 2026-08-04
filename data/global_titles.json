@@ -1,5 +1,9 @@
 [
   {
+    "title": "Apple is getting this wrong",
+    "link": "https://openai.com/index/apple-is-getting-this-wrong"
+  },
+  {
     "title": "How we built a realtime system for responsive voice AI in six months",
     "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
   },
@@ -114,10 +118,6 @@
   {
     "title": "The US is advancing AI safety through state and federal action",
     "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
-  },
-  {
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red"
   },
   {
     "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html"
   },
   {
+    "title": "Saudi Aramco profits jump 33% in second quarter as Iran war squeezes oil supply",
+    "link": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html"
+  },
+  {
     "title": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
     "link": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html"
   },
@@ -428,10 +432,6 @@
     "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html"
   },
   {
-    "title": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
-    "link": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html"
-  },
-  {
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
     "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
   },
@@ -512,20 +512,32 @@
     "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/"
   },
   {
+    "title": "Huawei’s Top Scientist Warns of Chip Limit Nvidia Will Soon Face",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/huawei-s-top-scientist-warns-of-chip-limit-nvidia-will-soon-face"
+  },
+  {
+    "title": "Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/chinese-startup-ai-robotics-is-said-to-consider-hong-kong-ipo"
+  },
+  {
+    "title": "BlackRock Launches Tokenized Money Market Funds in Europe",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/blackrock-launches-tokenized-money-market-funds-in-europe"
+  },
+  {
+    "title": "Apple Briefly Removes Telegram App For Child Abuse Content",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/apple-briefly-takes-telegram-off-app-store-over-abusive-content"
+  },
+  {
+    "title": "China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers"
+  },
+  {
     "title": "Big AI Bets Divide Venture Capital, Leaving Smaller Funds Behind",
     "link": "https://www.bloomberg.com/news/features/2026-08-04/big-ai-bets-divide-venture-capital-leaving-smaller-funds-behind"
   },
   {
-    "title": "Bank of America Taps New Africa, Benelux Investment Bank Leads",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/bank-of-america-taps-new-africa-benelux-investment-bank-leads"
-  },
-  {
     "title": "Modi Seeks Sweeping Tax Cuts for Electronics Firms, Global Funds",
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/modi-seeks-sweeping-tax-cuts-for-electronics-firms-global-funds"
-  },
-  {
-    "title": "Apple Briefly Takes Telegram Off App Store Over Abusive Content",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/apple-briefly-takes-telegram-off-app-store-over-abusive-content"
   },
   {
     "title": "BofA: Japan Determined to Break Yen at 155",
@@ -580,16 +592,12 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-03/portal-innovations-ceo-on-future-of-us-medical-research-video"
   },
   {
-    "title": "Apple’s New CEO Taps Retired Hardware Executive for Management Team",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/apple-s-new-ceo-taps-retired-hardware-executive-for-management-team"
+    "title": "Bessent’s Yen Rescue to Boost US Pressure on Japan Trade, Rates",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/bessent-s-yen-rescue-to-boost-us-pressure-on-japan-trade-rates"
   },
   {
-    "title": "OpenAI Hack Could Have Been 'Way Worse,' Hugging Face CEO Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-03/openai-hack-could-have-been-worse-hugging-face-says-video"
-  },
-  {
-    "title": "'Concentration of Power' One of Biggest Risks in AI, Says Hugging Face CEO",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-03/-concentration-of-power-big-risk-in-ai-delangue-video"
+    "title": "India RBI Seen Holding Rates as Inflation Risk Stay in Focus",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/india-rbi-seen-holding-rates-as-inflation-risks-stay-in-focus"
   },
   {
     "title": "Katayama Says US Evaluates Japan’s Economic Policies Highly",
@@ -602,14 +610,6 @@
   {
     "title": "Australia Household Spending Jumps as Fuel Spike Drives EV Surge",
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/australia-s-household-spending-exceeds-expectations-ahead-of-rba"
-  },
-  {
-    "title": "Bessent’s Yen Rescue to Boost US Pressure on Japan Trade, Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/bessent-s-yen-rescue-to-boost-us-pressure-on-japan-trade-rates"
-  },
-  {
-    "title": "India RBI Seen Holding Rates as Inflation Risks Stay in Focus",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/india-rbi-seen-holding-rates-as-inflation-risks-stay-in-focus"
   },
   {
     "title": "Korea Inflation Drops Below Estimates But Pressure Persists",
@@ -668,8 +668,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/fed-s-williams-says-interest-rates-are-well-positioned-reuters"
   },
   {
-    "title": "South Korea Unveils Higher Taxes on Pricey, Investment Homes",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/south-korea-unveils-higher-taxes-on-pricey-investment-homes"
+    "title": "South Africa Factory Sentiment Hits Seven-Month Low on War Fears",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/south-africa-factory-sentiment-hits-seven-month-low-on-war-fears"
   },
   {
     "title": "Trump’s AI protectionism has come for robotics",
