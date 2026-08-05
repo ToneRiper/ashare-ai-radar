@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html"
   },
   {
+    "title": "Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses",
+    "link": "https://www.cnbc.com/2026/08/05/russia-ukraine-kyiv-putin-wildberries.html"
+  },
+  {
     "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
     "link": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html"
   },
@@ -420,8 +424,8 @@
     "link": "https://www.cnbc.com/2026/07/30/india-meta-democracy-protest-boost-instagram-meta.html"
   },
   {
-    "title": "Iran says it will 'punish the aggressor today' after 'heavy wave' of U.S. strikes",
-    "link": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html"
+    "title": "Wispr Flow launches a Granola-styled meeting notetaker",
+    "link": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/"
   },
   {
     "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
@@ -500,11 +504,43 @@
     "link": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/"
   },
   {
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
+    "title": "Sandisk Earnings Give Dip Buyers an Opening After Stock’s Plunge",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/sandisk-earnings-give-dip-buyers-an-opening-after-stock-s-plunge"
   },
   {
-    "title": "MoonShot Backer Monolith Seeks to Raise $500 Million in New Fund",
+    "title": "EQT-Run Scaleup Europe Fund Invests in Satellite Startup Iceye",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/eqt-run-scaleup-europe-fund-invests-in-satellite-startup-iceye"
+  },
+  {
+    "title": "US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/us-ban-on-chinese-optical-parts-hurts-hyperscalers-report-says"
+  },
+  {
+    "title": "Taiyo Yuden Raises Earnings Forecast, Capex Plans on AI Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/taiyo-yuden-raises-earnings-forecast-capex-plans-on-ai-demand"
+  },
+  {
+    "title": "AMD Slides After AI Growth Outlook Underwhelms Investors",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/amd-sales-outlook-disappoints-investors-after-ai-fueled-rally"
+  },
+  {
+    "title": "Australia Doubles Down on Data Centers Using Renewable Power",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/australia-doubles-down-on-data-centers-using-renewable-power"
+  },
+  {
+    "title": "Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/nvidia-partner-hon-hai-s-sales-rise-54-on-strong-ai-demand"
+  },
+  {
+    "title": "Infineon Falls as AI Boom Concerns Trump Strong Sales Forecast",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/infineon-revenue-forecast-beats-as-ai-power-chip-demand-rises"
+  },
+  {
+    "title": "Moove Hits $2.1 Billion Valuation in Mubadala-Led Fundraising",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/moove-hits-2-1-billion-valuation-in-mubadala-led-fundraising"
+  },
+  {
+    "title": "Moonshot Backer Monolith Seeks to Raise $500 Million in New Fund",
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/moonshot-backer-monolith-seeks-to-raise-500-million-in-new-fund"
   },
   {
@@ -516,16 +552,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/china-s-official-newspaper-warns-us-over-expanding-tech-curbs"
   },
   {
-    "title": "Infineon Revenue Forecast Beats as AI Power Chip Demand Rises",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/infineon-revenue-forecast-beats-as-ai-power-chip-demand-rises"
-  },
-  {
     "title": "Australia to Cut Price of Rooftop Solar for Businesses",
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/australia-to-cut-price-of-rooftop-solar-for-factories-afr-says"
-  },
-  {
-    "title": "EQT-Run Scaleup Europe Fund Invests in Satellite Startup Iceye",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/eqt-run-scaleup-europe-fund-invests-in-satellite-startup-iceye"
   },
   {
     "title": "AI Bot Hacks Show Need for ‘Holistic’ Safety Guardrails",
@@ -556,36 +584,32 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-04/the-close-8-4-2026-video"
   },
   {
-    "title": "Data Centers Exposed US Carriers to China Hack, House Panel Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/chinese-telecom-hack-exposed-data-centers-house-report-to-say"
+    "title": "Japan’s Cabinet Approves Sales Tax Cut With Funding Unclear",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/japan-s-cabinet-to-approve-sales-tax-cut-with-funding-unclear"
   },
   {
-    "title": "SoftBank Earnings to Test Appetite for AI Bets Beyond ChatGPT",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/softbank-earnings-to-test-appetite-for-ai-bets-beyond-chatgpt"
+    "title": "Brazil Central Bank to Cut Interest Rate to 14%",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/brazil-central-bank-to-cut-interest-rate-to-14"
   },
   {
-    "title": "AMD Shares Slide After AI Growth Outlook Underwhelms Investors",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/amd-sales-outlook-disappoints-investors-after-ai-fueled-rally"
+    "title": "UK in Longest Jobs Slump Since Financial Crisis, PMI Shows",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/uk-in-longest-jobs-slump-since-financial-crisis-pmi-shows"
   },
   {
-    "title": "Fmr. Harvard Researcher on the Economics of SpaceX",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/fmr-harvard-researcher-on-the-economics-of-spacex-video"
+    "title": "German Industry Builds Resilience to Low Rhine Levels, Bloomberg Economics Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/german-industry-is-better-prepared-for-low-rhine-levels-be-says"
   },
   {
-    "title": "SpaceX Is a Compelling Investment, Gerber Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-is-a-compelling-investment-gerber-says-video"
-  },
-  {
-    "title": "ScottsMiracle-Gro CEO on New Growth Algorithm, Pricing",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/scottsmiracle-gro-ceo-on-new-growth-algorithm-pricing-video"
-  },
-  {
-    "title": "Japan Human-Sized Refrigerator Cooling Booth Sees Demand as Heat Waves Intensify",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/japan-human-sized-refrigerator-cooling-booth-sees-demand-as-heat-waves-intensify"
-  },
-  {
-    "title": "RBI Holds Rates as Inflation Outlook Improves, Growth Stays Firm",
+    "title": "India Central Bank’s Comfort With Inflation Signals Long Pause",
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/india-keeps-key-interest-rate-on-hold-retains-neutral-stance"
+  },
+  {
+    "title": "Italy Must Use EU’s Energy Leeway, Giorgetti Tells Lawmakers",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/italy-must-use-eu-s-energy-leeway-giorgetti-tells-lawmakers"
+  },
+  {
+    "title": "Czech Inflation Quickens With Central Bank Set to Hold Rates",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/czech-inflation-quickens-with-central-bank-set-to-hold-rates"
   },
   {
     "title": "Philippine Inflation Slows a Third Month, Easing Pressure for Rate Hike",
@@ -594,10 +618,6 @@
   {
     "title": "Indonesian Growth Beats in Boost for Policymakers; Stocks Gain",
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/indonesia-economy-grows-5-29-in-second-quarter-beats-estimates"
-  },
-  {
-    "title": "Japan’s Cabinet to Approve Sales Tax Cut With Funding Unclear",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/japan-s-cabinet-to-approve-sales-tax-cut-with-funding-unclear"
   },
   {
     "title": "Thai Inflation Eases to 1.95% in July, Slows for Third Month",
@@ -644,24 +664,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/madagascar-hikes-rate-for-first-time-in-over-a-year-on-war-risks"
   },
   {
-    "title": "US Job Openings Edged Down in June, Layoffs Remained Limited",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/us-job-openings-edged-lower-in-june-as-layoffs-remained-limited"
-  },
-  {
-    "title": "Canada Data Center Push Drives Imports from US to New High",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/canada-posts-fourth-straight-trade-surplus-on-gold-shipments"
-  },
-  {
-    "title": "US Trade Deficit Narrows to $73.3 Billion on Drop in Imports",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/us-trade-deficit-narrows-to-73-3-billion-on-drop-in-imports"
-  },
-  {
-    "title": "Fed’s Paulson Says She Keeps ‘Open Mind’ on Interest Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/fed-s-paulson-says-she-keeps-an-open-mind-on-interest-rates"
-  },
-  {
-    "title": "Bessent Seeks Fed’s Aid to Defend Yen in Unusual Public Call",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/bessent-seeks-fed-help-in-defending-yen-in-unusual-call"
+    "title": "NASA’s new dark energy space telescope can also detect killer asteroids",
+    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/"
   },
   {
     "title": "The Download: US robot restrictions, and ICE’s DNA grab",
@@ -698,10 +702,6 @@
   {
     "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
     "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
-  },
-  {
-    "title": "How an overlooked geothermal plant got a second chance",
-    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/"
   },
   {
     "title": "Ted Lasso returns at an important time for Apple TV",
