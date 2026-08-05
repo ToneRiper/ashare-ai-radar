@@ -312,6 +312,14 @@
     "link": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html"
   },
   {
+    "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+    "link": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html"
+  },
+  {
+    "title": "India's central bank keeps benchmark rates steady, cites 'moderate' core inflation",
+    "link": "https://www.cnbc.com/2026/08/05/india-rbi-interest-rate-inflation-iran-war.html"
+  },
+  {
     "title": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts",
     "link": "https://www.cnbc.com/2026/08/05/wealthy-chinese-race-for-tax-advice-as-beijing-targets-offshore-trusts.html"
   },
@@ -416,14 +424,6 @@
     "link": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html"
   },
   {
-    "title": "Samsung says chip crunch will last until 2028 as quarterly profit soars",
-    "link": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html"
-  },
-  {
-    "title": "Ukraine has found a new pressure point in Russia’s wartime economy",
-    "link": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html"
-  },
-  {
     "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
     "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/"
   },
@@ -504,11 +504,31 @@
     "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
   },
   {
-    "title": "China’s Official Newspaper Warns US Over Expanding Tech Curbs",
+    "title": "MoonShot Backer Monolith Seeks to Raise $500 Million in New Fund",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/moonshot-backer-monolith-seeks-to-raise-500-million-in-new-fund"
+  },
+  {
+    "title": "$26,000 Lab Monkeys Show China’s Quest to Rival US Biotech",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/lab-monkeys-for-26-000-show-china-s-biotech-quest-to-rival-us"
+  },
+  {
+    "title": "US Ban on Chinese AI Components Unlikely to Dent Export Engine",
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/china-s-official-newspaper-warns-us-over-expanding-tech-curbs"
   },
   {
-    "title": "'Holistic' AI Safety Approach Needed: Rhodium's Goujon",
+    "title": "Infineon Revenue Forecast Beats as AI Power Chip Demand Rises",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/infineon-revenue-forecast-beats-as-ai-power-chip-demand-rises"
+  },
+  {
+    "title": "Australia to Cut Price of Rooftop Solar for Businesses",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/australia-to-cut-price-of-rooftop-solar-for-factories-afr-says"
+  },
+  {
+    "title": "EQT-Run Scaleup Europe Fund Invests in Satellite Startup Iceye",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/eqt-run-scaleup-europe-fund-invests-in-satellite-startup-iceye"
+  },
+  {
+    "title": "AI Bot Hacks Show Need for ‘Holistic’ Safety Guardrails",
     "link": "https://www.bloomberg.com/news/videos/2026-08-05/-holistic-ai-safety-approach-needed-rhodium-s-goujon-video"
   },
   {
@@ -532,10 +552,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/coupang-s-losses-grow-after-fallout-from-data-breach-deepens"
   },
   {
-    "title": "Australia to Cut Price of Rooftop Solar for Factories, AFR Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/australia-to-cut-price-of-rooftop-solar-for-factories-afr-says"
-  },
-  {
     "title": "Breaking Down SpaceX’s First Earnings Report | The Close 8/4/2026",
     "link": "https://www.bloomberg.com/news/videos/2026-08-04/the-close-8-4-2026-video"
   },
@@ -546,10 +562,6 @@
   {
     "title": "SoftBank Earnings to Test Appetite for AI Bets Beyond ChatGPT",
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/softbank-earnings-to-test-appetite-for-ai-bets-beyond-chatgpt"
-  },
-  {
-    "title": "Lab Monkeys for $26,000 Show China’s Biotech Quest to Rival US",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/lab-monkeys-for-26-000-show-china-s-biotech-quest-to-rival-us"
   },
   {
     "title": "AMD Shares Slide After AI Growth Outlook Underwhelms Investors",
@@ -572,16 +584,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/japan-human-sized-refrigerator-cooling-booth-sees-demand-as-heat-waves-intensify"
   },
   {
-    "title": "SpaceX Can Compete in AI, Former Tesla Board Member Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-can-compete-in-ai-former-tesla-board-member-says-video"
+    "title": "RBI Holds Rates as Inflation Outlook Improves, Growth Stays Firm",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/india-keeps-key-interest-rate-on-hold-retains-neutral-stance"
   },
   {
-    "title": "Pipeline Owners Race to Build Capacity as AI Power Demand Jumps",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/pipeline-owners-race-to-build-capacity-as-ai-power-demand-jumps"
+    "title": "Philippine Inflation Slows a Third Month, Easing Pressure for Rate Hike",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/philippine-inflation-slows-a-third-month-easing-pressure-for-rate-hike"
   },
   {
-    "title": "SpaceX Exceeds Revenue Estimates in First Earnings Report Since IPO",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-exceeds-estimates-in-first-earnings-since-ipo-video"
+    "title": "Indonesian Growth Beats in Boost for Policymakers; Stocks Gain",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/indonesia-economy-grows-5-29-in-second-quarter-beats-estimates"
+  },
+  {
+    "title": "Japan’s Cabinet to Approve Sales Tax Cut With Funding Unclear",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/japan-s-cabinet-to-approve-sales-tax-cut-with-funding-unclear"
   },
   {
     "title": "Thai Inflation Eases to 1.95% in July, Slows for Third Month",
@@ -594,10 +610,6 @@
   {
     "title": "New Zealand’s Plan to Move to Annual Census Hits Political Hurdle",
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/new-zealand-s-plan-to-move-to-annual-census-hits-political-hurdle"
-  },
-  {
-    "title": "Philippine Inflation Slows a Third Month, Easing Pressure for Rate Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/philippine-inflation-slows-a-third-month-easing-pressure-for-rate-hike"
   },
   {
     "title": "Japan’s Nominal Wages Rise Again, Backing BOJ Rate Hike Case",
@@ -618,6 +630,10 @@
   {
     "title": "Italy Extends Diesel Tax Cut to Shield Drivers From Price Spikes",
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/italy-extends-diesel-tax-cut-through-aug-25-la-stampa-reports"
+  },
+  {
+    "title": "Kganyago Urges South Africa to Gamble on Economic Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/kganyago-urges-south-africa-to-gamble-on-economic-growth"
   },
   {
     "title": "Turkey’s Plan To Attract the Wealthy From Dubai and London",
@@ -646,22 +662,6 @@
   {
     "title": "Bessent Seeks Fed’s Aid to Defend Yen in Unusual Public Call",
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/bessent-seeks-fed-help-in-defending-yen-in-unusual-call"
-  },
-  {
-    "title": "Bessent’s Yen Rescue to Boost US Pressure on Japan Trade, Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/bessent-s-yen-rescue-to-boost-us-pressure-on-japan-trade-rates"
-  },
-  {
-    "title": "South Africa Plans to List Credit-Guarantee Vehicle for Infrastructure Investment",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/south-africa-to-list-credit-guarantee-vehicle-treasury-says"
-  },
-  {
-    "title": "France, UK to Chair Body Overhauling Zimbabwe’s $23 Billion Debt",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/france-uk-to-chair-body-overhauling-zimbabwe-s-23-billion-debt"
-  },
-  {
-    "title": "Oil Prices Can’t Fall Fast Enough for Asia to Keep Its Lights On",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/oil-prices-can-t-fall-fast-enough-for-asia-to-keep-its-lights-on"
   },
   {
     "title": "The Download: US robot restrictions, and ICE’s DNA grab",
@@ -704,6 +704,14 @@
     "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/"
   },
   {
+    "title": "Ted Lasso returns at an important time for Apple TV",
+    "link": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv"
+  },
+  {
+    "title": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
+    "link": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company"
+  },
+  {
     "title": "Don’t screw this up, Marvel",
     "link": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday"
   },
@@ -734,13 +742,5 @@
   {
     "title": "Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever",
     "link": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale"
-  },
-  {
-    "title": "‘Not healthy’ LLM use is more common than you think",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy"
-  },
-  {
-    "title": "BMW’s in-car Spider-Man ad is villain behavior",
-    "link": "https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad"
   }
 ]
