@@ -312,7 +312,19 @@
     "link": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html"
   },
   {
-    "title": "SoftBank posts profit beat boosted by stakes in Intel and TikTok-owner ByteDance",
+    "title": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
+    "link": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html"
+  },
+  {
+    "title": "CNBC Daily Open: A super Thursday of earnings and hopes for Iran detente",
+    "link": "https://www.cnbc.com/2026/08/06/softbank-rheinmetall-renk-siemens-commerzbank-trump-iran.html"
+  },
+  {
+    "title": "Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
+    "link": "https://www.cnbc.com/2026/08/06/nintendo-first-quarter-earnings-switch2.html"
+  },
+  {
+    "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
     "link": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html"
   },
   {
@@ -412,18 +424,6 @@
     "link": "https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html"
   },
   {
-    "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
-    "link": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html"
-  },
-  {
-    "title": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-    "link": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html"
-  },
-  {
-    "title": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
-    "link": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html"
-  },
-  {
     "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
     "link": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/"
   },
@@ -504,12 +504,24 @@
     "link": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/"
   },
   {
-    "title": "SoftBank Profit Beats Expectations (Video)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-06/softbank-profit-beats-expectations-video"
+    "title": "China Launches Cybersecurity Review Into Palo Alto Networks",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-06/china-launches-cybersecurity-review-into-palo-alto-networks"
   },
   {
     "title": "Deutsche Telekom’s Improved Outlook Fuels Further Buyback",
     "link": "https://www.bloomberg.com/news/articles/2026-08-06/deutsche-telekom-raises-2026-share-buyback-by-up-to-3-billion"
+  },
+  {
+    "title": "'Reasonable' to Allocate in US Given Earnings, Wytenus Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-06/-reasonable-to-allocate-in-us-given-earnings-wytenus-video"
+  },
+  {
+    "title": "Siemens Disappoints Investors With Muted Outlook Raise",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-06/siemens-raises-earnings-outlook-on-software-data-center-gains"
+  },
+  {
+    "title": "SoftBank Profit Beats Expectations",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-06/softbank-profit-beats-expectations-video"
   },
   {
     "title": "Nintendo Tops Estimates With Tariff Refunds and Switch 2 Games",
@@ -518,14 +530,6 @@
   {
     "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
     "link": "https://www.bloomberg.com/news/articles/2026-08-06/openai-asks-judge-to-toss-apple-suit-alleging-trade-secret-theft"
-  },
-  {
-    "title": "WPP Profit Beats Analysts’ Estimates on Cost-Cutting Efforts",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/wpp-profit-beats-analysts-estimates-on-cost-cutting-efforts"
-  },
-  {
-    "title": "Siemens Raises Outlook Again on Data Center, Software Gains",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/siemens-raises-earnings-outlook-on-software-data-center-gains"
   },
   {
     "title": "Siemens Is Winning Customers in China, CEO Says",
@@ -580,24 +584,28 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-24/jd-com-s-shen-on-china-economic-outlook-video"
   },
   {
-    "title": "Bain Capital's Zhu on Investing in China",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/bain-capital-s-zhu-on-investing-in-china-video"
-  },
-  {
-    "title": "Putin’s Rate-Cut Push Piles Pressure on Bank Head Nabiullina",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/putin-s-push-to-cut-rates-piles-pressure-on-bank-head-nabiullina"
-  },
-  {
-    "title": "German June Factory Orders Jump More Than Economists Predict",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/german-june-factory-orders-jump-more-than-economists-predict"
+    "title": "Banxico to Hold Rates on Inflation and Growth Risks: Day Guide",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-06/banxico-to-hold-rates-on-inflation-and-growth-risks-day-guide"
   },
   {
     "title": "Gold Rallies Near $4,300 on Progress Toward Reopening Hormuz",
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/gold-holds-gain-as-progress-on-hormuz-deal-lowers-rate-hike-odds"
   },
   {
-    "title": "Russia’s War Economy Is Fueling Pay Gains Companies Can’t Afford",
+    "title": "Russia’s War Economy Fuels Pay Gains Companies Can’t Afford",
     "link": "https://www.bloomberg.com/news/articles/2026-08-06/russia-s-war-economy-is-fueling-pay-gains-companies-can-t-afford"
+  },
+  {
+    "title": "UK Construction Downturn Eases as Demand Resurfaces, PMI Shows",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-06/uk-construction-downturn-eases-as-demand-resurfaces-pmi-shows"
+  },
+  {
+    "title": "German June Factory Orders Jump More Than Economists Predict",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-06/german-june-factory-orders-jump-more-than-economists-predict"
+  },
+  {
+    "title": "Putin’s Rate-Cut Push Piles Pressure on Bank Head Nabiullina",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/putin-s-push-to-cut-rates-piles-pressure-on-bank-head-nabiullina"
   },
   {
     "title": "Czechs Set to Hold Rates as Price Pressures Signal Cautious Tone",
@@ -654,14 +662,6 @@
   {
     "title": "Norway Urges US to Ease Tariffs on Seafood Industry, Citing Discrimination",
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/norway-raps-us-for-tariffs-that-single-out-its-seafood-sector"
-  },
-  {
-    "title": "Kashkari Says Fed Should Raise Rates Now to Tame Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/kashkari-says-fed-should-raise-rates-now-to-bring-down-inflation"
-  },
-  {
-    "title": "US Services Activity Continues to Expand on Resilient Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/us-services-activity-expands-at-steady-pace-on-resilient-demand"
   },
   {
     "title": "Puzzle Corner",
