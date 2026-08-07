@@ -1,5 +1,9 @@
 [
   {
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "link": "https://openai.com/index/hsp-gruppe"
+  },
+  {
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
   },
@@ -116,10 +120,6 @@
     "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
   },
   {
-    "title": "Safety and alignment in an era of long-horizon models",
-    "link": "https://openai.com/index/safety-alignment-long-horizon-models"
-  },
-  {
     "title": "GeForce NOW Shakes Up August With 26 New Games",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/"
   },
@@ -190,6 +190,10 @@
   {
     "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
     "link": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/"
+  },
+  {
+    "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+    "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html"
   },
   {
     "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
@@ -308,8 +312,8 @@
     "link": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html"
   },
   {
-    "title": "Chipotle stock falls on potential link to salmonella outbreak in Minnesota",
-    "link": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html"
+    "title": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals",
+    "link": "https://www.cnbc.com/2026/08/07/volkswagen-vw-porsche-autos-job-cuts.html"
   },
   {
     "title": "Hormuz closure clouds China's crude imports after they hit a 3-month high in July",
@@ -424,8 +428,12 @@
     "link": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html"
   },
   {
-    "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
-    "link": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html"
+    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+  },
+  {
+    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+    "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
   },
   {
     "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -500,28 +508,48 @@
     "link": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/"
   },
   {
-    "title": "Amid legal battles, Suno says it will start watermarking songs",
-    "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/"
+    "title": "SK Hynix Is Said to Mull Options for $3 Billion Chongqing Assets",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-is-said-to-mull-options-for-3-billion-chongqing-assets"
   },
   {
-    "title": "Ford’s new electric truck, ‘Fathom,’ starts at $28,350",
-    "link": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/"
+    "title": "Chinese AI Chipmakers Set to Gain From Beijing’s Tech Push",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/chinese-ai-chipmakers-poised-to-gain-from-beijing-s-tech-push"
+  },
+  {
+    "title": "Indra Wins €1.6 Billion Contract With EU Satellite Project",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/indra-wins-1-6-billion-contract-with-eu-satellite-project"
+  },
+  {
+    "title": "Must Focus on AI Governance, Security, Control: Blundell",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-07/must-focus-on-ai-governance-security-control-blundell-video"
+  },
+  {
+    "title": "Apple Moves to Capitalize on iPhone Desire in India",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/apple-moves-to-capitalize-on-iphone-desire-in-india"
+  },
+  {
+    "title": "DeepSeek’s Plan to Raise Prices Have a Whole Industry Watching",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/deepseek-s-plan-to-raise-prices-have-a-whole-industry-watching"
+  },
+  {
+    "title": "Kimi AI Escapes Sandbox in Third-Party Test, Researchers Say",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say"
+  },
+  {
+    "title": "US Reviews China’s Offshore Access to Nvidia Chips After AI Breakthroughs",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-reviews-china-s-offshore-access-to-nvidia-chips-after-ai-breakthroughs"
   },
   {
     "title": "SK Hynix to Spend $38 Billion on Chip Fab Expansion in Korea",
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-to-spend-38-billion-on-chip-factory-expansion-in-korea"
   },
   {
-    "title": "China’s Top AI Model Evaded Testing Environment, Researchers Say",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say"
+    "title": "AI Is Creating More Jobs Than It Cuts in India, Nomura Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/ai-is-creating-more-jobs-than-it-cuts-in-india-nomura-says"
   },
   {
     "title": "Jane Street Joins $2 Billion Group With Bet on Australia AI",
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia"
-  },
-  {
-    "title": "Chinese AI Chipmakers Poised to Gain From Beijing’s Tech Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/chinese-ai-chipmakers-poised-to-gain-from-beijing-s-tech-push"
   },
   {
     "title": "BMI's Chowdhury on Copper, Gold, Oil Markets",
@@ -560,32 +588,52 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-06/cais-ceo-talks-new-funding-round-ai-s-fintech-impact-video"
   },
   {
-    "title": "Klaviyo CEO on Revenue Growth, E-Commerce Outlook",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-06/klaviyo-ceo-on-revenue-growth-e-commerce-outlook-video"
+    "title": "US Jobs Report July 2026: Key Takeaways on Employment, Payrolls",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-jobs-report-july-2026-key-takeaways-on-employment-payrolls"
   },
   {
-    "title": "Google’s Shakeup Complicates Race With OpenAI, Anthropic",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-06/google-s-shakeup-complicates-race-with-openai-anthropic"
+    "title": "Mexico’s Inflation Slows in July as Banxico Remains Cautious",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/mexico-s-inflation-slows-in-july-as-banxico-remains-cautious"
   },
   {
-    "title": "Lyft Delivers Bookings Beat With Premium Rides, Misses on Income",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/lyft-delivers-bookings-beat-with-premium-rides-european-demand"
+    "title": "Chile Consumer Prices Inch Up in July",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/chile-consumer-prices-inch-up-in-july-as-fuel-pressures-fade"
   },
   {
-    "title": "Cloudflare Lifts Annual Profit Outlook, Beats Wall Street Target",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/cloudflare-lifts-annual-profit-outlook-beats-wall-street-target"
+    "title": "US Employers Unexpectedly Shed Jobs; Unemployment Rate Falls",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-employers-unexpectedly-shed-jobs-unemployment-rate-falls"
   },
   {
-    "title": "US Stocks Extend Losses as Rate-Hike, Mideast Concerns Weigh",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-futures-mixed-as-traders-weigh-memory-results-iran-progress"
+    "title": "Why Sanctions Aren't Stopping North Korea",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-06/why-north-korea-s-economy-is-suddenly-booming"
   },
   {
-    "title": "Fed Silence & Tightening Spread Environment | Real Yield 8/6/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-06/real-yield-8-6-2026-video"
+    "title": "Canada Adds 75,100 Jobs, Unemployment Rate Hits Two-Year Low",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/canada-employment-rises-by-75-100-jobless-rate-at-two-year-low"
   },
   {
-    "title": "Peloton Gives Disappointing Outlook in Blow to Comeback Bid",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/peloton-gives-disappointing-outlook-in-setback-to-comeback-bid"
+    "title": "Tanzania Relaxes Forex Rules to Draw Foreigners to Bonds",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/tanzania-relaxes-forex-rules-to-draw-foreign-investors-to-bonds"
+  },
+  {
+    "title": "US Jobs Report July 2026: Live News on Employment, Payrolls",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-08-07/us-employment-report-for-july-live-updates"
+  },
+  {
+    "title": "How Bessent Brings a ‘Buy-Side’ Mindset to Economic Statecraft",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/how-bessent-brings-a-buy-side-mindset-to-economic-statecraft"
+  },
+  {
+    "title": "Weak Philippine Growth to Limit Rate Hikes, Economists Say",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/weak-philippine-growth-to-limit-rate-hikes-economists-say"
+  },
+  {
+    "title": "German Industrial Production Rises for Third Month on Cars",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/german-industrial-production-increases-for-third-month-on-cars"
+  },
+  {
+    "title": "China’s Trade Boom Survives Extreme Rains as AI Lifts Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/china-exports-imports-post-double-digit-gains-but-growth-slows"
   },
   {
     "title": "South Africa Already Upgraded by Bond Market, Finance Chief Says",
@@ -604,10 +652,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/iran-war-takes-heavy-toll-on-australia-new-zealand-as-oil-soars"
   },
   {
-    "title": "German Industrial Production Increases for Third Month on Cars",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/german-industrial-production-increases-for-third-month-on-cars"
-  },
-  {
     "title": "French Jobless Rate Increases to Highest Since Late 2020",
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/french-jobless-rate-increases-to-highest-since-late-2020"
   },
@@ -620,52 +664,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/philippine-gdp-growth-unexpectedly-slows-to-2-3-on-oil-shock"
   },
   {
-    "title": "China’s Trade Boom Survives Extreme Rains as AI Race Lifts Sales",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/china-exports-imports-post-double-digit-gains-but-growth-slows"
-  },
-  {
     "title": "Japan’s Kishida Sees Growth Strategy as Game Changer for Yen",
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/japan-s-kishida-sees-growth-strategy-as-game-changer-for-yen"
   },
   {
-    "title": "Sweden Apartment Prices Fall the Most in a Year on Seasonal Lull",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/sweden-apartment-prices-fall-the-most-in-a-year-on-seasonal-lull"
-  },
-  {
-    "title": "Japan’s Households Continue to Cut Spending Despite Wage Gains",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/japan-s-households-continue-to-cut-spending-despite-wage-gains"
-  },
-  {
-    "title": "Fed’s Musalem Calls for Meaningful Restraint on Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/fed-s-musalem-calls-for-meaningful-restraint-on-inflation"
-  },
-  {
-    "title": "North Korea's Kim Jong Un Gains $22 Billion Windfall Despite Sanctions",
-    "link": "https://www.bloomberg.com/graphics/2026-north-korea-windfall/"
-  },
-  {
-    "title": "Why Sanctions Aren't Stopping North Korea",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-06/why-north-korea-s-economy-is-suddenly-booming"
-  },
-  {
-    "title": "Japan’s Carmakers Forecast Yen Staying Weak Despite US Intervention",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/japan-s-carmakers-forecast-yen-staying-weak-despite-us-intervention"
-  },
-  {
-    "title": "Gold Slips as Traders Weigh Fed Path After Renewed War Tensions",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/gold-holds-gain-as-progress-on-hormuz-deal-lowers-rate-hike-odds"
-  },
-  {
-    "title": "Emerging Market Assets Dip as Hormuz Deal Risks Raising Tensions",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/emerging-currencies-hold-near-record-high-as-carry-trades-revive"
-  },
-  {
-    "title": "Banxico Keeps Rate at 6.5%, Signals No Change Going Forward",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/banxico-keeps-key-rate-at-6-5-as-inflation-risks-cloud-outlook"
-  },
-  {
-    "title": "If You're So Rich, Why Aren't You Happy?",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-06/opinion-if-you-re-so-rich-why-aren-t-you-happy-video"
+    "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+    "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/"
   },
   {
     "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
@@ -704,8 +708,20 @@
     "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
   },
   {
-    "title": "Montana’s new “right to try” law can’t come soon enough for some",
-    "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"
+    "title": "The best classic slasher movie you&#8217;ll never watch",
+    "link": "https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design"
+  },
+  {
+    "title": "Why does Apple keep banning Telegram, but never X?",
+    "link": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations"
+  },
+  {
+    "title": "Trying to explain One Night Only&#8217;s tech-enforced sex dystopia",
+    "link": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech"
+  },
+  {
+    "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
+    "link": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance"
   },
   {
     "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
@@ -730,21 +746,5 @@
   {
     "title": "Brendan Carr officially unleashes broadcast consolidation",
     "link": "https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends"
-  },
-  {
-    "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats"
-  },
-  {
-    "title": "TikTok blames &#8216;moderator error&#8217; on slow response to Perez Hilton livestream",
-    "link": "https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error"
-  },
-  {
-    "title": "Apple increases trade-in offers and adds new Android devices",
-    "link": "https://www.theverge.com/tech/976210/apple-trade-in-values-increased"
-  },
-  {
-    "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-    "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio"
   }
 ]
