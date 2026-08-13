@@ -312,6 +312,14 @@
     "link": "https://www.cnbc.com/2026/08/06/megayacht-amadea-sale-dubai-billionaire-trump-ties.html"
   },
   {
+    "title": "In pictures: Europe sees best solar eclipse since 1999",
+    "link": "https://www.cnbc.com/2026/08/13/europe-solar-eclipse-iceland-spain.html"
+  },
+  {
+    "title": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
+    "link": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html"
+  },
+  {
     "title": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
     "link": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html"
   },
@@ -424,14 +432,6 @@
     "link": "https://www.cnbc.com/2026/08/06/jim-jordan-south-korea-fake-news-law.html"
   },
   {
-    "title": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
-    "link": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html"
-  },
-  {
-    "title": "CNBC Daily Open: A super Thursday of earnings and hopes for Iran detente",
-    "link": "https://www.cnbc.com/2026/08/06/softbank-rheinmetall-renk-siemens-commerzbank-trump-iran.html"
-  },
-  {
     "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
     "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
   },
@@ -512,12 +512,20 @@
     "link": "https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/"
   },
   {
-    "title": "Treasury Wine Sees Price Stabilization in China",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video"
+    "title": "Can India Power the AI Boom?",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-13/can-india-power-the-ai-boom-video"
   },
   {
-    "title": "YMTC Passes Kioxia in NAND Shipments for First Time, Report Says",
+    "title": "Flipkart Founder’s Navi Said to Hire Banks for $315 Million IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-13/flipkart-founder-s-navi-said-to-hire-banks-for-315-million-ipo"
+  },
+  {
+    "title": "YMTC Passes Kioxia in NAND Chip Shipments, Report Says",
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/ymtc-passes-kioxia-in-nand-shipments-for-first-time-report-says"
+  },
+  {
+    "title": "Treasury Wine Sees Price Stabilization in China",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video"
   },
   {
     "title": "ASUS Lifts AI Server Growth Target",
@@ -584,15 +592,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-08-12/thousands-of-india-workers-are-helping-ai-firms-train-robots-to-replace-them"
   },
   {
-    "title": "Fermi Names McIntire CEO Four Months After Ousting Co-Founder",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/fermi-names-mcintire-ceo-four-months-after-ousting-co-founder"
-  },
-  {
-    "title": "CoreWeave Warns of Difficulty If It Must Shift From Nvidia Chips",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/coreweave-warns-of-difficulty-if-it-must-shift-from-nvidia-chips"
-  },
-  {
-    "title": "Heat Wave and World Cup Hand UK Economy a Surprise Boost in June",
+    "title": "UK Economy Grows 0.4% in Second Quarter Despite Iran War Disruptions",
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/uk-economy-weathers-early-months-of-iran-war-with-0-4-growth"
   },
   {
