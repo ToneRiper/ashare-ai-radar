@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/vera-cpu-eda/"
   },
   {
+    "title": "Housing investors say this is their worst market in at least 3 years",
+    "link": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html"
+  },
+  {
     "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
     "link": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html"
   },
@@ -308,8 +312,8 @@
     "link": "https://www.cnbc.com/2026/08/06/warner-bros-discovery-streaming-revenue-paramount-combination.html"
   },
   {
-    "title": "Peloton posts first-ever annual net profit, but shares drop as outlook disappoints",
-    "link": "https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html"
+    "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
+    "link": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html"
   },
   {
     "title": "Tata chairman’s shock exit move puts JLR owner's bets on chips, iPhones and Air India at risk",
@@ -428,8 +432,16 @@
     "link": "https://www.cnbc.com/2026/08/07/china-crude-imports-july-hormuz-iran-war-.html"
   },
   {
-    "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
-    "link": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html"
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+  },
+  {
+    "title": "US courts will start publishing how often the government uses spyware",
+    "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/"
+  },
+  {
+    "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+    "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/"
   },
   {
     "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
@@ -500,100 +512,140 @@
     "link": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/"
   },
   {
-    "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/"
+    "title": "will.i.am on AI's Threat to Human Creativity",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/will-i-am-on-ai-s-threat-to-human-creativity-video"
   },
   {
-    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
+    "title": "Reddit Climbs, Applied Materials, Gemini Fall | Stock Movers",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/reddit-up-applied-materials-gemini-fall-stock-movers-video"
   },
   {
-    "title": "AI nuclear power firm Fermi finally has a new CEO",
-    "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/"
+    "title": "US Retail Sales Drop More Than Expected in July",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/us-retail-sales-drop-more-than-expected-in-july-video"
   },
   {
-    "title": "What a Killer Drone Swarm Looks Like Up Close",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/what-a-killer-drone-swarm-looks-like-up-close"
+    "title": "UK Starts Process to Water Down EV Mandate in Boon for Carmakers",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/uk-starts-process-to-water-down-ev-mandate-in-boon-for-carmakers"
   },
   {
-    "title": "UBS' Fowler Says Parts of Nasdaq Look 'Outright Cheap'",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/ubs-fowler-says-parts-of-nasdaq-look-outright-cheap-video"
+    "title": "French Top Court Blocks Social Media Ban for Young Teens",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/french-top-court-blocks-macron-social-media-ban-for-young-teens"
   },
   {
-    "title": "Japanese Equities Post Best Weekly Gain Since June as Tech Rises",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/japan-stocks-rise-as-us-rate-hike-bets-ease-ai-chip-shares-gain"
+    "title": "SpaceX Completes $60 Billion Acquisition of AI Startup Cursor",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition"
   },
   {
-    "title": "India Less Exposed to AI Job Risks Than Others, Goldman Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/india-less-exposed-to-ai-job-risks-than-others-goldman-says"
+    "title": "Odds of a Fed Rate Hike May Rise, Emanuel Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/odds-of-a-fed-rate-hike-may-rise-emanuel-says-video"
+  },
+  {
+    "title": "AI is Driving Wider Growth, Says Deutsche Bank Analyst",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/ai-is-driving-wider-growth-says-deutsche-bank-analyst-video"
+  },
+  {
+    "title": "US Oil Growth Faces Headwinds as Shale Producers Cut Spending",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/us-oil-growth-faces-headwinds-as-shale-producers-cut-spending"
+  },
+  {
+    "title": "Jane Street-Tied Data Center Sells $2.25 Billion in Green Bonds",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-13/jane-street-lease-backs-2-25-billion-of-green-data-center-bonds"
+  },
+  {
+    "title": "Partners Group Becomes Worst Performer Among Europe Financials",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/partners-group-becomes-worst-performer-among-europe-financials"
+  },
+  {
+    "title": "Amazon Delivery System Under Pressure From New York City Proposal",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/amazon-delivery-system-under-pressure-from-new-york-city-proposal"
+  },
+  {
+    "title": "AI Drove Growth at Indeed After Investors Feared the Worst for Jobs-Search Site",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/ai-drove-growth-at-indeed-after-investors-feared-the-worst-for-jobs-search-site"
+  },
+  {
+    "title": "Pace of Physical AI Development 'Ridiculous': Neura CEO Reger",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/pace-of-physical-ai-development-ridiculous-neura-says-video"
+  },
+  {
+    "title": "Hong Kong Raises Growth Outlook as Global AI Demand Boosts Trade",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/hong-kong-lifts-economic-forecast-as-ai-boom-turbocharges-growth"
   },
   {
     "title": "Z.ai to Rival Anthropic, OpenAI in Coding With New AI Model",
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model"
   },
   {
-    "title": "Nintendo Shares Rise as ‘Pokopia’ Global Sales Top 5 Million",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/nintendo-shares-rise-as-pokopia-global-sales-top-5-million"
+    "title": "Kioxia Buyback Propels Japan’s Corporate Stock Buying to Record",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/kioxia-buyback-propels-japan-s-corporate-stock-buying-to-record"
   },
   {
-    "title": "will.i.am: Why Human Creativity Will Survive",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/will-i-am-why-human-creativity-will-survive"
+    "title": "What a Killer Drone Swarm Looks Like Up Close",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/what-a-killer-drone-swarm-looks-like-up-close"
   },
   {
-    "title": "Energy Traders Use Drones to Cash In On Better Weather Forecasts",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/energy-traders-use-drones-to-cash-in-on-better-weather-forecasts"
+    "title": "Stablecoin Firm RedotPay Is Said to Delay US IPO on Legal Issues",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/stablecoin-firm-redotpay-is-said-to-delay-us-ipo-on-legal-issues"
   },
   {
-    "title": "JD.com’s Shares Tank After Logging First-Ever Sales Fall",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/jd-com-profit-beats-estimates-after-food-delivery-fight-calms"
+    "title": "UBS' Fowler Says Parts of Nasdaq Look 'Outright Cheap'",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/ubs-fowler-says-parts-of-nasdaq-look-outright-cheap-video"
   },
   {
-    "title": "Japan Power Futures Get Boost as Utilities Hedge Price Risk",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/japan-s-power-futures-get-boost-as-utilities-hedge-price-risk"
+    "title": "India Raises $50 Billion From Diaspora, Ends Swap Facility Early",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/india-raises-50-billion-of-diaspora-dollars-ends-swap-facility"
   },
   {
-    "title": "Lenovo CFO on Business Strategy, AI Demand",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/lenovo-cfo-on-business-strategy-ai-demand-video"
+    "title": "Bessent Asked to Justify Yen Intervention in Letter from Warren",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/bessent-asked-to-justify-yen-intervention-in-letter-from-warren"
   },
   {
-    "title": "Alibaba, Baidu, Kuaishou Address Mounting AI Costs as Competition Intensifies",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/alibaba-baidu-kuaishou-address-mounting-ai-costs-as-competition-intensifies"
+    "title": "Amazon, Michaels Benefit as More Americans Spend on Crafts And Hobbies",
+    "link": "https://www.bloomberg.com/news/features/2026-08-14/amazon-michaels-benefit-as-more-americans-spend-on-crafts-and-hobbies"
   },
   {
-    "title": "Indian Startup Leans on Cancer-Sniffing Dogs and AI for Early Detection",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/indian-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection"
+    "title": "US Retail Sales Fall Most Since May 2025 After Solid Demand Run",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/us-retail-sales-fall-by-most-in-more-than-a-year"
   },
   {
-    "title": "Kushner’s Thrive Fund Grows Sevenfold to $3.7 Billion on AI Bets",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/thrive-investor-letter-reveals-openai-fueled-growth-stake-sale"
+    "title": "Iranians Struggle to Afford Groceries as Trump Squeezes Economy",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/iranians-struggle-to-afford-groceries-as-trump-squeezes-economy"
   },
   {
-    "title": "Read Joshua Kushner’s First Formal Thrive Capital Investor Letter",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/read-joshua-kushner-s-first-formal-thrive-capital-investor-letter"
+    "title": "Sweden to Scour Budget for Waste to Ensure Tax Money Spent Well",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/sweden-to-scour-budget-for-waste-to-ensure-tax-money-spent-well"
   },
   {
-    "title": "HPE Wins Approval for DOJ Settlement on Juniper WiFi Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/hpe-wins-approval-for-doj-settlement-on-14-billion-juniper-deal"
+    "title": "US saving slump nears record low in challenge to spending",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/us-saving-slump-nears-record-low-in-challenge-to-spending"
   },
   {
-    "title": "CXMT’s Absence Leaves CSI 300 Missing China’s Biggest Stock",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/china-s-csi-300-set-to-lose-appeal-before-adding-cxmt-bi-says"
+    "title": "Ukraine Says Black Sea Port Closures May Halve Farm Exports",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/ukraine-says-black-sea-port-closures-may-halve-farm-exports"
   },
   {
-    "title": "Apple App Store Commission-Rate Proceedings Can Move Forward",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/apple-app-store-commission-rate-proceedings-can-move-forward"
+    "title": "China’s Record Loan Slump Extends to Another Month With New Drop",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/china-s-credit-growth-exceeds-forecasts-despite-rare-loan-slump"
   },
   {
-    "title": "Easing Inflation and AI Rally Push Stocks Toward Records | The Close 8/13/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-13/the-close-8-13-2026-video"
+    "title": "Lagarde’s WEF Trip Set to Revive Talk of Early ECB Exit",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/lagarde-s-wef-trip-set-to-revive-talk-of-early-ecb-exit"
   },
   {
-    "title": "VMG Managing Partner on Consumer Branding & Demand",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-13/vmg-managing-partner-on-consumer-branding-demand-video"
+    "title": "Taiwan Predicts First Year of Double-Digit GDP Growth Since 2010",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/taiwan-predicts-first-year-of-double-digit-growth-since-2010"
   },
   {
-    "title": "Swiss Economy Surges Far More Than Forecast, Led by Pharma",
+    "title": "China Aid for Key Sectors Can Feed Trade Tensions, ECB Blog Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/china-aid-for-key-sectors-can-feed-trade-tensions-ecb-blog-says"
+  },
+  {
+    "title": "Swiss Growth Rises More Than Forecast, Led by Pharma",
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/swiss-growth-at-highest-in-five-years-unfazed-by-energy-prices"
+  },
+  {
+    "title": "Rupee Swings Fizzle Out as India’s Central Bank Tightens Grip",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/rupee-swings-fizzle-out-as-india-s-central-bank-tightens-grip"
   },
   {
     "title": "Philippines to Temper Rate Hikes, Boost Spending as Growth Slows",
@@ -620,56 +672,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/us-court-says-trump-can-halt-tariff-exemption-for-low-cost-goods"
   },
   {
-    "title": "Peru Keeps 4.25% Rate as Inflation Pick-Up Seen as Temporary",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/peru-keeps-4-25-key-rate-as-inflation-pick-up-seen-as-temporary"
+    "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
   },
   {
-    "title": "Argentina’s Inflation Edged Up Last Month on Winter Holidays",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/argentina-s-inflation-edged-up-last-month-on-winter-holidays"
+    "title": "This scientist is helping build a missing map of childhood",
+    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/"
   },
   {
-    "title": "Carney Walks a Political Tightrope as US Trade Talks Approach Deadline",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/carney-walks-a-political-tightrope-as-us-trade-talks-approach-deadline"
+    "title": "Job titles of the future: Space travel agent",
+    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/"
   },
   {
-    "title": "Goldman’s Kaplan Backs ‘Kick-the-Can’ Fed Caution on Rate Hikes",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/goldman-s-kaplan-backs-kick-the-can-fed-caution-on-rate-hikes"
-  },
-  {
-    "title": "US Wholesale Inflation Cools as War-Driven Energy Shock Fades",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/us-producer-price-growth-decelerates-by-more-than-forecast"
-  },
-  {
-    "title": "Fed’s Hammack Questions Whether US Inflation Will Keep Slowing",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/fed-s-hammack-questions-whether-us-inflation-will-keep-slowing"
-  },
-  {
-    "title": "US Jobless Claims Edged Up to 209,000 Last Week",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/us-jobless-applications-edged-up-to-209-000-last-week"
-  },
-  {
-    "title": "How Trump's ICE Raids Are Damaging Businesses",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-11/how-trump-s-ice-raids-are-damaging-businesses-video"
-  },
-  {
-    "title": "US Tech Earnings Shock Would Ripple Through UK, BOE Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/us-tech-earnings-shock-would-ripple-through-uk-boe-says"
-  },
-  {
-    "title": "UK Economy Shrugs Off Iran War Shock for Now",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-13/uk-economy-shrugs-off-iran-war-shock-for-now"
-  },
-  {
-    "title": "Global trade resilience",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-13/global-trade-resilience"
-  },
-  {
-    "title": "Serbia Holds Rates With Election Spending",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/serbia-holds-rates-with-election-spending"
-  },
-  {
-    "title": "Vietnam Banks Laden With $77 Billion Funding Gap Face Pressure to Lend Even More",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/vietnam-banks-laden-with-77-billion-funding-gap-face-pressure-to-lend-even-more"
+    "title": "Cloning could be used to save species—or make human “organ sacks”",
+    "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/"
   },
   {
     "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
@@ -696,20 +712,24 @@
     "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
   },
   {
-    "title": "Scientists just created female clones of male mice",
-    "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/"
+    "title": "CMF hit the balance between cheap and good clip earbuds",
+    "link": "https://www.theverge.com/tech/979928/cmf-clip-pro-review"
   },
   {
-    "title": "Scaling AI agents with trustworthy data",
-    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
+    "title": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+    "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld"
   },
   {
-    "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-    "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/"
+    "title": "Hoto’s new cordless soldering iron heats up in three seconds",
+    "link": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable"
   },
   {
-    "title": "How we picked 35 of the world’s top young scientists and engineers",
-    "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/"
+    "title": "Apple trained its own AI model for China with help from Alibaba",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+  },
+  {
+    "title": "Help build a monument to that ‘sad little bitch’ Elon Musk",
+    "link": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument"
   },
   {
     "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
@@ -730,25 +750,5 @@
   {
     "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
     "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired"
-  },
-  {
-    "title": "Netflix is closing two game studios",
-    "link": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games"
-  },
-  {
-    "title": "This school-friendly laptop from HP is $300 off",
-    "link": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale"
-  },
-  {
-    "title": "OpenAI is losing its second executive this week",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"
-  },
-  {
-    "title": "The Trump admin will start letting private firms launch international cyberattacks",
-    "link": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms"
-  },
-  {
-    "title": "I finally found a robot lawnmower I’d trust with my yard",
-    "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame"
   }
 ]
