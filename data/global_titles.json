@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html"
   },
   {
+    "title": "China built robots that can do backflips – but can they make money?",
+    "link": "https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html"
+  },
+  {
     "title": "CNBC Daily Open: An 'indefinite' war, and a record-breaking rally",
     "link": "https://www.cnbc.com/2026/08/14/us-iran-war-hormuz-ai-south-korea-openai-anthropic-meta-.html"
   },
@@ -428,10 +432,6 @@
     "link": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html"
   },
   {
-    "title": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
-    "link": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html"
-  },
-  {
     "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
     "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/"
   },
@@ -512,16 +512,32 @@
     "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/"
   },
   {
+    "title": "Z.ai Aims to Catch Anthropic, OpenAI in Coding With New AI Model",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model"
+  },
+  {
+    "title": "will.i.am: Why Human Creativity Will Survive",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/will-i-am-why-human-creativity-will-survive"
+  },
+  {
+    "title": "Energy Traders Use Drones to Cash In On Better Weather Forecasts",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/energy-traders-use-drones-to-cash-in-on-better-weather-forecasts"
+  },
+  {
+    "title": "JD.com’s Shares Tank After Logging First-Ever Sales Fall",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-13/jd-com-profit-beats-estimates-after-food-delivery-fight-calms"
+  },
+  {
+    "title": "Japan Power Futures Get Boost as Utilities Hedge Price Risk",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/japan-s-power-futures-get-boost-as-utilities-hedge-price-risk"
+  },
+  {
     "title": "Lenovo CFO on Business Strategy, AI Demand",
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/lenovo-cfo-on-business-strategy-ai-demand-video"
   },
   {
     "title": "Japan Stocks Headed for Best Weekly Rise Since June on AI Gains",
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/japan-stocks-rise-as-us-rate-hike-bets-ease-ai-chip-shares-gain"
-  },
-  {
-    "title": "Japan’s Power Futures Get Boost as Utilities Hedge Price Risk",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/japan-s-power-futures-get-boost-as-utilities-hedge-price-risk"
   },
   {
     "title": "Alibaba, Baidu, Kuaishou Address Mounting AI Costs as Competition Intensifies",
@@ -532,7 +548,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/indian-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection"
   },
   {
-    "title": "Thrive Investor Letter Reveals OpenAI-Fueled Growth, Stake Sale",
+    "title": "Kushner’s Thrive Fund Grows Sevenfold to $3.7 Billion on AI Bets",
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/thrive-investor-letter-reveals-openai-fueled-growth-stake-sale"
   },
   {
@@ -576,20 +592,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/applied-materials-forecast-gets-tepid-reaction-after-stock-rally"
   },
   {
-    "title": "Inflation Softens, Nvidia's $500B Plan | Real Yield 8/13/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-13/real-yield-8-13-2026-video"
-  },
-  {
-    "title": "Exploring AI Investment Opportunities Beyond Mega-Cap Tech Giants",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-13/exploring-ai-opportunities-beyond-mega-cap-tech-giants-video"
-  },
-  {
-    "title": "OpenAI, Anthropic Tout New Metric to Better Gauge AI’s Cost",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-13/openai-anthropic-tout-new-metric-to-better-gauge-ai-s-cost"
-  },
-  {
-    "title": "Nvidia Credit Risk Eases, Still Elevated After $500B Plan",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-13/nvidia-credit-risk-eases-still-elevated-after-plan-video"
+    "title": "Malaysia Revises Up Second-Quarter Growth to 6% With Central Bank Upbeat",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/malaysia-revises-up-second-quarter-growth-to-6-with-central-bank-upbeat"
   },
   {
     "title": "Australia Home Loans Fall Most Since Pandemic as Tax Changes Hit",
@@ -602,10 +606,6 @@
   {
     "title": "Peru Keeps 4.25% Rate as Inflation Pick-Up Seen as Temporary",
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/peru-keeps-4-25-key-rate-as-inflation-pick-up-seen-as-temporary"
-  },
-  {
-    "title": "Cloudy Yen Outlook Raises the Bar for Japan’s Earnings Beats",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/cloudy-yen-outlook-raises-the-bar-for-japan-s-earnings-beats"
   },
   {
     "title": "Argentina’s Inflation Edged Up Last Month on Winter Holidays",
