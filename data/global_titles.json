@@ -1,5 +1,17 @@
 [
   {
+    "title": "The Defender’s Window",
+    "link": "https://openai.com/index/the-defenders-window"
+  },
+  {
+    "title": "OpenAI joins PORTS-Pike project",
+    "link": "https://openai.com/index/openai-joins-ports-pike-project"
+  },
+  {
+    "title": "New policy ideas for the Intelligence Age",
+    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+  },
+  {
     "title": "The builder’s guide to GPT‑5.6",
     "link": "https://openai.com/index/builders-guide-to-gpt-5-6"
   },
@@ -108,16 +120,8 @@
     "link": "https://openai.com/index/advancing-responsible-ai-across-europe"
   },
   {
-    "title": "Building abundant intelligence",
-    "link": "https://openai.com/index/building-abundant-intelligence"
-  },
-  {
-    "title": "Univé builds an AI-ready workforce",
-    "link": "https://openai.com/index/unive"
-  },
-  {
-    "title": "Disrupting a Criminal Scam Operation",
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+    "title": "Securing the Infrastructure of Intelligence",
+    "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/"
   },
   {
     "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
@@ -188,8 +192,8 @@
     "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/"
   },
   {
-    "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-    "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/"
+    "title": "What will TV look like in three years? Media insiders share their predictions",
+    "link": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html"
   },
   {
     "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
@@ -308,8 +312,8 @@
     "link": "https://www.cnbc.com/2026/08/06/shaquille-oneal-caitlin-clark-rite-of-passage.html"
   },
   {
-    "title": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
-    "link": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html"
+    "title": "Russia targets Danube port after one of Ukraine’s largest aerial attacks of the war",
+    "link": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html"
   },
   {
     "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
@@ -428,8 +432,16 @@
     "link": "https://www.cnbc.com/2026/08/10/trump-iran-deal-hormuz-netanyahu-gaza-berkshire-hathaway-meta-china-.html"
   },
   {
-    "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
-    "link": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html"
+    "title": "Uber adds Zipline drones to its Eats delivery network",
+    "link": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/"
+  },
+  {
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
+  },
+  {
+    "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
+    "link": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/"
   },
   {
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -500,16 +512,52 @@
     "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
   },
   {
-    "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-    "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/"
+    "title": "Deutsche Telekom to Buy Macquarie’s Poland Fiber, TV Assets in €1 Billion Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/deutsche-telekom-will-buy-macquarie-s-poland-fiber-tv-assets-in-1-billion-deal"
   },
   {
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+    "title": "Alphabet Eyes $3.6 Billion in First Australian Bond Sale",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-17/alphabet-eyes-3-6-billion-in-first-australian-bond-sale-video"
   },
   {
-    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+    "title": "Groq Valued at $3.5 Billion in Funding Round After Nvidia Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/groq-valued-at-3-5-billion-in-funding-round-after-nvidia-deal"
+  },
+  {
+    "title": "Serve Robotics Expands DoorDash Deal in Two Cities, Adds Grubhub Post-Uber Riff",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/serve-robotics-expands-doordash-deal-in-two-cities-adds-grubhub-post-uber-riff"
+  },
+  {
+    "title": "Summer Books of Fintech Execs: From Dickens to Market Panics",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/from-dickens-to-market-panics-the-summer-books-of-fintech-execs"
+  },
+  {
+    "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta"
+  },
+  {
+    "title": "Nvidia Calls on Wall Street to Finance AI Chip Boom",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/nvidia-calls-on-wall-street-to-finance-ai-chip-boom"
+  },
+  {
+    "title": "China’s open-weight AI models are prompting US players to reconsider their strategy.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy"
+  },
+  {
+    "title": "AI Is Driving Up Treasury Yields: ‘It Just Touches Everything’",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/ai-is-driving-up-treasury-yields-it-just-touches-everything"
+  },
+  {
+    "title": "Ulvac Shares Dive After Chip Vacuum Maker’s Outlook Disappoints",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/ulvac-shares-dive-after-chip-vacuum-maker-s-outlook-disappoints"
+  },
+  {
+    "title": "What the OpenAI/Hugging Face Hack Really Tells Us About AI Danger",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-17/what-the-openai-hugging-face-hack-shows-about-ai-danger-video"
+  },
+  {
+    "title": "Diversification Is Key to Riding Out AI Trade: BlackRock",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-17/diversification-is-key-to-riding-out-ai-trade-blackrock-video"
   },
   {
     "title": "Alphabet Hires Banks for Inaugural Aussie Dollar Bond Sale",
@@ -518,6 +566,10 @@
   {
     "title": "HSG-Backed Robotera Is Said to Mull HK IPO as Robot Tech Booms",
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/hsg-backed-robotera-is-said-to-mull-hk-ipo-as-robot-tech-booms"
+  },
+  {
+    "title": "Rakuten, German Startup Helsing Test Military Drones for Japan",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/rakuten-german-startup-helsing-test-military-drones-for-japan"
   },
   {
     "title": "CXMT’s Rise to Most Valuable China Firm Heralds New Tech Era",
@@ -540,36 +592,48 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-to-sell-gaming-arm-for-1-5-billion-in-boost-to-ai-pivot"
   },
   {
-    "title": "Sri Lanka Central Bank: Inflation to Come Down",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/sri-lanka-central-bank-inflation-to-come-down-video"
+    "title": "Gas Price Rebound Pushes Canada Inflation to 3%",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/canada-inflation-ticks-up-to-3-amid-higher-gas-prices"
   },
   {
-    "title": "Japanese Idol App Firm Collapses Amid Wave of Bankruptcies",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/japanese-idol-app-firm-collapses-amid-wave-of-bankruptcies"
+    "title": "Brazil Economic Activity Suffers Biggest Drop in Over a Year",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/brazil-economic-activity-suffers-biggest-drop-in-over-a-year"
   },
   {
-    "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
+    "title": "Nigerian Inflation Edges Lower in July, Boosting Rate-Cut Case",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/nigerian-inflation-edges-lower-in-july-boosting-rate-cut-case"
   },
   {
-    "title": "Skyrocketing Beef Prices Finally Have Americans Reaching Their Spending Limit",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-16/skyrocketing-beef-prices-finally-have-americans-reaching-their-spending-limit"
-  },
-  {
-    "title": "Alex Cooper Leaves Long-Time Agent, Seeking New Help to Build Media Empire",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-16/alex-cooper-leaves-long-time-agent-seeking-new-help-to-build-media-empire"
-  },
-  {
-    "title": "Bonta Says Meta Put Profit Over Children’s Safety",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-16/bonta-says-meta-put-profit-over-children-s-safety-video"
-  },
-  {
-    "title": "Meta Faces Landmark Trial Over Youth Harm Claims",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-16/meta-faces-landmark-trial-over-youth-harm-claims-video"
-  },
-  {
-    "title": "China’s Economic Woes Mount With Disappointing Start to Half",
+    "title": "China’s Slowdown Deepens With Momentum ‘Collapsing’ Beyond Tech",
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board"
+  },
+  {
+    "title": "SNB’s New Chief Economist Martin Brown to Start on Oct. 1",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/snb-s-new-chief-economist-martin-brown-to-start-on-oct-1"
+  },
+  {
+    "title": "Japan’s Cure for Deflation Is Creating Problems of Its Own",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/japan-s-cure-for-deflation-is-creating-problems-of-its-own"
+  },
+  {
+    "title": "Here’s How ChatGPT Would Fight Today’s Trade Wars",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/ai-and-trade-wars"
+  },
+  {
+    "title": "AI Rally Set to Trigger Stock-Market Correction, ECB Blog Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/ai-rally-set-to-trigger-stock-market-correction-ecb-blog-says"
+  },
+  {
+    "title": "Swiss Real Wages Are Set to Continue to Increase, KOF Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/swiss-real-wages-are-set-to-continue-to-increase-kof-says"
+  },
+  {
+    "title": "Greek Early Debt Repayments to Reach About €13 Billion in 2026",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/greek-early-debt-repayments-to-reach-about-13-billion-in-2026"
+  },
+  {
+    "title": "Thailand Revises Factory Gauge After US Transshipment Concerns",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/thailand-revises-factory-gauge-after-us-transshipment-concerns"
   },
   {
     "title": "The Leadership Skills That Matter Most in the Age of AI",
@@ -592,8 +656,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-16/japan-s-economic-growth-slows-as-mideast-conflict-clouds-outlook"
   },
   {
-    "title": "Israeli Economy Rebounds After Slump Sparked By Iran War",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-16/israel-economy-rebounds-after-contraction-sparked-by-iran-war"
+    "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+    "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
+  },
+  {
+    "title": "How much hydrogen awaits us underground?",
+    "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/"
+  },
+  {
+    "title": "What happens when a kid’s robot best friend dies?",
+    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
   },
   {
     "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
@@ -624,16 +696,16 @@
     "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
   },
   {
-    "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-    "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/"
+    "title": "How to take better photos of your pets",
+    "link": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos"
   },
   {
-    "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-    "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/"
+    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review"
   },
   {
-    "title": "How kids feel about AI, in their own words",
-    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
+    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
   },
   {
     "title": "I’m hooked on Peak Design’s new City bags",
@@ -644,11 +716,11 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
   },
   {
-    "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+    "title": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
     "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review"
   },
   {
-    "title": "Amazon is trying to crush class-action suits before they get started",
+    "title": "Amazon is trying to crush class action suits before they get started",
     "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions"
   },
   {
@@ -662,17 +734,5 @@
   {
     "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
     "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale"
-  },
-  {
-    "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
-    "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23"
-  },
-  {
-    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-    "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot"
-  },
-  {
-    "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
-    "link": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review"
   }
 ]
