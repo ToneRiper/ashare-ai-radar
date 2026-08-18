@@ -1,5 +1,13 @@
 [
   {
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "link": "https://openai.com/index/partnering-with-codeai"
+  },
+  {
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "link": "https://openai.com/index/chatgpt-for-teens"
+  },
+  {
     "title": "The Defender’s Window",
     "link": "https://openai.com/index/the-defenders-window"
   },
@@ -112,14 +120,6 @@
     "link": "https://openai.com/index/circles"
   },
   {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "link": "https://openai.com/index/ten-advances-in-mathematics"
-  },
-  {
-    "title": "Advancing responsible AI across Europe",
-    "link": "https://openai.com/index/advancing-responsible-ai-across-europe"
-  },
-  {
     "title": "Securing the Infrastructure of Intelligence",
     "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/"
   },
@@ -190,6 +190,22 @@
   {
     "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
     "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/"
+  },
+  {
+    "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
+    "link": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html"
+  },
+  {
+    "title": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
+    "link": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html"
+  },
+  {
+    "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
+    "link": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html"
+  },
+  {
+    "title": "Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales",
+    "link": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html"
   },
   {
     "title": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
@@ -296,20 +312,8 @@
     "link": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html"
   },
   {
-    "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
-    "link": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html"
-  },
-  {
-    "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
-    "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html"
-  },
-  {
-    "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
-    "link": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html"
-  },
-  {
-    "title": "American Airlines will stop upgrading elite flyers to business from coach on long domestic flights",
-    "link": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html"
+    "title": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+    "link": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html"
   },
   {
     "title": "South Korea must brace for ‘worst-case scenario,’ President Lee says, as Trump cuts military drills",
@@ -428,8 +432,28 @@
     "link": "https://www.cnbc.com/2026/08/11/hollywood-returns-to-china-as-chinese-rivals-push-abroad.html"
   },
   {
-    "title": "CNBC Daily Open: Record heatwaves hit Europe's already expensive summer",
-    "link": "https://www.cnbc.com/2026/08/10/europe-heatwaves-energy-shock-trump-iran-hormuz-.html"
+    "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
+    "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/"
+  },
+  {
+    "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
+    "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/"
+  },
+  {
+    "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+    "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/"
+  },
+  {
+    "title": "Fairphone is launching its latest repairable phone in the US too",
+    "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/"
+  },
+  {
+    "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+    "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/"
+  },
+  {
+    "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+    "link": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/"
   },
   {
     "title": "Anthropic’s annualized revenue surges to $65B",
@@ -488,28 +512,72 @@
     "link": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/"
   },
   {
-    "title": "WordPress.com targets the next generation of web creators with a free student plan",
-    "link": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/"
+    "title": "Alibaba Shares Jump as Alipay Launches New Platform",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/alibaba-shares-jump-5-as-alipay-launches-new-merchant-platform"
   },
   {
-    "title": "Uber adds Zipline drones to its Eats delivery network",
-    "link": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/"
+    "title": "Anthropic's Annualized Revenue Tops $65 Billion",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-annualized-revenue-tops-65-billion-video"
   },
   {
-    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
+    "title": "ByteDance Draws Over $30 Billion in Orders for Jumbo Bank Loan",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/bytedance-draws-over-30-billion-in-orders-for-jumbo-bank-loan"
   },
   {
-    "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
-    "link": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/"
+    "title": "Xiaomi Profit Dives After Memory Crunch Worsens Downturn",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/xiaomi-profit-falls-after-memory-crunch-hits-smartphone-demand"
   },
   {
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+    "title": "Ant Group Said to Sell 3% Paytm Stake in $309 Million Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/ant-group-said-to-sell-3-paytm-stake-in-309-million-deal"
   },
   {
-    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
+    "title": "Intesa’s SpaceX Stake Worth Almost $1 Billion at End of June",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/intesa-s-spacex-stake-worth-almost-1-billion-at-end-of-june"
+  },
+  {
+    "title": "Integral AI’s Demise Signals Hurdles Ahead for Robotics",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/integral-ai-s-demise-signals-hurdles-ahead-for-robotics"
+  },
+  {
+    "title": "Data Center Gas Plants to Boost US Power Emissions by 20%",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/data-center-gas-plants-to-boost-us-power-emissions-by-20"
+  },
+  {
+    "title": "AI Is Starting to Create Jobs in the UK",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/ai-is-starting-to-create-jobs-in-the-uk"
+  },
+  {
+    "title": "What’s at Stake for Meta in Landmark Social Media Trial?",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-18/what-s-at-stake-for-meta-in-landmark-social-media-trial-video"
+  },
+  {
+    "title": "Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/mark-cuban-backed-physical-ai-startup-nears-500-million-spac-deal"
+  },
+  {
+    "title": "Robot Dogs Make Chinese Billionaire Even Richer Despite US Curbs",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/robot-dogs-make-chinese-billionaire-even-richer-despite-us-curbs"
+  },
+  {
+    "title": "Baidu Posts Fifth Straight Revenue Drop After AI Lag Widens",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/baidu-posts-fifth-straight-sales-drop-after-ai-lags-rivals"
+  },
+  {
+    "title": "Pony AI’s Robotaxi Revenue Reaches Record as Sales Jump 69%",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69"
+  },
+  {
+    "title": "Apple’s Anti-AI Position Is Becoming Stock Market Baggage",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/apple-s-anti-ai-position-suddenly-becomes-stock-market-baggage"
+  },
+  {
+    "title": "Why Long-Dated Bonds Are at Center of Investor Angst",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-18/why-long-dated-bonds-are-at-epicenter-of-investor-angst-video"
+  },
+  {
+    "title": "JPMorgan's Faller Sees US Driving Equity Market Gains",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-18/jpmorgan-s-faller-sees-us-driving-equity-market-gains-video"
   },
   {
     "title": "China Removes Microsoft Windows at State Users Ahead of Plan",
@@ -524,76 +592,40 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-kicks-off-aussie-dollar-bond-sale-as-ai-spending-soars"
   },
   {
-    "title": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo"
+    "title": "New US Residential Construction Slows in Broad-Based Decline",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/us-housing-starts-slow-on-drop-in-single-family-construction"
   },
   {
-    "title": "Korea Jettisons Startup From High-Stakes Sovereign AI Contest",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/korea-jettisons-startup-from-high-stakes-sovereign-ai-contest"
+    "title": "Chile’s Economy Unexpectedly Stalls in Fresh Setback for Kast",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/chile-s-economy-unexpectedly-stalls-in-fresh-setback-for-kast"
   },
   {
-    "title": "Korea Denies Report on Discussing Chips as First US Investment",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/korea-denies-report-on-discussing-chips-as-first-us-investment"
+    "title": "Mexico and rail route to avoid Panama Canal",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/mexico-and-rail-route-to-avoid-panama-canal"
   },
   {
-    "title": "Kahina Van Dyke on Stablecoins, Fintech Consolidation",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/kahina-van-dyke-on-stablecoins-fintech-consolidation-video"
+    "title": "Bessent’s Japan Yen Move Echoes Past US Currency Interventions",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/bessent-s-japan-yen-move-echoes-past-us-currency-interventions"
   },
   {
-    "title": "Xiaomi Earnings Key to Extending Stock’s Best Rally In a Year",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/xiaomi-earnings-key-to-extending-stock-s-best-rally-in-a-year"
+    "title": "German Investor Outlook Improves as Economy Gains Traction",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/germany-s-investor-outlook-improves-as-economy-gains-traction"
   },
   {
-    "title": "Stocks & Bonds Fall as Oil Rises on Geopolitical Tensions | The Close 8/17/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/the-close-8-17-2026-video"
+    "title": "South African Business Confidence Edges Higher Amid War Headwind",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/south-african-business-confidence-edges-higher-amid-war-headwind"
   },
   {
-    "title": "Facebook, Instagram Under Scrutiny in Meta Social Media Addiction Trial",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/facebook-instagram-under-scrutiny-in-meta-social-media-addiction-trial"
-  },
-  {
-    "title": "Big Take: How Amazon Landed On Mamdani's Labor Agenda",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/big-take-how-amazon-landed-on-mamdani-s-labor-agenda-video"
-  },
-  {
-    "title": "Mexico Explores Ways to Regulate Social Media Among Children",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/mexico-explores-ways-to-regulate-social-media-among-children"
-  },
-  {
-    "title": "KKR’s Internet Brands Readies Debt Refinancing in Near Term",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/kkr-s-internet-brands-readies-debt-refinancing-in-near-term"
-  },
-  {
-    "title": "Nvidia Will Back First Phase of OpenAI Ohio Project With as Much as $105 Billion",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/nvidia-to-invest-up-to-105-billion-for-openai-data-center-in-ohio"
-  },
-  {
-    "title": "Bedrock Brings Autonomous Driving to Construction",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/bedrock-brings-autonomous-driving-to-construction-video"
-  },
-  {
-    "title": "The World’s Richest Families Bet on SpaceX",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/the-world-s-richest-families-bet-on-spacex-video"
-  },
-  {
-    "title": "Stripe to Buy AI Firm OpenRouter in $7 Billion Deal",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/stripe-to-buy-ai-firm-openrouter-in-7-billion-deal-video"
-  },
-  {
-    "title": "Anthropic's Revenue Jump, Wealthy Bet on SpaceX | Bloomberg Tech 8/17/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-tech-8-17-2026-video"
-  },
-  {
-    "title": "AI Buildout Entering a Riskier Phase, Says Parnassus CIO",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/ai-buildout-entering-a-riskier-phase-says-parnassus-cio-video"
-  },
-  {
-    "title": "Anthropic’s Revenue Surges as IPO Speculation Builds",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/anthropic-s-revenue-surges-as-ipo-speculation-builds-video"
+    "title": "ECB’s Lane Says Inflation to Hover Near 3% for Rest of Year",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/ecb-s-lane-says-inflation-to-hover-around-3-for-rest-of-year"
   },
   {
     "title": "UK Payrolls Fall, Vacancies at 5-Year Low in Weak Job Market",
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/uk-firms-shed-employees-wage-growth-slows-in-tepid-labor-market"
+  },
+  {
+    "title": "More German Companies Are Closing Down Due to Economic Headwinds",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/more-german-companies-are-closing-down-due-to-economic-headwinds"
   },
   {
     "title": "UK Food Inflation at Lowest Since October 2024 as Britons Hunt for Deals",
@@ -640,36 +672,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/nigerian-inflation-edges-lower-in-july-boosting-rate-cut-case"
   },
   {
-    "title": "China’s Slowdown Deepens With Momentum ‘Collapsing’ Beyond Tech",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/china-s-economy-extends-slowdown-by-weakening-across-the-board"
+    "title": "The Download: how people really use AI, and Flock’s design choices",
+    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/"
   },
   {
-    "title": "SNB’s New Chief Economist Martin Brown to Start on Oct. 1",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/snb-s-new-chief-economist-martin-brown-to-start-on-oct-1"
+    "title": "We still don’t know how people are really using AI",
+    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
   },
   {
-    "title": "Japan’s Cure for Deflation Is Creating Problems of Its Own",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/japan-s-cure-for-deflation-is-creating-problems-of-its-own"
+    "title": "The role of the astronaut is in flux",
+    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/"
   },
   {
-    "title": "Here’s How ChatGPT Would Fight Today’s Trade Wars",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/ai-and-trade-wars"
-  },
-  {
-    "title": "AI Rally Set to Trigger Stock-Market Correction, ECB Blog Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/ai-rally-set-to-trigger-stock-market-correction-ecb-blog-says"
-  },
-  {
-    "title": "Swiss Real Wages Are Set to Continue to Increase, KOF Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/swiss-real-wages-are-set-to-continue-to-increase-kof-says"
-  },
-  {
-    "title": "Greek Early Debt Repayments to Reach About €13 Billion in 2026",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/greek-early-debt-repayments-to-reach-about-13-billion-in-2026"
-  },
-  {
-    "title": "Thailand Revises Factory Gauge After US Transshipment Concerns",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/thailand-revises-factory-gauge-after-us-transshipment-concerns"
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
   },
   {
     "title": "What Flock’s defenders are missing",
@@ -696,59 +712,43 @@
     "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/"
   },
   {
-    "title": "Job titles of the future: Space travel agent",
-    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/"
+    "title": "Comcast is turning millions of its routers into motion detectors",
+    "link": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing"
   },
   {
-    "title": "Cloning could be used to save species—or make human “organ sacks”",
-    "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/"
+    "title": "ABC sues the FCC over Trump and Carr&#8217;s campaign of threats",
+    "link": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit"
   },
   {
-    "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-    "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/"
+    "title": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
+    "link": "https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film"
   },
   {
-    "title": "Building a practical path to post-quantum cryptography",
-    "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/"
+    "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"
   },
   {
-    "title": "Reddit’s AI is turning posts into podcasts and short videos",
-    "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts"
+    "title": "Google&#8217;s Pet Memory forgot who my cats are",
+    "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review"
   },
   {
-    "title": "ABC&#8217;s livestreamed news show is powered by trending topics",
-    "link": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show"
+    "title": "The Verge Guide to Pets",
+    "link": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale"
   },
   {
-    "title": "This compact Glorious mechanical keyboard is just $35",
-    "link": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale"
+    "title": "My parrot ate my keyboard",
+    "link": "https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect"
   },
   {
-    "title": "Wordle meets Clippy in this new word game",
-    "link": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game"
+    "title": "Oops! My cat is an iPad kid",
+    "link": "https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube"
   },
   {
-    "title": "YouTube is changing how it counts views to give the numbers a boost",
-    "link": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update"
+    "title": "How I turned my fish tank high tech",
+    "link": "https://www.theverge.com/tech/978229/fish-tank-tech"
   },
   {
-    "title": "The Analogue Pocket gets a Supreme makeover in red or gold",
-    "link": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection"
-  },
-  {
-    "title": "Sonos finally added Live Activities controls for your iPhone lockscreen",
-    "link": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities"
-  },
-  {
-    "title": "Trump’s dumb border wall",
-    "link": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit"
-  },
-  {
-    "title": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps",
-    "link": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany"
-  },
-  {
-    "title": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
-    "link": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale"
+    "title": "Fairphone’s latest repairable phone is going on sale in the US",
+    "link": "https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon"
   }
 ]
