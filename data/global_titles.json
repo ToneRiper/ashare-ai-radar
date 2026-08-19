@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/"
   },
   {
+    "title": "Target is set to report earnings before the bell. Here's what to expect",
+    "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html"
+  },
+  {
     "title": "Hims & Hers CEO says FTC lawsuit misunderstands how the company works",
     "link": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html"
   },
@@ -306,10 +310,6 @@
   {
     "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
     "link": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html"
-  },
-  {
-    "title": "Cyclospora fears lead consumers to lose their appetite for salads",
-    "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html"
   },
   {
     "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
@@ -512,6 +512,30 @@
     "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/"
   },
   {
+    "title": "Unitree Robotics Surges 629% After $904 Million Shanghai IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo"
+  },
+  {
+    "title": "Pony AI Drops as CEO Warns of Uncertainty for Robotaxis",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69"
+  },
+  {
+    "title": "Alphabet Set to Sell Long Aussie Bond at Record Near 7% Cost",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/alphabet-set-to-sell-long-aussie-bond-at-record-near-7-cost"
+  },
+  {
+    "title": "Motif Technologies CEO on Business Strategy, AI",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-19/motif-technologies-ceo-on-business-strategy-ai-video"
+  },
+  {
+    "title": "Rebellions CFO: Preparing for IPO in Korea",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-19/rebellions-cfo-preparing-for-ipo-in-korea-video"
+  },
+  {
+    "title": "Funding $1 Trillion AI Capex May Expand Bond Supply, Robeco Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/funding-1-trillion-ai-capex-may-expand-bond-supply-robeco-says"
+  },
+  {
     "title": "Bain Unit Proterial Seeks $1.3 Billion From Japan Wire Firm Sale",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/bain-unit-proterial-seeks-1-3-billion-from-japan-wire-firm-sale"
   },
@@ -524,12 +548,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/wisetech-raided-by-australian-antitrust-regulator-shares-plunge"
   },
   {
-    "title": "China Recovers Rocket on Land in Push to Catch Up With SpaceX",
+    "title": "China Lands Rocket Back on Earth in Push to Catch Up With SpaceX",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/china-recovers-rocket-on-land-in-push-to-catch-up-with-spacex"
-  },
-  {
-    "title": "Unitree Robotics Surges 629% After $904 Million Shanghai IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo"
   },
   {
     "title": "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion",
@@ -572,24 +592,12 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/kavita-gupta-comments-on-bitcoin-whales-buying-spree-video"
   },
   {
-    "title": "We Have A Lot of 'Runway' For Growth: Securitize CEO",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/we-have-a-lot-of-runway-for-growth-securitize-ceo-video"
+    "title": "Mizuho Markets Head Expects BOJ to Raise Rates More Often",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/mizuho-markets-head-expects-boj-to-raise-rates-soon-more-often"
   },
   {
-    "title": "Anthropic Plans to Give CEO Extra Voting Power, Information Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-plans-to-give-ceo-extra-voting-power-information-says"
-  },
-  {
-    "title": "Higgsfield CEO on Intel Backing, $5.4 Billion Valuation",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/higgsfield-ceo-on-intel-backing-5-4-billion-valuation-video"
-  },
-  {
-    "title": "Shooting To Be IPO Ready By 2027: FalconX CEO",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/shooting-to-be-ipo-ready-by-2027-falconx-ceo-video"
-  },
-  {
-    "title": "Pennsylvania Governor Josh Shapiro to Limit New Data Centers",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/pennsylvania-governor-shapiro-puts-guardrails-on-data-centers"
+    "title": "RBA’s Hauser Says Rates Will Need to Rise If Prices Fail to Ease",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/rba-s-hauser-says-rates-will-need-to-rise-if-prices-fail-to-ease"
   },
   {
     "title": "South Korea’s Household Loan Growth Jumps to Near Five-Year High",
@@ -608,8 +616,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/indonesia-seen-holding-rates-as-new-chief-leads-first-decision"
   },
   {
-    "title": "Mizuho Markets Head Expects BOJ to Raise Rates Soon, More Often",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/mizuho-markets-head-expects-boj-to-raise-rates-soon-more-often"
+    "title": "Mexico Weighs Tougher Trade Rules for China as US Talks Grind On",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/mexico-weighs-tougher-trade-rules-for-china-as-us-talks-grind-on"
   },
   {
     "title": "Crippling Blackouts Put Venezuela’s Industrial Recovery at Risk",
@@ -662,14 +670,6 @@
   {
     "title": "UK Payrolls Fall, Vacancies at 5-Year Low in Weak Job Market",
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/uk-firms-shed-employees-wage-growth-slows-in-tepid-labor-market"
-  },
-  {
-    "title": "More German Companies Are Closing Down Due to Economic Headwinds",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/more-german-companies-are-closing-down-due-to-economic-headwinds"
-  },
-  {
-    "title": "UK Food Inflation at Lowest Since October 2024 as Britons Hunt for Deals",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/uk-food-inflation-at-lowest-since-october-2024-as-britons-hunt-for-deals"
   },
   {
     "title": "The Download: how people really use AI, and Flock’s design choices",
