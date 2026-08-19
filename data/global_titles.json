@@ -192,8 +192,12 @@
     "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/"
   },
   {
-    "title": "Target is set to report earnings before the bell. Here's what to expect",
+    "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
     "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html"
+  },
+  {
+    "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+    "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html"
   },
   {
     "title": "Hims & Hers CEO says FTC lawsuit misunderstands how the company works",
@@ -308,8 +312,8 @@
     "link": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html"
   },
   {
-    "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
-    "link": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html"
+    "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
+    "link": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html"
   },
   {
     "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
@@ -428,8 +432,20 @@
     "link": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html"
   },
   {
-    "title": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
-    "link": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html"
+    "title": "CareCloud confirms 3.7M patients had their medical records stolen in data breach",
+    "link": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/"
+  },
+  {
+    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
+  },
+  {
+    "title": "You can Venmo your college tuition, for some reason",
+    "link": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/"
+  },
+  {
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
   },
   {
     "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -496,100 +512,136 @@
     "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/"
   },
   {
-    "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
-    "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/"
+    "title": "Marvell Gives Google Right to Buy Up to $12 Billion in Stock",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/marvell-gives-google-right-to-buy-up-to-12-2-billion-in-shares"
   },
   {
-    "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
-    "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/"
+    "title": "AI Cloud Firm Nebius Seeks $4.5 Billion in Convertible Bonds",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/ai-cloud-firm-nebius-offers-4-5-billion-of-convertible-bonds"
   },
   {
-    "title": "Fairphone is launching its latest repairable phone in the US too",
-    "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/"
+    "title": "Amazon’s New Order Confirmation Emails Seen Boosting Phishing Risk",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/amazon-s-new-order-confirmation-emails-seen-boosting-phishing-risk"
   },
   {
-    "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
-    "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/"
+    "title": "China Criticizes EU Over Extraterritorial Reach in JD.com Probe",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/china-criticizes-eu-over-extraterritorial-reach-in-jd-com-probe"
+  },
+  {
+    "title": "Goldman’s Rosner Sees More Than AI Debt Weighing on Treasury Yields",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-19/goldman-s-rosner-sees-many-factors-weighing-on-yields-video"
+  },
+  {
+    "title": "India Startup Aims to Compete With OpenAI in Crowded Voice Arena",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/india-startup-aims-to-compete-with-openai-in-crowded-voice-arena"
+  },
+  {
+    "title": "PlayStation Reboots ‘Horizon Hunters Gathering’ as Live-Service Strategy Struggles",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/playstation-reboots-horizon-hunters-gathering-as-live-service-strategy-struggles"
+  },
+  {
+    "title": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/anthropic-tied-data-center-inks-1-3-billion-private-credit-loan"
+  },
+  {
+    "title": "What's Next After ChatGPT? Fei-Fei Li Has a Plan",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-19/what-s-next-after-chatgpt-this-ai-pioneer-has-a-plan-video"
+  },
+  {
+    "title": "Fei-Fei Li Warns US Tech Backlash Poses Risks for Global AI Progress",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/ai-pioneer-fei-fei-li-warns-of-risks-from-growing-tech-backlash"
+  },
+  {
+    "title": "Nvidia Tries to Spur the AI Boom Into the Future",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/nvidia-tries-to-spur-the-ai-boom-into-the-future"
+  },
+  {
+    "title": "AI Data Center Political Opposition to Bring Stock Market Winners and Losers",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/ai-data-center-political-opposition-to-bring-stock-market-winners-and-losers"
+  },
+  {
+    "title": "Tech Tries Charm Offensive to Save Trillion-Dollar AI Buildout",
+    "link": "https://www.bloomberg.com/news/features/2026-08-19/tech-tries-charm-offensive-to-save-trillion-dollar-ai-buildout"
+  },
+  {
+    "title": "Amazon to Expand Drone Deliveries to Suburban Chicago, Atlanta",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/amazon-to-expand-drone-deliveries-to-suburban-chicago-atlanta"
+  },
+  {
+    "title": "Kuaishou Earnings Drop by a Third, Hit by AI and Creator Costs",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/kuaishou-earnings-drop-by-a-third-hit-by-ai-and-creator-costs"
   },
   {
     "title": "SK Hynix Moves to Calm Market With $29 Billion Share Buyback",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/sk-hynix-announces-28-6-billion-share-buy-back-on-ai-boom"
   },
   {
-    "title": "AI Boom, Energy Shocks See Southeast Asia Growth Bifurcate",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/ai-boom-and-energy-shocks-see-growth-in-southeast-asia-bifurcate"
+    "title": "SK Hynix Plans $29 Billion Share Buyback Amid Chip Selloff",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-19/sk-hynix-plans-29-billion-share-buyback-video"
   },
   {
-    "title": "Chip Selloff Extends to Asia as Samsung, SK Hynix Slump",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-19/chip-selloff-extends-to-asia-as-samsung-sk-hynix-slump-video"
-  },
-  {
-    "title": "Alphabet to Sell Long Aussie Bond With Record Yield Near 7%",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/alphabet-set-to-sell-long-aussie-bond-at-record-near-7-cost"
-  },
-  {
-    "title": "Unitree Shares Jump After $904M Shanghai IPO | The China Show | 8/19/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-19/the-china-show-8-19-2026-video"
-  },
-  {
-    "title": "Unitree IPO: Why Investors Are Betting Big on China’s Humanoid Robots",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/unitree-ipo-why-investors-are-betting-big-on-china-s-humanoid-robots"
-  },
-  {
-    "title": "Pony AI CEO Peng Optimistic on Growth Outlook",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-19/pony-ai-ceo-peng-optimistic-on-growth-outlook-video"
-  },
-  {
-    "title": "LG AI Research's Lee on The Importance of Sovereign AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-19/lg-ai-research-s-lee-on-the-importance-of-sovereign-ai-video"
-  },
-  {
-    "title": "Unitree Robotics Surges 629% After $904 Million Shanghai IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo"
-  },
-  {
-    "title": "Pony AI Drops as CEO Warns of Uncertainty for Robotaxis",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69"
-  },
-  {
-    "title": "Motif Technologies CEO on Business Strategy, AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-19/motif-technologies-ceo-on-business-strategy-ai-video"
-  },
-  {
-    "title": "Rebellions CFO: Preparing for IPO in Korea",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-19/rebellions-cfo-preparing-for-ipo-in-korea-video"
-  },
-  {
-    "title": "Funding $1 Trillion AI Capex May Expand Bond Supply, Robeco Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/funding-1-trillion-ai-capex-may-expand-bond-supply-robeco-says"
-  },
-  {
-    "title": "Bain Unit Proterial Seeks $1.3 Billion From Japan Wire Firm Sale",
+    "title": "Bain Unit Proterial Seeks $1.3 Billion From Japan Firm Sale",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/bain-unit-proterial-seeks-1-3-billion-from-japan-wire-firm-sale"
   },
   {
-    "title": "Unitree CEO’s Wealth Jumps $18 Billion After Blockbuster IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/robot-dogs-make-chinese-billionaire-even-richer-despite-us-curbs"
-  },
-  {
-    "title": "WiseTech Raided by Australia Antitrust Watchdog; Stock Sinks",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/wisetech-raided-by-australian-antitrust-regulator-shares-plunge"
-  },
-  {
-    "title": "China Lands Rocket Back on Earth in Push to Catch Up With SpaceX",
+    "title": "China Rocket Comes Home for First Time, Closing in on SpaceX",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/china-recovers-rocket-on-land-in-push-to-catch-up-with-spacex"
   },
   {
-    "title": "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/ai-startup-temporal-in-talks-for-a-valuation-of-at-least-12-billion"
+    "title": "China AI Robot Tycoon’s Shares Soar $13 Billion In One Day",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/robot-dogs-make-chinese-billionaire-even-richer-despite-us-curbs"
   },
   {
-    "title": "Cerebras (CBRS) Says Its New Computer Boosts AI Speed Advantage Over Nvidia",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia"
+    "title": "South African Inflation Surprise Builds Case for Holding Rates",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/south-africa-inflation-cools-making-case-to-keep-rates-on-hold"
   },
   {
-    "title": "Chip Stocks Slide as Global Bond Anxiety Builds | The Close 8/18/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/the-close-8-18-2026-video"
+    "title": "Ofensiva de Colombia contra la cocaína revive temores de guerra",
+    "link": "https://www.bloomberg.com/news/features/2026-08-19/ofensiva-de-colombia-contra-la-cocaina-revive-temores-de-guerra"
+  },
+  {
+    "title": "Colombia’s Former Militants Wait to See if De la Espriella Honors Petro Deal",
+    "link": "https://www.bloomberg.com/news/features/2026-08-19/colombia-s-former-militants-wait-to-see-if-de-la-espriella-honors-petro-deal"
+  },
+  {
+    "title": "US Housing Is a Buyer’s Market. Trouble Is, There Aren’t Many Buyers",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/us-housing-is-a-buyer-s-market-trouble-is-there-aren-t-many-buyers"
+  },
+  {
+    "title": "Sweden Is Set to Keep 2026 Rate Hike on Table: Decision Guide",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/sweden-is-set-to-keep-2026-rate-hike-on-table-decision-guide"
+  },
+  {
+    "title": "UK House Prices Post First Fall This Year, Official Data Show",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/uk-house-prices-post-first-fall-this-year-official-data-show"
+  },
+  {
+    "title": "AI Job Losses: A Guide to the Proposals for Helping Workers",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/ai-job-losses-a-guide-to-the-proposals-for-helping-workers"
+  },
+  {
+    "title": "Tackling NHS Inefficiency Could Save Britain £32 Billion",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/prize-worth-32-billion-if-uk-tackles-nhs-efficiency-crisis"
+  },
+  {
+    "title": "Bank Indonesia’s New Chief Signals Continuity, Focus on Rupiah",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/indonesia-holds-rate-as-new-chief-forecasts-further-rupiah-gains"
+  },
+  {
+    "title": "Milei ante gran desafío electoral: el desempleo crece en Argentina",
+    "link": "https://www.bloomberg.com/news/features/2026-08-19/milei-ante-gran-desafio-electoral-el-desempleo-crece-en-argentina"
+  },
+  {
+    "title": "Argentina Job Losses, Unemployment Are Milei’s Big Political Risk",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/argentina-job-losses-unemployment-are-milei-s-big-political-risk"
+  },
+  {
+    "title": "Iceland Hikes Key Rate to 8% to Lower Risk of Prices Spiraling",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/iceland-hikes-key-rate-to-8-to-lower-risk-of-prices-spiraling"
+  },
+  {
+    "title": "Lagarde Says Europe Can’t Afford to Miss Out on AI Revolution",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/lagarde-says-europe-can-t-afford-to-miss-out-on-ai-revolution"
   },
   {
     "title": "UK Inflation Climbs to Four-Month High as Energy Bills Rise",
@@ -608,10 +660,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/mizuho-markets-head-expects-boj-to-raise-rates-soon-more-often"
   },
   {
-    "title": "Prize Worth £32 Billion if UK Tackles NHS Efficiency Crisis",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/prize-worth-32-billion-if-uk-tackles-nhs-efficiency-crisis"
-  },
-  {
     "title": "RBA’s Hauser Says Rates Will Need to Rise If Prices Fail to Ease",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/rba-s-hauser-says-rates-will-need-to-rise-if-prices-fail-to-ease"
   },
@@ -624,52 +672,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/south-korea-think-tank-raises-growth-outlook-above-government-s"
   },
   {
-    "title": "Australia Wage Growth Stays Elevated, Reinforces Price Pressures",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/australia-wage-growth-stays-elevated-reinforces-price-pressures"
+    "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+    "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/"
   },
   {
-    "title": "Indonesia Seen Holding Rates as New Chief Leads First Decision",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/indonesia-seen-holding-rates-as-new-chief-leads-first-decision"
-  },
-  {
-    "title": "Mexico Weighs Tougher Trade Rules for China as US Talks Grind On",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/mexico-weighs-tougher-trade-rules-for-china-as-us-talks-grind-on"
-  },
-  {
-    "title": "Crippling Blackouts Put Venezuela’s Industrial Recovery at Risk",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/crippling-blackouts-put-venezuela-s-industrial-recovery-at-risk"
-  },
-  {
-    "title": "Israel’s Central Bank Chief Says Next Rate Decision Is ‘Live’",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/israel-s-central-bank-chief-says-next-rate-decision-is-live"
-  },
-  {
-    "title": "Port of LA Has Near-Record July as Importers Navigate Trade War",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/port-of-la-has-near-record-july-as-importers-navigate-trade-war"
-  },
-  {
-    "title": "Colombian GDP Growth Jumped to 3.5% in Boost for New Government",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/colombian-gdp-growth-jumped-to-3-5-in-boost-for-new-government"
-  },
-  {
-    "title": "Chile Economy Stalls in ‘Horrible’ Quarter",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/chile-s-economy-unexpectedly-stalls-in-fresh-setback-for-kast"
-  },
-  {
-    "title": "New US Residential Construction Slows in Broad-Based Decline",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/us-housing-starts-slow-on-drop-in-single-family-construction"
-  },
-  {
-    "title": "Durigan Says Lula Must Fix Brazil’s Fiscal Woes If Reelected",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/lula-must-tackle-fiscal-woes-if-reelected-finance-chief-says"
-  },
-  {
-    "title": "Mexico and rail route to avoid Panama Canal",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/mexico-and-rail-route-to-avoid-panama-canal"
-  },
-  {
-    "title": "Bessent’s Japan Yen Move Echoes Past US Currency Interventions",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/bessent-s-japan-yen-move-echoes-past-us-currency-interventions"
+    "title": "Child-monitoring apps might need a reboot",
+    "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/"
   },
   {
     "title": "The Download: how people really use AI, and Flock’s design choices",
@@ -704,12 +712,28 @@
     "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
   },
   {
-    "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-    "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
+    "title": "Amazon seemingly leaked Jason Statham’s entire Mutiny movie",
+    "link": "https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak"
   },
   {
-    "title": "This scientist is helping build a missing map of childhood",
-    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/"
+    "title": "Nvidia’s new financial strategy does not compute",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset"
+  },
+  {
+    "title": "The women’s soccer league trying to fix fantasy sports",
+    "link": "https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app"
+  },
+  {
+    "title": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
+    "link": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion"
+  },
+  {
+    "title": "The everyday tech I use to track my corgi",
+    "link": "https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking"
+  },
+  {
+    "title": "Framework gave its 12-inch laptop some hardware upgrades",
+    "link": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability"
   },
   {
     "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
@@ -726,29 +750,5 @@
   {
     "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
     "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale"
-  },
-  {
-    "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
-    "link": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder"
-  },
-  {
-    "title": "Apple squashes EU beef with new App Store rules",
-    "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission"
-  },
-  {
-    "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
-    "link": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready"
-  },
-  {
-    "title": "Peacock is raising prices by up to $3",
-    "link": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026"
-  },
-  {
-    "title": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
-    "link": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery"
-  },
-  {
-    "title": "Comcast is turning millions of its routers into motion detectors",
-    "link": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing"
   }
 ]
