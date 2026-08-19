@@ -312,6 +312,10 @@
     "link": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html"
   },
   {
+    "title": "Ukraine's Zelenskyy faces call for wartime election from former defense chief",
+    "link": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html"
+  },
+  {
     "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
     "link": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html"
   },
@@ -428,10 +432,6 @@
     "link": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html"
   },
   {
-    "title": "Singapore revises its annual growth forecast sharply higher on AI-related boost",
-    "link": "https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html"
-  },
-  {
     "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
     "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
   },
@@ -512,8 +512,20 @@
     "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/"
   },
   {
+    "title": "AI Boom, Energy Shocks See Southeast Asia Growth Bifurcate",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/ai-boom-and-energy-shocks-see-growth-in-southeast-asia-bifurcate"
+  },
+  {
+    "title": "Chip Selloff Extends to Asia as Samsung, SK Hynix Slump",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-19/chip-selloff-extends-to-asia-as-samsung-sk-hynix-slump-video"
+  },
+  {
     "title": "Alphabet to Sell Long Aussie Bond With Record Yield Near 7%",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/alphabet-set-to-sell-long-aussie-bond-at-record-near-7-cost"
+  },
+  {
+    "title": "Unitree Shares Jump After $904M Shanghai IPO | The China Show | 8/19/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-19/the-china-show-8-19-2026-video"
   },
   {
     "title": "Unitree IPO: Why Investors Are Betting Big on China’s Humanoid Robots",
@@ -572,10 +584,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia"
   },
   {
-    "title": "AI Boom and Energy Shocks See Growth in Southeast Asia Bifurcate",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/ai-boom-and-energy-shocks-see-growth-in-southeast-asia-bifurcate"
-  },
-  {
     "title": "Chip Stocks Slide as Global Bond Anxiety Builds | The Close 8/18/2026",
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/the-close-8-18-2026-video"
   },
@@ -584,12 +592,12 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/ceo-of-cuban-backed-fort-robotics-on-500m-spac-deal-video"
   },
   {
-    "title": "Australia’s Stock Market Seen as AI Haven",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/australia-s-stock-market-seen-as-ai-haven-video"
+    "title": "UK Inflation Climbs to Four-Month High as Energy Bills Rise",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/uk-inflation-climbs-to-four-month-high-as-energy-bills-rise"
   },
   {
-    "title": "Leaning Into AI Helps VC Founders, Says Revolution's Hall",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/leaning-into-ai-helps-vc-founders-david-hall-says-video"
+    "title": "Worker Influx Lifts Hong Kong Population as Birth Slump Worsens",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/worker-influx-lifts-hong-kong-population-as-birth-slump-worsens"
   },
   {
     "title": "India’s Exports to US Hold Firm After a Year of Trump’s Tariffs",
@@ -662,14 +670,6 @@
   {
     "title": "Bessent’s Japan Yen Move Echoes Past US Currency Interventions",
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/bessent-s-japan-yen-move-echoes-past-us-currency-interventions"
-  },
-  {
-    "title": "German Investor Outlook Improves as Economy Gains Traction",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/germany-s-investor-outlook-improves-as-economy-gains-traction"
-  },
-  {
-    "title": "South African Business Confidence Edges Higher Amid War Headwind",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/south-african-business-confidence-edges-higher-amid-war-headwind"
   },
   {
     "title": "The Download: how people really use AI, and Flock’s design choices",
