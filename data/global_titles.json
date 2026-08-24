@@ -192,6 +192,14 @@
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/"
   },
   {
+    "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
+    "link": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html"
+  },
+  {
+    "title": "UPS is investing $2 billion in international, healthcare and supply chain businesses",
+    "link": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html"
+  },
+  {
     "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
     "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html"
   },
@@ -302,14 +310,6 @@
   {
     "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
     "link": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html"
-  },
-  {
-    "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
-    "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html"
-  },
-  {
-    "title": "Housing investors say this is their worst market in at least 3 years",
-    "link": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html"
   },
   {
     "title": "Shein targets $27 billion Hong Kong IPO — a fraction of its 2022 valuation",
@@ -512,76 +512,116 @@
     "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/"
   },
   {
-    "title": "MTN Climbs on Buyback Plan; Plans Iran Exit If Sanctions Lift",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/mtn-profit-rises-21-to-buy-back-375-million-of-shares"
+    "title": "Porsche Inks $1.5 Billion AI Deal With India’s Tata Consultancy",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy"
   },
   {
-    "title": "SoftBank Plans $6.3 Billion Retail Bond Sale in Japan",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/softbank-plans-record-1-trillion-retail-bond-offering-in-japan"
+    "title": "JPMorgan's Berro Says High-Grade Market Can Weather Rush",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-24/jpmorgan-s-berro-says-high-grade-market-can-weather-rush-video"
   },
   {
-    "title": "Alibaba Raises $10 Bln in Record Hong Kong Share Sale",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-24/alibaba-raises-10-bln-in-record-hong-kong-share-sale-video"
+    "title": "Eoptolink’s AI Boom Stockpiling Sends Inventory Ballooning",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/eoptolink-s-ai-boom-stockpiling-sends-inventory-ballooning"
+  },
+  {
+    "title": "Guggenheim's Walsh Would Buy a Lot of 30-Year US Treasuries at 6%",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-24/walsh-would-buy-a-lot-of-30-year-us-treasuries-at-6-video"
+  },
+  {
+    "title": "China Develops Missile to Target Planes Thousands of Miles Away",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/china-develops-missile-to-target-planes-thousands-of-miles-away"
+  },
+  {
+    "title": "Kongsberg Plans to Build Low-Cost Missiles in Europe, CEO Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/kongsberg-plans-to-build-low-cost-missiles-in-europe-ceo-says"
+  },
+  {
+    "title": "EU’s Curbs Threaten 27% of Chinese Exports to Bloc, Goldman Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/eu-s-curbs-threaten-27-of-chinese-exports-to-bloc-goldman-says"
+  },
+  {
+    "title": "Temu-Owner PDD Shares Rise as Adjusted Profit Tops Estimates",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/temu-owner-pdd-shares-rise-as-adjusted-profit-tops-estimates"
+  },
+  {
+    "title": "Nvidia’s Trillion-Dollar Chip Market Has Friends and Foes Closing In",
+    "link": "https://www.bloomberg.com/news/features/2026-08-24/nvidia-s-trillion-dollar-chip-market-has-friends-and-foes-closing-in"
   },
   {
     "title": "How the War in Ukraine Changed Modern Warfare",
     "link": "https://www.bloomberg.com/news/videos/2026-08-24/how-the-war-in-ukraine-changed-modern-warfare-video"
   },
   {
-    "title": "New Zealand Joins Global Push to Ban Under-16s From Social Media",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/new-zealand-plans-social-media-ban-for-under-16s"
+    "title": "Alibaba Executives Buy $15 Million in Shares After New Offering",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-executives-buy-15-million-in-shares-after-new-offering"
+  },
+  {
+    "title": "Dan Ives Sees Nvidia Price Hike as Bullish Overall for Tech",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-price-hike-bullish-overall-for-tech-dan-ives-video"
+  },
+  {
+    "title": "Xpeng Robot Unit to Raise $900 Million From Likes of Alibaba",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/xpeng-robot-unit-to-raise-900-million-from-likes-of-alibaba"
+  },
+  {
+    "title": "Microsoft AI Business is Concentrated With OpenAI, TikTok, Meta",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-24/microsoft-ai-business-is-concentrated-with-openai-tiktok-meta"
+  },
+  {
+    "title": "Perfect AI resumes lead employers to prioritize in-person interaction",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-24/perfect-ai-resumes-lead-employers-to-prioritize-in-person-interaction"
+  },
+  {
+    "title": "Aviva Fund Manager Urges Stock Diversification If Yields Hit 5%",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/aviva-fund-manager-urges-stock-diversification-if-yields-hit-5"
   },
   {
     "title": "Alibaba Raises $10 Billion in Record Hong Kong Share Sale",
     "link": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion"
   },
   {
-    "title": "CXMT, AI Hardware Firms Take Helm as China Earnings Enter Peak",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak"
+    "title": "ByteDance Folds AI Tools Into Doubao Super-App to Fight Tencent",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tencent"
   },
   {
-    "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video"
+    "title": "UK Digital Investment Soars to Dot-Com Boom Levels on AI Rollout",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/uk-digital-investment-soars-to-dot-com-boom-levels-on-ai-rollout"
   },
   {
-    "title": "UK Fintech Funding Drops to Lowest Level in At Least a Decade",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-23/uk-fintech-funding-drops-to-lowest-level-in-at-least-a-decade"
+    "title": "Xiaomi Develops Its Own AI Mobile Chip in Challenge to Qualcomm",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/xiaomi-develops-its-own-ai-mobile-chip-in-challenge-to-qualcomm"
   },
   {
-    "title": "Asia’s Busiest Earnings Week to Test AI Boom, China Recovery",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-23/asia-s-busiest-earnings-week-to-test-ai-boom-china-recovery"
+    "title": "Mexico GDP Bounces Back in Second Quarter Despite Trade Stress",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/mexico-gdp-bounces-back-in-second-quarter-despite-trade-stress"
   },
   {
-    "title": "Lessons From Hollywood’s Best Year Since 2019",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-23/lessons-from-hollywood-s-best-year-since-2019"
+    "title": "Trump Tariff Latest: New Trade Tensions Could Reverberate Back to US Prices",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-24/trump-tariff-latest-new-trade-tensions-could-reverberate-back-to-us-prices"
   },
   {
-    "title": "Hugging Face Gauging Interest for Potential Sale, Business Insider Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says"
+    "title": "US-Canada trade war",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-24/us-canada-trade-war"
   },
   {
-    "title": "Apple’s Foldable iPhone Details; Retail Store Changes for New Home Products",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-23/apple-s-foldable-iphone-details-retail-store-changes-for-new-home-products-mt5vjf61"
+    "title": "Canadians Brace for Economic Pain as 50% US Tariffs Take Effect",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-23/canada-turned-down-a-us-tariff-deal-now-comes-the-economic-cost"
   },
   {
-    "title": "Meta Trial: How Social Media Lawsuits Threaten Big Tech",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-23/meta-trial-how-social-media-lawsuits-threaten-big-tech"
+    "title": "China Puts Brave Face on Weak Growth in Rare Defense of Economy",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/china-puts-brave-face-on-weak-growth-in-rare-defense-of-economy"
+  },
+  {
+    "title": "Singapore’s Core Inflation Surges to Near Two-Year High",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/singapore-core-inflation-surges-to-near-two-year-high-on-energy"
   },
   {
     "title": "France’s Finance Chief Says Not Easy to Cut Tax on Big Firms",
     "link": "https://www.bloomberg.com/news/articles/2026-08-24/france-s-finance-chief-says-not-easy-to-cut-tax-on-big-firms"
   },
   {
-    "title": "Canada Rejected US Tariff Deal. Now Comes the Economic Cost",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-23/canada-turned-down-a-us-tariff-deal-now-comes-the-economic-cost"
-  },
-  {
     "title": "Molavi: Focus on Applying Iran Sanctions on Trade Allies",
     "link": "https://www.bloomberg.com/news/videos/2026-08-24/molavi-focus-on-applying-iran-sanctions-on-trade-allies-video"
-  },
-  {
-    "title": "Singapore Core Inflation Surges to Near Two-Year High on Energy",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-24/singapore-core-inflation-surges-to-near-two-year-high-on-energy"
   },
   {
     "title": "Canada Sees Long Trade War With US That May Last Beyond Midterms",
@@ -604,8 +644,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-23/fed-s-kashkari-says-treasury-market-still-working-as-it-should"
   },
   {
-    "title": "Goldman Says Chinese Easing Hopes Revive With Economy Growing 4%",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-23/goldman-says-chinese-easing-hopes-revive-with-economy-growing-4"
+    "title": "The Download: kids outlearning AI, and space travel agents",
+    "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/"
+  },
+  {
+    "title": "Kids outlearn AI—and we still don’t know why",
+    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
   },
   {
     "title": "The Download: threats from space mirrors and credit for AI drugs",
@@ -640,12 +684,12 @@
     "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
   },
   {
-    "title": "Support networks aim to help kids through the polycrisis",
-    "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/"
+    "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+    "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11"
   },
   {
-    "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-    "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/"
+    "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
+    "link": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026"
   },
   {
     "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
@@ -678,13 +722,5 @@
   {
     "title": "Two great new repairable gadgets",
     "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2"
-  },
-  {
-    "title": "HoverAir’s transforming modular drone has already been halted in the US",
-    "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo"
-  },
-  {
-    "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-    "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa"
   }
 ]
