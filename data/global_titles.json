@@ -1,5 +1,9 @@
 [
   {
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "link": "https://openai.com/index/loveholidays"
+  },
+  {
     "title": "The full stack behind abundant intelligence",
     "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
   },
@@ -116,10 +120,6 @@
     "link": "https://openai.com/index/building-an-ai-native-finance-function"
   },
   {
-    "title": "Putting frontier cyber models in more trusted hands",
-    "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
-  },
-  {
     "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
     "link": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/"
   },
@@ -190,6 +190,10 @@
   {
     "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
     "link": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/"
+  },
+  {
+    "title": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
+    "link": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html"
   },
   {
     "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
@@ -308,8 +312,8 @@
     "link": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html"
   },
   {
-    "title": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
-    "link": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html"
+    "title": "Haidilao shares jump as delivery growth and new restaurant brands boost outlook",
+    "link": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html"
   },
   {
     "title": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
@@ -424,8 +428,32 @@
     "link": "https://www.cnbc.com/2026/08/20/asia-hydrogen-trains-green-transport.html"
   },
   {
-    "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
-    "link": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html"
+    "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+    "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/"
+  },
+  {
+    "title": "Robot brain builders are pushing out of their GPT-2 era",
+    "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/"
+  },
+  {
+    "title": "Bluesky now lets you upload 10-minute long videos",
+    "link": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/"
+  },
+  {
+    "title": "QueryStory wants you to believe what AI is telling you",
+    "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/"
+  },
+  {
+    "title": "Arga Labs is building a better way to train enterprise AI agents",
+    "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/"
+  },
+  {
+    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
+  },
+  {
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
   },
   {
     "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
@@ -480,192 +508,176 @@
     "link": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/"
   },
   {
-    "title": "That fake Grand Theft Auto VI demo is actually just malware",
-    "link": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/"
+    "title": "Gates Criticizes Tech Companies for Downplaying AI’s Risks",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/bill-gates-criticizes-tech-companies-for-downplaying-ai-s-risks"
   },
   {
-    "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-    "link": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/"
+    "title": "Meta Agrees to Pay Up to $16.7 Billion in Social Media Case",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/meta-states-agree-to-settle-teen-social-media-harm-case"
   },
   {
-    "title": "Gamma acquires Accel-backed design startup Lica",
-    "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/"
+    "title": "Getting Harder for Nvidia to Compete, Says Seaport’s Goldberg",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-26/getting-harder-for-nvidia-to-compete-seaport-s-goldberg-video"
   },
   {
-    "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-    "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/"
+    "title": "MiniMax Sales Nearly Quadruple in Crowded China AI Race",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/minimax-sales-nearly-quadruple-in-crowded-race-for-chinaai-lead"
   },
   {
-    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
+    "title": "Samsung Ordered to Pay Swatch $11. 6 Million Over Copied Smartwatch Apps",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/samsung-ordered-to-pay-swatch-11-6-million-over-copied-smartwatch-apps"
   },
   {
-    "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
-    "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/"
-  },
-  {
-    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-    "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/"
-  },
-  {
-    "title": "Horizons Middle East & Africa 8/26/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-26/horizons-middle-east-africa-8-26-2026-video"
-  },
-  {
-    "title": "Blackbird Ventures on A$1.05B Fund Raise",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-26/blackbird-ventures-on-a-1-05b-fund-raise-video"
-  },
-  {
-    "title": "Huawei Courts Egypt With AI Chips in Test of US Tech Diplomacy",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-amd-microsoft"
-  },
-  {
-    "title": "BNY Executive Vice Chair on Australia Business, AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-26/bny-executive-chair-on-australia-business-ai-video"
-  },
-  {
-    "title": "Revolut Joins Global Stablecoin Race With Euro-Backed Token",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/revolut-joins-global-stablecoin-race-with-euro-backed-token"
-  },
-  {
-    "title": "Meta and State Attorneys Discuss Possible Mid-Trial Settlement",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-26/meta-and-state-attorneys-discuss-mid-trial-settlement-video"
-  },
-  {
-    "title": "India's Finance Rich List: Top Five Billionaires",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-26/india-s-finance-rich-list-top-five-billionaires-video"
-  },
-  {
-    "title": "WiseTech Shares Slide After Revenue Growth Underwhelms Investors",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/ai-revamp-at-wisetech-leads-to-output-surge-end-of-manual-code"
-  },
-  {
-    "title": "Mindrank AI CEO on Business Strategy, AI Drug Discovery",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-26/mindrank-ai-ceo-on-business-strategy-ai-drug-discovery-video"
-  },
-  {
-    "title": "Jack Ma Buys Alibaba Stock to Show Support for AI Buildout",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/jack-ma-joins-top-executives-in-buying-alibaba-stock-scmp-says"
+    "title": "Alibaba Releases Smaller, Cost-Effective Qwen AI Model",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/alibaba-releases-smaller-cost-effective-qwen-ai-model"
   },
   {
     "title": "Meta, States Have Discussed Settling Teen Social Media Case",
     "link": "https://www.bloomberg.com/news/articles/2026-08-26/meta-states-have-discussed-settling-teen-social-media-harm-case"
   },
   {
-    "title": "AI Will Deflate Value of IT Work by Up to 25%, Hexaware CEO Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/ai-will-deflate-value-of-it-work-by-up-to-25-hexaware-ceo-says"
+    "title": "Bath & Body Works Narrows Guidance Amid Turnaround Push",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/bath-body-works-narrows-guidance-amid-turnaround-push"
   },
   {
-    "title": "AI Startup That Upends Junior Bankers’ Work Sets Up in Singapore",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/ai-startup-that-upends-junior-bankers-work-sets-up-in-singapore"
+    "title": "Stocks Bounce Before Nvidia as Bessent Faces Pushback | Open Interest 8/25/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-25/open-interest-8-25-2026-video"
   },
   {
-    "title": "Jarden Loses Court Bid for Phone Data From Bankers Defecting to Barrenjoey",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/jarden-loses-court-bid-for-phone-data-from-bankers-defecting-to-barrenjoey"
+    "title": "Google’s Pixel 11 Pro Can’t Compete With Superior Chinese Flagship Phones",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-26/google-s-pixel-11-pro-can-t-compete-with-superior-chinese-flagship-phones"
   },
   {
-    "title": "Ex-Googlers Are Planning AI-Human Hybrid to Prevent Rogue Models",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/former-google-researchers-want-to-keep-humans-in-ai-driver-s-seat"
+    "title": "Google’s Gemini AI Is Changing How Deutsche Bank Assesses Credit Risk",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-26/google-s-gemini-ai-is-changing-how-deutsche-bank-assesses-credit-risk"
   },
   {
-    "title": "Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Growth",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/korean-ai-startup-wrtn-raises-funds-at-870-million-value-to-fund-global-growth"
+    "title": "Ashley Flowers’ ‘Crime Junkie’ Podcast Empire, Audiochuck, Faces Reckoning",
+    "link": "https://www.bloomberg.com/news/features/2026-08-26/ashley-flowers-crime-junkie-podcast-empire-audiochuck-faces-reckoning"
   },
   {
-    "title": "OpenAI Data Center Executive Chris Malone Departs the AI Startup",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/openai-data-center-executive-chris-malone-departs-the-ai-startup"
+    "title": "Huawei AI Data Center Bid in Egypt Spurs US to Mull Counter",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-amd-microsoft"
   },
   {
-    "title": "Stocks Rise as Oil and Treasury Yields Fall | The Close 8/25/2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-25/the-close-8-25-2026-video"
+    "title": "Einride Founders’ VC Firm Targets Ten Unicorns in Ten Years",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/einride-founders-vc-firm-targets-ten-unicorns-in-ten-years"
   },
   {
-    "title": "McGraw Hill CEO Philip Moyer on AI’s Impact in Education",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-25/mcgraw-hill-ceo-philip-moyer-on-ai-s-impact-in-education-video"
+    "title": "Huawei Pitches Egypt on Building AI Data Centers",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-26/huawei-pitches-egypt-on-building-ai-data-centers-video"
   },
   {
-    "title": "Former E*Trade CEO on Private Markets, Rise of AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-25/former-e-trade-ceo-on-private-markets-rise-of-ai-video"
+    "title": "How AI Is Making Cyberattacks Harder to Stop",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/how-ai-is-making-cyberattacks-harder-to-stop"
   },
   {
-    "title": "Thailand Holds Rate, Will Stay Accommodative to Lift Growth",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/thailand-holds-rate-unchanged-for-third-meeting-to-revive-growth"
+    "title": "Nvidia Results on Deck, Bessent Bounce Begins to Emerge | Opening Trade 8/26/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-26/the-opening-trade-8-26-2026-video"
+  },
+  {
+    "title": "Malaysia to Regulate E-Commerce Platforms Following Complaints",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/malaysia-to-regulate-e-commerce-platforms-following-complaints"
+  },
+  {
+    "title": "Thailand’s Power Giant Sees Revenue Up 15% on New Plants, AI Bet",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/thailand-s-power-giant-sees-revenue-up-15-on-new-plants-ai-bet"
+  },
+  {
+    "title": "China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
+  },
+  {
+    "title": "Key US Inflation Gauge Posts Muted Advance, Spending Stalls",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/key-us-inflation-gauge-posts-muted-advance-spending-stalls"
+  },
+  {
+    "title": "La Argentina de Milei va de la euforia al estancamiento",
+    "link": "https://www.bloomberg.com/news/features/2026-08-26/la-argentina-de-milei-va-de-la-euforia-al-estancamiento-mta4a17z"
+  },
+  {
+    "title": "Brazil Inflation Dips Into Target Range Ahead of Elections",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/brazil-inflation-dips-into-tolerance-range-setting-up-rate-cut"
+  },
+  {
+    "title": "US Economy Expands 1.5% With Spending, Investment Revised Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/us-economy-expands-1-5-with-spending-investment-revised-up"
+  },
+  {
+    "title": "Uzbek Central Bank Seeks Goldman, Blackrock Input on Reserves",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/uzbek-central-bank-seeks-goldman-blackrock-input-on-reserves"
+  },
+  {
+    "title": "Uzbekistan Central Bank Chief Sees Chance of Rate Cut This Year",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/uzbekistan-central-bank-chief-sees-chance-of-rate-cut-this-year"
+  },
+  {
+    "title": "TD (TD) Says Canada Needs Tax Reform to Unlock $1.5 Trillion Investment Boom",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/td-td-says-canada-needs-tax-reform-to-unlock-1-5-trillion-investment-boom"
+  },
+  {
+    "title": "Container Ships Returning to Red Sea",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-26/container-ships-returning-to-red-sea"
+  },
+  {
+    "title": "Artificial Intelligence Investment Now Competes With Governments for Capital",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-26/artificial-intelligence-investment-now-competes-with-governments-for-capital"
+  },
+  {
+    "title": "Argentina Economy: Milei Magic Fades on Slowing Recovery",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/argentina-economy-milei-magic-fades-on-slowing-recovery"
+  },
+  {
+    "title": "Warsh’s Peers to Highlight Global Inflation Risk at Jackson Hole",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/warsh-s-peers-to-highlight-global-inflation-risk-at-jackson-hole"
+  },
+  {
+    "title": "The UK Is Getting More Efficient and It Has Little to Do With AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/britain-s-becoming-more-efficient-and-it-s-little-to-do-with-ai"
+  },
+  {
+    "title": "India Takes Growth Pitch Abroad as Foreign Money Pulls Back",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/india-takes-growth-pitch-abroad-as-foreign-money-pulls-back"
   },
   {
     "title": "Indonesia’s Destry Vows Independence as Central Bank Chief",
     "link": "https://www.bloomberg.com/news/articles/2026-08-26/destry-may-serve-full-five-year-term-as-bank-indonesia-governor"
   },
   {
-    "title": "UK Households Face Highest Winter Energy Costs in 3 Years",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/uk-households-face-highest-winter-bills-since-january-2024"
+    "title": "German Exporters Most Upbeat in More Than 4 Years, Survey Shows",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/german-exporters-most-upbeat-in-more-than-4-years-survey-shows"
   },
   {
-    "title": "ECB’s Schnabel Says Rates Must Rise More on Resilient Economy",
+    "title": "French Showdown Over Budget Will Be Macron’s Riskiest Yet",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/french-showdown-over-next-budget-will-be-macron-s-riskiest-yet"
+  },
+  {
+    "title": "Thailand Keeps Rate ‘Accommodative’ With Room to Cut in a Crisis",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/thailand-holds-rate-unchanged-for-third-meeting-to-revive-growth"
+  },
+  {
+    "title": "ECB’s Schnabel Says Rates Must Rise More on Strong Economy",
     "link": "https://www.bloomberg.com/news/articles/2026-08-26/ecb-s-schnabel-says-rates-must-rise-more-on-resilient-economy"
   },
   {
-    "title": "French Showdown Over Next Budget Will Be Macron’s Riskiest Yet",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/french-showdown-over-next-budget-will-be-macron-s-riskiest-yet"
+    "title": "UK Energy Price Cap Will Rise By 4% From October, Ofgem Said",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/uk-households-face-highest-winter-bills-since-january-2024"
   },
   {
     "title": "Australia’s Unexpected Inflation Overshoot Boosts Rate-Hike Case",
     "link": "https://www.bloomberg.com/news/articles/2026-08-26/australia-core-inflation-comes-in-stronger-than-expected-in-july"
   },
   {
-    "title": "India Rice Exporters See Iran Demand Defying Sanctions Risk",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/india-exports-face-little-risk-from-tougher-us-sanctions-on-iran"
+    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/"
   },
   {
-    "title": "Japan Business Service Prices Accelerate, Backing BOJ Hike Case",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/japan-business-service-prices-accelerate-backing-boj-hike-case"
+    "title": "Raised on AI",
+    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
   },
   {
-    "title": "Bank of Thailand Seen Extending Rate Pause After Slump in Second-Quarter Growth",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/bank-of-thailand-seen-extending-rate-pause-after-slump-in-second-quarter-growth"
-  },
-  {
-    "title": "Fed’s Barkin Says Rising US Debt Will Lead to Eventual Reckoning",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/fed-s-barkin-says-rising-us-debt-will-lead-to-eventual-reckoning"
-  },
-  {
-    "title": "BOK to Weigh Back-to-Back Hike as Growth, Inflation Remain Firm",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/bok-to-weigh-back-to-back-hike-as-growth-inflation-remain-firm"
-  },
-  {
-    "title": "Canada Is Hitting Hundreds of US-Made Items With Tariffs: Read the List",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/canada-is-hitting-hundreds-of-us-made-items-with-tariffs-read-the-list"
-  },
-  {
-    "title": "IMF Chief Urges Governments to Tackle Rising Fiscal Risks",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/imf-chief-urges-governments-to-tackle-rising-fiscal-risks"
-  },
-  {
-    "title": "Hungary Cuts Key Interest Rate, Reviews Inflation Goal",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/hungary-cuts-interest-rate-again-with-inflation-at-decade-low"
-  },
-  {
-    "title": "UK Household Inflation Worries Pick Up Again in August",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/uk-household-inflation-worries-pick-up-again-in-august"
-  },
-  {
-    "title": "(USD: ZWG) Citigroup Sees Zimbabwe Economy Turnaround in Break With Past",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/-usd-zwg-citigroup-sees-zimbabwe-economy-turnaround-in-break-with-past"
-  },
-  {
-    "title": "Warsh de Fed enfrenta prueba de comunicación en Jackson Hole",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/warsh-de-fed-enfrenta-prueba-de-comunicacion-en-jackson-hole"
-  },
-  {
-    "title": "Jackson Hole Offers Warsh a Prime Stage to Rebut His Critics",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/jackson-hole-offers-warsh-high-profile-slot-to-rebut-his-critics"
-  },
-  {
-    "title": "India’s RBI Sees Resilient Economy as Growth Momentum Holds",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/india-s-rbi-sees-resilient-economy-as-growth-momentum-holds"
-  },
-  {
-    "title": "Fed’s Collins Says Holding Rates Hangs on Inflation Progress",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/fed-s-collins-says-holding-rates-hangs-on-inflation-progress"
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"
   },
   {
     "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
@@ -696,16 +708,28 @@
     "link": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/"
   },
   {
-    "title": "Taking your temperature from the inside",
-    "link": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/"
+    "title": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
+    "link": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement"
   },
   {
-    "title": "Seeing through murky waters",
-    "link": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/"
+    "title": "Ring says its new encryption limits what it can give police",
+    "link": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement"
   },
   {
-    "title": "Your brain on AI",
-    "link": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/"
+    "title": "Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks",
+    "link": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking"
+  },
+  {
+    "title": "The second-generation Bose QuietComfort Headphones are good, but don’t stand out",
+    "link": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review"
+  },
+  {
+    "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"
+  },
+  {
+    "title": "Ikea’s Xbox collection includes a giant thumbstick stool",
+    "link": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool"
   },
   {
     "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
@@ -722,29 +746,5 @@
   {
     "title": "The Witcher 3 is getting a remaster",
     "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer"
-  },
-  {
-    "title": "Dreame’s dream of a rocket-powered car is dead",
-    "link": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down"
-  },
-  {
-    "title": "Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories",
-    "link": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories"
-  },
-  {
-    "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
-    "link": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale"
-  },
-  {
-    "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-    "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley"
-  },
-  {
-    "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-    "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels"
-  },
-  {
-    "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
-    "link": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17"
   }
 ]
