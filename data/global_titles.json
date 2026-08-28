@@ -12,12 +12,12 @@
     "link": "https://openai.com/index/expanding-our-presence-in-brazil"
   },
   {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-  },
-  {
     "title": "Learning never stops: How AI makes learning continuous",
     "link": "https://openai.com/index/learning-never-stops"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
   },
   {
     "title": "The Hugging Face incident and the road ahead",
@@ -424,6 +424,18 @@
     "link": "https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html"
   },
   {
+    "title": "Is the best way to watch a movie on a pair of sunglasses?",
+    "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/"
+  },
+  {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+  },
+  {
     "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
     "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/"
   },
@@ -492,20 +504,20 @@
     "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
   },
   {
-    "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
-    "link": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/"
+    "title": "BMO US President: See growth beyond AI plane",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-28/bmo-us-president-see-growth-beyond-ai-plane-video"
   },
   {
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
+    "title": "Cisco President Patel Makes the Case for AI in the Classroom",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-28/cisco-s-patel-makes-the-case-for-ai-in-the-classroom-video"
   },
   {
-    "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
-    "link": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/"
-  },
-  {
-    "title": "Quantum Firm Pasqal Shares Jump 43% in Debut Via SPAC Merger",
+    "title": "Quantum Firm Pasqal Shares Jump 95% in Debut Via SPAC Merger",
     "link": "https://www.bloomberg.com/news/articles/2026-08-28/quantum-computing-firm-pasqal-jumps-52-in-debut-via-spac-merger"
+  },
+  {
+    "title": "S&P 500 Falls on Tech Selloff as Warsh Vows to Fight Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/equity-futures-drift-before-warsh-speech-amid-tech-profit-taking"
   },
   {
     "title": "Andreessen Horowitz Raises $1.1 Billion for AI Infrastructure Fund",
@@ -530,10 +542,6 @@
   {
     "title": "Nvidia-Backed Lambda Inks $1 Billion Private Debt for Chip Deal",
     "link": "https://www.bloomberg.com/news/articles/2026-08-28/nvidia-backed-lambda-inks-1-billion-private-debt-for-chip-deal"
-  },
-  {
-    "title": "Tech Selloff Drags S&P 500 After Warsh Vows to Fight Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/equity-futures-drift-before-warsh-speech-amid-tech-profit-taking"
   },
   {
     "title": "Meta’s Newspaper Ad Blitz Ups Pressure on Social Media Rivals",
@@ -576,12 +584,28 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-28/us-stock-futures-today-affirm-autodesk-gap-paypal-solstice"
   },
   {
-    "title": "Chinese Chipmaker CXMT’s Sales Soar Amid Memory Crunch",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/chinese-chipmaker-cxmt-s-sales-jump-10-fold-as-ai-demand-soars"
+    "title": "Warsh’s Inflation Warning Sets Up September Showdown for the Fed",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/warsh-s-inflation-warning-sets-up-september-showdown-for-the-fed"
   },
   {
-    "title": "How a Georgian Bank Became One of Europe’s Top-Performing Stocks",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/how-a-georgian-bank-became-one-of-europe-s-top-performing-stocks"
+    "title": "France Dodges Rating Rebuke as Fitch Sticks With Stable Outlook",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/france-dodges-rating-rebuke-as-fitch-sticks-with-stable-outlook"
+  },
+  {
+    "title": "Nigeria Outlook Raised to Positive by Moody’s on Stronger Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/nigeria-outlook-raised-to-positive-by-moody-s-on-stronger-growth"
+  },
+  {
+    "title": "Moody’s Downgrades Senegal as Power Rift Amplifies Debt Risks",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/moody-s-downgrades-senegal-as-power-rift-amplifies-debt-risks"
+  },
+  {
+    "title": "Wall Street Piles On Rate-Hike Bets as Warsh Renews Hawkish Tone",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/wall-street-piles-on-rate-hike-bets-as-warsh-renews-hawkish-tone"
+  },
+  {
+    "title": "Warsh Says Inflation Isn’t Slowing, Vows to Reach 2% Target",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-28/warsh-says-inflation-isn-t-slowing-vows-to-hit-to-2-target"
   },
   {
     "title": "Brazil Gets Bad News on Jobs and Defaults in Alert for Lula",
@@ -640,30 +664,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-28/ecb-s-dolenc-sees-good-case-to-hike-interest-rates-in-september"
   },
   {
-    "title": "France Plans Hundreds of Millions of Euros in Farm Aid",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/france-plans-urgent-aid-for-farmers-hit-by-heat-waves"
-  },
-  {
-    "title": "US Consumer Sentiment Drops, Year-Ahead Inflation Views Fall",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/us-consumer-sentiment-drops-year-ahead-inflation-views-improve"
-  },
-  {
-    "title": "Key Takeaways From Fed Chairman Warsh’s Jackson Hole Speech",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/key-takeaways-from-fed-chairman-warsh-s-jackson-hole-speech"
-  },
-  {
-    "title": "Canada Economy Grew at 3.3% Pace in Second Quarter: See the Data",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/canada-economy-grew-at-3-3-pace-in-second-quarter-see-the-data"
-  },
-  {
-    "title": "Canada’s Economy Grows 3.3% as Exports, Investment Rebound",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/canada-economy-grows-3-3-in-second-quarter-fastest-since-23"
-  },
-  {
-    "title": "Poland Sets Election-Year Budget With Wider Deficit, Yields Rise",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-28/poland-walks-fiscal-tightrope-as-it-unveils-election-year-budget"
-  },
-  {
     "title": "The Download: a secretive antiaging drug and joining virtual power plants",
     "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
   },
@@ -704,6 +704,14 @@
     "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
   },
   {
+    "title": "Google further buries search results under AI mode",
+    "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"
+  },
+  {
+    "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+    "link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices"
+  },
+  {
     "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
     "link": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale"
   },
@@ -734,13 +742,5 @@
   {
     "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
     "link": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream"
-  },
-  {
-    "title": "The biggest video game of all time looks like a movie",
-    "link": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie"
-  },
-  {
-    "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
-    "link": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign"
   }
 ]
