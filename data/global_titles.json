@@ -20,12 +20,12 @@
     "link": "https://openai.com/index/expanding-our-presence-in-brazil"
   },
   {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops"
-  },
-  {
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops"
   },
   {
     "title": "The Hugging Face incident and the road ahead",
@@ -116,6 +116,10 @@
     "link": "https://openai.com/index/builders-guide-to-gpt-5-6"
   },
   {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "link": "https://openai.com/index/previewing-ultrafast"
+  },
+  {
     "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/"
   },
@@ -186,6 +190,14 @@
   {
     "title": "GeForce NOW Shakes Up August With 26 New Games",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/"
+  },
+  {
+    "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
+    "link": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html"
+  },
+  {
+    "title": "Trump reportedly plans to announce new drug pricing deals with nearly a dozen drugmakers",
+    "link": "https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html"
   },
   {
     "title": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
@@ -298,14 +310,6 @@
   {
     "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
     "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html"
-  },
-  {
-    "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-    "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html"
-  },
-  {
-    "title": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
-    "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html"
   },
   {
     "title": "India’s economy expands 7.8% in fiscal first quarter, beating estimates",
@@ -424,11 +428,63 @@
     "link": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html"
   },
   {
-    "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+  },
+  {
+    "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+    "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/"
+  },
+  {
+    "title": "Microsoft tests fix for latest hours-long Outlook outage",
+    "link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/"
+  },
+  {
+    "title": "Kalshi bans George Santos for life over State of the Union bets",
+    "link": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/"
+  },
+  {
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+  },
+  {
+    "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+    "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/"
+  },
+  {
+    "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
+    "link": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/"
+  },
+  {
+    "title": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+    "link": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/"
+  },
+  {
+    "title": "VLC crosses 7 billion downloads",
+    "link": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"
+  },
+  {
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
+  },
+  {
+    "title": "How AI could make it harder for governments to use hacking tools",
+    "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/"
+  },
+  {
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+  },
+  {
+    "title": "MapQuest’s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
+    "link": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
+  },
+  {
+    "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
     "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
   },
   {
-    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "title": "The US is building barriers around drones and robots, but China has scale to get around them",
     "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
   },
   {
@@ -452,64 +508,76 @@
     "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
   },
   {
-    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+    "title": "Radiant Wins $750 Million US Army Nuclear Reactor Deal",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/radiant-wins-750-million-us-army-nuclear-reactor-deal-video"
   },
   {
-    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-    "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
+    "title": "Anthropic IPO Could Open AI Listings Floodgates: Madrona",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/anthropic-ipo-could-open-ai-listings-floodgates-madrona-video"
   },
   {
-    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
+    "title": "Nvidia Deepens Chip Ties With $3.5 Billion MediaTek Bet | Bloomberg Tech 8/31/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/bloomberg-tech-8-31-2026-video"
   },
   {
-    "title": "Hollywood celebs are getting into microdrama apps",
-    "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/"
+    "title": "How Apple’s New CEO Will Shape the iPhone Maker",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/how-apple-s-new-ceo-will-shape-the-iphone-maker-video"
   },
   {
-    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-    "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/"
+    "title": "Apollo Funds to Sell Data Center Cooling Firm Kelvion to SLB",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/slb-to-buy-data-center-cooling-firm-kelvion-for-3-4-billion"
   },
   {
-    "title": "Nvidia’s AI advantage is moving beyond the GPU",
-    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+    "title": "Forrester CEO Sizes Up the AI Boom",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/forrester-ceo-sizes-up-the-ai-boom-video"
   },
   {
-    "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-    "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/"
+    "title": "AI Billionaire-Backed Group Launches Pro-Data Center Ad Blitz",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/ai-billionaire-backed-group-launches-pro-data-center-ad-blitz"
   },
   {
-    "title": "Is the best way to watch a movie on a pair of sunglasses?",
-    "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/"
+    "title": "AI Adoption Is Finally Showing Up in Fundamentals",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/ai-adoption-is-finally-showing-up-in-fundamentals-video"
   },
   {
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+    "title": "An Exclusive Interview with Jensen Huang on Nvidia’s AI Future | Open Interest 8/31/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/open-interest-8-31-2026-video"
   },
   {
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+    "title": "Anthropic’s Mega-IPO Plan Looms Over Packed US Listing Calendar",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/anthropic-s-mega-ipo-looms-over-packed-listing-calendar-video"
   },
   {
-    "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
-    "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/"
+    "title": "Apple’s Phil Schiller Steps Down from Running App Store and Product Events",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-running-app-store-and-product-events"
   },
   {
-    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
-  },
-  {
-    "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-    "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/"
+    "title": "Nvidia Makes $3.5 Billion Bet on MediaTek",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/nvidia-makes-3-5-billion-bet-on-mediatek-video"
   },
   {
     "title": "Nvidia to Invest $3.5 Billion in Chipmaker MediaTek",
     "link": "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek"
   },
   {
-    "title": "Nvidia Makes $3.5 Billion Bet on MediaTek",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-31/nvidia-makes-3-5-billion-bet-on-mediatek-video"
+    "title": "Prosus’ Brazil Unit Files Complaint Against Chinese Rival",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/brazil-s-top-delivery-app-files-complaint-against-chinese-rival"
+  },
+  {
+    "title": "AI Cuts Newell Marketing Costs 80%",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/ai-cuts-newell-marketing-costs-80-video"
+  },
+  {
+    "title": "Apple’s Cook Says He ‘Will Miss This Work’ in Final Memo as CEO",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/apple-s-cook-says-he-will-miss-this-work-as-he-leaves-ceo-role"
+  },
+  {
+    "title": "Poland Probing if Fire at Drone Facility Is an Act of Terror",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/polish-intelligence-probes-fire-at-top-drone-firm-wb-electronics"
+  },
+  {
+    "title": "We Accelerate Every AI Model in the World, Huang Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/we-accelerate-every-ai-model-in-the-world-huang-says-video"
   },
   {
     "title": "AcadeMedia Sees Parent Support as Shield Against School Reforms",
@@ -520,68 +588,20 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-31/nvidia-partnership-with-mediatek-expands-huang-says-video"
   },
   {
-    "title": "Investors Assess Warsh's Remarks; US, Iran Exchange Attacks | Bloomberg Brief 8/31/26",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-31/bloomberg-brief-8-31-26-video"
+    "title": "New Zealand Set to Raise Rates Again to Counter Inflation Threat",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/new-zealand-set-to-raise-rates-again-to-counter-inflation-threat"
   },
   {
-    "title": "Nvidia Investing $3.5 Billion in Chipmaker MediaTek",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-31/nvidia-investing-3-5-billion-in-chipmaker-mediatek-video"
+    "title": "Canada Is Hitting Hundreds of US-Made Items With Tariffs: Read the List",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/canada-is-hitting-hundreds-of-us-made-items-with-tariffs-read-the-list"
   },
   {
-    "title": "Z.AI Misses Lofty Sales Estimates As China AI Brawl Worsens",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/z-ai-sales-miss-estimates-after-china-s-ai-price-war-weighs"
+    "title": "Bessent Spoke With Druckenmiller After Mentor Criticized Him",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-talked-with-druckenmiller-touts-us-debt-outperformance"
   },
   {
-    "title": "Brazil’s Top Delivery App Files Complaint Against Chinese Rival",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/brazil-s-top-delivery-app-files-complaint-against-chinese-rival"
-  },
-  {
-    "title": "LG Energy Signs Lithium-Supply Deal With Smackover in Arkansas",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/lg-energy-signs-lithium-supply-deal-with-smackover-in-arkansas"
-  },
-  {
-    "title": "Apollo Funds to Sell Data Center Cooling Firm Kelvion to SLB",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/slb-to-buy-data-center-cooling-firm-kelvion-for-3-4-billion"
-  },
-  {
-    "title": "Polish Intelligence Probes Fire at Top Drone Firm WB Electronics",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/polish-intelligence-probes-fire-at-top-drone-firm-wb-electronics"
-  },
-  {
-    "title": "Saudi AI Firm Humain, Applied Intuition Partner on Self-Driving Trucks",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/saudi-ai-firm-humain-applied-intuition-partner-on-self-driving-trucks"
-  },
-  {
-    "title": "Anthropic Legal Fight With Pentagon Shows Shifting Politics of AI",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-31/anthropic-legal-fight-with-pentagon-shows-shifting-politics-of-ai"
-  },
-  {
-    "title": "ChatGPT, Reddit (RDDT), Roblox (RBLX) Face EU Digital Services Act Rules",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/chatgpt-reddit-rddt-roblox-rblx-face-eu-digital-services-act-rules"
-  },
-  {
-    "title": "Huawei Profit Decline Widens After Memory Crunch Takes Toll",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/huawei-profit-decline-widens-after-memory-crunch-takes-toll"
-  },
-  {
-    "title": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/china-rebukes-anthropic-sets-terms-for-key-us-china-ai-dialogue"
-  },
-  {
-    "title": "SK Hynix Weighs Japan Memory Plant Deal to Supply AI Boom",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/sk-hynix-weighs-japan-memory-fab-partnership-to-supply-ai-boom"
-  },
-  {
-    "title": "India Offers Chip Design, Gear Subsidy From $13.4 Billion Fund",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/india-offers-chip-design-gear-subsidy-from-13-4-billion-fund"
-  },
-  {
-    "title": "Singapore Plans $173 Million in Fintech Funding Over Three Years",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/singapore-plans-173-million-in-fintech-funding-over-three-years"
-  },
-  {
-    "title": "PetroChina Profits Point to Nimbler Future Post-Peak Oil Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-30/petrochina-first-half-profit-rises-22-on-higher-oil-prices"
+    "title": "Trump’s Latest Tariffs: How He’s Keeping His Trade Wall in Place",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/trump-s-latest-tariffs-how-he-s-keeping-his-trade-wall-in-place"
   },
   {
     "title": "Chile Economic Data Disappoint as Storms Add to Copper-Mine Woes",
@@ -648,20 +668,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-31/productores-del-mercosur-temen-competencia-de-europa-mtgrrsf6"
   },
   {
-    "title": "South American Producers Fret Over New Rivals From EU Trade Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/south-american-producers-fret-over-new-rivals-from-eu-trade-deal"
-  },
-  {
-    "title": "Japan’s Firms Hire Foreigners Even as Takaichi Tightens Rules",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/japan-s-firms-hire-foreigners-even-as-takaichi-tightens-rules"
-  },
-  {
-    "title": "Modi’s Developed-Nation Dream Strains Amid India Growth Gap",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-30/modi-s-developed-nation-dream-strains-against-india-s-growth-gap"
-  },
-  {
-    "title": "Bessent Expects BOJ to ‘Do the Right Thing’ on Policy",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-expects-boj-to-do-the-right-thing-on-monetary-policy"
+    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
   },
   {
     "title": "The Download: a secretive antiaging drug and joining virtual power plants",
@@ -700,11 +708,31 @@
     "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"
   },
   {
-    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-    "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
+    "title": "Car owners want tech they can ignore",
+    "link": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition"
   },
   {
-    "title": "New York governor to 3D printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;",
+    "title": "Phil Schiller is leaving his biggest jobs at Apple",
+    "link": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down"
+  },
+  {
+    "title": "Markiplier is now GoPro’s biggest shareholder",
+    "link": "https://www.theverge.com/tech/986847/markiplier-gopro-investor"
+  },
+  {
+    "title": "Read Tim Cook&#8217;s final message to Apple staff as CEO",
+    "link": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff"
+  },
+  {
+    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
+  },
+  {
+    "title": "Sony’s WH-1000XM5 headphones are back down to their lowest price",
+    "link": "https://www.theverge.com/gadgets/986647/sony-wh1000xm5-headphones-nintendo-switch-2-matic-sonos-deal-sale"
+  },
+  {
+    "title": "New York governor to 3D-printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;",
     "link": "https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response"
   },
   {
@@ -718,29 +746,5 @@
   {
     "title": "Instagram cracks down on AI accounts pretending to be human",
     "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
-  },
-  {
-    "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
-    "link": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review"
-  },
-  {
-    "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
-    "link": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3"
-  },
-  {
-    "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
-    "link": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch"
-  },
-  {
-    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
-  },
-  {
-    "title": "Chess.com launched a poker site, and it’s planning even more classic games",
-    "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit"
-  },
-  {
-    "title": "China’s robots race ahead",
-    "link": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race"
   }
 ]
