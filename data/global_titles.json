@@ -1,5 +1,9 @@
 [
   {
+    "title": "A milestone in expanding access to AI",
+    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+  },
+  {
     "title": "Our decision on Cursor following its acquisition by SpaceX",
     "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
   },
@@ -112,10 +116,6 @@
     "link": "https://openai.com/index/builders-guide-to-gpt-5-6"
   },
   {
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "link": "https://openai.com/index/previewing-ultrafast"
-  },
-  {
     "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/"
   },
@@ -186,6 +186,10 @@
   {
     "title": "GeForce NOW Shakes Up August With 26 New Games",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/"
+  },
+  {
+    "title": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
+    "link": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html"
   },
   {
     "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
@@ -304,8 +308,12 @@
     "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html"
   },
   {
-    "title": "Why some of America's biggest brands are losing ground in China",
-    "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html"
+    "title": "India’s economy expands 7.8% in fiscal first quarter, beating estimates",
+    "link": "https://www.cnbc.com/2026/08/31/india-economy-gdp-energy-el-nino.html"
+  },
+  {
+    "title": "Russia preparing 'massive strikes' on Ukraine's energy sites after deadliest attack of the year",
+    "link": "https://www.cnbc.com/2026/08/31/russia-massive-strikes-ukraine-energy-infrastructure.html"
   },
   {
     "title": "India’s largest private lender HDFC Bank sees shares rise after CEO announces surprise exit",
@@ -416,12 +424,8 @@
     "link": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html"
   },
   {
-    "title": "CNBC Daily Open: Washington escalates on two fronts; Nvidia earnings in focus",
-    "link": "https://www.cnbc.com/2026/08/25/trump-bessent-us-sanctions-iran-canada-tariffs-nvidia-.html"
-  },
-  {
-    "title": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
-    "link": "https://www.cnbc.com/2026/08/24/cnbcs-the-china-connection-newsletter-piling-into-human-skills-ai.html"
+    "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+    "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
   },
   {
     "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -500,48 +504,140 @@
     "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/"
   },
   {
-    "title": "More Americans oppose police license plate cameras than support them: survey",
-    "link": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/"
+    "title": "Nvidia to Invest $3.5 Billion in Chipmaker MediaTek",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek"
+  },
+  {
+    "title": "Nvidia Makes $3.5 Billion Bet on MediaTek",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/nvidia-makes-3-5-billion-bet-on-mediatek-video"
+  },
+  {
+    "title": "AcadeMedia Sees Parent Support as Shield Against School Reforms",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/academedia-sees-parent-support-as-shield-against-school-reforms"
+  },
+  {
+    "title": "Nvidia Makes MediaTek Partnership Even Bigger, Huang Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/nvidia-partnership-with-mediatek-expands-huang-says-video"
+  },
+  {
+    "title": "Investors Assess Warsh's Remarks; US, Iran Exchange Attacks | Bloomberg Brief 8/31/26",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/bloomberg-brief-8-31-26-video"
+  },
+  {
+    "title": "Nvidia Investing $3.5 Billion in Chipmaker MediaTek",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-31/nvidia-investing-3-5-billion-in-chipmaker-mediatek-video"
+  },
+  {
+    "title": "Z.AI Misses Lofty Sales Estimates As China AI Brawl Worsens",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/z-ai-sales-miss-estimates-after-china-s-ai-price-war-weighs"
+  },
+  {
+    "title": "Brazil’s Top Delivery App Files Complaint Against Chinese Rival",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/brazil-s-top-delivery-app-files-complaint-against-chinese-rival"
+  },
+  {
+    "title": "LG Energy Signs Lithium-Supply Deal With Smackover in Arkansas",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/lg-energy-signs-lithium-supply-deal-with-smackover-in-arkansas"
+  },
+  {
+    "title": "Apollo Funds to Sell Data Center Cooling Firm Kelvion to SLB",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/slb-to-buy-data-center-cooling-firm-kelvion-for-3-4-billion"
+  },
+  {
+    "title": "Polish Intelligence Probes Fire at Top Drone Firm WB Electronics",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/polish-intelligence-probes-fire-at-top-drone-firm-wb-electronics"
+  },
+  {
+    "title": "Saudi AI Firm Humain, Applied Intuition Partner on Self-Driving Trucks",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/saudi-ai-firm-humain-applied-intuition-partner-on-self-driving-trucks"
+  },
+  {
+    "title": "Anthropic Legal Fight With Pentagon Shows Shifting Politics of AI",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-31/anthropic-legal-fight-with-pentagon-shows-shifting-politics-of-ai"
+  },
+  {
+    "title": "ChatGPT, Reddit (RDDT), Roblox (RBLX) Face EU Digital Services Act Rules",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/chatgpt-reddit-rddt-roblox-rblx-face-eu-digital-services-act-rules"
+  },
+  {
+    "title": "Huawei Profit Decline Widens After Memory Crunch Takes Toll",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/huawei-profit-decline-widens-after-memory-crunch-takes-toll"
+  },
+  {
+    "title": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/china-rebukes-anthropic-sets-terms-for-key-us-china-ai-dialogue"
   },
   {
     "title": "SK Hynix Weighs Japan Memory Plant Deal to Supply AI Boom",
     "link": "https://www.bloomberg.com/news/articles/2026-08-31/sk-hynix-weighs-japan-memory-fab-partnership-to-supply-ai-boom"
   },
   {
+    "title": "India Offers Chip Design, Gear Subsidy From $13.4 Billion Fund",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/india-offers-chip-design-gear-subsidy-from-13-4-billion-fund"
+  },
+  {
+    "title": "Singapore Plans $173 Million in Fintech Funding Over Three Years",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/singapore-plans-173-million-in-fintech-funding-over-three-years"
+  },
+  {
     "title": "PetroChina Profits Point to Nimbler Future Post-Peak Oil Demand",
     "link": "https://www.bloomberg.com/news/articles/2026-08-30/petrochina-first-half-profit-rises-22-on-higher-oil-prices"
   },
   {
-    "title": "Shein CEO’s Wealth Slumps $15 Billion After Whittled-Down IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-30/shein-ceo-s-wealth-slumps-15-billion-after-whittled-down-ipo"
+    "title": "Chile Economic Data Disappoint as Storms Add to Copper-Mine Woes",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/chile-economic-data-disappoint-as-storms-add-to-copper-mine-woes"
   },
   {
-    "title": "YouTube Star Markiplier Is Now GoPro’s Largest Shareholder",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-30/youtube-star-markiplier-is-now-gopro-s-largest-shareholder"
+    "title": "Nigeria Economy Grows at Fastest Pace in Five Years on Oil Boom",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/nigeria-economy-grows-at-fastest-pace-in-five-years-on-oil-boom"
   },
   {
-    "title": "The Ternus Era At Apple Begins, But Cook Isn’t Leaving",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-30/the-ternus-era-at-apple-begins-but-cook-isn-t-leaving"
+    "title": "India’s Uneven Monsoon Rains Deepen Crop and Inflation Risks",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/india-s-uneven-monsoon-rains-deepen-crop-and-inflation-risks"
   },
   {
-    "title": "Author Explores Cybersecurity Risks of Driverless Cars",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-30/author-explores-cybersecurity-risks-of-driverless-cars-video"
+    "title": "India Growth Beats Forecasts, Raises Rate Hike Expectations",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/india-s-economy-grows-faster-than-expected-in-april-june-quarter"
   },
   {
-    "title": "Google Maps Changes Lake Ontario Label to Lake America in US",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-30/google-maps-changes-lake-ontario-label-to-lake-america-in-us"
+    "title": "Czechs Plan Second-Highest Budget Gap Ever to Boost Investment",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/czechs-plan-second-highest-budget-gap-ever-to-boost-investment"
   },
   {
-    "title": "John Ternus Management Team; Apple Watch Series 12; Foldable iPhone Apple Pencil",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-30/john-ternus-management-team-apple-watch-series-12-foldable-iphone-apple-pencil-mtfvmdyu"
+    "title": "German Inflation Edges Higher, Adding to Case for ECB Hike",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/german-inflation-edges-higher-adding-to-case-for-ecb-hike"
   },
   {
-    "title": "G20 Faces Divide Over Debt, AI and Global Growth",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-30/g20-faces-divide-over-debt-ai-and-global-growth-video"
+    "title": "Warsh Takes a Page From Aerospace Pioneers to Find the Right Stuff",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-31/warsh-takes-a-page-from-aerospace-pioneers-to-find-the-right-stuff"
   },
   {
-    "title": "Aliko Dangote's Daughters Join Succession Plan",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-30/aliko-dangote-s-daughters-join-succession-plan-video"
+    "title": "Bessent and G20 finance ministers",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-31/bessent-and-g20-finance-ministers"
+  },
+  {
+    "title": "Kenyan Inflation Rate Rises Faster Than Expectations in August",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/kenyan-inflation-rate-rises-faster-than-expectations-in-august"
+  },
+  {
+    "title": "Bessent Takes US Growth Agenda Message to G20 Summit in Asheville",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-takes-us-growth-agenda-message-to-g20-summit-in-asheville"
+  },
+  {
+    "title": "China’s Factory Rebound Masks Growth Risks for Domestic Economy",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/china-factory-activity-edges-up-in-hopeful-sign-for-economy"
+  },
+  {
+    "title": "Japan Seeks Record Defense Budget as Takaichi Plans Buildup",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/japan-seeks-record-defense-budget-as-takaichi-plans-buildup"
+  },
+  {
+    "title": "Bessent Says He’ll Ask G20 to Rethink Trade Terms With China",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-to-push-g20-to-rethink-china-trade-terms-reuters-says"
+  },
+  {
+    "title": "Turkey Growth Quickens in Second Quarter Despite War Stress",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-31/turkey-economy-quickens-in-second-quarter-despite-war-pressures"
   },
   {
     "title": "Japan’s Industry Ministry Seeks Unprecedented $49 Billion Budget",
@@ -560,40 +656,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-31/japan-s-firms-hire-foreigners-even-as-takaichi-tightens-rules"
   },
   {
-    "title": "Bessent to Push G20 to Rethink China Trade Terms, Reuters Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-to-push-g20-to-rethink-china-trade-terms-reuters-says"
-  },
-  {
-    "title": "China’s Factory Activity Extends Slump Even as Gauge Rises",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/china-factory-activity-edges-up-in-hopeful-sign-for-economy"
-  },
-  {
     "title": "Modi’s Developed-Nation Dream Strains Amid India Growth Gap",
     "link": "https://www.bloomberg.com/news/articles/2026-08-30/modi-s-developed-nation-dream-strains-against-india-s-growth-gap"
   },
   {
     "title": "Bessent Expects BOJ to ‘Do the Right Thing’ on Policy",
     "link": "https://www.bloomberg.com/news/articles/2026-08-31/bessent-expects-boj-to-do-the-right-thing-on-monetary-policy"
-  },
-  {
-    "title": "South Korea’s Lee Picks New Finance Chief in Surprise Reshuffle",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/south-korea-s-lee-picks-new-finance-chief-in-surprise-reshuffle"
-  },
-  {
-    "title": "Japan’s Factory Output Edges Up Despite Mideast Headwinds",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-30/japan-factory-output-edges-up-for-fourth-month-despite-mideast"
-  },
-  {
-    "title": "US Jobs Report Seen Backing Warsh View of Labor Market",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-29/us-jobs-report-seen-backing-warsh-view-of-labor-market"
-  },
-  {
-    "title": "India and Uzbekistan Seek $5 Billion in Bilateral Trade by 2030",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-30/india-and-uzbekistan-seek-5-billion-in-bilateral-trade-by-2030"
-  },
-  {
-    "title": "German Finance Minister to Press G20 on Iran War, Trade Fights",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-30/german-finance-minister-to-press-g20-on-iran-war-trade-fights"
   },
   {
     "title": "The Download: a secretive antiaging drug and joining virtual power plants",
@@ -636,6 +704,22 @@
     "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
   },
   {
+    "title": "New York governor to 3D printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;",
+    "link": "https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response"
+  },
+  {
+    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras"
+  },
+  {
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+  },
+  {
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
+  },
+  {
     "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
     "link": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review"
   },
@@ -652,27 +736,11 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
   },
   {
-    "title": "Chess.com launched a poker site and is planning even more classic games",
+    "title": "Chess.com launched a poker site, and it’s planning even more classic games",
     "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit"
   },
   {
     "title": "China’s robots race ahead",
     "link": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race"
-  },
-  {
-    "title": "Two new small, powerful Macs",
-    "link": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera"
-  },
-  {
-    "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-    "link": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale"
-  },
-  {
-    "title": "Alt-right troll Milo Yiannopoulos has been deported",
-    "link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice"
-  },
-  {
-    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
   }
 ]
