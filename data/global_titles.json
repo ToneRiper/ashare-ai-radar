@@ -200,6 +200,10 @@
     "link": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html"
   },
   {
+    "title": "How one of the largest investors in student housing is playing this school year",
+    "link": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html"
+  },
+  {
     "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
     "link": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html"
   },
@@ -308,10 +312,6 @@
     "link": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html"
   },
   {
-    "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-    "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html"
-  },
-  {
     "title": "India rejects court order to uphold decades-old water-sharing treaty with Pakistan",
     "link": "https://www.cnbc.com/2026/09/01/india-hague-ruling-pakistan-water-treaty.html"
   },
@@ -320,7 +320,7 @@
     "link": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html"
   },
   {
-    "title": "Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'",
+    "title": "WTI hits highest level since July following latest U.S. attacks against Iran",
     "link": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html"
   },
   {
@@ -432,6 +432,58 @@
     "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html"
   },
   {
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+  },
+  {
+    "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+    "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/"
+  },
+  {
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
+  },
+  {
+    "title": "GoPro to be acquired for $285M, will remain a public company",
+    "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/"
+  },
+  {
+    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+    "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/"
+  },
+  {
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
+  },
+  {
+    "title": "Microsoft 365 outage drags on, but things are improving",
+    "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/"
+  },
+  {
+    "title": "Fambot introduces an ‘AI chief of staff’ for families",
+    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
+  },
+  {
+    "title": "Florida and Texas move to block Flock cameras over privacy concerns",
+    "link": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/"
+  },
+  {
+    "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
+    "link": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/"
+  },
+  {
+    "title": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego, and Tampa",
+    "link": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/"
+  },
+  {
+    "title": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+    "link": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/"
+  },
+  {
     "title": "If space data centers feel far-fetched, why not interstellar travel?",
     "link": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/"
   },
@@ -460,56 +512,68 @@
     "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/"
   },
   {
-    "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
-    "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
+    "title": "Big Tech Is Incapable of Solving Its Own Problem, Says Mukunda",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-01/big-tech-incapable-of-solving-its-own-problem-mukunda-video"
   },
   {
-    "title": "The Pentagon now has its own version of ChatGPT and Grok",
-    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+    "title": "Apple’s Ternus Era Begins After Tim Cook Delivers 2,300% Stock Gain",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-01/apple-s-ternus-era-begins-after-tim-cook-s-historic-run-video"
   },
   {
-    "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/"
+    "title": "Apple’s Former CFO Maestri Drops Role Running Corporate Services",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/apple-s-former-cfo-maestri-drops-role-running-corporate-services"
   },
   {
-    "title": "Instagram puts new limits on undisclosed AI profiles",
-    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+    "title": "Elon Musk Sees AI Increasing Global Economy by 20%-30%",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-01/elon-musk-sees-ai-increasing-global-economy-by-20-30-video"
   },
   {
-    "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
-    "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/"
+    "title": "Nvidia Is Backstopping AI Ecosystem, Says Araghi",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-01/nvidia-is-backstopping-ai-ecosystem-says-araghi-video"
   },
   {
-    "title": "Microsoft tests fix for latest hours-long Outlook outage",
-    "link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/"
+    "title": "Robinhood’s Prediction Market Growth Makes Morgan Stanley a Bull",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/robinhood-s-prediction-market-growth-makes-morgan-stanley-a-bull"
   },
   {
-    "title": "Kalshi bans George Santos for life over State of the Union bets",
-    "link": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/"
+    "title": "Airbnb Replaces Business Chief With Ex-Tripadvisor, Booking Exec",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/airbnb-replaces-business-chief-with-ex-tripadvisor-booking-exec"
   },
   {
-    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+    "title": "CEO at Saudi Arabia-Owned Video Game Giant Savvy Steps Down",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/saudi-video-game-giant-savvy-ceo-brian-ward-is-stepping-down"
   },
   {
-    "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
-    "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/"
+    "title": "Fervo Shares Surge on Geothermal Power Deal With Google",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/fervo-signs-geothermal-power-deal-with-google-for-2028-launch"
   },
   {
-    "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
-    "link": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/"
+    "title": "China May Not Match ASML’s Top Tool in Next Decade, UBS Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/china-unlikely-to-match-asml-s-top-tool-in-next-decade-ubs-says"
   },
   {
-    "title": "Tim Cook’s parting message: Apple is in the hands of a product builder",
-    "link": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/"
+    "title": "Sonos Debuts $449 Ace Ultra Headphones, $699 Beam Ultra Soundbar, ChatGPT Tie-In",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/sonos-debuts-449-ace-ultra-headphones-699-beam-ultra-soundbar-chatgpt-tie-in"
   },
   {
-    "title": "VLC crosses 7 billion downloads",
-    "link": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"
+    "title": "Apollo’s Brightspeed Casts Going Concern Doubt as Revenue Slides",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/apollo-s-brightspeed-casts-going-concern-doubt-as-revenue-slides"
   },
   {
-    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-    "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
+    "title": "Waymo Expands Paid Robotaxi Rides to Denver, San Diego and Tampa",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/waymo-expands-paid-robotaxi-rides-to-denver-san-diego-and-tampa"
+  },
+  {
+    "title": "Apple’s Ternus Has ‘Huge Shoes to Fill’ After Cook’s 2,300% Gain",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/apple-s-2-300--gain-under-cook-is-tough-act-for-ternus-to-follow"
+  },
+  {
+    "title": "Roku Launches Its First OLED TVs, With Prices Starting at $999",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/roku-launches-its-first-oled-tvs-with-prices-starting-at-999"
+  },
+  {
+    "title": "Salesforce Backs Software Firm HiBob at $3.2 Billion Value",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/salesforce-backs-hr-software-firm-hibob-at-3-2-billion-value"
   },
   {
     "title": "Nvidia’s MediaTek Investment Marks the Next AI Chipmaking Champion to Watch",
@@ -528,68 +592,48 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-01/ai-job-risks-spread-to-pr-web-development-and-hotel-workers"
   },
   {
-    "title": "Felix Pago Raises $200 Million to Expand Into Financial Services",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/felix-pago-raises-200-million-to-expand-into-financial-services"
+    "title": "Bessent Suggests Backing for BOJ Action in Meeting With Ueda",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/bessent-suggests-backing-for-boj-action-in-meeting-with-ueda"
   },
   {
-    "title": "Salesforce Backs HR Software Firm HiBob at $3.2 Billion Value",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/salesforce-backs-hr-software-firm-hibob-at-3-2-billion-value"
+    "title": "Carney Says Trade Talks Can Resume If US Stops ‘Throwing Shade’",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/carney-says-trade-talks-can-resume-if-us-stops-throwing-shade"
   },
   {
-    "title": "Dyson Announces $499 CameraJet Smart Toothbrush With AI, Built-In Camera",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera"
+    "title": "US Factory Gauge Eases But Holds Close to Four-Year High",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/us-manufacturing-gauge-eases-but-holds-close-to-four-year-high"
   },
   {
-    "title": "China Freezes China Court Freezes Nexperia Assets in Fight Over Dutch Chipmaker",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/china-freezes-china-court-freezes-nexperia-assets-in-fight-over-dutch-chipmaker"
+    "title": "Israel Cuts Interest Rates for Third Consecutive Meeting",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/israel-slashes-interest-rates-for-third-consecutive-meeting"
   },
   {
-    "title": "Deere Launches AI Assistant Named JD to Guide Farmers’ Choices",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/deere-launches-ai-assistant-named-jd-to-guide-farmers-choices"
+    "title": "US Job Openings Edge Higher in Sign of Stable Labor Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/us-job-openings-edge-higher-in-sign-of-stable-labor-demand"
   },
   {
-    "title": "Shein Finishes Rocky Hong Kong Debut by Nearly Erasing 10% Slump",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/shein-set-to-debut-in-test-of-investor-demand-for-consumer-plays"
+    "title": "ECB’s September Hike Won’t Be Enough, Simkus Tells Econostream",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/ecb-s-september-hike-won-t-be-enough-simkus-tells-econostream"
   },
   {
-    "title": "Drahi Sells Stake in Vodafone’s German Fiber Venture to SocGen",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/drahi-sells-stake-in-vodafone-s-german-fiber-venture-to-socgen"
+    "title": "ECB’s Nagel Says Slowdown in Underlying Inflation Is Good News",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/ecb-s-nagel-says-slowdown-in-underlying-inflation-is-good-news"
   },
   {
-    "title": "Baidu’s AI Profits to Match Those From Search Soon, CFO Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/baidu-s-ai-profits-to-match-those-from-search-soon-cfo-says"
+    "title": "Chile Economic Activity Posts Biggest Monthly Drop Since 2022",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/chile-s-economic-activity-posts-biggest-monthly-drop-since-2022"
   },
   {
-    "title": "MiniMax Eyes AGI Milestone Tied to 1% of Global GDP Output",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/minimax-eyes-agi-milestone-tied-to-1-of-global-gdp-output"
+    "title": "Brazil Economy Loses Steam as High Rates Bite Before Vote",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/brazil-economy-loses-steam-as-high-rates-bite-before-election"
   },
   {
-    "title": "Apple’s 2,275% Gain Under Cook Is Tough Act for Ternus to Follow",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/apple-s-2-275-gain-under-cook-is-tough-act-for-ternus-to-follow"
+    "title": "Fed’s Barr Says Higher Rates Needed If Inflation Doesn’t Cool",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/fed-s-barr-says-higher-rates-needed-if-inflation-doesn-t-cool"
   },
   {
-    "title": "Epiris Agrees to Buy Gamma Communications for £1 Billion",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/epiris-agrees-to-buy-uk-s-gamma-communications-for-1-billion"
-  },
-  {
-    "title": "Apple Accuses OpenAI of Destroying Evidence in Exchange of Barbs",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case"
-  },
-  {
-    "title": "Nvidia Mega-Deal Ushers MediaTek Into Top AI Chipmaker Club",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/mediatek-shares-soar-10-after-blockbuster-nvidia-investment"
-  },
-  {
-    "title": "Forrester's Kodali on Shein's HK Debut, Outlook",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/forrester-s-kodali-on-shein-s-hk-debut-outlook-video"
-  },
-  {
-    "title": "Anthropic Agrees to $35 Billion Cloud Deal With Lambda",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/anthropic-agrees-to-35-billion-cloud-deal-with-lambda-video"
-  },
-  {
-    "title": "Chinese AI Lab MiniMax on Business Strategy",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/chinese-ai-lab-minimax-on-business-strategy-video"
+    "title": "Mozambican President Revokes Appointment of Central Bank Chief",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/mozambican-president-appoints-de-sousa-as-central-bank-governor"
   },
   {
     "title": "China Latest: Beijing Revamps Home-Sales System That Worsened Its Meltdown",
@@ -628,48 +672,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-01/modi-urges-indians-to-curb-gold-buying-in-self-reliance-push"
   },
   {
-    "title": "Japan Ministries Seek Record Budget as Yields Hit 30-Year High",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/japan-s-kiuchi-says-record-budget-requests-need-broad-comparison"
+    "title": "Making the AI-powered case for legacy modernization",
+    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
   },
   {
-    "title": "UK House Prices Edged Back Up in August, Nationwide Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/uk-house-prices-edged-up-in-august-nationwide-says"
-  },
-  {
-    "title": "RBI’s Short Dollar Book Surges to Record on Diaspora Deposits",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/rbi-s-short-dollar-book-surges-to-record-on-diaspora-deposits"
-  },
-  {
-    "title": "Mozambican President Appoints De Sousa as Central Bank Governor",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/mozambican-president-appoints-de-sousa-as-central-bank-governor"
-  },
-  {
-    "title": "India’s Uneven Monsoon Rains Deepen Crop and Inflation Risks",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/india-s-uneven-monsoon-rains-deepen-crop-and-inflation-risks"
-  },
-  {
-    "title": "India’s Growth Beat Suggests Economy on Cusp of Investment Boom",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/india-s-growth-beat-suggests-economy-on-cusp-of-investment-boom"
-  },
-  {
-    "title": "Chinese Manufacturing Gauge Clocks Longest Upswing in Five Years",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/china-manufacturing-gauge-surprises-with-faster-august-expansion"
-  },
-  {
-    "title": "Chip Tax Windfall Spurs South Korea’s Record Budget Expansion",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/chip-tax-windfall-spurs-south-korea-s-record-budget-expansion"
-  },
-  {
-    "title": "Japan’s Finance Chief Plays Down Bessent’s BOJ Rate Hike Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/japan-s-finance-chief-plays-down-bessent-s-boj-rate-hike-push"
-  },
-  {
-    "title": "South Korea’s Exports Gather Pace as Chip Boom Powers Ahead",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/south-korea-s-exports-gather-pace-as-chip-boom-powers-ahead"
-  },
-  {
-    "title": "UK Shop Price Inflation Hits Two-Year High After Energy Spike",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-31/uk-shop-price-inflation-hits-two-year-high-after-energy-spike"
+    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
   },
   {
     "title": "How engineered microbes could help feed the world’s crops",
@@ -704,51 +712,43 @@
     "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
   },
   {
-    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/"
+    "title": "Homey just made the smart home controller I hoped Apple would build",
+    "link": "https://www.theverge.com/tech/987462/homey-lg-smart-portal-smart-home-controller-price-specs-release-date"
   },
   {
-    "title": "Raised on AI",
-    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
+    "title": "Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch",
+    "link": "https://www.theverge.com/gadgets/987490/galaxy-z-fold-8-ultra-remarkable-paper-pro-move-deal-sale"
   },
   {
-    "title": "IFA 2026: the biggest tech and gadget announcements",
-    "link": "https://www.theverge.com/tech/986178/ifa-2026-the-biggest-tech-and-gadget-announcements"
+    "title": "GoPro has been acquired and is getting into &#8216;defense, government, robotics and aerospace&#8217;",
+    "link": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition"
   },
   {
-    "title": "Tim Cook’s Apple: his 10 biggest wins and misses",
-    "link": "https://www.theverge.com/tech/987043/tim-cook-biggest-wins-misses"
+    "title": "John Deere launched an AI chatbot for farmers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot"
   },
   {
-    "title": "TP-Link’s first Wi-Fi 8 router is almost here",
-    "link": "https://www.theverge.com/gadgets/987277/tplink-wifi-8-archer-8-ultra-availability"
+    "title": "Sony’s new party speakers have more bass, more LEDs, and more connectivity",
+    "link": "https://www.theverge.com/tech/986839/sony-ult-power-sound-speaker-tower-max-5-7-xlr-leds"
   },
   {
-    "title": "John Ternus is now the CEO of Apple",
-    "link": "https://www.theverge.com/tech/987150/apple-ceo-john-ternus"
+    "title": "Google Pics is like Canva, but with even more AI",
+    "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator"
   },
   {
-    "title": "Dyson made a camera-equipped toothbrush that flosses for you",
-    "link": "https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability"
+    "title": "Shelly’s new $50 security camera watches your home without a subscription",
+    "link": "https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation"
   },
   {
-    "title": "The Google TV Streamer now costs $50 more",
-    "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase"
+    "title": "Sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
+    "link": "https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement"
   },
   {
-    "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
-    "link": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs"
+    "title": "Tim Cook’s legacy isn’t just phones, it’s politics",
+    "link": "https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi"
   },
   {
-    "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
-    "link": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit"
-  },
-  {
-    "title": "I went to the loneliest baseball game on Apple Vision Pro",
-    "link": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game"
-  },
-  {
-    "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
-    "link": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale"
+    "title": "John Ternus takes over as Apple&#8217;s new CEO",
+    "link": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook"
   }
 ]
