@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/"
   },
   {
+    "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
+    "link": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html"
+  },
+  {
     "title": "What a historic summer box office reveals about massive shifts in the theatrical industry",
     "link": "https://www.cnbc.com/2026/09/09/summer-box-theatrical-shifts.html"
   },
@@ -308,15 +312,19 @@
     "link": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html"
   },
   {
-    "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
-    "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html"
+    "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
+    "link": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html"
+  },
+  {
+    "title": "'Saved the day': How China helped keep the lid on oil price surge as Iran war disrupted supplies",
+    "link": "https://www.cnbc.com/2026/09/10/china-crude-oil-iran-hormuz-war-trump-brent-prices-.html"
   },
   {
     "title": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
     "link": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html"
   },
   {
-    "title": "Coinbase CEO sees U.S. crypto regulation advancing regardless of Clarity Act vote",
+    "title": "Coinbase CEO says clearer U.S. crypto rules are coming — with or without Senate approval",
     "link": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html"
   },
   {
@@ -424,14 +432,6 @@
     "link": "https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html"
   },
   {
-    "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
-    "link": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html"
-  },
-  {
-    "title": "Inside India newsletter: India’s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
-    "link": "https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html"
-  },
-  {
     "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
     "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
   },
@@ -512,12 +512,52 @@
     "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"
   },
   {
-    "title": "Grab Is Said in Talks to Buy SoftBank-Backed Fintech Firm Atome",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/grab-is-said-in-talks-to-buy-softbank-backed-fintech-firm-atome"
+    "title": "Visa's Plan for India's Payment Future (Video)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-10/visa-s-plan-for-india-s-payment-future-video"
   },
   {
-    "title": "Musk’s Boring Co. Raises Capital, Valuing Firm at $23 Billion",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/musk-s-boring-co-raises-capital-valuing-firm-at-23-billion"
+    "title": "Microsoft Reaches Pact With Teachers Union to Keep AI in the Classroom",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-10/microsoft-reaches-pact-with-teachers-union-to-keep-ai-in-the-classroom"
+  },
+  {
+    "title": "DeepSeek’s New Low-Cost Model Deals a Fresh Blow to OpenAI, Z.ai",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/deepseek-s-new-low-cost-model-deals-a-fresh-blow-to-openai-z-ai"
+  },
+  {
+    "title": "‘AI Economy’ Driving Earnings Strength, Says JPM’s Caffrey",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-10/-ai-economy-driving-earnings-strength-jpm-s-caffrey-video"
+  },
+  {
+    "title": "AI Medical Tools: UK Calls for Overhaul of AI Health-Care Regulation",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-10/ai-medical-tools-uk-calls-for-overhaul-of-ai-health-care-regulation"
+  },
+  {
+    "title": "Nvidia-Backed MediaTek’s Sales Soar 44% With AI Chip Momentum",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/nvidia-backed-mediatek-s-sales-soar-44-with-ai-chip-momentum"
+  },
+  {
+    "title": "Investors Are Nervous About Timing of Potential 'Crash,' BofA Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-10/investors-nervous-on-timing-of-potential-crash-bofa-video"
+  },
+  {
+    "title": "Huawei Lifted Prices for Its Best AI Chip By 60% This Summer",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/huawei-lifted-prices-for-its-best-ai-chip-by-60-this-summer"
+  },
+  {
+    "title": "Anthropic Gives EU Access to Mythos Months After Model’s Release",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-gives-eu-access-to-mythos-months-after-model-s-release"
+  },
+  {
+    "title": "Musk’s Boring Co. Raises Funds at Valuation of $23 Billion",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/musk-s-boring-co-raises-capital-valuing-firm-at-23-billion-mtv5xwy7"
+  },
+  {
+    "title": "Oil Tops $100 as Iran Vows to Escalate War, Trump Says US Will Win",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-10/horizons-middle-east-africa-9-10-2026-video"
+  },
+  {
+    "title": "Grab Is Said in Talks to Buy SoftBank-Backed Fintech Firm Atome",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/grab-is-said-in-talks-to-buy-softbank-backed-fintech-firm-atome"
   },
   {
     "title": "TSMC Revenue Rises 53% as AI Chip Demand Outstrips Supply",
@@ -552,44 +592,64 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-10/stonepeak-ceo-on-data-centre-investment-outlook-video"
   },
   {
-    "title": "Shield AI on Business Plans",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-10/shield-ai-on-business-plans-video"
+    "title": "Europe’s China shock",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-10/europe-s-china-shock"
   },
   {
-    "title": "Amazon Jet Tried to Abort Landing Before Fatal Crash, NTSB Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/amazon-jet-tried-to-abort-landing-before-fatal-crash-ntsb-says"
+    "title": "ECB Rate Decision Live Updates, Christine Lagarde Briefing",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-09-10/ecb-interest-rate-decision-euro-lagarde-press-conference-live-updates"
   },
   {
-    "title": "Chinese Tech Firms’ Share Sale Spree Sparks Valuation Concerns",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/chinese-tech-firms-share-sale-spree-sparks-valuation-concerns"
+    "title": "Swiss Firms May See $2 Billion in US Tariff Refunds, UBS Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/swiss-firms-may-see-2-billion-in-us-tariff-refunds-ubs-says"
   },
   {
-    "title": "UK Is Urged to Overhaul Regulation of AI-Medical Devices",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/uk-is-urged-to-overhaul-regulation-of-ai-medical-devices"
+    "title": "‘Nvidia Effect’ Enables Israel to Upgrade Growth Forecasts",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/-nvidia-effect-enables-israel-to-upgrade-growth-forecasts"
   },
   {
-    "title": "Why Wall Street Loves Apple’s $1,999 iPhone",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-09/opinion-wall-street-loves-apple-s-1-999-iphone-video"
+    "title": "South Africa Posts Widest Current Account Deficit Since 2019",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/south-africa-posts-widest-current-account-deficit-in-seven-years"
   },
   {
-    "title": "Apple’s iPhone Duo, New Watches, iPhone 18 Pro and AirPods 5: Everything to Know",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-iphone-duo-new-watches-iphone-18-pro-and-airpods-5-everything-to-know"
+    "title": "Britain Faces Winter With High Gas Prices and Thin Reserves",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/britain-faces-winter-with-soaring-gas-prices-and-thin-reserves"
   },
   {
-    "title": "AI-Driven IPO Wave Set to Accompany Anthropic Listing",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/wave-of-ai-driven-ipos-expected-to-accompany-anthropic-s-listing"
+    "title": "Mélenchon’s Plan to Cancel France’s Debt Would Backfire, BE Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/melenchon-s-plan-to-cancel-france-s-debt-would-backfire-be-says"
   },
   {
-    "title": "AGCO CEO: We Can Manage Through These Tariffs",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-09/agco-ceo-we-can-manage-through-these-tariffs-video"
+    "title": "Egypt Inflation Turns to Easing Again Despite War Pressures",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/egypt-inflation-turns-to-easing-again-despite-war-pressures"
   },
   {
-    "title": "QTS Co-CEO on Building Eco-Friendly Data Centers",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-09/qts-co-ceo-on-building-eco-friendly-data-centers-video"
+    "title": "What Happens If the AI Boom Never Pays Off?",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/what-happens-if-the-ai-boom-never-pays-off"
   },
   {
-    "title": "Oak Hill CEO: Irrational Selling in the Credit Market",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-09/oak-hill-ceo-irrational-selling-in-the-credit-market-video"
+    "title": "ECB to Hike Interest Rates Again as Iran War Fans Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/ecb-to-hike-interest-rates-again-as-iran-war-fans-inflation"
+  },
+  {
+    "title": "Thai Central Bank Targets Money Flows Behind Scam Networks",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/thai-central-bank-targets-money-flows-behind-scam-networks"
+  },
+  {
+    "title": "Bloomberg AI Model Predicts Bank of England Rate Hike in February",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/ai-model-built-by-bloomberg-predicts-bank-of-england-rate-rise-in-february"
+  },
+  {
+    "title": "UK Home Prices Remain Under Pressure as Mortgage Costs Rise",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-09/uk-house-prices-remain-under-pressure-as-mortgage-costs-rise"
+  },
+  {
+    "title": "BOJ’s Masu Says Will Continue to Raise Benchmark Rate",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/boj-s-masu-says-will-continue-to-raise-benchmark-interest-rate"
+  },
+  {
+    "title": "AI ‘Arms Race’ Still Poses Global Stability Risk, BIS Chief Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/ai-arms-race-still-poses-global-stability-risk-bis-chief-says"
   },
   {
     "title": "India Favors Central Bank Digital Currencies for BRICS Payments",
@@ -600,76 +660,28 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-10/rbi-sees-common-technology-providers-as-financial-stability-risk"
   },
   {
-    "title": "ECB to Hike Interest Rates Again as Iran War Fans Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/ecb-to-hike-interest-rates-again-as-iran-war-fans-inflation"
-  },
-  {
-    "title": "Britain Faces Winter With Soaring Gas Prices and Thin Reserves",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/britain-faces-winter-with-soaring-gas-prices-and-thin-reserves"
-  },
-  {
     "title": "NZ Finance Minister Blocks RBNZ Bid to Carry Over Underspend",
     "link": "https://www.bloomberg.com/news/articles/2026-09-10/nz-finance-minister-blocks-rbnz-bid-to-carry-over-underspend"
-  },
-  {
-    "title": "BOJ’s Masu Says Will Continue to Raise Benchmark Rate",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/boj-s-masu-says-will-continue-to-raise-benchmark-interest-rate"
   },
   {
     "title": "UK Universities Want Wider Tax Break for Firms Hiring Young Workers",
     "link": "https://www.bloomberg.com/news/articles/2026-09-09/uk-universities-want-wider-tax-break-for-firms-hiring-young-workers"
   },
   {
-    "title": "UK House Prices Remain Under Pressure as Mortgage Costs Rise",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/uk-house-prices-remain-under-pressure-as-mortgage-costs-rise"
-  },
-  {
     "title": "Vietnam’s Mortgage Rate Surge Putting Homeownership Out of Reach",
     "link": "https://www.bloomberg.com/news/articles/2026-09-09/vietnam-s-mortgage-rate-surge-putting-homeownership-out-of-reach"
   },
   {
-    "title": "Bessent Jawboning Risks Raising Expectations BOJ Can’t Meet",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/bessent-yen-jawboning-risks-raising-expectations-boj-can-t-meet"
+    "title": "Can the US battery market untangle from China?",
+    "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/"
   },
   {
-    "title": "Port of LA Hits Three-Month Record as Cargo Peak Stretches On",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/port-of-la-hits-three-month-record-as-cargo-peak-stretches-on"
+    "title": "God told them to sell crypto. Their investors lost everything.",
+    "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
   },
   {
-    "title": "Shipping Nations Warn Global Trade is Fracturing — And Everyone Pays",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/shipping-nations-warn-global-trade-is-fracturing-and-everyone-pays"
-  },
-  {
-    "title": "JPMorgan CEO Dimon Meets UK Leaders as Windfall Bank Tax Considered",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/jpmorgan-s-dimon-to-meet-with-uk-chancellor-as-bank-taxes-loom"
-  },
-  {
-    "title": "ECB’s Nagel Says AI Will Be ‘Litmus Test’ for Europe’s Future",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/ecb-s-nagel-says-ai-will-be-litmus-test-for-europe-s-future"
-  },
-  {
-    "title": "Sheinbaum Budget Sees Smaller Deficit, More Public Works",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/sheinbaum-budget-plan-sees-smaller-deficit-more-public-works"
-  },
-  {
-    "title": "Why the US-Canada Trade War Is Escalating",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-08/why-the-us-canada-trade-war-is-escalating"
-  },
-  {
-    "title": "Traders Bet on Four Rate Hikes From ECB and BOE as Oil Surges",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/traders-bet-on-four-rate-hikes-from-ecb-and-boe-as-oil-surges"
-  },
-  {
-    "title": "Bolivia Central Bank Sells Dollars to Curb FX Volatility",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/bolivia-central-bank-to-start-dollar-sales-to-banks-wednesday"
-  },
-  {
-    "title": "Poland Keeps Rates Unchanged as Fuel Costs Boost Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/poland-keeps-rates-unchanged-as-fuel-costs-boost-inflation"
-  },
-  {
-    "title": "Mexico Inflation Ticks Up Again as Banxico Holds Rates Firm",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/mexico-inflation-ticks-up-again-as-central-bank-holds-rates-firm"
+    "title": "Healthcare AI’s next test is integration",
+    "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/"
   },
   {
     "title": "The Download: OpenAI’s turning point for math and a battery record",
@@ -700,16 +712,28 @@
     "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
   },
   {
-    "title": "This founder is making cheaper, cleaner steel",
-    "link": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/"
+    "title": "Mathematicians want proof OpenAI didn’t use their work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data"
   },
   {
-    "title": "This geneticist’s age-reversal tech could help restore sight",
-    "link": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/"
+    "title": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera",
+    "link": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography"
   },
   {
-    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
+    "title": "The Trump phone just got a $250 price hike",
+    "link": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike"
+  },
+  {
+    "title": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
+    "link": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update"
+  },
+  {
+    "title": "Xbox picks up Kojima&#8217;s Physint after PlayStation dropped it",
+    "link": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox"
+  },
+  {
+    "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+    "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini"
   },
   {
     "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
@@ -726,29 +750,5 @@
   {
     "title": "Automattic CEO Matt Mullenweg placed on leave",
     "link": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence"
-  },
-  {
-    "title": "It’s the year of smartphone price hikes",
-    "link": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro"
-  },
-  {
-    "title": "Suno releases its first AI music model made with record industry help",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
-  },
-  {
-    "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes"
-  },
-  {
-    "title": "Read the Apple document explaining how new listening features still protect your privacy",
-    "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy"
-  },
-  {
-    "title": "How the new Apple Watches compare to the last-gen models",
-    "link": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison"
-  },
-  {
-    "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
-    "link": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react"
   }
 ]
