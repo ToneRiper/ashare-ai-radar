@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/"
   },
   {
+    "title": "NFL's Roger Goodell is playing the international long game ahead of league's Australia debut",
+    "link": "https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html"
+  },
+  {
     "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
     "link": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html"
   },
@@ -306,10 +310,6 @@
   {
     "title": "Trump strikes new drug pricing deals with nine midsized drugmakers",
     "link": "https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html"
-  },
-  {
-    "title": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
-    "link": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html"
   },
   {
     "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
@@ -512,7 +512,7 @@
     "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"
   },
   {
-    "title": "Visa's Plan for India's Payment Future (Video)",
+    "title": "Visa's Plan for India's Payment Future",
     "link": "https://www.bloomberg.com/news/videos/2026-09-10/visa-s-plan-for-india-s-payment-future-video"
   },
   {
@@ -592,6 +592,14 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-10/stonepeak-ceo-on-data-centre-investment-outlook-video"
   },
   {
+    "title": "Turkey Holds Rates on Oil Risks, Opens Door for October Cut",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/turkey-holds-rates-steady-in-face-of-oil-price-inflation-risks"
+  },
+  {
+    "title": "Bessent Bets Reputation on Fights With Markets He Can’t Control",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-10/bessent-bets-reputation-on-fights-with-markets-he-can-t-control"
+  },
+  {
     "title": "Europe’s China shock",
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-10/europe-s-china-shock"
   },
@@ -664,12 +672,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-10/nz-finance-minister-blocks-rbnz-bid-to-carry-over-underspend"
   },
   {
-    "title": "UK Universities Want Wider Tax Break for Firms Hiring Young Workers",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/uk-universities-want-wider-tax-break-for-firms-hiring-young-workers"
+    "title": "Powering AI is an architecture problem",
+    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
   },
   {
-    "title": "Vietnam’s Mortgage Rate Surge Putting Homeownership Out of Reach",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/vietnam-s-mortgage-rate-surge-putting-homeownership-out-of-reach"
+    "title": "This road map could help us decide whether to deploy solar geoengineering",
+    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
   },
   {
     "title": "Can the US battery market untangle from China?",
@@ -702,14 +710,6 @@
   {
     "title": "The Download: our 35 Innovators Under 35 this year",
     "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
-  },
-  {
-    "title": "This founder is teaching chips how to recycle (their energy)",
-    "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/"
-  },
-  {
-    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-    "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
   },
   {
     "title": "Mathematicians want proof OpenAI didn’t use their work",
