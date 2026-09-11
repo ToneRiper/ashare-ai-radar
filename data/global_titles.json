@@ -516,6 +516,10 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/inside-microsoft-s-plans-to-massively-expand-computing-power"
   },
   {
+    "title": "The Future of Health | Bloomberg Tech: Europe 9/11/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/the-future-of-health-bloomberg-tech-europe-video"
+  },
+  {
     "title": "Anthropic Says Yemeni Cell Used Claude in Missile Development",
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development"
   },
@@ -588,8 +592,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff"
   },
   {
-    "title": "India’s Top Bank Says Data Centers Aiding Capex Cycle",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-10/india-s-top-bank-says-data-centers-aiding-capex-cycle"
+    "title": "US CPI Report August 2026: Live News on Inflation, Consumer Price Index",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-09-11/us-cpi-report-for-august-live-updates"
+  },
+  {
+    "title": "Bank of France Governor Says Economy in ‘Worrying’ Situation",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/bank-of-france-governor-says-economy-in-worrying-situation"
+  },
+  {
+    "title": "ECB Is Just Getting Into Its Stride With Hikes",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/ecb-is-just-getting-into-its-stride-with-hikes"
   },
   {
     "title": "Russia Holds Rate For First Time in 15 Months on Inflation",
@@ -632,10 +644,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/britain-s-economy-unexpectedly-grew-0-4-in-july"
   },
   {
-    "title": "Bank of France Governor Says Economy in ‘Worrying’ Situation",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/bank-of-france-governor-says-economy-in-worrying-situation"
-  },
-  {
     "title": "Asia Confronts New Inflation, Fiscal Threat as Oil Tops $100",
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/asia-confronts-fresh-inflation-fiscal-threats-as-oil-tops-100"
   },
@@ -662,14 +670,6 @@
   {
     "title": "Argentina Monthly Inflation Slows to Lowest Since Last June",
     "link": "https://www.bloomberg.com/news/articles/2026-09-10/argentina-monthly-inflation-hits-lowest-level-since-last-june"
-  },
-  {
-    "title": "Mortgage Rates in the US Rise to 6.76%, Highest Since June 2025",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/mortgage-rates-in-the-us-rise-to-6-76-highest-since-june-2025"
-  },
-  {
-    "title": "IMF Ends Long Silence on El Salvador Program, Lifting Bonds",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/imf-ends-long-silence-on-el-salvador-program-lifting-bonds"
   },
   {
     "title": "Meet the under-35s shaping the future of biotech",
@@ -712,6 +712,10 @@
     "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/"
   },
   {
+    "title": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
+    "link": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs"
+  },
+  {
     "title": "Apple addresses iPhone Duo copycats",
     "link": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats"
   },
@@ -746,9 +750,5 @@
   {
     "title": "Meta’s Muse AI works and creeps me out",
     "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on"
-  },
-  {
-    "title": "Another big James Talarico interview is punted to YouTube due to FCC threats",
-    "link": "https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico"
   }
 ]
