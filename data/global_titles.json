@@ -1,5 +1,9 @@
 [
   {
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "link": "https://openai.com/index/fyxer"
+  },
+  {
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
   },
@@ -92,12 +96,12 @@
     "link": "https://openai.com/index/daybreak-for-frontline-defenders"
   },
   {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra"
-  },
-  {
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "link": "https://openai.com/index/legora-financial-statement-review-with-astra"
+  },
+  {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra"
   },
   {
     "title": "GPT-6 Astra: A new generation of intelligence",
@@ -116,8 +120,8 @@
     "link": "https://openai.com/index/ai-native-company-workflows"
   },
   {
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "link": "https://openai.com/index/path-to-astra"
+    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+    "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/"
   },
   {
     "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
@@ -186,10 +190,6 @@
   {
     "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/"
-  },
-  {
-    "title": "Securing the Infrastructure of Intelligence",
-    "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/"
   },
   {
     "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
@@ -432,6 +432,62 @@
     "link": "https://www.cnbc.com/2026/09/09/chipotles-new-seoul-restaurant-tests-its-asian-expansion-strategy-.html"
   },
   {
+    "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+    "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
+  },
+  {
+    "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+    "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
+  },
+  {
+    "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+    "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"
+  },
+  {
+    "title": "With iOS 27, I’m actually using Siri again",
+    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+  },
+  {
+    "title": "macOS 27: new Siri takes on AI productivity apps",
+    "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
+  },
+  {
+    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+    "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
+  },
+  {
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
+  },
+  {
+    "title": "Waymo opens robotaxi service in Las Vegas",
+    "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/"
+  },
+  {
+    "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+    "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/"
+  },
+  {
+    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+    "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/"
+  },
+  {
+    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
+  },
+  {
+    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/"
+  },
+  {
+    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+    "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/"
+  },
+  {
     "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
     "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/"
   },
@@ -456,140 +512,116 @@
     "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/"
   },
   {
-    "title": "Fusion power startups find new partners in the defense world",
-    "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/"
+    "title": "Cohere CEO Warns Against an AI Safety ‘Cartel’",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/cohere-ceo-warns-against-an-ai-safety-cartel-video"
   },
   {
-    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-    "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
+    "title": "AI’s Frontier Faces Calls for Safety Slowdown",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/bloomberg-tech-9-14-2026-video"
   },
   {
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+    "title": "AI Needs a Full Stop, Not a Slowdown: Parmy Olson",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/ai-needs-a-full-stop-not-a-slowdown-parmy-olson-video"
   },
   {
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+    "title": "Can Independent Testing Make AI Safer?",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/can-independent-testing-make-ai-safer-video"
   },
   {
-    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-    "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/"
+    "title": "AI Leaders Debate Slowing the Frontier",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/ai-leaders-debate-slowing-the-frontier-video"
   },
   {
-    "title": "Revolut confirms customer data breach through fake government requests",
-    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
+    "title": "Roblox CEO: AI Will Create More Game Makers",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/roblox-ceo-ai-will-create-more-game-makers-video"
   },
   {
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+    "title": "Roblox Shares Rise 11% on New Tools for Game Developers",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/roblox-shares-rise-11-on-new-tools-for-game-developers"
   },
   {
-    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-    "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/"
+    "title": "Anthropic’s AI Slowdown Isn’t Enough",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/opinion-anthropic-s-ai-slowdown-isn-t-enough-video"
   },
   {
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+    "title": "Musk’s xAI Resolves Claims Against Apple Over AI Competition",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/musk-s-xai-resolves-claims-against-apple-over-ai-competition"
   },
   {
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+    "title": "Tech Leaders Try to Telegraph AI Concerns Without Spooking Investors",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/tech-execs-try-to-telegraph-ai-concerns-without-spooking-investors"
   },
   {
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
+    "title": "AI Slowdown Fears Shake Wall Street",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/open-interest-9-14-2026-video"
   },
   {
-    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-    "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
+    "title": "AI Era Coincides With Weak Pay and Employment for College Graduates",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-era-coincides-with-weak-pay-and-employment-for-college-graduates"
   },
   {
-    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"
+    "title": "Anthropic Expands Into Finance With Claude Tool Linking Advisors to Analytics",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/anthropic-pitches-new-claude-tool-for-financial-advisors"
   },
   {
-    "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-    "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/"
+    "title": "Waymo Expands Paid Robotaxi Service to Las Vegas, Its 15th City",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/waymo-expands-paid-robotaxi-service-to-las-vegas-its-15th-city"
   },
   {
-    "title": "AI Bosses Risk Clash With Wall Street and Trump Over Safety",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call"
+    "title": "Rig at Miami Construction Site Falls, Injuring Several",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/rig-at-miami-construction-site-falls-injuring-several-video"
   },
   {
-    "title": "China Rejects AI ‘Fearmongering’ After Amodei Urges Slowdown",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-rejects-ai-fearmongering-after-amodei-urges-slowdown"
-  },
-  {
-    "title": "Dangote Refinery IPO Demand Crashes Some Local Trading Apps",
+    "title": "Dangote Refinery IPO Rush Crashes Some Nigerian Trading Apps",
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/dangote-refinery-ipo-demand-crashes-nigerian-trading-app-bamboo"
   },
   {
-    "title": "China Rejects AI 'Fearmongering' as CEO's Urge Slowdown",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/china-rejects-ai-fearmongering-as-ceo-s-urge-slowdown-video"
+    "title": "Stocks Fall on AI Fears as 10-Year Yield Hits 5%",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/stocks-fall-on-ai-fears-as-10-year-yield-hits-5-video"
   },
   {
-    "title": "Intel-Backed Construction AI Firm Buildots Raises $130 Million",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/intel-backed-construction-ai-firm-buildots-raises-130-million"
+    "title": "AI Bosses Clash With Trump on Their Calls to Slow AI Development",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call"
   },
   {
-    "title": "RBC’s Calvasina Wraps ‘AI Froth’ Into Earnings Risks",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/rbc-s-calvasina-wraps-ai-froth-into-earnings-risks-video"
+    "title": "Trump ataca a CEO de Anthropic por llamado a ralentizar la IA",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/trump-ataca-a-ceo-de-anthropic-por-llamado-a-ralentizar-la-ia"
   },
   {
-    "title": "Apple’s iPhone Duo Tackles the Challenge of Taking Foldables Mainstream",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/apple-s-iphone-duo-tackles-the-challenge-of-taking-foldables-mainstream"
+    "title": "Barclays CEO on Bonds, AI, UK Taxing Banks",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/barclays-ceo-on-bonds-ai-uk-taxing-banks-video"
   },
   {
-    "title": "S&P Global, DRW Back Crypto Data Firm Kaiko as 24/7 Markets Loom",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/s-p-global-drw-back-crypto-data-firm-kaiko-as-24-7-markets-loom"
+    "title": "【ウェビナー】日銀9月会合直前 ― 利上げ「過去最速」のペースとなるか",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/-9-video"
   },
   {
-    "title": "Fintech Tabby Hits Valuation of $6.5 Billion, Topping Klarna",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/fintech-tabby-s-valuation-hits-6-5-billion-to-top-klarna"
+    "title": "Canada Inflation Data Delayed as Website Issues Plague Statistics Agency",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/canada-inflation-data-delayed-as-website-issues-plague-statistics-agency"
   },
   {
-    "title": "AI Use for Schoolwork Leaves Students 1.5 Years Behind, OECD Finds",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/ai-use-for-schoolwork-leaves-students-1-5-years-behind-oecd-finds"
+    "title": "ECB’s Cipollone Says €200 Bill Not Main Tool for Money Laundering Today",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/-200-bill-isn-t-easiest-way-to-launder-now-ecb-s-cipollone-says"
   },
   {
-    "title": "Forvia Is Said to Explore Selling Car Smart-Tech Unit Clarion",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/forvia-is-said-to-explore-selling-car-smart-tech-unit-clarion"
+    "title": "Bank of England’s Dovish Majority Tested by Oil Price Surge",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/bank-of-england-s-dovish-majority-tested-by-iran-war-pressures"
   },
   {
-    "title": "Anthropic's Solution to AI Danger Is 'Quite Vague': Opinion",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/anthropic-s-solution-to-ai-danger-quite-vague-opinion-video"
+    "title": "Europe Can’t Simply Import AI Technologies From US, Lagarde Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/europe-can-t-simply-import-ai-technologies-from-us-lagarde-says"
   },
   {
-    "title": "M&G's Municchi Says Investors 'More Wary' About AI Trade",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/m-g-s-municchi-says-investors-more-wary-about-ai-trade-video"
+    "title": "Venezuela lleva la dolarización al centro del debate",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/venezuela-lleva-la-dolarizacion-al-centro-del-debate"
   },
   {
-    "title": "OpenAI President on Doing Business in the Wake of Hugging Face",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/greg-brockman-on-doing-business-in-wake-of-hugging-face-video"
+    "title": "Traders See More BOE, ECB Rate Hikes as Energy Prices Rise",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/european-bonds-retreat-as-rising-energy-fuels-inflation-worries"
   },
   {
-    "title": "ICBC, HSBC Among Major Lenders on $30 Billion ByteDance Loan",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/icbc-hsbc-among-major-lenders-on-bytedance-s-30-billion-loan"
-  },
-  {
-    "title": "Data Center Firm Firmus Said to Seek $5 Billion in Australia IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/data-center-firm-firmus-said-to-seek-5-billion-in-australia-ipo"
-  },
-  {
-    "title": "OpenAI’s Altman Voices Support for ‘Pacing’ AI Development",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/openai-s-altman-voices-support-for-pacing-ai-development"
-  },
-  {
-    "title": "China Bans Drone Ownership in Beijing After Citic Tower Crash",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/beijing-bans-drones-in-sweeping-curbs-after-citic-tower-crash"
-  },
-  {
-    "title": "Ligent Technologies Seeks $727 Million in Hong Kong IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ligent-technologies-seeks-727-million-in-hong-kong-ipo"
-  },
-  {
-    "title": "Ed Conway on the Fragile World of Global Trade",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/ed-conway-on-the-fragile-world-of-global-trade-video"
+    "title": "South African Treasury Has Three-Year Plan to Fix Johannesburg",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/south-african-treasury-has-three-year-plan-to-fix-johannesburg"
   },
   {
     "title": "Canada Inflation Holds at 3% Amid Slower Gasoline Price Growth",
@@ -632,10 +664,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/indonesia-s-new-finance-chief-is-seen-as-market-friendly-veteran"
   },
   {
-    "title": "【ウェビナー】日銀9月会合直前 ― 利上げ「過去最速」のペースとなるか",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/-9-video"
-  },
-  {
     "title": "Dollarization: What Adopting the US Dollar Would Mean for Venezuela",
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/dollarization-what-adopting-the-us-dollar-would-mean-for-venezuela"
   },
@@ -644,40 +672,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/economists-see-at-least-one-more-ecb-rate-hike-research-roundup"
   },
   {
-    "title": "UniCredit's Orcel to Meet German Finance Minister",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/unicredit-s-orcel-to-meet-german-finance-minister-video"
+    "title": "Donated livers can be made biologically younger",
+    "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
   },
   {
-    "title": "Bank of England’s Dovish Majority Tested by Iran War Pressures",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/bank-of-england-s-dovish-majority-tested-by-iran-war-pressures"
-  },
-  {
-    "title": "China’s Property Overhaul Puts Strain on Local Government Income",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-property-overhaul-puts-strain-on-local-government-income"
-  },
-  {
-    "title": "Fed’s Warsh on Collision Course With Trump as Rate Hike Looms",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/fed-s-warsh-on-collision-course-with-trump-as-rate-hike-looms"
-  },
-  {
-    "title": "All Eyes on Warsh as Rate-Hike Fever Spreads Across G7 Central Banks",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-12/all-eyes-on-warsh-as-rate-hike-fever-spreads-across-g7-central-banks"
-  },
-  {
-    "title": "Trump Pushes Fed to Lower Rates Despite Pressure For a Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/trump-pushes-fed-to-lower-rates-despite-pressure-to-raise-them"
-  },
-  {
-    "title": "France Targets €30 Billion in Budget Savings to Tame Deficit",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/france-aims-for-30-billion-in-budget-savings-to-tame-deficit"
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
   },
   {
     "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
     "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
-  },
-  {
-    "title": "Roundtables: Could AI really kill us all?",
-    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
   },
   {
     "title": "The Download: biotech’s future and cheaper, cleaner steel",
@@ -708,47 +712,43 @@
     "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
   },
   {
-    "title": "Healthcare AI’s next test is integration",
-    "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/"
+    "title": "TIFF 2026: The latest movie reviews from Toronto",
+    "link": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews"
   },
   {
-    "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-    "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+    "title": "macOS 27 is available now",
+    "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now"
   },
   {
-    "title": "What happens after a town de-Flocks",
-    "link": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy"
+    "title": "Apple releases iOS 27 with Siri AI overhaul",
+    "link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update"
   },
   {
-    "title": "Trump and Mike Johnson think the AI industry is overreacting",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"
+    "title": "The Steam Frame is made for irresponsible hardware nerds like me",
+    "link": "https://www.theverge.com/tech/994267/steam-frame-review"
   },
   {
-    "title": "Apple is reportedly working on iPhone game controllers",
-    "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers"
+    "title": "Valve’s Steam Frame costs $1,059",
+    "link": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date"
   },
   {
-    "title": "The Units’ Digital Stimulation is synthpunk perfection",
-    "link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review"
+    "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
+    "link": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port"
   },
   {
-    "title": "Waymo pulls over, calls cops on riders with a ghost gun",
-    "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun"
+    "title": "I reviewed Valve’s Steam Frame, ask me anything",
+    "link": "https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered"
   },
   {
-    "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
-    "link": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026"
+    "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo",
+    "link": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review"
   },
   {
-    "title": "Your car is selling your data",
-    "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data"
+    "title": "Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’",
+    "link": "https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven"
   },
   {
-    "title": "Apple’s new phones are here",
-    "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones"
-  },
-  {
-    "title": "OpenAI’s rogue AI tried to hack another company in May",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
+    "title": "Volkswagen’s slippery new EV breaks a bunch of efficiency records",
+    "link": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record"
   }
 ]
