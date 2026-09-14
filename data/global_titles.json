@@ -28,12 +28,12 @@
     "link": "https://openai.com/index/expanding-ai-access-us-government"
   },
   {
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-  },
-  {
     "title": "Introducing the Agents API",
     "link": "https://openai.com/index/introducing-the-agents-api"
+  },
+  {
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
   },
   {
     "title": "The AI policy window is open. We need to act.",
@@ -312,6 +312,18 @@
     "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html"
   },
   {
+    "title": "India’s retail inflation hits 4.8% in August, rises for 10th straight month",
+    "link": "https://www.cnbc.com/2026/09/14/india-inflation-august-iran-war-energy-el-nino.html"
+  },
+  {
+    "title": "Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz",
+    "link": "https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html"
+  },
+  {
+    "title": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record",
+    "link": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html"
+  },
+  {
     "title": "Shein shares fall 10% amid urgent recall of contact-lens cleaner by Australia, New Zealand",
     "link": "https://www.cnbc.com/2026/09/14/shein-shares-fall-10percent-amid-australia-nz-contact-lens-cleaner-recall.html"
   },
@@ -420,18 +432,6 @@
     "link": "https://www.cnbc.com/2026/09/09/chipotles-new-seoul-restaurant-tests-its-asian-expansion-strategy-.html"
   },
   {
-    "title": "China's wholesale inflation tops estimates in August on commodity costs, tech demand as consumer price increases meet forecast",
-    "link": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html"
-  },
-  {
-    "title": "It's been a rough month of natural disasters. Here's a review of some of the worst",
-    "link": "https://www.cnbc.com/2026/09/08/natural-disasters-month-review-earthquake-volcano-flood.html"
-  },
-  {
-    "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
-    "link": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html"
-  },
-  {
     "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
     "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/"
   },
@@ -512,15 +512,75 @@
     "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/"
   },
   {
-    "title": "OpenAI’s Altman Voices Support for ‘Pacing’ AI Development",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/openai-s-altman-voices-support-for-pacing-ai-development"
-  },
-  {
     "title": "AI Bosses Risk Clash With Wall Street and Trump Over Safety",
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call"
   },
   {
-    "title": "Beijing Bans Drones in Broad Curbs After Citic Tower Crash",
+    "title": "China Rejects AI ‘Fearmongering’ After Amodei Urges Slowdown",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-rejects-ai-fearmongering-after-amodei-urges-slowdown"
+  },
+  {
+    "title": "Dangote Refinery IPO Demand Crashes Some Local Trading Apps",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/dangote-refinery-ipo-demand-crashes-nigerian-trading-app-bamboo"
+  },
+  {
+    "title": "China Rejects AI 'Fearmongering' as CEO's Urge Slowdown",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/china-rejects-ai-fearmongering-as-ceo-s-urge-slowdown-video"
+  },
+  {
+    "title": "Intel-Backed Construction AI Firm Buildots Raises $130 Million",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/intel-backed-construction-ai-firm-buildots-raises-130-million"
+  },
+  {
+    "title": "RBC’s Calvasina Wraps ‘AI Froth’ Into Earnings Risks",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/rbc-s-calvasina-wraps-ai-froth-into-earnings-risks-video"
+  },
+  {
+    "title": "Apple’s iPhone Duo Tackles the Challenge of Taking Foldables Mainstream",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/apple-s-iphone-duo-tackles-the-challenge-of-taking-foldables-mainstream"
+  },
+  {
+    "title": "S&P Global, DRW Back Crypto Data Firm Kaiko as 24/7 Markets Loom",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/s-p-global-drw-back-crypto-data-firm-kaiko-as-24-7-markets-loom"
+  },
+  {
+    "title": "Fintech Tabby Hits Valuation of $6.5 Billion, Topping Klarna",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/fintech-tabby-s-valuation-hits-6-5-billion-to-top-klarna"
+  },
+  {
+    "title": "AI Use for Schoolwork Leaves Students 1.5 Years Behind, OECD Finds",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/ai-use-for-schoolwork-leaves-students-1-5-years-behind-oecd-finds"
+  },
+  {
+    "title": "Forvia Is Said to Explore Selling Car Smart-Tech Unit Clarion",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/forvia-is-said-to-explore-selling-car-smart-tech-unit-clarion"
+  },
+  {
+    "title": "Anthropic's Solution to AI Danger Is 'Quite Vague': Opinion",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/anthropic-s-solution-to-ai-danger-quite-vague-opinion-video"
+  },
+  {
+    "title": "M&G's Municchi Says Investors 'More Wary' About AI Trade",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/m-g-s-municchi-says-investors-more-wary-about-ai-trade-video"
+  },
+  {
+    "title": "OpenAI President on Doing Business in the Wake of Hugging Face",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/greg-brockman-on-doing-business-in-wake-of-hugging-face-video"
+  },
+  {
+    "title": "ICBC, HSBC Among Major Lenders on $30 Billion ByteDance Loan",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/icbc-hsbc-among-major-lenders-on-bytedance-s-30-billion-loan"
+  },
+  {
+    "title": "Data Center Firm Firmus Said to Seek $5 Billion in Australia IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/data-center-firm-firmus-said-to-seek-5-billion-in-australia-ipo"
+  },
+  {
+    "title": "OpenAI’s Altman Voices Support for ‘Pacing’ AI Development",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/openai-s-altman-voices-support-for-pacing-ai-development"
+  },
+  {
+    "title": "China Bans Drone Ownership in Beijing After Citic Tower Crash",
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/beijing-bans-drones-in-sweeping-curbs-after-citic-tower-crash"
   },
   {
@@ -532,64 +592,52 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-14/ed-conway-on-the-fragile-world-of-global-trade-video"
   },
   {
-    "title": "Chinese Local Banks Urged to Boost Clients’ Yuan Hedging",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/chinese-local-banks-urged-to-boost-clients-yuan-hedging"
+    "title": "Canada to Prioritize Tax Rulings for Large Investment Proposals",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/canada-to-prioritize-tax-rulings-for-large-investment-proposals"
   },
   {
-    "title": "China Spy Chief Warns of AI Risks as Anthropic CEO Urges Brakes",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-spy-chief-warns-of-ai-risks-as-us-tech-leaders-urge-brakes"
+    "title": "Canada Inflation Holds at 3% Amid Slower Gasoline Price Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/canada-inflation-holds-at-3-amid-slower-gasoline-price-growth"
   },
   {
-    "title": "Chevron Australia President on LNG outlook",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/chevron-australia-president-on-lng-outlook-video"
+    "title": "Bessent Touts American AI Superiority, But Has Beefs With Its Champs",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/bessent-touts-american-ai-superiority-but-has-beefs-with-its-champs"
   },
   {
-    "title": "Samsung, SK Hynix Reject Kepco’s Power Grid Prepayment Plan",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/samsung-sk-hynix-reject-kepco-s-power-grid-prepayment-plan"
+    "title": "US declining labor force and immigration",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/us-declining-labor-force-and-immigration"
   },
   {
-    "title": "Z.AI’s Cash Burn Drives Alibaba-Like HK Fundraising Spree",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/z-ai-s-cash-burn-drives-alibaba-like-hong-kong-fundraising-spree"
+    "title": "ECB’s Schnabel Says Energy-Price Trends ‘Quite Concerning’",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ecb-s-schnabel-says-energy-price-trends-quite-concerning"
   },
   {
-    "title": "Asia Chip Stocks Drop as AI Chiefs Urge Slower Model Development",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact"
+    "title": "ECB Won’t Hesitate to Hike Further If Needed, Kazimir Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ecb-won-t-hesitate-to-hike-further-if-needed-kazimir-says"
   },
   {
-    "title": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/softbank-gets-upsized-11-9-billion-loan-in-openai-funding-push"
+    "title": "Senegal’s President to Meet IMF Chief in Washington This Week",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/senegal-s-president-to-meet-imf-chief-in-washington-this-week"
   },
   {
-    "title": "Amazon Halts Operations With 21 Air After Fatal Miami Crash",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/amazon-halts-operations-with-21-air-after-fatal-miami-crash"
+    "title": "China’s Economy Enters Key Phase Determining 2026 Stimulus",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-economy-enters-critical-phase-determining-2026-stimulus"
   },
   {
-    "title": "OCBC's Vasu on the Stock Retreat After AI Warning Calls",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/ocbc-s-vasu-on-the-stock-retreat-after-ai-warning-calls-video"
+    "title": "Indonesia’s New Finance Chief Is Seen as Market-Friendly Veteran",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/indonesia-s-new-finance-chief-is-seen-as-market-friendly-veteran"
   },
   {
-    "title": "Anthropic Expects an Operating Profit This Quarter, FT Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-sees-adjusted-operating-profit-this-quarter-ft-says"
+    "title": "【ウェビナー】日銀9月会合直前 ― 利上げ「過去最速」のペースとなるか",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/-9-video"
   },
   {
-    "title": "Xi-Modi Thaw at BRICS Masks Deep Divisions Between Asian Rivals",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/xi-modi-thaw-at-brics-masks-deep-divisions-between-asian-rivals"
+    "title": "Dollarization: What Adopting the US Dollar Would Mean for Venezuela",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/dollarization-what-adopting-the-us-dollar-would-mean-for-venezuela"
   },
   {
-    "title": "Amazon Spends More on Sports Than Netflix, YouTube Combined",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-13/amazon-spends-more-on-sports-than-netflix-youtube-combined"
-  },
-  {
-    "title": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-said-to-choose-nasdaq-for-much-anticipated-ipo-listing"
-  },
-  {
-    "title": "Trump Downplays AI Concerns as CEOs Call for Slowing Pace",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology"
-  },
-  {
-    "title": "Jeffries Says Democrats to Meet Tuesday on AI Action: ABC News",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/jeffries-says-democrats-to-meet-tuesday-on-ai-action-abc-news"
+    "title": "Economists See at Least One More ECB Rate Hike: Research Roundup",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/economists-see-at-least-one-more-ecb-rate-hike-research-roundup"
   },
   {
     "title": "UniCredit's Orcel to Meet German Finance Minister",
@@ -624,8 +672,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-13/hassett-says-white-house-will-100-support-fed-s-next-decision"
   },
   {
-    "title": "Australia Spring Property Season Sees Auctions Rise but Volumes Stay 34% Lower",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/australia-spring-property-season-sees-auctions-rise-but-volumes-stay-34-lower"
+    "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+    "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
   },
   {
     "title": "Roundtables: Could AI really kill us all?",
@@ -664,8 +712,12 @@
     "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/"
   },
   {
-    "title": "The Download: OpenAI’s turning point for math and a battery record",
-    "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
+    "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+    "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+  },
+  {
+    "title": "What happens after a town de-Flocks",
+    "link": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy"
   },
   {
     "title": "Trump and Mike Johnson think the AI industry is overreacting",
@@ -698,13 +750,5 @@
   {
     "title": "OpenAI’s rogue AI tried to hack another company in May",
     "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
-  },
-  {
-    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
-  },
-  {
-    "title": "StarCraft returns in 2030 as an open-world shooter",
-    "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter"
   }
 ]
