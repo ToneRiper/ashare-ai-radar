@@ -32,12 +32,12 @@
     "link": "https://openai.com/index/expanding-ai-access-us-government"
   },
   {
-    "title": "Introducing the Agents API",
-    "link": "https://openai.com/index/introducing-the-agents-api"
-  },
-  {
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
     "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+  },
+  {
+    "title": "Introducing the Agents API",
+    "link": "https://openai.com/index/introducing-the-agents-api"
   },
   {
     "title": "The AI policy window is open. We need to act.",
@@ -192,6 +192,14 @@
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/"
   },
   {
+    "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+    "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html"
+  },
+  {
+    "title": "Novo CEO tells CNBC why drugmaker is rebranding, needs to 'rethink' obesity strategy",
+    "link": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html"
+  },
+  {
     "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
     "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html"
   },
@@ -304,12 +312,12 @@
     "link": "https://www.cnbc.com/2026/09/03/nfl-rams-49ers-australia-international-expansion.html"
   },
   {
-    "title": "Billionaire family offices back healthcare and biotech startups in August",
-    "link": "https://www.cnbc.com/2026/09/03/family-offices-health-care-biotech-startups-august.html"
+    "title": "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
+    "link": "https://www.cnbc.com/2026/09/15/china-rich-talent-immigration-capital-outflows-border-control-.html"
   },
   {
-    "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
-    "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html"
+    "title": "CNBC's The China Connection newsletter: Tech controls expand to employees",
+    "link": "https://www.cnbc.com/2026/09/14/cnbcs-the-china-connection-newsletter-tech-controls-employees.html"
   },
   {
     "title": "India’s retail inflation hits 4.8% in August, rises for 10th straight month",
@@ -424,12 +432,20 @@
     "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html"
   },
   {
-    "title": "The world's highest paid leader is set for a 64% pay rise. Here's how others compare",
-    "link": "https://www.cnbc.com/2026/09/09/singapore-prime-minister-salary-lawrence-wong.html"
+    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
   },
   {
-    "title": "Chipotle's new restaurant in a hip Seoul neighborhood tests its Asian expansion strategy",
-    "link": "https://www.cnbc.com/2026/09/09/chipotles-new-seoul-restaurant-tests-its-asian-expansion-strategy-.html"
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+  },
+  {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+  },
+  {
+    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+    "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
   },
   {
     "title": "Amazon Prime Video takes on TikTok with short-form news clips",
@@ -496,100 +512,136 @@
     "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/"
   },
   {
-    "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-    "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/"
+    "title": "Australia’s AI Regulation Debate",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-15/australia-s-ai-regulation-debate-video"
   },
   {
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+    "title": "Hugging Face Says Good Ethics Can Drive AI Innovation",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-15/hugging-face-says-good-ethics-can-drive-ai-innovation-video"
   },
   {
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+    "title": "Chinese State Media Dismisses ‘Self-Serving’ AI Slowdown Call",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call"
   },
   {
-    "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-    "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/"
+    "title": "Hugging Face Scientist on Safety Issues With Agentic AI",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-15/hugging-face-scientist-on-safety-issues-with-agentic-ai-video"
   },
   {
-    "title": "Cohere CEO Warns Against an AI Safety ‘Cartel’",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/cohere-ceo-warns-against-an-ai-safety-cartel-video"
+    "title": "Trump, China Push Back on Calls to Slow AI",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-15/trump-china-push-back-on-calls-to-slow-ai-video"
   },
   {
-    "title": "AI’s Frontier Faces Calls for Safety Slowdown",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/bloomberg-tech-9-14-2026-video"
+    "title": "Google DeepMind Staffer Says AI May ‘Kill Us All’ in Exit Post",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post"
   },
   {
-    "title": "AI Needs a Full Stop, Not a Slowdown: Parmy Olson",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/ai-needs-a-full-stop-not-a-slowdown-parmy-olson-video"
+    "title": "ANZ CEO Warns of AI Risks, Job Cuts After Musk, Altman Alert",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/anz-ceo-warns-of-ai-risks-and-job-cuts-after-musk-altman-alert"
   },
   {
-    "title": "Can Independent Testing Make AI Safer?",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/can-independent-testing-make-ai-safer-video"
+    "title": "BlackRock Raises EM Equities Back to Overweight on AI, Earnings",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/blackrock-raises-em-equities-back-to-overweight-on-ai-earnings"
   },
   {
-    "title": "AI Leaders Debate Slowing the Frontier",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/ai-leaders-debate-slowing-the-frontier-video"
+    "title": "Markets Weigh AI Slowdown & Guardrails: Marc Franklin",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-15/markets-weigh-ai-slowdown-guardrails-marc-franklin-video"
   },
   {
-    "title": "Roblox CEO: AI Will Create More Game Makers",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/roblox-ceo-ai-will-create-more-game-makers-video"
+    "title": "Trump Opposes AI Guardrails Amid Chip Selloff",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-15/trump-opposes-ai-guardrails-amid-chip-selloff-video"
   },
   {
-    "title": "Roblox Shares Rise 11% on New Tools for Game Developers",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/roblox-shares-rise-11-on-new-tools-for-game-developers"
+    "title": "DOJ Says Millions in Iran Oil Proceeds Laundered on Binance",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/doj-says-millions-in-iranian-oil-proceeds-laundered-on-binance"
   },
   {
-    "title": "Anthropic’s AI Slowdown Isn’t Enough",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/opinion-anthropic-s-ai-slowdown-isn-t-enough-video"
+    "title": "Trump’s AI Defense Defies Voter Unease Heading Into Midterms",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/trump-s-ai-defense-defies-voter-unease-heading-into-midterms"
   },
   {
-    "title": "Musk’s xAI Resolves Claims Against Apple Over AI Competition",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/musk-s-xai-resolves-claims-against-apple-over-ai-competition"
+    "title": "AI Labs Should Make Safe Tech Without Antitrust Help, David Sacks Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-labs-should-make-safe-tech-without-antitrust-help-david-sacks-says"
   },
   {
-    "title": "Tech Leaders Try to Telegraph AI Concerns Without Spooking Investors",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/tech-execs-try-to-telegraph-ai-concerns-without-spooking-investors"
+    "title": "Authentic Brands’ Matt Maddox: Ready to IPO Early 2027",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/authentic-brands-matt-maddox-ready-to-ipo-early-2027-video"
   },
   {
-    "title": "AI Slowdown Fears Shake Wall Street",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/open-interest-9-14-2026-video"
+    "title": "Gebru: AI Security & Safety Is About Human Control",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/gebru-ai-security-safety-is-about-human-control-video"
   },
   {
-    "title": "AI Era Coincides With Weak Pay and Employment for College Graduates",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-era-coincides-with-weak-pay-and-employment-for-college-graduates"
+    "title": "Chip Stocks Tumble on AI Safety Fears & Rising Yields",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/the-close-9-14-2026-video"
   },
   {
-    "title": "Anthropic Expands Into Finance With Claude Tool Linking Advisors to Analytics",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/anthropic-pitches-new-claude-tool-for-financial-advisors"
+    "title": "Texas Capital CEO on Moving to the Texas Stock Exchange",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/texas-capital-ceo-on-moving-to-the-texas-stock-exchange-video"
   },
   {
-    "title": "Waymo Expands Paid Robotaxi Service to Las Vegas, Its 15th City",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/waymo-expands-paid-robotaxi-service-to-las-vegas-its-15th-city"
+    "title": "McKinsey AI Leader on the State of AI Development",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/mckinsey-ai-leader-on-the-state-of-ai-development-video"
   },
   {
-    "title": "Rig at Miami Construction Site Falls, Injuring Several",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/rig-at-miami-construction-site-falls-injuring-several-video"
+    "title": "Cloudflare CEO: Good Guys Have More Tools Than Bad Guys",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/cloudflare-ceo-good-guys-have-more-tools-than-bad-guys-video"
   },
   {
-    "title": "Dangote Refinery IPO Rush Crashes Some Nigerian Trading Apps",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/dangote-refinery-ipo-demand-crashes-nigerian-trading-app-bamboo"
+    "title": "Starmoire Launches With Stacy London as Chief Stylist",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/starmoire-launches-with-stacy-london-as-chief-stylist-video"
   },
   {
-    "title": "Stocks Fall on AI Fears as 10-Year Yield Hits 5%",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/stocks-fall-on-ai-fears-as-10-year-yield-hits-5-video"
+    "title": "Prabowo’s Economic Team Reset Leaves Investors Wanting More",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/prabowo-s-economic-team-overhaul-leaves-investors-wanting-more"
   },
   {
-    "title": "AI Bosses Clash With Trump on Their Calls to Slow AI Development",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call"
+    "title": "Chinese Economic Momentum Stays Weak With Stimulus Delay a Risk",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/china-s-consumption-and-investment-wilt-as-factories-power-ahead"
   },
   {
-    "title": "Trump ataca a CEO de Anthropic por llamado a ralentizar la IA",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/trump-ataca-a-ceo-de-anthropic-por-llamado-a-ralentizar-la-ia"
+    "title": "Why Food Prices Are Rising in India, From Onions to Cooking Oil",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/why-food-prices-are-rising-in-india-from-onions-to-cooking-oil"
   },
   {
-    "title": "Barclays CEO on Bonds, AI, UK Taxing Banks",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/barclays-ceo-on-bonds-ai-uk-taxing-banks-video"
+    "title": "China’s PBOC Strengthens Yuan Fix Ahead of Trump-Xi Summit",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/china-s-pboc-strengthens-yuan-fix-ahead-of-trump-xi-summit"
+  },
+  {
+    "title": "AI-Driven Asset Rally Prone to Correction, ECB’s Vujcic Warns",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/ai-driven-asset-rally-prone-to-correction-ecb-s-vujcic-warns"
+  },
+  {
+    "title": "Thailand’s Vice Finance Minister Says Investment Surging as Stability Returns",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/thailand-s-vice-finance-minister-says-investment-surging-as-stability-returns"
+  },
+  {
+    "title": "South Korea Finance Chief Nominee Says Economy at Turning Point",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/south-korea-finance-chief-nominee-says-economy-at-turning-point"
+  },
+  {
+    "title": "China Home Price Slump Persists as Focus Turns to Support",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/china-home-price-slump-persists-as-focus-turns-to-policy-support"
+  },
+  {
+    "title": "Thailand Eyes $600 Million Tourism Boost With Travel Subsidies",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/thailand-eyes-600-million-tourism-boost-with-travel-subsidies"
+  },
+  {
+    "title": "UK Can Replace Oil Windfall Tax Early to Add Revenue, Lobby Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/uk-can-replace-oil-windfall-tax-early-to-add-revenue-lobby-says"
+  },
+  {
+    "title": "Japan’s Economic Comeback Faces Hardest BOJ Test in a Generation",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/japan-s-economic-comeback-faces-hardest-boj-test-in-a-generation"
+  },
+  {
+    "title": "Fed Extends Pause on Reserve Management Purchases to Mid-October",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/fed-prolongs-pause-on-reserve-management-purchases-to-mid-oct"
+  },
+  {
+    "title": "Zimbabwe Says Single-Currency Switch Hinges on Market Conditions",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/zimbabwe-says-single-currency-switch-hinges-on-market-conditions"
   },
   {
     "title": "【ウェビナー】日銀9月会合直前 ― 利上げ「過去最速」のペースとなるか",
@@ -620,56 +672,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/european-bonds-retreat-as-rising-energy-fuels-inflation-worries"
   },
   {
-    "title": "South African Treasury Has Three-Year Plan to Fix Johannesburg",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/south-african-treasury-has-three-year-plan-to-fix-johannesburg"
-  },
-  {
-    "title": "Canada Inflation Holds at 3% Amid Slower Gasoline Price Growth",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/canada-inflation-holds-at-3-amid-slower-gasoline-price-growth"
-  },
-  {
-    "title": "Canada to Prioritize Tax Rulings for Large Investment Proposals",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/canada-to-prioritize-tax-rulings-for-large-investment-proposals"
-  },
-  {
-    "title": "Pakistan Keeps Rates Steady as Price Pressures Build",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/pakistan-keeps-rates-steady-as-price-pressures-build"
-  },
-  {
-    "title": "Bessent Touts American AI Superiority, But Has Beefs With Its Champs",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/bessent-touts-american-ai-superiority-but-has-beefs-with-its-champs"
-  },
-  {
-    "title": "US declining labor force and immigration",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/us-declining-labor-force-and-immigration"
-  },
-  {
-    "title": "ECB’s Schnabel Says Energy-Price Trends ‘Quite Concerning’",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ecb-s-schnabel-says-energy-price-trends-quite-concerning"
-  },
-  {
-    "title": "ECB Won’t Hesitate to Hike Further If Needed, Kazimir Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ecb-won-t-hesitate-to-hike-further-if-needed-kazimir-says"
-  },
-  {
-    "title": "Senegal’s President to Meet IMF Chief in Washington This Week",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/senegal-s-president-to-meet-imf-chief-in-washington-this-week"
-  },
-  {
-    "title": "China’s Economy Enters Key Phase Determining 2026 Stimulus",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-economy-enters-critical-phase-determining-2026-stimulus"
-  },
-  {
-    "title": "Indonesia’s New Finance Chief Is Seen as Market-Friendly Veteran",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/indonesia-s-new-finance-chief-is-seen-as-market-friendly-veteran"
-  },
-  {
-    "title": "Dollarization: What Adopting the US Dollar Would Mean for Venezuela",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/dollarization-what-adopting-the-us-dollar-would-mean-for-venezuela"
-  },
-  {
-    "title": "Economists See at Least One More ECB Rate Hike: Research Roundup",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/economists-see-at-least-one-more-ecb-rate-hike-research-roundup"
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
   },
   {
     "title": "Donated livers can be made biologically younger",
@@ -682,6 +686,10 @@
   {
     "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
     "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
+  },
+  {
+    "title": "Roundtables: Could AI really kill us all?",
+    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
   },
   {
     "title": "The Download: biotech’s future and cheaper, cleaner steel",
@@ -704,12 +712,36 @@
     "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
   },
   {
-    "title": "Can the US battery market untangle from China?",
-    "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/"
+    "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+    "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when"
   },
   {
-    "title": "God told them to sell crypto. Their investors lost everything.",
-    "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
+  },
+  {
+    "title": "Apple Home’s new security camera features cost as much as $60 a month",
+    "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription"
+  },
+  {
+    "title": "What execs and politicians are saying about slowing down AI development",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei"
+  },
+  {
+    "title": "Trump throws out power plant climate pollution rules",
+    "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers"
+  },
+  {
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit"
+  },
+  {
+    "title": "Valve&#8217;s virtual reality plans hit actual reality",
+    "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact"
+  },
+  {
+    "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
+    "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale"
   },
   {
     "title": "TIFF 2026: The latest movie reviews from Toronto",
@@ -718,37 +750,5 @@
   {
     "title": "macOS 27 is available now",
     "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now"
-  },
-  {
-    "title": "Apple releases iOS 27 with Siri AI overhaul",
-    "link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update"
-  },
-  {
-    "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-    "link": "https://www.theverge.com/tech/994267/steam-frame-review"
-  },
-  {
-    "title": "Valve’s Steam Frame costs $1,059",
-    "link": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date"
-  },
-  {
-    "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
-    "link": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port"
-  },
-  {
-    "title": "I reviewed Valve’s Steam Frame, ask me anything",
-    "link": "https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered"
-  },
-  {
-    "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo",
-    "link": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review"
-  },
-  {
-    "title": "Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’",
-    "link": "https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven"
-  },
-  {
-    "title": "Volkswagen’s slippery new EV breaks a bunch of efficiency records",
-    "link": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record"
   }
 ]
