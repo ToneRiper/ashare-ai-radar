@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/ai-native-company-workflows"
   },
   {
+    "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+    "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/"
+  },
+  {
     "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
     "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/"
   },
@@ -188,8 +192,20 @@
     "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/"
   },
   {
-    "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/"
+    "title": "GM launching new customer software experience with redesigned Chevy, GMC pickups",
+    "link": "https://www.cnbc.com/2026/09/15/2027-chevy-silverado-gmc-sierra-to-debut-gms-new-software-experience.html"
+  },
+  {
+    "title": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
+    "link": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html"
+  },
+  {
+    "title": "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
+    "link": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html"
+  },
+  {
+    "title": "U.S. auto market predictions for 2030: More hybrids, no Chinese entrants",
+    "link": "https://www.cnbc.com/2026/09/15/us-auto-market-predictions-2030-john-murphy.html"
   },
   {
     "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
@@ -296,20 +312,12 @@
     "link": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html"
   },
   {
-    "title": "The wealth of the world's billionaires reached $15.1 trillion last year, per a new report",
-    "link": "https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html"
+    "title": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
+    "link": "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html"
   },
   {
-    "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
-    "link": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html"
-  },
-  {
-    "title": "ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'",
-    "link": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html"
-  },
-  {
-    "title": "NFL set for first-ever game in Melbourne, Australia, in international expansion",
-    "link": "https://www.cnbc.com/2026/09/03/nfl-rams-49ers-australia-international-expansion.html"
+    "title": "U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers",
+    "link": "https://www.cnbc.com/2026/09/15/us-attorney-crypto-tether-iran-china-.html"
   },
   {
     "title": "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
@@ -424,14 +432,6 @@
     "link": "https://www.cnbc.com/2026/09/09/mitsui-chairman-yen-markets-hormuz.html"
   },
   {
-    "title": "‘This is not a joke’: Iceland condemns Trump’s post showing island under American flag",
-    "link": "https://www.cnbc.com/2026/09/09/iceland-trump-map-us-flag-greenland-mexico.html"
-  },
-  {
-    "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
-    "link": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html"
-  },
-  {
     "title": "Jensen Huang took a call from Trump, and showed off something else, too",
     "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
   },
@@ -512,16 +512,72 @@
     "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/"
   },
   {
+    "title": "Profound Hits $1.8 Billion Value to Boost Brands in AI Search",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/profound-hits-1-8-billion-value-to-boost-brands-in-ai-search"
+  },
+  {
+    "title": "Eclat Health Is Said to Consider $300 Million India IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/eclat-health-is-said-to-consider-300-million-india-ipo"
+  },
+  {
+    "title": "Grab to Buy Control of Atome for $1.5 Billion in Fintech Bet",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/grab-to-buy-most-of-atome-for-1-49-billion-to-spur-lending-push"
+  },
+  {
+    "title": "TSMC Co-COO Says Cautious With AI a ‘Three-Year-Old Superman’",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/tsmc-co-coo-says-cautious-with-ai-a-three-year-old-superman"
+  },
+  {
+    "title": "Calls to Pace AI Won’t Slow Robust Data Center Demand",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-15/calls-to-pace-ai-won-t-slow-robust-data-center-demand"
+  },
+  {
+    "title": "AI Safety Push Raises Antitrust Questions for Anthropic, OpenAI",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-15/ai-safety-push-raises-antitrust-questions-for-anthropic-openai"
+  },
+  {
+    "title": "Meta Bulls Bet Stock Will Break Out After Year of Head Fakes",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/meta-bulls-bet-stock-will-break-out-after-year-of-head-fakes"
+  },
+  {
+    "title": "Chip Startup Euclyd, Backed By Ex-ASML CEO, Raises More Than €200 Million",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/chip-startup-euclyd-backed-by-ex-asml-ceo-raises-more-than-200-million"
+  },
+  {
+    "title": "Trustpilot CEO Says AI-Powered Searches Attract Large Clients",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/trustpilot-ceo-says-ai-powered-searches-attract-large-clients"
+  },
+  {
+    "title": "Amazon’s India Quick Commerce Push Hits $1 Billion Milestone",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/amazon-s-india-quick-commerce-push-hits-1-billion-milestone"
+  },
+  {
+    "title": "AI Firm Seeks to Raise $100 Million to Cut Bankers’ Grunt Work",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/ai-firm-seeks-to-raise-100-million-to-cut-bankers-grunt-work"
+  },
+  {
+    "title": "AI Trade Is in 'Digestion' Phase, JPMorgan's Sundar Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-15/ai-trade-is-in-digestion-phase-jpmorgan-s-sundar-says-video"
+  },
+  {
+    "title": "AI Slowdown Calls Won’t Halt Fundraising, AllianceBernstein Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/ai-slowdown-calls-won-t-halt-fundraising-alliancebernstein-says"
+  },
+  {
+    "title": "AI Chip Darling Biren Said to Mull $1 Billion Share Sale",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-ai-chip-darling-biren-said-to-mull-1-billion-share-sale"
+  },
+  {
+    "title": "China Media Dismisses Amodei’s ‘Self-Serving’ AI Safety Call",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call"
+  },
+  {
     "title": "Australia’s AI Regulation Debate",
     "link": "https://www.bloomberg.com/news/videos/2026-09-15/australia-s-ai-regulation-debate-video"
   },
   {
     "title": "Hugging Face Says Good Ethics Can Drive AI Innovation",
     "link": "https://www.bloomberg.com/news/videos/2026-09-15/hugging-face-says-good-ethics-can-drive-ai-innovation-video"
-  },
-  {
-    "title": "Chinese State Media Dismisses ‘Self-Serving’ AI Slowdown Call",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call"
   },
   {
     "title": "Hugging Face Scientist on Safety Issues With Agentic AI",
@@ -536,72 +592,76 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post"
   },
   {
-    "title": "ANZ CEO Warns of AI Risks, Job Cuts After Musk, Altman Alert",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/anz-ceo-warns-of-ai-risks-and-job-cuts-after-musk-altman-alert"
+    "title": "WTO and rules of global trade",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-15/wto-and-rules-of-global-trade"
   },
   {
-    "title": "BlackRock Raises EM Equities Back to Overweight on AI, Earnings",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/blackrock-raises-em-equities-back-to-overweight-on-ai-earnings"
+    "title": "China Stuck in Economic Slow Lane Relies on AI-Fueled Export Boom",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-15/china-stuck-in-economic-slow-lane-relies-on-ai-fueled-export-boom"
   },
   {
-    "title": "Markets Weigh AI Slowdown & Guardrails: Marc Franklin",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-15/markets-weigh-ai-slowdown-guardrails-marc-franklin-video"
+    "title": "BOE May End Long-Dated Bond Sales as Officials Draft Plans, Report Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/boe-plans-to-stop-long-dated-bond-sales-telegraph-report-says"
   },
   {
-    "title": "Trump Opposes AI Guardrails Amid Chip Selloff",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-15/trump-opposes-ai-guardrails-amid-chip-selloff-video"
+    "title": "Unusual Calm in UK Pound Is Red Flag to Traders Before Budget",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/unusual-calm-in-uk-pound-is-red-flag-to-traders-before-budget"
   },
   {
-    "title": "DOJ Says Millions in Iran Oil Proceeds Laundered on Binance",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/doj-says-millions-in-iranian-oil-proceeds-laundered-on-binance"
+    "title": "India’s Trade Gap Narrows Unexpectedly After Exports Surge",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/india-trade-deficit-narrows-in-august-even-as-oil-risks-loom"
   },
   {
-    "title": "Trump’s AI Defense Defies Voter Unease Heading Into Midterms",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/trump-s-ai-defense-defies-voter-unease-heading-into-midterms"
+    "title": "French Finance Chiefs Say Debt Issuance Assured as Yields Rise",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/french-finance-chiefs-say-debt-issuance-assured-as-yields-rise"
   },
   {
-    "title": "AI Labs Should Make Safe Tech Without Antitrust Help, David Sacks Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-labs-should-make-safe-tech-without-antitrust-help-david-sacks-says"
+    "title": "Bessent’s Growth Solution for US Debt Is Seen Failing the Credibility Test",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/bessent-s-growth-solution-for-us-debt-is-seen-failing-the-credibility-test"
   },
   {
-    "title": "Authentic Brands’ Matt Maddox: Ready to IPO Early 2027",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/authentic-brands-matt-maddox-ready-to-ipo-early-2027-video"
+    "title": "UK State Pension Becomes Liable for Tax For the First Time",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/britons-set-to-pay-tax-on-the-state-pension-for-the-first-time"
   },
   {
-    "title": "Gebru: AI Security & Safety Is About Human Control",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/gebru-ai-security-safety-is-about-human-control-video"
+    "title": "Sri Lanka’s Growth Misses Forecast as Middle East Crisis Bites",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/sri-lanka-s-growth-misses-forecast-as-middle-east-crisis-bites"
   },
   {
-    "title": "Chip Stocks Tumble on AI Safety Fears & Rising Yields",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/the-close-9-14-2026-video"
+    "title": "UK to Gain From Replacing Oil Windfall Tax Early, Lobby Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/uk-can-replace-oil-windfall-tax-early-to-add-revenue-lobby-says"
   },
   {
-    "title": "Texas Capital CEO on Moving to the Texas Stock Exchange",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/texas-capital-ceo-on-moving-to-the-texas-stock-exchange-video"
+    "title": "Ireland's Martin on EU Economy, Defense, China (Sept. 3)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-15/ireland-s-martin-on-eu-economy-defense-china-sept-3-video"
   },
   {
-    "title": "McKinsey AI Leader on the State of AI Development",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/mckinsey-ai-leader-on-the-state-of-ai-development-video"
+    "title": "German Investor Outlook Edges Up as Optimism Over Recovery Grows",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/german-investor-outlook-edges-up-as-optimism-over-recovery-grows"
   },
   {
-    "title": "Cloudflare CEO: Good Guys Have More Tools Than Bad Guys",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/cloudflare-ceo-good-guys-have-more-tools-than-bad-guys-video"
+    "title": "UK Energy Bills Forecast to Jump 25%, Bloomberg Analysis Finds",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/uk-energy-bills-forecast-to-jump-25-and-drive-up-inflation"
   },
   {
-    "title": "Starmoire Launches With Stacy London as Chief Stylist",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/starmoire-launches-with-stacy-london-as-chief-stylist-video"
+    "title": "Chinese Economic Momentum Stays Weak With No Stimulus in Sight",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/china-s-consumption-and-investment-wilt-as-factories-power-ahead"
   },
   {
     "title": "UK Payrolls Drop More Than Expected in Weak Jobs Market",
     "link": "https://www.bloomberg.com/news/articles/2026-09-15/uk-payrolls-drop-more-than-expected-in-weak-jobs-market"
   },
   {
-    "title": "Prabowo’s Economic Team Reset Leaves Investors Wanting More",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/prabowo-s-economic-team-overhaul-leaves-investors-wanting-more"
+    "title": "Japan’s Cabinet Approves Temporary Food Sales Tax Cut to 1%",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/japan-s-cabinet-approves-temporary-food-sales-tax-cut-to-1"
   },
   {
-    "title": "Chinese Economic Momentum Stays Weak With Stimulus Delay a Risk",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/china-s-consumption-and-investment-wilt-as-factories-power-ahead"
+    "title": "China Thaw Could Give Indian Manufacturing a Boost, Oxford Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/china-thaw-could-give-indian-manufacturing-a-boost-oxford-says"
+  },
+  {
+    "title": "Prabowo’s Economic Team Reset Leaves Investors Wanting More",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/prabowo-s-economic-team-overhaul-leaves-investors-wanting-more"
   },
   {
     "title": "Why Food Prices Are Rising in India, From Onions to Cooking Oil",
@@ -612,64 +672,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-15/china-s-pboc-strengthens-yuan-fix-ahead-of-trump-xi-summit"
   },
   {
-    "title": "AI-Driven Asset Rally Prone to Correction, ECB’s Vujcic Warns",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/ai-driven-asset-rally-prone-to-correction-ecb-s-vujcic-warns"
-  },
-  {
-    "title": "Thailand’s Vice Finance Minister Says Investment Surging as Stability Returns",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/thailand-s-vice-finance-minister-says-investment-surging-as-stability-returns"
-  },
-  {
-    "title": "South Korea Finance Chief Nominee Says Economy at Turning Point",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/south-korea-finance-chief-nominee-says-economy-at-turning-point"
-  },
-  {
-    "title": "China Home Price Slump Persists as Focus Turns to Support",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/china-home-price-slump-persists-as-focus-turns-to-policy-support"
-  },
-  {
-    "title": "Thailand Eyes $600 Million Tourism Boost With Travel Subsidies",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/thailand-eyes-600-million-tourism-boost-with-travel-subsidies"
-  },
-  {
-    "title": "UK Can Replace Oil Windfall Tax Early to Add Revenue, Lobby Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/uk-can-replace-oil-windfall-tax-early-to-add-revenue-lobby-says"
-  },
-  {
-    "title": "Japan’s Economic Comeback Faces Hardest BOJ Test in a Generation",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/japan-s-economic-comeback-faces-hardest-boj-test-in-a-generation"
-  },
-  {
-    "title": "Fed Extends Pause on Reserve Management Purchases to Mid-October",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/fed-prolongs-pause-on-reserve-management-purchases-to-mid-oct"
-  },
-  {
-    "title": "Zimbabwe Says Single-Currency Switch Hinges on Market Conditions",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/zimbabwe-says-single-currency-switch-hinges-on-market-conditions"
-  },
-  {
-    "title": "【ウェビナー】日銀9月会合直前 ― 利上げ「過去最速」のペースとなるか",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/-9-video"
-  },
-  {
-    "title": "Canada Inflation Data Delayed as Website Issues Plague Statistics Agency",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/canada-inflation-data-delayed-as-website-issues-plague-statistics-agency"
-  },
-  {
-    "title": "ECB’s Cipollone Says €200 Bill Not Main Tool for Money Laundering Today",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/-200-bill-isn-t-easiest-way-to-launder-now-ecb-s-cipollone-says"
-  },
-  {
-    "title": "Bank of England’s Dovish Majority Tested by Oil Price Surge",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/bank-of-england-s-dovish-majority-tested-by-iran-war-pressures"
-  },
-  {
-    "title": "Europe Can’t Simply Import AI Technologies From US, Lagarde Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/europe-can-t-simply-import-ai-technologies-from-us-lagarde-says"
-  },
-  {
-    "title": "Venezuela lleva la dolarización al centro del debate",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/venezuela-lleva-la-dolarizacion-al-centro-del-debate"
+    "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+    "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
   },
   {
     "title": "The AI industry has taken a doomer turn. What now?",
@@ -708,8 +712,16 @@
     "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
   },
   {
-    "title": "This road map could help us decide whether to deploy solar geoengineering",
-    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
+    "title": "GM updates its trucks’ native software to coexist with CarPlay",
+    "link": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto"
+  },
+  {
+    "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+    "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues"
+  },
+  {
+    "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+    "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range"
   },
   {
     "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
@@ -738,17 +750,5 @@
   {
     "title": "Valve&#8217;s virtual reality plans hit actual reality",
     "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact"
-  },
-  {
-    "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
-    "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale"
-  },
-  {
-    "title": "TIFF 2026: The latest movie reviews from Toronto",
-    "link": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews"
-  },
-  {
-    "title": "macOS 27 is available now",
-    "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now"
   }
 ]
