@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/"
   },
   {
+    "title": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
+    "link": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html"
+  },
+  {
     "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
     "link": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html"
   },
@@ -308,8 +312,16 @@
     "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html"
   },
   {
-    "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
-    "link": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html"
+    "title": "Crypto exchange Binance takes on tradfi by courting rich investors to join its expanded wealth-management platform",
+    "link": "https://www.cnbc.com/2026/09/16/crypto-exchange-binance-expands-wealth-management-platform-.html"
+  },
+  {
+    "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
+    "link": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html"
+  },
+  {
+    "title": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
+    "link": "https://www.cnbc.com/2026/09/16/russia-ukraine-war-sanction-oil-missile-weapons-.html"
   },
   {
     "title": "Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome",
@@ -420,16 +432,8 @@
     "link": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html"
   },
   {
-    "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
-    "link": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html"
-  },
-  {
-    "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
-    "link": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html"
-  },
-  {
-    "title": "'Saved the day': How China helped keep the lid on oil price surge as Iran war disrupted supplies",
-    "link": "https://www.cnbc.com/2026/09/10/china-crude-oil-iran-hormuz-war-trump-brent-prices-.html"
+    "title": "Amazon launches Alexa+ in India with Hindi support",
+    "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/"
   },
   {
     "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -508,8 +512,44 @@
     "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/"
   },
   {
-    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
+    "title": "Nvidia’s Jensen Huang Touts Himself as an AI VC Role Model",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-16/nvidia-s-jensen-huang-touts-himself-as-an-ai-vc-role-model"
+  },
+  {
+    "title": "AI Slowdown Calls Collide With Stock Market’s AI Bets",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-16/ai-slowdown-calls-collide-with-stock-market-s-ai-bets"
+  },
+  {
+    "title": "UK Workers Hide AI Use From Their Bosses, Deloitte Survey Finds",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/uk-workers-hide-ai-use-from-their-bosses-deloitte-survey-finds"
+  },
+  {
+    "title": "Mytheresa Owner Sales Rise as Ultra Wealthy Help Luxury Platform",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/mytheresa-owner-sales-rise-as-ultra-wealthy-help-luxury-platform"
+  },
+  {
+    "title": "Meta CEO Zuckerberg Leans on Powell McCormick to Clear Path for AI Push",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/meta-ceo-zuckerberg-leans-on-powell-mccormick-to-clear-path-for-ai-push"
+  },
+  {
+    "title": "TikTok Billionaire Becomes Asia’s Richest Person",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-16/tiktok-billionaire-becomes-asia-s-richest-person-video"
+  },
+  {
+    "title": "US Coast Guard and FBI Conduct Cyberattack Probes on Tankers",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/us-coast-guard-boards-oil-tanker-in-cyber-attack-investigation"
+  },
+  {
+    "title": "EU Unveils Social Media Curbs for Kids and Ban on Users Under 13",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/eu-unveils-social-media-curbs-for-kids-and-ban-on-users-under-13"
+  },
+  {
+    "title": "SoftBank CDS Hits 3-Year High as OpenAI Risks Stay in Focus",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/softbank-cds-hovers-near-3-year-high-on-openai-funding-concerns"
+  },
+  {
+    "title": "Hong Kong Sets Five-Year Tech Goals",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-16/hong-kong-sets-five-year-tech-goals-video"
   },
   {
     "title": "Full Vision Capital on HK Five-Year Plan",
@@ -520,16 +560,16 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-16/meta-ceo-favors-evaluators-over-ai-slowdown-video"
   },
   {
+    "title": "TikTok Billionaire Zhang Yiming Overtakes Gautam Adani as Asia’s Richest Person",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/bytedance-tiktok-billionaire-zhang-yiming-overtakes-gautam-adani-asia-richest-person"
+  },
+  {
     "title": "Paytm Bulls See IPO Price Back in Reach After Five-Year Wait",
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/paytm-one97-communications-bulls-ipo-price-listing"
   },
   {
     "title": "South Korea Can’t Afford to Slow AI Progress, Deputy PM Says",
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says"
-  },
-  {
-    "title": "SoftBank CDS Hovers Near 3-Year High on OpenAI Funding Concerns",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/softbank-cds-hovers-near-3-year-high-on-openai-funding-concerns"
   },
   {
     "title": "SK Hynix Strikes Labor Union Deal to Pay Half of Bonuses in Cash",
@@ -544,10 +584,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/tech-execs-try-to-telegraph-ai-concerns-without-spooking-investors"
   },
   {
-    "title": "US Coast Guard Boarded Oil Supertanker in Cyber Attack Probe",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/us-coast-guard-boards-oil-tanker-in-cyber-attack-investigation"
-  },
-  {
     "title": "Trump Has Few Good Options to Slow China’s Rise as AI Superpower",
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower"
   },
@@ -556,44 +592,44 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation"
   },
   {
-    "title": "Zuckerberg Backs Independent Evaluators for AI Safety Over Slowing Development",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/meta-s-zuckerberg-favors-evaluators-over-slowdown-for-ai-safety"
+    "title": "After Talking the Talk on Inflation, Fed’s Warsh May Be Made to Walk",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-16/after-talking-the-talk-on-inflation-fed-s-warsh-may-be-made-to-walk"
   },
   {
-    "title": "Hong Kong’s Data Center Ambitions Face $2.6 Billion Funding Test",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-s-data-center-ambitions-face-2-6-billion-funding-test"
+    "title": "US and China trade truce and tariffs",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-16/us-and-china-trade-truce-and-tariffs"
   },
   {
-    "title": "Nvidia’s Huang Says AI Industry Doesn’t Need Any New Laws",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-says-ai-industry-doesn-t-need-any-new-laws"
+    "title": "Brazil Central Bank to Cut Interest Rate to 13.75%",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/brazil-central-bank-to-cut-interest-rate-to-13-75"
   },
   {
-    "title": "Nvidia CEO Set to Attend Trump Dinner With Chinese President",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-set-to-attend-trump-dinner-with-chinese-president"
+    "title": "Turkey Finance Chief Rules Out Loose Policies Ahead of 2028 Vote",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/turkey-finance-chief-rules-out-loose-policies-ahead-of-2028-vote"
   },
   {
-    "title": "Trump Advisers Lutnick, Michael Meet With Anthropic Executive Over AI Safety",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/trump-advisers-lutnick-michael-meet-with-anthropic-executive-over-ai-safety"
+    "title": "Carry Traders Eye Franc, Krona as Yen’s Funding Appeal Ebbs",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-15/carry-traders-eye-franc-and-krona-as-yen-s-funding-appeal-ebbs"
   },
   {
-    "title": "Anthropic, Salesforce CEOs Say Companies Need Help Using AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/anthropic-salesforce-ceos-say-companies-need-more-help-using-ai"
+    "title": "ARS/USD: Argentina's Milei Defied by Governor Handing Out Own Money",
+    "link": "https://www.bloomberg.com/news/features/2026-09-16/ars-usd-argentina-s-milei-defied-by-governor-handing-out-own-money"
   },
   {
-    "title": "MoneyGram CEO on Launch of New Payments Card",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-15/moneygram-ceo-on-launch-of-new-payments-card-video"
+    "title": "Euro-Zone Wage Growth Set to Accelerate in 2027, ECB Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/euro-zone-wage-growth-set-to-accelerate-in-2027-ecb-says"
   },
   {
-    "title": "OpenAI’s Sam Altman ‘Confident’ Industry Can Police AI Safety",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/openai-s-sam-altman-confident-industry-can-police-ai-safety"
+    "title": "South African Inflation Expectations Dip Before Rate Call",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/south-african-inflation-expectations-rise-before-rate-decision"
   },
   {
-    "title": "VSORA’s Rivera on AI Capex Spend and Semis Outlook",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-15/vsora-s-rivera-on-ai-capex-spend-and-semis-outlook-video"
-  },
-  {
-    "title": "UK Inflation Rises to Five-Month High Ahead of BOE Rate Decision",
+    "title": "UK Inflation Rises to Five-Month High Before BOE Decision",
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/uk-inflation-rises-to-five-month-high-ahead-of-boe-rate-decision"
+  },
+  {
+    "title": "US-China Discuss Cutting Some Tariffs as Leaders Prepare to Meet",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/us-china-discuss-cutting-some-tariffs-as-leaders-prepare-to-meet"
   },
   {
     "title": "Hong Kong Sets Five-Year Tech Goals, Expands Baby Bonus",
@@ -612,10 +648,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/india-at-inflection-point-needs-growth-rethink-adviser-says"
   },
   {
-    "title": "US-China Discuss Cutting Some Tariffs as Leaders Prepare to Meet",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/us-china-discuss-cutting-some-tariffs-as-leaders-prepare-to-meet"
-  },
-  {
     "title": "Japan’s Export Growth Stays Solid as Shipments of Chips Jump",
     "link": "https://www.bloomberg.com/news/articles/2026-09-15/japan-s-export-growth-stays-robust-as-shipments-to-us-lead-gains"
   },
@@ -632,44 +664,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-15/thai-finance-chief-sticks-to-2-5-growth-goal-despite-oil-surge"
   },
   {
-    "title": "Carry Traders Eye Franc and Krona as Yen’s Funding Appeal Ebbs",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/carry-traders-eye-franc-and-krona-as-yen-s-funding-appeal-ebbs"
-  },
-  {
     "title": "Fed Seen Hiking Rates in Defiance of Trump: Decision-Day Guide",
     "link": "https://www.bloomberg.com/news/articles/2026-09-15/fed-seen-hiking-rates-in-defiance-of-trump-decision-day-guide"
   },
   {
     "title": "Chile Central Bank Deputy Governor: Investors Shouldn’t Overlook Recovery",
     "link": "https://www.bloomberg.com/news/articles/2026-09-15/chile-central-bank-deputy-governor-investors-shouldn-t-overlook-recovery"
-  },
-  {
-    "title": "Sheinbaum Seeks $8.2 Billion in New Tax That Businesses Oppose",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/sheinbaum-tax-change-eyes-new-revenue-but-businesses-fear-impact"
-  },
-  {
-    "title": "History Shows Fed Will Deliver Rate Hike Markets Locked In",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/history-shows-fed-will-deliver-rate-hike-markets-have-locked-in"
-  },
-  {
-    "title": "Bessent Says US Yen Intervention Was ‘Nominal,’ Backs US Exports",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/bessent-says-us-yen-intervention-was-nominal-backs-us-exports"
-  },
-  {
-    "title": "BOE’s Bailey Urges UK to Leave Fraud Fight to London Police",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/boe-s-bailey-urges-uk-to-leave-fraud-fight-to-london-police"
-  },
-  {
-    "title": "UK Budget to Be Based on a Single Set of Economic Forecasts",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/uk-chancellor-scales-back-economic-forecasts-before-budget"
-  },
-  {
-    "title": "Peru’s Economy Rebounded in July to Top Forecasts",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/peru-s-economy-rebounded-in-july-to-top-forecasts"
-  },
-  {
-    "title": "Nigerian Inflation Unexpectedly Eases, Boosts Rate-Cut Case",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-15/nigeria-inflation-unexpectedly-eases-boosts-case-for-rate-cut"
   },
   {
     "title": "Roundtables: Could AI really kill us all?",
@@ -712,6 +712,10 @@
     "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/"
   },
   {
+    "title": "Meta is reportedly ready to launch less pervy smart glasses",
+    "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect"
+  },
+  {
     "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
     "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16"
   },
@@ -746,9 +750,5 @@
   {
     "title": "Vintage Violence is an absurdist crime thriller for phone addicts",
     "link": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster"
-  },
-  {
-    "title": "Now Light’s minimalist phone can easily call an Uber",
-    "link": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app"
   }
 ]
