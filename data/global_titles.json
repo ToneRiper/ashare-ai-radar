@@ -116,8 +116,8 @@
     "link": "https://openai.com/index/daybreak-for-frontline-defenders"
   },
   {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra"
   },
   {
     "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
@@ -512,6 +512,18 @@
     "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/"
   },
   {
+    "title": "San Francisco's AI Wealth Boom Skirts Engineers as OpenAI, Anthropic IPOs Near",
+    "link": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
+  },
+  {
+    "title": "CoreWeave Seeks to Raise $3 Billion in Convertible Bonds",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/coreweave-plans-to-raise-3-billion-from-convertible-bonds"
+  },
+  {
+    "title": "King Charles Calls on Nvidia, OpenAI Chiefs to Control AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind"
+  },
+  {
     "title": "Carlyle’s Basmadjian on AI Debt Reshaping the Loan Market",
     "link": "https://www.bloomberg.com/news/videos/2026-09-15/carlyle-s-basmadjian-on-ai-debt-reshaping-the-loan-market"
   },
@@ -560,10 +572,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/modi-courts-investors-with-india-s-30-billion-chipmaking-bet"
   },
   {
-    "title": "King Charles Calls on Nvidia, OpenAI Chiefs to Control AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind"
-  },
-  {
     "title": "Does AI Safety Anxiety in the US Benefit China? Live Q&A",
     "link": "https://www.bloomberg.com/sessions/2026-09-17/live-q-amp-a-does-ai-safety-anxiety-in-the-us-benefit-china"
   },
@@ -584,12 +592,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/port-of-la-foiled-around-120-million-cyberattacks-last-month"
   },
   {
-    "title": "Port of LA's Seroka on AI, Trade & Supply Chains",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/port-of-la-s-seroka-on-ai-trade-supply-chains-video"
+    "title": "ECB’s Rehn Sees No Second-Round Price Effects From War Shock",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ecb-s-rehn-sees-no-second-round-inflation-effects-from-war-shock"
   },
   {
-    "title": "Twitch CEO Urges Game Firms to Avoid Attention Vortex of ‘GTA 6’",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/twitch-ceo-urges-game-firms-to-avoid-attention-vortex-of-gta-6"
+    "title": "UK Bonds Flip to Gains as BOE Scraps Long-Dated QT Gilt Sales",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/uk-bonds-flip-to-gains-as-boe-scraps-long-dated-qt-gilt-sales"
   },
   {
     "title": "BOE Scraps Long-End Gilt Sales, Helping Ease Pressure on Yields",
@@ -610,10 +618,6 @@
   {
     "title": "ARS/USD: Milei’s Strong Peso Holds Back Argentina’s Economic Growth",
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/ars-usd-milei-s-strong-peso-holds-back-argentina-s-economic-growth"
-  },
-  {
-    "title": "ECB’s Rehn Sees No Second-Round Inflation Effects From War Shock",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ecb-s-rehn-sees-no-second-round-inflation-effects-from-war-shock"
   },
   {
     "title": "India’s RBI Drains $5.2 Billion From Lenders Through Debt Sales",
@@ -668,10 +672,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/boe-set-to-hold-rates-with-warning-on-inflation-decision-guide"
   },
   {
-    "title": "UK Stocks Offer Defensive Value as Commodity Earnings Lift FTSE 100",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/parts-of-the-uk-stock-market-offer-a-compelling-case"
-  },
-  {
     "title": "Meet the innovators under 35 shaping climate tech",
     "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
   },
@@ -712,6 +712,10 @@
     "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
   },
   {
+    "title": "The Apple Watch Series 12 is the start of a new wearable era",
+    "link": "https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch"
+  },
+  {
     "title": "Inside the suddenly explosive world of AI safety",
     "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic"
   },
@@ -746,9 +750,5 @@
   {
     "title": "Apple might make servers again to cash in on the AI rush",
     "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
-  },
-  {
-    "title": "Your ‘health age’ is fake",
-    "link": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity"
   }
 ]
