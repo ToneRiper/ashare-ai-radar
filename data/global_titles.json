@@ -52,12 +52,12 @@
     "link": "https://openai.com/index/expanding-ai-access-us-government"
   },
   {
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-  },
-  {
     "title": "Introducing the Agents API",
     "link": "https://openai.com/index/introducing-the-agents-api"
+  },
+  {
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
   },
   {
     "title": "The AI policy window is open. We need to act.",
@@ -192,6 +192,18 @@
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/"
   },
   {
+    "title": "Charities say gifts by deceased donors are getting held up at financial firms",
+    "link": "https://www.cnbc.com/2026/09/17/charities-ira-gifts-hurdles.html"
+  },
+  {
+    "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
+    "link": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html"
+  },
+  {
+    "title": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion",
+    "link": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html"
+  },
+  {
     "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
     "link": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html"
   },
@@ -298,18 +310,6 @@
   {
     "title": "What a historic summer box office reveals about massive shifts in the theatrical industry",
     "link": "https://www.cnbc.com/2026/09/09/summer-box-theatrical-shifts.html"
-  },
-  {
-    "title": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
-    "link": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html"
-  },
-  {
-    "title": "LIV Golf files for Chapter 11 bankruptcy protection",
-    "link": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html"
-  },
-  {
-    "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
-    "link": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html"
   },
   {
     "title": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy",
@@ -432,6 +432,10 @@
     "link": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html"
   },
   {
+    "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+    "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/"
+  },
+  {
     "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
     "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
   },
@@ -508,8 +512,68 @@
     "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/"
   },
   {
-    "title": "May Mobility is going public in a $1.4B SPAC deal",
-    "link": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/"
+    "title": "Carlyle’s Basmadjian on AI Debt Reshaping the Loan Market",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-15/carlyle-s-basmadjian-on-ai-debt-reshaping-the-loan-market"
+  },
+  {
+    "title": "EU’s Slow Regulation Is Finding Fans in AI Age",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/eu-s-slow-regulation-is-finding-fans-in-ai-age"
+  },
+  {
+    "title": "Novo Nordisk (NVO) Taps Anthropic AI to Develop Next-Generation Medicines",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/novo-nordisk-nvo-taps-anthropic-ai-to-develop-next-generation-medicines"
+  },
+  {
+    "title": "AI Data Center Developer LIAN Eyes IPO to Raise $500 Million",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ai-data-center-developer-lian-mulls-ipo-to-raise-500-million"
+  },
+  {
+    "title": "Taiwan Holds Rate for 10th Straight Quarter as Inflation Slows",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-poised-for-hawkish-hold-after-headline-inflation-slowed"
+  },
+  {
+    "title": "Europe Tech Fund Said In Talks to Back AI Startup ElevenLabs",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/europe-tech-fund-said-in-talks-to-back-ai-startup-elevenlabs"
+  },
+  {
+    "title": "DoorDash, Uber Expand Costco Delivery Partnership in the US",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/doordash-uber-expand-costco-delivery-partnership-in-the-us"
+  },
+  {
+    "title": "Huawei Accelerates Launch of New AI Chip to Take On Nvidia",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign"
+  },
+  {
+    "title": "DeepMind Offshoot Emulate Closes In on $700 Million Seed Round",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/deepmind-offshoot-emulate-closes-in-on-700-million-seed-round"
+  },
+  {
+    "title": "Casinos Posing as Beauty Salons, Bakeries Spur Philippine Digital Payment Review",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/casinos-posing-as-beauty-salons-bakeries-spur-philippine-digital-payment-review"
+  },
+  {
+    "title": "State Street Says Any Tech Weakness Is Chance to Rebuild",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/state-street-says-any-tech-weakness-is-chance-to-rebuild-video"
+  },
+  {
+    "title": "Modi Draws US Chip Leaders’ Backing for $30 Billion India Bet",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/modi-courts-investors-with-india-s-30-billion-chipmaking-bet"
+  },
+  {
+    "title": "King Charles Calls on Nvidia, OpenAI Chiefs to Control AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind"
+  },
+  {
+    "title": "Does AI Safety Anxiety in the US Benefit China? Live Q&A",
+    "link": "https://www.bloomberg.com/sessions/2026-09-17/live-q-amp-a-does-ai-safety-anxiety-in-the-us-benefit-china"
+  },
+  {
+    "title": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says"
+  },
+  {
+    "title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/sk-hynix-says-exploring-options-after-report-of-intel-tie-up"
   },
   {
     "title": "Can AI Decide What Makes a Face Beautiful?",
@@ -524,152 +588,92 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-17/port-of-la-s-seroka-on-ai-trade-supply-chains-video"
   },
   {
-    "title": "Huawei Accelerates Launch of New AI Chip to Take On Nvidia",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign"
-  },
-  {
     "title": "Twitch CEO Urges Game Firms to Avoid Attention Vortex of ‘GTA 6’",
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/twitch-ceo-urges-game-firms-to-avoid-attention-vortex-of-gta-6"
   },
   {
-    "title": "King Charles Wants AI Chiefs To Promise They’ll Protect Mankind",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind"
+    "title": "BOE Scraps Long-End Gilt Sales, Helping Ease Pressure on Yields",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/boe-scraps-long-end-gilt-sales-in-plan-to-unwind-qe-by-2034"
   },
   {
-    "title": "Twitch CEO on Business Outlook",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/twitch-ceo-on-business-outlook-video"
+    "title": "Bank of England Holds Rates Warning of Hike If War Continues",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/bank-of-england-holds-rates-warns-of-hike-if-iran-war-persists"
   },
   {
-    "title": "Apollo's Ueda on APAC Investment Outlook",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/apollo-s-ueda-on-apac-investment-outlook-video"
+    "title": "Warsh Suggests Fed Rate Hike Is Good-News Story, Touting Growth",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/warsh-suggests-fed-rate-hike-is-good-news-story-touting-growth"
   },
   {
-    "title": "Fmr Fed President Bullard on Rate Outlook",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/fmr-fed-president-bullard-on-rate-outlook-video"
+    "title": "Red Sea shipping return",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/red-sea-shipping-return"
   },
   {
-    "title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/sk-hynix-says-exploring-options-after-report-of-intel-tie-up"
+    "title": "ARS/USD: Milei’s Strong Peso Holds Back Argentina’s Economic Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ars-usd-milei-s-strong-peso-holds-back-argentina-s-economic-growth"
   },
   {
-    "title": "Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-partner-gmi-cloud-seeks-loan-to-buy-chips-for-thai-site"
+    "title": "ECB’s Rehn Sees No Second-Round Inflation Effects From War Shock",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ecb-s-rehn-sees-no-second-round-inflation-effects-from-war-shock"
   },
   {
-    "title": "Casinos Posing as Beauty Salons, Bakeries Spur Philippine Digital Payment Review",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/casinos-posing-as-beauty-salons-bakeries-spur-philippine-digital-payment-review"
+    "title": "India’s RBI Drains $5.2 Billion From Lenders Through Debt Sales",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/rbi-drains-500-billion-rupees-of-banking-cash-through-debt-sales"
   },
   {
-    "title": "Manus Eyes $4 Billion Value in First Round Since Meta Breakup",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/manus-eyes-4-billion-value-in-first-round-since-meta-breakup"
+    "title": "UK Productivity Closer to Pre-2008 Trend Than Thought, ONS Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/uk-productivity-closer-to-pre-2008-trend-than-thought-ons-says"
   },
   {
-    "title": "OpenAI Reports New AI Safety Incidents, Sets Disclosure Plan",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/openai-reports-new-ai-safety-incidents-sets-disclosure-process"
+    "title": "Perú ratifica a Julio Velarde por cinco años más en el banco central",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/peru-ratifica-a-julio-velarde-por-cinco-anos-mas-en-el-banco-central"
   },
   {
-    "title": "Taiwan Poised for Hawkish Hold After Headline Inflation Slowed",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-poised-for-hawkish-hold-after-headline-inflation-slowed"
+    "title": "Canada’s Tech Startups Head to the US, and Carney Wants Them Back",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/canada-s-tech-startups-head-to-the-us-and-carney-wants-them-back"
   },
   {
-    "title": "Modi Courts Investors With India’s $30 Billion Chipmaking Bet",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/modi-courts-investors-with-india-s-30-billion-chipmaking-bet"
+    "title": "BOE Seen Holding Rates With Focus on Vote Split",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/boe-seen-holding-rates-with-focus-on-vote-split-video"
   },
   {
-    "title": "China AI Stocks’ Pain Grows as US Rivals Push for Model Curbs",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/china-s-ai-selloff-faces-risk-from-us-push-for-model-curbs"
+    "title": "ECB’s Makhlouf Says Each Meeting Is ‘Live’ Including October",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ecb-s-makhlouf-says-every-meeting-is-live-including-october"
   },
   {
-    "title": "Snap Makes Its Case for Wearing A Computer On Your Face",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-16/snap-makes-its-case-for-wearing-a-computer-on-your-face"
-  },
-  {
-    "title": "Snap Shares More Details About $2,195 Specs AR Glasses, Plus Verizon Partnership",
-    "link": "https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership"
-  },
-  {
-    "title": "Apple’s Cook, OpenAI CEO to Attend Trump Dinner With Xi",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president"
+    "title": "Peru’s Velarde, Central Banker to 10 Presidents, Confirmed for New Term",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/peru-s-velarde-central-banker-to-10-presidents-confirmed-for-new-term"
   },
   {
     "title": "BOJ Faces Higher Bar to Support Yen After Fed’s Hawkish Hike",
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/boj-faces-higher-bar-to-support-yen-after-fed-s-hawkish-hike"
   },
   {
-    "title": "Czechs Set to Hold Rates as Energy Risks Boost Tightening Bets",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/czechs-set-to-hold-rates-as-energy-risks-boost-tightening-bets"
+    "title": "South African Consumer Sentiment Rebounds as Oil Risk Looms",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/south-africa-consumer-sentiment-rises-but-oil-prices-threaten"
   },
   {
-    "title": "Fed’s Hawkish Hike to Pressure Asian Currencies, Strategists Say",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/fed-hike-puts-spotlight-on-flurry-of-rate-decisions-street-wrap"
+    "title": "Singapore’s Record AI Boom Unlikely to Move MAS, Analysts Say",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/singapore-s-record-ai-boom-unlikely-to-move-mas-analysts-say"
   },
   {
-    "title": "IMF Urges RBA to Stay Hawkish Citing Inflation Upside Risks",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/imf-urges-rba-to-stay-hawkish-warns-of-inflation-upside-risks"
-  },
-  {
-    "title": "New Zealand Economy Beats Estimates, Boosting Rate-Hike Bets",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/new-zealand-economic-growth-exceeded-estimates-in-second-quarter"
-  },
-  {
-    "title": "Trump Denied Rate Cut as Federal Reserve Targets War-Stoked Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/trump-denied-rate-cut-as-federal-reserve-targets-war-stoked-inflation"
-  },
-  {
-    "title": "Hong Kong Follows Fed With First Rate Hike in Over Three Years",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-follows-fed-with-first-rate-hike-in-over-three-years"
-  },
-  {
-    "title": "Fed Raises Rates to Curb Inflation, Drawing Rebuke From Trump",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/fed-raises-rates-as-warsh-bucks-trump-to-contain-inflation"
-  },
-  {
-    "title": "Brazil Cuts Interest Rates to 13.75% Before Tight Presidential Election",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/brazil-cuts-interest-rates-to-13-75-before-tight-presidential-election"
-  },
-  {
-    "title": "BOE Set to Hold Rates With Warning on Inflation: Decision Guide",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/boe-set-to-hold-rates-with-warning-on-inflation-decision-guide"
-  },
-  {
-    "title": "The Fed’s Unanimous 25-basis-point Hike Puts Trump and Warsh on Collision Course",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/the-fed-s-unanimous-25-basis-point-hike-puts-trump-and-warsh-on-collision-course"
-  },
-  {
-    "title": "Fed’s Warsh Heeds Own Advice With Record Short Press Conference",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/fed-s-warsh-heeds-own-advice-with-record-short-press-conference"
-  },
-  {
-    "title": "Why Kevin Warsh Again Skipped the Fed’s Dot Plot",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/why-kevin-warsh-again-skipped-the-fed-s-dot-plot"
-  },
-  {
-    "title": "Warsh Says Fed Rate Hike Is a Commitment to Price Stability",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-16/warsh-says-fed-hike-is-a-commitment-to-price-stability-video"
-  },
-  {
-    "title": "Nagel Says Some Far-Right Policies Risk ‘Total Economic Ruin’",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/nagel-says-some-far-right-policies-risk-total-economic-ruin"
-  },
-  {
-    "title": "Key Takeaways From Fed Decision to Raise Interest Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/key-takeaways-from-fed-decision-to-raise-interest-rates"
-  },
-  {
-    "title": "Burnham Sees Tough UK Budget in Tonal Shift From Early Vibes",
+    "title": "Burnham Warns Tough UK Budget Lies Ahead in Tonal Shift",
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/burnham-sees-tough-uk-budget-in-tonal-shift-from-early-vibes"
   },
   {
-    "title": "Fed Meeting Today: Rate Cuts, Warsh Speech, Live News & Analysis",
-    "link": "https://www.bloomberg.com/news/live-blog/2026-09-16/fed-rate-decision-live-coverage-warsh-speaks-at-news-conference"
+    "title": "Switzerland Boosts Growth Outlook After Strong Second Quarter",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/switzerland-boosts-growth-outlook-after-strong-second-quarter"
   },
   {
-    "title": "House Republican Discord Sinks Vote on Gas Tax Holiday",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/house-republican-discord-sinks-vote-on-gas-tax-holiday"
+    "title": "BOE Set to Hold While Warning on Inflation: Decision Guide",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/boe-set-to-hold-rates-with-warning-on-inflation-decision-guide"
   },
   {
-    "title": "US Homebuilder Sentiment Drops to Match Lowest Level Since 2022",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/us-homebuilder-sentiment-drops-to-match-lowest-level-since-2022"
+    "title": "UK Stocks Offer Defensive Value as Commodity Earnings Lift FTSE 100",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/parts-of-the-uk-stock-market-offer-a-compelling-case"
+  },
+  {
+    "title": "Meet the innovators under 35 shaping climate tech",
+    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
   },
   {
     "title": "Meet a mouse whose brain cortex is made up of human cells",
@@ -708,8 +712,8 @@
     "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
   },
   {
-    "title": "AI agents blew the whistle on their cheating colleagues",
-    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
+    "title": "Inside the suddenly explosive world of AI safety",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic"
   },
   {
     "title": "The streamers are fighting over Halloween",
@@ -746,9 +750,5 @@
   {
     "title": "Your ‘health age’ is fake",
     "link": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity"
-  },
-  {
-    "title": "Google will now let any AI agent run your smart home",
-    "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
   }
 ]
