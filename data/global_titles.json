@@ -512,6 +512,10 @@
     "link": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/"
   },
   {
+    "title": "Hugging Face AI Hack Shows Humans Can Keep the Technology in Check",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-18/hugging-face-ai-hack-shows-humans-can-keep-the-technology-in-check"
+  },
+  {
     "title": "SoftBank Adds $21 Billion to AI Firepower in New Debt Deals",
     "link": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-raises-arm-margin-loan-to-25-billion-as-ai-bets-grow"
   },
@@ -588,11 +592,19 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-17/the-close-9-17-2026-video"
   },
   {
-    "title": "LuxExperience CEO on Luxury Retail Customer Resiliency",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/luxexperience-ceo-on-luxury-retail-customer-resiliency-video"
+    "title": "ECB Rates Aren’t Directly Tied to Energy Costs, Lagarde Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/ecb-rates-don-t-move-in-lockstep-with-energy-price-lagarde-says"
   },
   {
-    "title": "Bank of Japan’s Ueda Delivers Rate Hike for Scott `the House’ Bessent",
+    "title": "Lagarde Says She’ll Leave ECB in 2027, Won’t Give Exact Date",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/lagarde-says-she-ll-leave-ecb-in-2027-won-t-give-exact-timing"
+  },
+  {
+    "title": "BOJ Rate Hike Fails to Buoy Yen Even as Ueda Signals More Moves",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/boj-hikes-rates-at-fastest-pace-since-1990-as-inflation-persists"
+  },
+  {
+    "title": "Bank of Japan’s Ueda Delivers Rate Hike for Scott ‘the House’ Bessent",
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-18/bank-of-japan-s-ueda-delivers-rate-hike-for-scott-the-house-bessent"
   },
   {
@@ -606,14 +618,6 @@
   {
     "title": "Poland MPC Member Warns Rate Increase Possible on Energy Risks",
     "link": "https://www.bloomberg.com/news/articles/2026-09-18/poland-mpc-member-warns-rate-increase-possible-on-energy-risks"
-  },
-  {
-    "title": "BOJ Rate Hike Fails to Buoy Yen Even as Ueda Signals More Moves",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-18/boj-hikes-rates-at-fastest-pace-since-1990-as-inflation-persists"
-  },
-  {
-    "title": "Lagarde Says She’ll Leave ECB in 2027, Won’t Give Exact Date",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-18/lagarde-says-she-ll-leave-ecb-in-2027-won-t-give-exact-timing"
   },
   {
     "title": "Spain’s Cuerpo Says Time Has Come to Discuss ECB’s Succession",
@@ -666,10 +670,6 @@
   {
     "title": "Wells Fargo, Citi Strategists See Weak Yen on BOJ Letdown",
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/strategists-see-yen-weakening-as-boj-risks-disappointing-markets"
-  },
-  {
-    "title": "DoubleLine’s Gundlach Warns of Fiscal Crisis in Next Recession",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/doubleline-s-gundlach-warns-of-fiscal-crisis-in-next-recession"
   },
   {
     "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
