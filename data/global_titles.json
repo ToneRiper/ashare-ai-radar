@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/"
   },
   {
+    "title": "Beauty, health and wellness are converging into one retail category",
+    "link": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html"
+  },
+  {
     "title": "GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales",
     "link": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html"
   },
@@ -308,8 +312,20 @@
     "link": "https://www.cnbc.com/2026/09/10/home-sales-august-supply.html"
   },
   {
-    "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
-    "link": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html"
+    "title": "AirAsia's Fernandes refutes financial concerns, points to new growth plans",
+    "link": "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html"
+  },
+  {
+    "title": "An intense boardroom battle is brewing at India's giant Tata Group",
+    "link": "https://www.cnbc.com/2026/09/18/jlr-air-india-tata-iphone.html"
+  },
+  {
+    "title": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
+    "link": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html"
+  },
+  {
+    "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
+    "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html"
   },
   {
     "title": "Pokémon card curbs send shares of Japanese online marketplace Mercari on a bumpy ride",
@@ -416,22 +432,6 @@
     "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html"
   },
   {
-    "title": "Why data centers could be the next big market for catastrophe bonds",
-    "link": "https://www.cnbc.com/2026/09/12/ai-data-centers-catastrophe-bonds-insurance.html"
-  },
-  {
-    "title": "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
-    "link": "https://www.cnbc.com/2026/09/11/iran-russia-brics-sanctions-energy.html"
-  },
-  {
-    "title": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market",
-    "link": "https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html"
-  },
-  {
-    "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
-    "link": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html"
-  },
-  {
     "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
     "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/"
   },
@@ -512,12 +512,36 @@
     "link": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/"
   },
   {
-    "title": "Traders Wary Of Rising AI Risks: Market Snapshot",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-18/traders-wary-of-rising-ai-risks-market-snapshot-video"
+    "title": "SoftBank Adds $21 Billion to AI Firepower in New Debt Deals",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-raises-arm-margin-loan-to-25-billion-as-ai-bets-grow"
   },
   {
-    "title": "SoftBank Raises Arm Margin Loan to $25 Billion as AI Bets Grow",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-raises-arm-margin-loan-to-25-billion-as-ai-bets-grow"
+    "title": "Trump and Xi Jinping Face Off on AI as White House Meeting Nears",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-18/trump-and-xi-jinping-face-off-on-ai-as-white-house-meeting-nears"
+  },
+  {
+    "title": "Global Agency on AI Would Be Useful, Ireland’s Harris Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/global-agency-on-ai-would-be-useful-ireland-s-harris-says"
+  },
+  {
+    "title": "SoftBank Boosts Credit Line to $6.5 Billion as AI Debts Mount",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-boosts-credit-line-to-6-5-billion-as-ai-debts-mount"
+  },
+  {
+    "title": "Chinese Robotics Suppliers Rise on Tesla Visit Report",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report"
+  },
+  {
+    "title": "Software Stocks Get New Life From Strong Earnings, AI Warnings",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/software-stocks-get-new-life-from-strong-earnings-ai-warnings"
+  },
+  {
+    "title": "AI Boom Risks a ‘Corporate Extinction Event’: Paul",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-18/ai-boom-risks-a-corporate-extinction-event-paul-video"
+  },
+  {
+    "title": "Traders Wary Of Rising AI Risks: Market Snapshot",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-18/traders-wary-of-rising-ai-risks-market-snapshot-video"
   },
   {
     "title": "Huawei Speeds Up Launch of New AI Chip",
@@ -526,10 +550,6 @@
   {
     "title": "GCash Owner Gets Approval for Up to $1.5 Billion Philippines IPO",
     "link": "https://www.bloomberg.com/news/articles/2026-09-18/gcash-owner-gets-approval-for-up-to-1-5-billion-philippines-ipo"
-  },
-  {
-    "title": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report"
   },
   {
     "title": "India’s Chip Plan Investment Pledges Hit $12 Billion",
@@ -572,32 +592,56 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-17/luxexperience-ceo-on-luxury-retail-customer-resiliency-video"
   },
   {
-    "title": "Anthropic Says Claude Drives 26% of Its Research and Development",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/anthropic-says-claude-drives-26-of-its-research-and-development"
+    "title": "Bank of Japan’s Ueda Delivers Rate Hike for Scott `the House’ Bessent",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-18/bank-of-japan-s-ueda-delivers-rate-hike-for-scott-the-house-bessent"
   },
   {
-    "title": "Amazon Says AI Models Should Be Released When ‘Ready and Safe’",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/amazon-says-ai-models-should-be-released-when-ready-and-safe"
+    "title": "France Shouldn’t Throw Out 3% Budget Anchor, Lescure Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/france-shouldn-t-throw-out-3-budget-anchor-lescure-says"
   },
   {
-    "title": "Apple, OpenAI and Qualcomm Leaders to Attend Trump-Xi Dinner",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president"
+    "title": "Eurogroup Chief Mulls Emergency Meeting on Surging Energy Costs",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/eurogroup-chief-mulls-emergency-meeting-on-surging-energy-costs"
   },
   {
-    "title": "UN Must Unlock Its Doors to AI Industry: UNGA President",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/un-must-unlock-its-doors-to-ai-industry-unga-president-video"
+    "title": "Poland MPC Member Warns Rate Increase Possible on Energy Risks",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/poland-mpc-member-warns-rate-increase-possible-on-energy-risks"
   },
   {
-    "title": "will.i.am on Personal AI Agents, Fundraising Efforts",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/will-i-am-on-personal-ai-agents-fundraising-efforts-video"
-  },
-  {
-    "title": "BOJ Hikes Rates in Split Decision After Bessent’s Pressure",
+    "title": "BOJ Rate Hike Fails to Buoy Yen Even as Ueda Signals More Moves",
     "link": "https://www.bloomberg.com/news/articles/2026-09-18/boj-hikes-rates-at-fastest-pace-since-1990-as-inflation-persists"
+  },
+  {
+    "title": "Lagarde Says She’ll Leave ECB in 2027, Won’t Give Exact Date",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/lagarde-says-she-ll-leave-ecb-in-2027-won-t-give-exact-timing"
+  },
+  {
+    "title": "Spain’s Cuerpo Says Time Has Come to Discuss ECB’s Succession",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/spain-s-cuerpo-says-time-has-come-to-discuss-ecb-s-succession"
+  },
+  {
+    "title": "France Seeks to Pare Deficit After Missing Its 2026 Target",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/french-premier-eyes-54-billion-effort-to-stop-deficit-blowout"
+  },
+  {
+    "title": "Irish Finance Chief Shrugs Off US Tariff Threats Over Canada",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/irish-finance-chief-shrugs-off-us-tariff-threats-over-canada-eu"
+  },
+  {
+    "title": "ECB Says Consumers’ Inflation Expectations Increased in August",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/ecb-says-consumers-inflation-expectations-increased-in-august"
   },
   {
     "title": "Korea-US Investment Arm Mulls Debut Bond for $350 Billion Pledge",
     "link": "https://www.bloomberg.com/news/articles/2026-09-18/korea-us-investment-arm-mulls-debut-bond-for-350-billion-pledge"
+  },
+  {
+    "title": "ECB’s Kazaks Sees Rates Being Lifted More If Economy Holds Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/ecb-s-kazaks-sees-rates-being-lifted-more-if-economy-holds-up"
+  },
+  {
+    "title": "UK Retail Sales Bounce Back With 0.5% Gain in August",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-18/uk-retail-sales-bounce-back-with-0-5-gain-in-august"
   },
   {
     "title": "ECB to Hold Fire Until Final Rate Hike in December, Survey Shows",
@@ -612,7 +656,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/singapore-s-record-ai-boom-unlikely-to-move-mas-analysts-say"
   },
   {
-    "title": "BOJ Live Updates: Japan Hikes Interest Rates at Fastest Pace Since 1990",
+    "title": "BOJ Live Updates: Yen Weakens After Governor Ueda’s Mixed Signals",
     "link": "https://www.bloomberg.com/news/live-blog/2026-09-18/bank-of-japan-monetary-policy-decision"
   },
   {
@@ -628,48 +672,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/doubleline-s-gundlach-warns-of-fiscal-crisis-in-next-recession"
   },
   {
-    "title": "Canada’s Long-Term Bond Auction Draws Highest Yield Since 2007",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/canada-s-long-term-bond-auction-draws-highest-yield-since-2007"
-  },
-  {
-    "title": "Argentine Economy Posts First Quarterly Contraction Since 2024",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/argentine-economy-posts-first-quarterly-contraction-since-2024"
-  },
-  {
-    "title": "KKR Ups Its US Treasury Yield Call, Sees Fed Keeping Rates High",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/kkr-ups-its-us-treasury-yield-call-sees-fed-keeping-rates-high"
-  },
-  {
-    "title": "France Seeks to Pare Deficit After Missing Its 2026 Target",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/french-premier-eyes-54-billion-effort-to-stop-deficit-blowout"
-  },
-  {
-    "title": "Fed Hike Defies Trump Ahead of Midterms. What’s Next? Live Q&A",
-    "link": "https://www.bloomberg.com/sessions/2026-09-17/live-q-amp-a-fed-hikes-trump-pushes-back-what-comes-next"
-  },
-  {
-    "title": "ECB’s Zigman Warns Growth Is at Risk If Inflation Isn’t Tackled",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ecb-s-zigman-warns-growth-is-at-risk-if-inflation-isn-t-tackled"
-  },
-  {
-    "title": "Czechs Keep Door Open for Rate Hike as Inflation Risks Persist",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/czechs-hold-rates-with-markets-looking-for-more-hikes-to-come"
-  },
-  {
-    "title": "Pending-Home Sales Unexpectedly Tick Up Despite High Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/pending-home-sales-unexpectedly-tick-up-despite-high-rates"
-  },
-  {
-    "title": "Bank of England Eases Bond-Market Pain With Gilt Sales Overhaul",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/boe-scraps-long-end-gilt-sales-in-plan-to-unwind-qe-by-2034"
-  },
-  {
-    "title": "US Jobless Claims Fall to 196,000 During Holiday Week",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/us-jobless-claims-fall-to-196-000-continuing-applications-drop"
-  },
-  {
-    "title": "Bank of England Holds Rates, Warning of Hike If War Goes On",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/bank-of-england-holds-rates-warns-of-hike-if-iran-war-persists"
+    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
   },
   {
     "title": "The Download: mice with part-human brains and climate tech innovators",
@@ -708,8 +712,8 @@
     "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
   },
   {
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+    "title": "Flash floods can strike without warning — this new technology could change that",
+    "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning"
   },
   {
     "title": "Waymo says Singapore will be its next international robotaxi city",
@@ -746,9 +750,5 @@
   {
     "title": "AI is feared globally as the destroyer of jobs",
     "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs"
-  },
-  {
-    "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
-    "link": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst"
   }
 ]
