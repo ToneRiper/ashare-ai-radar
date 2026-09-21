@@ -1,5 +1,9 @@
 [
   {
+    "title": "How V7 gives AI agents institutional memory",
+    "link": "https://openai.com/index/v7"
+  },
+  {
     "title": "Introducing the Australian Youth Safety Blueprint",
     "link": "https://openai.com/index/australian-youth-safety-blueprint"
   },
@@ -68,12 +72,12 @@
     "link": "https://openai.com/index/expanding-ai-access-us-government"
   },
   {
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-  },
-  {
     "title": "Introducing the Agents API",
     "link": "https://openai.com/index/introducing-the-agents-api"
+  },
+  {
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
   },
   {
     "title": "The AI policy window is open. We need to act.",
@@ -114,10 +118,6 @@
   {
     "title": "1Password increases engineering productivity 21% with Codex",
     "link": "https://openai.com/index/1password"
-  },
-  {
-    "title": "Supporting independent journalism in Ukraine",
-    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
   },
   {
     "title": "5 Companies Using NVIDIA AI for Clean Energy",
@@ -712,6 +712,10 @@
     "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
   },
   {
+    "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+    "link": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china"
+  },
+  {
     "title": "These are the first five Googlebook laptops",
     "link": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell"
   },
@@ -746,9 +750,5 @@
   {
     "title": "UN says AI safeguards can’t wait for certainty",
     "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle"
-  },
-  {
-    "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-    "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
   }
 ]
