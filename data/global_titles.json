@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
   },
   {
+    "title": "5 Companies Using NVIDIA AI for Clean Energy",
+    "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/"
+  },
+  {
     "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/"
   },
@@ -188,8 +192,8 @@
     "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
   },
   {
-    "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-    "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/"
+    "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+    "link": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html"
   },
   {
     "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -308,8 +312,12 @@
     "link": "https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html"
   },
   {
-    "title": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
-    "link": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html"
+    "title": "Russia’s pro-Putin party set to win election as Ukraine exposes war’s growing reach into Moscow",
+    "link": "https://www.cnbc.com/2026/09/21/russia-election-putin-moscow-attack-ukraine.html"
+  },
+  {
+    "title": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
+    "link": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html"
   },
   {
     "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
@@ -424,14 +432,6 @@
     "link": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html"
   },
   {
-    "title": "Shein shares fall 10% amid urgent recall of contact-lens cleaner by Australia, New Zealand",
-    "link": "https://www.cnbc.com/2026/09/14/shein-shares-fall-10percent-amid-australia-nz-contact-lens-cleaner-recall.html"
-  },
-  {
-    "title": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move",
-    "link": "https://www.cnbc.com/2026/09/14/cadbury-supply-chain-lead-time-key-ingredient-chocolate-crumble-malaysia.html"
-  },
-  {
     "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
   },
@@ -512,6 +512,62 @@
     "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
   },
   {
+    "title": "Google Rolls Out $899-Plus Googlebooks from Dell, HP, Lenovo, Acer, ASUS",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/google-rolls-out-899-plus-googlebooks-from-dell-hp-lenovo-acer-asus"
+  },
+  {
+    "title": "Bessent Targets OpenAI Managers for Hugging Face Incident Blame",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame"
+  },
+  {
+    "title": "Anthropic and Microsoft Dominate Nscale’s $103 Billion in Contracts",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/anthropic-and-microsoft-dominate-nscale-s-103-billion-in-contracts"
+  },
+  {
+    "title": "Trump-Xi Meeting: China-US AI Rivalry Poses Questions for Summit",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/trump-xi-meeting-china-us-ai-rivalry-poses-questions-for-summit"
+  },
+  {
+    "title": "Smart Ring Maker Oura, Backers Seek $2.2 Billion in US IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo"
+  },
+  {
+    "title": "Trump, AI Boosters Miss the Mark With US Voters",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-21/trump-ai-boosters-miss-the-mark-with-us-voters"
+  },
+  {
+    "title": "Danske Workforce to Shrink as Technology Rolls Out Across Lender",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/danske-workforce-to-shrink-as-technology-rolls-out-across-lender"
+  },
+  {
+    "title": "Google Fined by Irish Watchdog for Location Data Rule Breach",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/google-fined-by-irish-watchdog-for-location-data-rule-breach"
+  },
+  {
+    "title": "AI Risk Is Spreading Across Stocks, Pension Funds, Bonds and Private Markets",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-21/ai-risk-is-spreading-across-stocks-pension-funds-bonds-and-private-markets"
+  },
+  {
+    "title": "SoftBank Seeking Over $11 Billion in Junk Bond Deal for OpenAI Investment",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video"
+  },
+  {
+    "title": "UK Power Price Jumps to Highest Since January 2025 on Less Wind",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/uk-power-price-jumps-to-highest-since-january-2025-on-less-wind"
+  },
+  {
+    "title": "AI Dissent Spooks US Investors in Philippine Hub, Official Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/ai-dissent-spooks-us-investors-in-philippine-hub-official-says"
+  },
+  {
+    "title": "South Africa’s Planned Crypto Curbs May Hit Deals Worth Millions",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/south-africa-s-planned-crypto-curbs-may-hit-deals-worth-millions"
+  },
+  {
+    "title": "Meloni Eyes Hijab, Burqa Ban in Schools to Fight Far-Right Surge",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-20/meloni-eyes-more-stringent-school-laws-to-counter-far-right-rise"
+  },
+  {
     "title": "Fidelity’s Durance Is Shunning Tech Bonds Feeding the AI Boom",
     "link": "https://www.bloomberg.com/news/articles/2026-09-21/fidelity-s-durance-is-shunning-tech-bonds-feeding-the-ai-boom"
   },
@@ -536,52 +592,60 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-21/catl-sees-limited-impact-from-china-s-new-battery-tax-on-orders"
   },
   {
-    "title": "Ingenia Rejects Warburg Pincus’ Sweetened A$5.05 Share Offer",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/ingenia-rejects-new-1-5-billion-warburg-pincus-takeover-bid"
+    "title": "Brazil Economists Lower 2026 Selic Forecast Following Rate Cut",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/brazil-economists-lower-2026-selic-forecast-following-rate-cut"
   },
   {
-    "title": "Bessent Hails ‘Successful’ China Talks on AI, Trade",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-21/bessent-hails-successful-china-talks-on-ai-trade-video"
+    "title": "EU Executive Challenged Over Fiscal Control of Italy and France",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/eu-executive-challenged-over-fiscal-control-of-italy-and-france"
   },
   {
-    "title": "Musk’s Boring Co. Working on Tunnel to Link Austin, San Antonio",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/musk-s-boring-co-working-on-tunnel-to-link-austin-san-antonio"
+    "title": "Trump-Xi Summit Prep Gathers Pace as Officials Make Headway on AI, Trade",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-21/trump-xi-summit-prep-gathers-pace-as-officials-make-headway-on-ai-trade"
   },
   {
-    "title": "Citi CEO Sees ‘Tsunami’ of Patching to Secure AI Defense",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-20/citi-ceo-sees-tsunami-of-patching-to-secure-ai-defense-video"
+    "title": "Trump and Xi summit in Washington",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-21/trump-and-xi-summit-in-washington"
   },
   {
-    "title": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation"
+    "title": "US Investments in Spain Surge 84% Despite Political Tensions",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/us-investments-in-spain-surge-84-despite-political-tensions"
   },
   {
-    "title": "India’s Silicon Valley Is Straining Under Its Own Growth",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-19/india-s-silicon-valley-is-straining-under-its-own-growth-video"
+    "title": "Fed’s Goolsbee Says Road to 2% Inflation May Not Be Painless",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/fed-s-goolsbee-says-road-to-2-inflation-may-not-be-painless"
   },
   {
-    "title": "Apple’s Home AI Hub Details; Apple Fitness+ Layoffs and iPhone Duo Apple Pencil",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0"
+    "title": "Qatar Enters Bond Market as Hormuz Closure Sends Deficit Soaring",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/qatar-enters-bond-market-as-hormuz-closure-sends-deficit-soaring"
   },
   {
-    "title": "Howard Marks Flags Uncertainty in AI Investing",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-20/howard-marks-flags-uncertainty-in-ai-investing-video"
+    "title": "ECB Launches Key Link Between Blockchain and Euro Payment System",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/ecb-launches-key-link-between-blockchain-and-euro-payment-system"
   },
   {
-    "title": "Meloni Eyes More Stringent School Laws to Counter Far-Right Rise",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/meloni-eyes-more-stringent-school-laws-to-counter-far-right-rise"
+    "title": "German Economy to Gain Momentum Toward Year-End, Bundesbank Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/german-economy-to-gain-momentum-toward-year-end-bundesbank-says"
   },
   {
-    "title": "CORRECT: India’s Quick-Commerce Architect Takes a Long Bet",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/india-s-quick-commerce-architect-takes-on-slow-wagers-video"
+    "title": "India-New Zealand Free Trade Pact to Take Effect Oct. 20",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/india-new-zealand-free-trade-pact-to-take-effect-oct-20"
   },
   {
-    "title": "China to Step Up Curbs Against Malicious Price Competition",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/china-to-ramp-up-enforcement-against-malicious-price-competition"
+    "title": "ECB’s Panetta Warns of Correction Risk on Optimistic AI Pricing",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/ecb-s-panetta-says-current-market-prices-on-ai-are-optimistic"
   },
   {
     "title": "Poland’s Rating Downgrade Deals a Pre-Election Blow to Tusk",
     "link": "https://www.bloomberg.com/news/articles/2026-09-21/poland-s-rating-downgrade-deals-a-pre-election-blow-to-tusk"
+  },
+  {
+    "title": "Finland Risks Failing to Fix Deficit in Line With EU Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/finland-risks-failing-to-fix-deficit-in-line-with-eu-demand"
+  },
+  {
+    "title": "Key African Central Banks Set to Keep High Rates as Buffer Against Shocks",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-21/key-african-central-banks-set-to-keep-high-rates-as-buffer-against-shocks"
   },
   {
     "title": "Morgan Stanley Sees SARB Rate Hike to Keep Inflation on 3% Path",
@@ -608,12 +672,24 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-20/record-global-debt-requires-urgent-fiscal-action-imf-chief-says"
   },
   {
-    "title": "Fed’s Kashkari Says Inflation Reaching All Corners of US Economy",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/fed-s-kashkari-says-inflation-reaching-all-corners-of-us-economy"
+    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
   },
   {
-    "title": "Australia’s Treasurer Warns of Economic Risks as Population Ages",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-treasurer-warns-of-economic-risks-as-population-ages"
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+  },
+  {
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+  },
+  {
+    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+    "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
+  },
+  {
+    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+    "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
   },
   {
     "title": "The Download: AI’s extinction risk and bioweapons threat",
@@ -636,63 +712,43 @@
     "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
   },
   {
-    "title": "Meet a mouse whose brain cortex is made up of human cells",
-    "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
+    "title": "These are the first five Googlebook laptops",
+    "link": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell"
   },
   {
-    "title": "Building the materials foundation for AI",
-    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
+    "title": "The long dream of the Googlebook",
+    "link": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history"
   },
   {
-    "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-    "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/"
+    "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
+    "link": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
   },
   {
-    "title": "Roundtables: Could AI really kill us all?",
-    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
+    "title": "The Mac Mini is still mighty, just not as cheap",
+    "link": "https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review"
   },
   {
-    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/"
+    "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
+    "link": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review"
   },
   {
-    "title": "No Dogs in Space is back to feed your need for obsessive music history",
-    "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast"
+    "title": "Googlebooks feel like the first laptops built for Android owners",
+    "link": "https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast"
   },
   {
-    "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
+    "title": "Apple’s clever software solution lets iPhone batteries skirt shipping limits",
+    "link": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit"
   },
   {
-    "title": "Kojima Productions disputes reports the studio is in trouble",
-    "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation"
+    "title": "Teardown details the iPhone 18 Pro’s mechanical camera",
+    "link": "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown"
   },
   {
-    "title": "Trump now says he wants to form an ‘AI Force’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+    "title": "UN says AI safeguards can’t wait for certainty",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle"
   },
   {
-    "title": "A24’s reputation is on the line with the SCP Foundation movie",
-    "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license"
-  },
-  {
-    "title": "A great new video game movie",
-    "link": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave"
-  },
-  {
-    "title": "The hidden monopoly behind your TI graphing calculator",
-    "link": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator"
-  },
-  {
-    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-    "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"
-  },
-  {
-    "title": "All roads lead to cable",
-    "link": "https://www.theverge.com/column/997843/streamers-cable-fast-channels"
-  },
-  {
-    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy"
+    "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+    "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
   }
 ]
