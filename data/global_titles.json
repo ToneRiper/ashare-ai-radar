@@ -200,6 +200,10 @@
     "link": "https://www.cnbc.com/2026/09/22/peloton-announces-new-tread-peloton-iq-features.html"
   },
   {
+    "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
+    "link": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html"
+  },
+  {
     "title": "Eli Lilly CEO says 700,000 new seniors have started GLP-1s after Medicare coverage, and 70% are on Lilly drugs",
     "link": "https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html"
   },
@@ -306,10 +310,6 @@
   {
     "title": "GM launching new customer software experience with redesigned Chevy, GMC pickups",
     "link": "https://www.cnbc.com/2026/09/15/2027-chevy-silverado-gmc-sierra-to-debut-gms-new-software-experience.html"
-  },
-  {
-    "title": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
-    "link": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html"
   },
   {
     "title": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
@@ -512,6 +512,18 @@
     "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
   },
   {
+    "title": "Anthropic CEO Dario Amodei to Brief UN Security Council on AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-22/anthropic-ceo-dario-amodei-to-brief-un-security-council-on-ai"
+  },
+  {
+    "title": "Data Center Firm Accelevation, Backer Seek $720 Million in IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-22/data-center-firm-accelevation-backer-seek-720-million-in-ipo"
+  },
+  {
+    "title": "DoorDash to Pay $132 Million to NYC, Workers Over Missing Wages",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-22/doordash-to-pay-132-million-to-nyc-workers-over-missing-wages"
+  },
+  {
     "title": "AI Shopping Bots Still Have a Hard Time Telling Web Facts From Fiction",
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-22/ai-shopping-bots-still-have-a-hard-time-telling-web-facts-from-fiction"
   },
@@ -580,16 +592,8 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-22/alibaba-shares-jump-on-new-ai-chip-video"
   },
   {
-    "title": "Tencent Releases AI Image Model to Catch ByteDance, Alibaba",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba"
-  },
-  {
-    "title": "Meta’s Personal Agent Fuels AI Optimism",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-22/meta-s-personal-agent-fuels-ai-optimism"
-  },
-  {
-    "title": "China, US Discuss AI, Investment as Trade Talks Continue",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-22/china-us-discuss-ai-investment-as-trade-talks-continue-video"
+    "title": "Argentina-US Trade Deal at Risk: Javier Milei Government Seeks Better Terms",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-22/argentina-us-trade-deal-at-risk-javier-milei-government-seeks-better-terms"
   },
   {
     "title": "Here’s What’s Happening to the Billions of Dollars of US Tariff Refunds",
@@ -668,10 +672,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-22/rba-set-to-hike-rates-next-week-as-energy-costs-spiral-be-says"
   },
   {
-    "title": "RBNZ Review Calls for Greater Emphasis on Real Interest Rate",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-22/rbnz-review-urges-placing-greater-emphasis-on-real-interest-rate"
-  },
-  {
     "title": "Don’t be fooled by this summer of AI hype",
     "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
   },
@@ -712,6 +712,14 @@
     "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
   },
   {
+    "title": "It’s time for the Mac Neo",
+    "link": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept"
+  },
+  {
+    "title": "Meta patches Muse exploit that let attackers control the AI agent",
+    "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent"
+  },
+  {
     "title": "Can you forget how you feel about Meta?",
     "link": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram"
   },
@@ -742,13 +750,5 @@
   {
     "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
     "link": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations"
-  },
-  {
-    "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-    "link": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale"
-  },
-  {
-    "title": "Can John Ternus find Apple’s next big thing?",
-    "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"
   }
 ]
