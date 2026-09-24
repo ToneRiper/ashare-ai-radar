@@ -1,15 +1,39 @@
 [
   {
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg"
-  },
-  {
     "title": "Two years of OpenAI Academy",
     "link": "https://openai.com/index/two-years-of-openai-academy"
   },
   {
     "title": "OpenAI extends cyber access to Ukraine for civilian defense",
     "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+  },
+  {
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks"
+  },
+  {
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+  },
+  {
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+  },
+  {
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg"
+  },
+  {
+    "title": "Introducing MentalHealthBench",
+    "link": "https://openai.com/index/introducing-mentalhealthbench"
+  },
+  {
+    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+    "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
+  },
+  {
+    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+    "link": "https://openai.com/index/airbnb-gpt-6-astra"
   },
   {
     "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
@@ -32,12 +56,12 @@
     "link": "https://openai.com/index/priorities-principles-third-party-assessments"
   },
   {
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
-  },
-  {
     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
     "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+  },
+  {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
   },
   {
     "title": "Building standards for the next phase of AI",
@@ -94,30 +118,6 @@
   {
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-  },
-  {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
-  },
-  {
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "link": "https://openai.com/index/cognition-devin-testing-with-astra"
-  },
-  {
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
-  },
-  {
-    "title": "Now everyone can put data to work",
-    "link": "https://openai.com/index/put-data-to-work"
-  },
-  {
-    "title": "Introducing ChatGPT for Financial Services",
-    "link": "https://openai.com/index/introducing-chatgpt-financial-services"
-  },
-  {
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "link": "https://openai.com/index/expanding-ai-access-us-government"
   },
   {
     "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
@@ -192,7 +192,15 @@
     "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/"
   },
   {
-    "title": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
+    "title": "Why McDonald's is following Walmart and Amazon into the advertising business",
+    "link": "https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html"
+  },
+  {
+    "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
+    "link": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html"
+  },
+  {
+    "title": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
     "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html"
   },
   {
@@ -304,12 +312,36 @@
     "link": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html"
   },
   {
-    "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
-    "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html"
+    "title": "OpenAI says agent hacked Australian government website without being told to do so",
+    "link": "https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html"
   },
   {
-    "title": "Tropical Smoothie Cafe is getting a makeover as it prepares for its 'next 3,000' locations",
-    "link": "https://www.cnbc.com/2026/09/16/tropical-smoothie-cafe-announces-new-branding-plans-for-new-locations.html"
+    "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+    "link": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html"
+  },
+  {
+    "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off'",
+    "link": "https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html"
+  },
+  {
+    "title": "CNBC Daily Open: A tarmac welcome buys U.S.-China truce a longer runway",
+    "link": "https://www.cnbc.com/2026/09/24/trump-xi-china-visit-tariff-iran-yields-.html"
+  },
+  {
+    "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+    "link": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html"
+  },
+  {
+    "title": "SoftBank shares jump over 7% after $11.1 billion bond issuance to fund OpenAI bet",
+    "link": "https://www.cnbc.com/2026/09/24/softbank-shares-bond-issuance-openai.html"
+  },
+  {
+    "title": "America’s Asian allies want a Trump-Xi truce — but not at their expense",
+    "link": "https://www.cnbc.com/2026/09/24/uss-asian-allies-want-a-trump-xi-truce-but-not-at-their-expense.html"
+  },
+  {
+    "title": "Inside India newsletter: Apple set to take a bigger bite of the world’s second-largest smartphone market",
+    "link": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html"
   },
   {
     "title": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
@@ -396,40 +428,60 @@
     "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html"
   },
   {
-    "title": "Pokémon card curbs send shares of Japanese online marketplace Mercari on a bumpy ride",
-    "link": "https://www.cnbc.com/2026/09/18/pokmon-cards-mercari-stock.html"
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
   },
   {
-    "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
-    "link": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html"
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
   },
   {
-    "title": "CNBC Daily Open: Trump's tariff leverage, EU warning and Iran hopes",
-    "link": "https://www.cnbc.com/2026/09/18/trump-iran-canada-europe-tariffs-hormuz-ai-palatir-.html"
+    "title": "Meta is trying VR glasses (again), this time with more IMAX",
+    "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/"
   },
   {
-    "title": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy",
-    "link": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html"
+    "title": "Meta introduces camera-free AI glasses",
+    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
   },
   {
-    "title": "Inside India newsletter: The world’s largest real-time payments system will no longer be free for all",
-    "link": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html"
+    "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+    "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/"
   },
   {
-    "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
-    "link": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html"
+    "title": "Anthropic says its biology lab has already found something big",
+    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
   },
   {
-    "title": "Crypto exchange Binance takes on tradfi by courting rich investors to join its expanded wealth-management platform",
-    "link": "https://www.cnbc.com/2026/09/16/crypto-exchange-binance-expands-wealth-management-platform-.html"
+    "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+    "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/"
   },
   {
-    "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
-    "link": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html"
+    "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+    "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/"
+  },
+  {
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
+  },
+  {
+    "title": "Modal Motors is trying to cut China out of electric motors entirely",
+    "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/"
+  },
+  {
+    "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
+    "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/"
+  },
+  {
+    "title": "The old cybersecurity model is breaking",
+    "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/"
   },
   {
     "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
     "link": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/"
+  },
+  {
+    "title": "ChatGPT mobile app gets voice-based agentic features",
+    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
   },
   {
     "title": "Even Americans who use AI every day are worried about it",
@@ -456,136 +508,116 @@
     "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
   },
   {
-    "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
-    "link": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/"
+    "title": "Tencent Offers Payment App for Visitors to China to Rival Ant",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/tencent-offers-payment-app-for-visitors-to-china-to-rival-ant"
   },
   {
-    "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
-    "link": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/"
+    "title": "OpenAI Model Hacked Australian Government Health Website, Albanese Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/openai-agent-hacked-australian-government-website-albanese-says"
   },
   {
-    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-    "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
-  },
-  {
-    "title": "YouTube will let you build your own algorithm with AI",
-    "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
-  },
-  {
-    "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
-    "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/"
-  },
-  {
-    "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
-    "link": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/"
-  },
-  {
-    "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/"
-  },
-  {
-    "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-    "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/"
-  },
-  {
-    "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
-    "link": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/"
-  },
-  {
-    "title": "PitPro’s first tire-changing robot goes live in Canada",
-    "link": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/"
-  },
-  {
-    "title": "Comma’s hands-off driving tech under investigation after 2 fatal crashes",
-    "link": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/"
-  },
-  {
-    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-    "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
-  },
-  {
-    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/"
-  },
-  {
-    "title": "Microsoft, BofA, Macquarie on AI Infrastructure",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/microsoft-bofa-macquarie-on-ai-infrastructure-video"
-  },
-  {
-    "title": "Amazon Sustainability Chief on Community Impact",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/amazon-sustainability-chief-on-community-impact-video"
-  },
-  {
-    "title": "If the US Slows Down on AI, China Wins, Says Ives",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/if-the-us-slows-down-on-ai-china-wins-says-ives-video"
-  },
-  {
-    "title": "FBI Investigating Hackers’ Claims of Stealing Employee Data",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/fbi-investigating-hackers-claims-of-stealing-employee-data"
-  },
-  {
-    "title": "Microsoft Pledges to Spend Additional $2 Billion in Gulf Region",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/microsoft-pledges-to-spend-additional-2-billion-in-gulf-region"
-  },
-  {
-    "title": "SoftBank Gets Better Bond Terms as Juicy Yields Lure Investors",
+    "title": "SoftBank Pays Record Yields to Become Goliath of Junk Bonds",
     "link": "https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push"
   },
   {
-    "title": "DeepSeek Tests Efficient, Safer Method for Training AI Agents",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/deepseek-tests-efficient-safer-method-for-training-ai-agents"
+    "title": "ASPI's Cutler on Trump-Xi Summit, Trade Relations",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-24/aspi-s-cutler-on-trump-xi-summit-trade-relations-video"
   },
   {
-    "title": "Anthropic Unveils Cheaper Claude Opus 5.5 Ahead of Expected IPO",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/anthropic-unveils-cheaper-claude-opus-5-5-ahead-of-ipo-video"
+    "title": "PGIM's Singh on Global Economy, China-US relations",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-24/pgim-s-singh-on-global-economy-china-us-relations-video"
   },
   {
-    "title": "Accenture’s Gramling on Latest Holiday Shopping Survey",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-18/accenture-s-gramling-on-latest-holiday-shopping-survey-video"
+    "title": "AmCham Shanghai President on Trump-Xi summit",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-24/amcham-shanghai-president-on-trump-xi-summit-video"
   },
   {
-    "title": "Amazon, Swiggy Among Firms Facing India Food Regulator’s Action",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/amazon-swiggy-among-firms-facing-india-food-regulator-s-action"
+    "title": "Hong Kong Seeks Up to $2.6 Billion in Record Digital Bond Sale",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/hong-kong-seeks-up-to-2-6-billion-in-record-digital-bond-sale"
   },
   {
-    "title": "Why AI Safety Could Decide Future Elections",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/why-ai-safety-could-decide-future-elections-video"
+    "title": "Xi and Trump Seek Safe AI Without Slowing Race for Supremacy",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/xi-and-trump-seek-safe-ai-without-slowing-the-race-for-supremacy"
   },
   {
-    "title": "PG&E CEO Warns California on Wildfire Liability Crisis",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/pg-e-ceo-warns-california-on-wildfire-liability-crisis-video"
+    "title": "Meta Debuts Dedicated Muse Charm Gadget for AI Assistant Users",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go"
   },
   {
-    "title": "YouTube Beats Amazon, Netflix to Clinch Coachella Livestream Through 2030",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/youtube-beats-amazon-netflix-to-clinch-coachella-livestream-through-2030"
+    "title": "Meta Debuts Lightweight $1,299 VR Glasses",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-23/meta-debuts-lightweight-1-299-vr-glasses-video"
   },
   {
-    "title": "Australia’s Corporate Watchdog Sets New Safeguards on AI Trading",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/australia-s-corporate-watchdog-sets-new-safeguards-on-ai-trading"
+    "title": "Meta Launches $1,299 VR Headset That Look Like Glasses to Rival Apple Vision Pro",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro"
   },
   {
-    "title": "Microsoft Rises as One of Last Analyst Holdouts Gets Bullish",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/microsoft-rises-as-one-of-last-analyst-holdouts-turns-bullish"
+    "title": "Meta Debuts $349 Camera-Free Ray-Bans and Brings Muse to Glasses",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-349-camera-free-ray-bans-and-brings-muse-to-glasses"
   },
   {
-    "title": "Angi Names Michael Steib CEO to Lead AI-Focused Turnaround",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/angi-names-michael-steib-ceo-to-lead-ai-focused-turnaround"
+    "title": "Revolut Is Bringing Facial-Recognition Checkout to UK Businesses",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/revolut-is-bringing-facial-recognition-checkout-to-uk-businesses"
   },
   {
-    "title": "Bessemer Raises $5.75 Billion in New Funds, Expands Growth Efforts",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/bessemer-raises-5-75-billion-in-new-funds-expands-growth-efforts"
+    "title": "DTCC CEO on Market Structure, 24/7 Trading",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-23/dtcc-ceo-on-market-structure-24-7-trading-video"
   },
   {
-    "title": "Startup Hubble Reaches Unicorn Status for Space-Based Bluetooth",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/startup-hubble-reaches-unicorn-status-for-space-based-bluetooth"
+    "title": "Reena Aggarwal: Expect Merging of Private & Public",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-23/reena-aggarwal-expect-merging-of-private-public-video"
   },
   {
-    "title": "Messaging Firm Bird Raises $450 Million in JPMorgan-Backed Debt",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/messaging-firm-bird-raises-450-million-in-jpmorgan-backed-debt"
+    "title": "Startups Modal, Baseten in Funding Talks to Help Businesses Run AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/startups-modal-baseten-in-funding-talks-to-help-businesses-run-ai"
   },
   {
-    "title": "Geely Unveils Ultrafast AI-Powered EV Charging to Take On BYD",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/geely-unveils-ultrafast-ai-powered-ev-charging-to-take-on-byd"
+    "title": "Toner: There’s a Lot of Upside To AI if We Do It Right",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-23/toner-there-s-a-lot-of-upside-to-ai-if-we-do-it-right-video"
+  },
+  {
+    "title": "Former CFTC Commissioner on Prediction Market Regulation",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-23/former-cftc-commissioner-on-prediction-market-regulation-video"
+  },
+  {
+    "title": "SEC Commissioner: We’ll Ensure Guardrails for Tokenization",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-23/sec-s-uyeda-we-ll-ensure-guardrails-for-tokenization-video"
+  },
+  {
+    "title": "YouTube Says New AI Tools Will Help Creators, not Replace Them",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/youtube-says-new-ai-tools-will-help-creators-not-replace-them"
+  },
+  {
+    "title": "RBI Said to Have Conducted at Least $10 Billion in FX Swaps",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/rbi-said-to-conduct-at-least-10-billion-fx-swaps-to-drain-cash"
+  },
+  {
+    "title": "PBOC to Offer Banks Up to 1 Trillion Yuan a Day Over Holidays",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/pboc-to-offer-banks-up-to-1-trillion-yuan-a-day-over-holidays"
+  },
+  {
+    "title": "Thailand Says Market Access Sticking Point in US Trade Talks",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/thailand-says-market-access-sticking-point-in-us-tariff-talks"
+  },
+  {
+    "title": "Australian Unemployment Climbs to 4.6% Even as Jobs Gain",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/australian-unemployment-surprisingly-rises-despite-job-gains"
+  },
+  {
+    "title": "China’s Trade Volumes Hit Record in Week Before Trump-Xi Summit",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/china-s-trade-volumes-hit-record-in-week-before-trump-xi-summit"
+  },
+  {
+    "title": "Bessent Says US, China Extend Their Trade Truce to Jan. 10",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/bessent-says-us-china-agreed-to-extend-trade-truce-to-jan-10"
+  },
+  {
+    "title": "Hassett Blasts Fed Officials Calling for Hikes in Recent Days",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/hassett-blasts-fed-officials-calling-for-hikes-in-recent-days"
+  },
+  {
+    "title": "Sánchez Backs Spain’s Hernández de Cos to Be Next ECB President",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/sanchez-backs-spain-s-hernandez-de-cos-to-be-next-ecb-president"
   },
   {
     "title": "US Business Activity Expands at the Fastest Pace Since 2021",
@@ -636,44 +668,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-23/uk-growth-cools-over-budget-worries-and-energy-shock-pmi-shows"
   },
   {
-    "title": "BOE Interest Rates Will No Longer Always Be Decided in London",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/boe-rate-setters-to-head-north-for-interest-rate-decisions"
-  },
-  {
-    "title": "South Africa Seen Hiking Rates to Defend CPI Goal: Day Guide",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/south-africa-seen-raising-rates-to-defend-cpi-goal-day-guide"
-  },
-  {
-    "title": "SNB Gauges Inflation Impact of a Weaker Franc: Decision Guide",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/snb-gauges-inflation-impact-of-a-weaker-franc-decision-guide"
-  },
-  {
-    "title": "German Business Activity Unexpectedly Jumps as Recovery Broadens",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/german-business-activity-unexpectedly-jumps-as-recovery-broadens"
-  },
-  {
-    "title": "French Private Sector Defies Gloom, Grows Most in Two Years",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/french-private-sector-defies-gloom-with-best-growth-in-two-years"
-  },
-  {
-    "title": "Danish Central Bank Doubles Growth Forecast on Novo’s US Boom",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/danish-central-bank-doubles-growth-forecast-on-novo-s-us-boom"
-  },
-  {
-    "title": "Singapore Inflation Up for Third Month to Highest Since 2024",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/singapore-core-inflation-rises-third-month-to-highest-since-2024"
-  },
-  {
-    "title": "Barclays Sees Senegal Deficit at 9% Amid Debt Talks",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-22/barclays-sees-senegal-deficit-widening-to-9-as-debt-talks-begin"
-  },
-  {
     "title": "A congressional representative just proposed killing America’s border tower program",
     "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/"
   },
   {
     "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
     "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/"
+  },
+  {
+    "title": "The AI Hype Index: AI loves cheating",
+    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/"
   },
   {
     "title": "Smart glasses are already causing havoc in India",
@@ -704,47 +708,43 @@
     "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
   },
   {
-    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-    "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
+    "title": "Meta is making a standalone Muse AI gadget",
+    "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
   },
   {
-    "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"
+    "title": "Meta Connect 2026: The 7 biggest announcements",
+    "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced"
   },
   {
-    "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
-    "link": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability"
+    "title": "Meta’s next VR device isn’t a headset — it’s glasses",
+    "link": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on"
   },
   {
-    "title": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
-    "link": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price"
+    "title": "Muse is coming to Meta smart glasses",
+    "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
   },
   {
-    "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
-    "link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature"
+    "title": "Meta ditches the camera on its newest smart glasses",
+    "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"
   },
   {
-    "title": "One of the best Metroid games for the Switch is 30 percent off",
-    "link": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale"
+    "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+    "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"
   },
   {
-    "title": "This $199 GPS sports watch is repairable, modular, and open-source",
-    "link": "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular"
+    "title": "Meta Connect 2026: The biggest news and announcements",
+    "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"
   },
   {
-    "title": "YouTube is building AI creator tools that do almost everything for them",
-    "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests"
+    "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+    "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
   },
   {
-    "title": "Discord will now automatically estimate your age",
-    "link": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout"
+    "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
+    "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus"
   },
   {
-    "title": "McDonald’s is testing ads on its drive-thru menus",
-    "link": "https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads"
-  },
-  {
-    "title": "Nobody does it like Remedy",
-    "link": "https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox"
+    "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
+    "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback"
   }
 ]
