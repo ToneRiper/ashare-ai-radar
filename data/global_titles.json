@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/"
   },
   {
+    "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
+    "link": "https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html"
+  },
+  {
     "title": "Why McDonald's is following Walmart and Amazon into the advertising business",
     "link": "https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html"
   },
@@ -308,8 +312,12 @@
     "link": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html"
   },
   {
-    "title": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
-    "link": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html"
+    "title": "Bentley takes on Ferrari with its first EV priced at $230,000",
+    "link": "https://www.cnbc.com/2026/09/24/bentley-motors-torcal-ferrari-luce-autos-ev.html"
+  },
+  {
+    "title": "CNBC Daily Open: Judge orders Trump to lift press ban",
+    "link": "https://www.cnbc.com/2026/09/24/trump-white-house-media-ban-iran-china-visit-ai-.html"
   },
   {
     "title": "Indian AI firm backed by Dune and Odyssey visual effects studio valued at $2 billion in fundraise",
@@ -420,14 +428,6 @@
     "link": "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html"
   },
   {
-    "title": "An intense boardroom battle is brewing at India's giant Tata Group",
-    "link": "https://www.cnbc.com/2026/09/18/jlr-air-india-tata-iphone.html"
-  },
-  {
-    "title": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
-    "link": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html"
-  },
-  {
     "title": "Everything new coming to Meta’s AI agent Muse",
     "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
   },
@@ -508,84 +508,152 @@
     "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
   },
   {
-    "title": "Tencent Offers Payment App for Visitors to China to Rival Ant",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/tencent-offers-payment-app-for-visitors-to-china-to-rival-ant"
+    "title": "US Stock Futures Today: Darden, Dropbox, Everpure, MGM Resorts",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/us-stock-futures-today-darden-dropbox-everpure-mgm-resorts"
   },
   {
-    "title": "OpenAI Model Hacked Australian Government Health Website, Albanese Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/openai-agent-hacked-australian-government-website-albanese-says"
+    "title": "Singapore’s Finance Firms to Train 80,000 Staff in AI Skills",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/singapore-s-finance-firms-to-train-80-000-staff-in-ai-skills"
+  },
+  {
+    "title": "Qualcomm Renews Global Licensing Pact with Apple Starting 2027",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/qualcomm-renews-global-licensing-pact-with-apple-starting-2027"
+  },
+  {
+    "title": "Ex-DeepMind Researcher Thore Graepel Raising Funds for AI Reasoning Startup",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/ex-deepmind-researcher-thore-graepel-raising-funds-for-ai-reasoning-startup"
+  },
+  {
+    "title": "Revolut Piloting Face-Recognition Checkout for UK Businesses",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/revolut-is-bringing-facial-recognition-checkout-to-uk-businesses"
+  },
+  {
+    "title": "Nscale IPO Puts Wall Street Attention on AI Data Centers, Neoclouds",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-24/nscale-ipo-puts-wall-street-attention-on-ai-data-centers-neoclouds"
+  },
+  {
+    "title": "AI Video Startup Higgsfield Eyes $1 Billion in 12-Month Sales",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/ai-video-startup-higgsfield-eyes-1-billion-in-12-month-sales"
+  },
+  {
+    "title": "McDonald’s (MCD) New AI Drive-Thru Voice Archy Takes Orders in English, Spanish",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-24/mcdonald-s-mcd-new-ai-drive-thru-voice-archy-takes-orders-in-english-spanish"
+  },
+  {
+    "title": "Starlink Base Station Caught Fire in Poland, Minister Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/starlink-base-station-caught-fire-in-poland-minister-says"
+  },
+  {
+    "title": "Morgan Stanley Rushes to Check Fallout After Deal List Leak",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/morgan-stanley-rushes-to-contain-fallout-after-deal-list-leak"
+  },
+  {
+    "title": "Meloni Eyes Veils Ban in Schools Amid Far-Right Surge",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-20/meloni-eyes-more-stringent-school-laws-to-counter-far-right-rise"
+  },
+  {
+    "title": "Drug Benefits Firm Rightway Eyes Eventual IPO After New Funding",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/drug-benefits-firm-rightway-eyes-eventual-ipo-after-new-funding"
+  },
+  {
+    "title": "OpenAI Agent Hacked Australian Government Website",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-24/openai-agent-hacked-australian-government-website-video"
   },
   {
     "title": "SoftBank Pays Record Yields to Become Goliath of Junk Bonds",
     "link": "https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push"
   },
   {
-    "title": "ASPI's Cutler on Trump-Xi Summit, Trade Relations",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-24/aspi-s-cutler-on-trump-xi-summit-trade-relations-video"
+    "title": "BlackRock, IFM Close In on $25 Billion Asia Data Center Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal"
   },
   {
-    "title": "PGIM's Singh on Global Economy, China-US relations",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-24/pgim-s-singh-on-global-economy-china-us-relations-video"
+    "title": "AI Is Upending the Lives of People Who Do Social Media Professionally",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-24/ai-is-upending-lives-that-do-social-media-professionally-video"
   },
   {
-    "title": "AmCham Shanghai President on Trump-Xi summit",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-24/amcham-shanghai-president-on-trump-xi-summit-video"
+    "title": "GCash Owner Mynt Starts Taking Orders for Record Philippines IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/gcash-owner-mynt-starts-taking-orders-for-record-philippines-ipo"
   },
   {
-    "title": "Hong Kong Seeks Up to $2.6 Billion in Record Digital Bond Sale",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/hong-kong-seeks-up-to-2-6-billion-in-record-digital-bond-sale"
+    "title": "Bentley's First Fully-Electric Car Starts at $230,000",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-24/bentley-s-first-fully-electric-car-starts-at-230-000-video"
   },
   {
-    "title": "Xi and Trump Seek Safe AI Without Slowing Race for Supremacy",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/xi-and-trump-seek-safe-ai-without-slowing-the-race-for-supremacy"
+    "title": "Humanoid Robots Spell Opportunity for European Chemical Firms",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/humanoid-robots-spell-opportunity-for-european-chemical-firms"
   },
   {
-    "title": "Meta Debuts Dedicated Muse Charm Gadget for AI Assistant Users",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go"
+    "title": "Tencent Offers Payment App for Visitors to China to Rival Ant",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/tencent-offers-payment-app-for-visitors-to-china-to-rival-ant"
   },
   {
-    "title": "Meta Debuts Lightweight $1,299 VR Glasses",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/meta-debuts-lightweight-1-299-vr-glasses-video"
+    "title": "As Bessent Tinkers With Treasuries, a Warning Against ‘Financial Engineering’",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-24/as-bessent-tinkers-with-treasuries-a-warning-against-financial-engineering"
   },
   {
-    "title": "Meta Launches $1,299 VR Headset That Look Like Glasses to Rival Apple Vision Pro",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro"
+    "title": "Supply Strains Across the US Economy",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-24/supply-strains-across-the-us-economy"
   },
   {
-    "title": "Meta Debuts $349 Camera-Free Ray-Bans and Brings Muse to Glasses",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-349-camera-free-ray-bans-and-brings-muse-to-glasses"
+    "title": "AI Job Losses: A Guide to the Proposals for Helping Workers",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/ai-job-losses-a-guide-to-the-proposals-for-helping-workers"
   },
   {
-    "title": "Revolut Is Bringing Facial-Recognition Checkout to UK Businesses",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/revolut-is-bringing-facial-recognition-checkout-to-uk-businesses"
+    "title": "Lombardelli Says BOE Hikes More Likely If Energy Costs Hold",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/boe-s-lombardelli-warns-hikes-more-likely-as-iran-war-continues"
   },
   {
-    "title": "DTCC CEO on Market Structure, 24/7 Trading",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/dtcc-ceo-on-market-structure-24-7-trading-video"
+    "title": "Norges Bank Hikes Again as Riksbank Goes for Hawkish Hold",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/norges-bank-hikes-for-second-time-with-readiness-to-act-again"
   },
   {
-    "title": "Reena Aggarwal: Expect Merging of Private & Public",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/reena-aggarwal-expect-merging-of-private-public-video"
+    "title": "Russia to Make Miners Pay for High War Spending Via New Tax",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-23/russia-aims-to-narrow-budget-gap-while-shielding-war-spending"
   },
   {
-    "title": "Startups Modal, Baseten in Funding Talks to Help Businesses Run AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/startups-modal-baseten-in-funding-talks-to-help-businesses-run-ai"
+    "title": "Fed’s Williams Says More Work Needed to Lower US Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/fed-s-williams-says-more-work-needed-to-bring-down-us-inflation"
   },
   {
-    "title": "Toner: There’s a Lot of Upside To AI if We Do It Right",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/toner-there-s-a-lot-of-upside-to-ai-if-we-do-it-right-video"
+    "title": "Banxico to Hold Rates Amid Mixed Inflation Signals: Day Guide",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/banxico-to-hold-rates-amid-mixed-inflation-signals-day-guide"
   },
   {
-    "title": "Former CFTC Commissioner on Prediction Market Regulation",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/former-cftc-commissioner-on-prediction-market-regulation-video"
+    "title": "Taiwan Cuts Short-Term Debt Sales by Record to Boost Liquidity",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/taiwan-cuts-short-term-debt-sales-by-record-to-boost-liquidity"
   },
   {
-    "title": "SEC Commissioner: We’ll Ensure Guardrails for Tokenization",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-23/sec-s-uyeda-we-ll-ensure-guardrails-for-tokenization-video"
+    "title": "SNB Eases Threat of Franc Intervention as Rate Held at Zero",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/snb-ends-war-footing-over-franc-strength-as-rate-kept-at-zero"
   },
   {
-    "title": "YouTube Says New AI Tools Will Help Creators, not Replace Them",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/youtube-says-new-ai-tools-will-help-creators-not-replace-them"
+    "title": "Ifo's Fuest Says Germany's Economic Recovery Is Continuing",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-24/ifo-s-fuest-says-german-economic-recovery-is-continuing-video"
+  },
+  {
+    "title": "Zambia Disinflation Sets Stage for Fourth Interest-Rate Cut",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/zambia-inflation-slows-further-sets-stage-for-fourth-rate-cut"
+  },
+  {
+    "title": "German Institutes Double GDP Forecast as Outlook Brightens",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/germany-s-top-economic-institutes-boost-growth-forecast-to-1-3"
+  },
+  {
+    "title": "ECB’s Schnabel Says Energy Shock Is ‘Much More Persistent’",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/ecb-s-schnabel-says-energy-shock-is-much-more-persistent"
+  },
+  {
+    "title": "Riksbank Holds Rate and Sees Bigger Chance of Hike This Year",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/riksbank-holds-rate-and-sees-greater-chance-of-hike-this-year"
+  },
+  {
+    "title": "Busiest-Ever Week for China Ports Gives Glimpse of Tariff Unease",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/china-s-trade-volumes-hit-record-in-week-before-trump-xi-summit"
+  },
+  {
+    "title": "India Slashes Edible-Oil Duties to Reduce Festival Food Costs",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/india-slashes-edible-oil-duties-to-reduce-festival-food-costs"
   },
   {
     "title": "Europe Economy More Robust Than Anticipated, ECB’s Kocher Says",
@@ -600,72 +668,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-24/pboc-to-offer-banks-up-to-1-trillion-yuan-a-day-over-holidays"
   },
   {
-    "title": "Thailand Says Market Access Sticking Point in US Trade Talks",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/thailand-says-market-access-sticking-point-in-us-tariff-talks"
-  },
-  {
-    "title": "Australian Unemployment Climbs to 4.6% Even as Jobs Gain",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/australian-unemployment-surprisingly-rises-despite-job-gains"
-  },
-  {
-    "title": "China’s Trade Volumes Hit Record in Week Before Trump-Xi Summit",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/china-s-trade-volumes-hit-record-in-week-before-trump-xi-summit"
-  },
-  {
-    "title": "Bessent Says US, China Extend Their Trade Truce to Jan. 10",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/bessent-says-us-china-agreed-to-extend-trade-truce-to-jan-10"
-  },
-  {
-    "title": "Hassett Blasts Fed Officials Calling for Hikes in Recent Days",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/hassett-blasts-fed-officials-calling-for-hikes-in-recent-days"
-  },
-  {
-    "title": "Sánchez Backs Spain’s Hernández de Cos to Be Next ECB President",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/sanchez-backs-spain-s-hernandez-de-cos-to-be-next-ecb-president"
-  },
-  {
-    "title": "US Business Activity Expands at the Fastest Pace Since 2021",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/us-business-activity-expands-at-the-fastest-pace-since-2021"
-  },
-  {
-    "title": "South Africa Hikes Rates as Unanimous Vote Sets Hawkish Tone",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/south-africa-central-bank-hikes-rates-as-iran-war-fans-inflation"
-  },
-  {
-    "title": "Here’s a Crystal Ball Glimpse of the Global Economy in 30 Years",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-23/here-s-a-crystal-ball-glimpse-of-the-global-economy-in-30-years"
-  },
-  {
-    "title": "US and China and bike manufacturing",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-23/us-and-china-and-bike-manufacturing"
-  },
-  {
-    "title": "Norway Interest Rate Suspense Eclipses Steady Riksbank: Decision Guide",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/norway-rate-suspense-eclipses-steady-riksbank-decision-guide"
-  },
-  {
-    "title": "South Africa CPI Rises Less Than Expected Before Rate Call",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/south-african-inflation-picks-up-slightly-ahead-of-rate-decision"
-  },
-  {
-    "title": "OECD Warns of Faster Global Inflation, Sees Rate Hikes at Fed, ECB, BOJ",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/oecd-warns-of-faster-global-inflation-sees-rate-hikes-at-fed-ecb-boj"
-  },
-  {
-    "title": "OBR Needs New 10-Year Forecasts, UK Treasury Committee Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-22/obr-needs-new-10-year-forecasts-uk-treasury-committee-says"
-  },
-  {
-    "title": "UK Urged to Cut Spending as Growth Slows in OECD Forecasts",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/uk-urged-to-cut-spending-as-growth-slows-in-oecd-forecasts"
-  },
-  {
-    "title": "Euro-Zone Business Activity Hits Three-Year High on Services",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/euro-zone-business-activity-hits-three-year-high-on-services"
-  },
-  {
-    "title": "Bank Indonesia Keeps Key Rate Steady Despite Renewed Pressure on Rupiah",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-23/bank-indonesia-keeps-key-rate-steady-despite-renewed-pressure-on-rupiah"
+    "title": "AI is dominating the conversation at Climate Week",
+    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/"
   },
   {
     "title": "A congressional representative just proposed killing America’s border tower program",
@@ -704,8 +708,12 @@
     "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
   },
   {
-    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+    "title": "OpenAI agents hacked an Australian government website in search for data",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+  },
+  {
+    "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+    "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"
   },
   {
     "title": "Meta is making a standalone Muse AI gadget",
@@ -738,13 +746,5 @@
   {
     "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
     "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
-  },
-  {
-    "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
-    "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus"
-  },
-  {
-    "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
-    "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback"
   }
 ]
