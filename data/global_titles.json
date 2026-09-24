@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/"
   },
   {
+    "title": "Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet",
+    "link": "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html"
+  },
+  {
     "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
     "link": "https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html"
   },
@@ -306,10 +310,6 @@
   {
     "title": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion",
     "link": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html"
-  },
-  {
-    "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
-    "link": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html"
   },
   {
     "title": "Bentley takes on Ferrari with its first EV priced at $230,000",
@@ -508,16 +508,16 @@
     "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
   },
   {
+    "title": "Qualcomm Renews Licensing Pact With Apple Starting in 2027",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-24/qualcomm-renews-global-licensing-pact-with-apple-starting-2027"
+  },
+  {
     "title": "US Stock Futures Today: Darden, Dropbox, Everpure, MGM Resorts",
     "link": "https://www.bloomberg.com/news/articles/2026-09-24/us-stock-futures-today-darden-dropbox-everpure-mgm-resorts"
   },
   {
     "title": "Singapore’s Finance Firms to Train 80,000 Staff in AI Skills",
     "link": "https://www.bloomberg.com/news/articles/2026-09-24/singapore-s-finance-firms-to-train-80-000-staff-in-ai-skills"
-  },
-  {
-    "title": "Qualcomm Renews Global Licensing Pact with Apple Starting 2027",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/qualcomm-renews-global-licensing-pact-with-apple-starting-2027"
   },
   {
     "title": "Ex-DeepMind Researcher Thore Graepel Raising Funds for AI Reasoning Startup",
@@ -708,6 +708,10 @@
     "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
   },
   {
+    "title": "Control Resonant gets tough, but gives you the tools to deal with it",
+    "link": "https://www.theverge.com/games/999464/control-resonant-assist-mode"
+  },
+  {
     "title": "OpenAI agents hacked an Australian government website in search for data",
     "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
   },
@@ -742,9 +746,5 @@
   {
     "title": "Meta Connect 2026: The biggest news and announcements",
     "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements"
-  },
-  {
-    "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-    "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote"
   }
 ]
