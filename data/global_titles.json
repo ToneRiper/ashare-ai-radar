@@ -196,6 +196,10 @@
     "link": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html"
   },
   {
+    "title": "New study reveals the estate-planning choices that are likely to pit heirs against each other",
+    "link": "https://www.cnbc.com/2026/09/25/study-estate-planning-heirs-legal-battles.html"
+  },
+  {
     "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
     "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html"
   },
@@ -306,10 +310,6 @@
   {
     "title": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
     "link": "https://www.cnbc.com/2026/09/18/macklemore-ticket-prices-rise-amid-ed-sheeran-tour-fallout.html"
-  },
-  {
-    "title": "Why more companies are fighting over consumers' beauty, health and wellness spending",
-    "link": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html"
   },
   {
     "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
@@ -508,6 +508,14 @@
     "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
   },
   {
+    "title": "Goldman Sees Hyperscaler AI Capex Rising 50% to $1.2 Trillion",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/goldman-sees-hyperscaler-ai-capex-rising-50-to-1-2-trillion"
+  },
+  {
+    "title": "Microsoft Abandons Personal AI Chatbot Race With Copilot Reboot",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
+  },
+  {
     "title": "Trump, Xi Have Realized They Need Each Other: China Beige Book",
     "link": "https://www.bloomberg.com/news/videos/2026-09-25/trump-xi-realize-they-need-each-other-china-beige-book-video"
   },
@@ -580,15 +588,11 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-25/former-nsc-china-director-on-trump-xi-summit-video"
   },
   {
-    "title": "Hong Kong’s Buy&Ship Eyes Tokyo Listing In Japan Expansion Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-25/hong-kong-s-buy-ship-eyes-tokyo-listing-in-japan-expansion-push"
+    "title": "India Pegs Second-Half Borrowing At 7.9 Trillion Rupees",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/india-pegs-second-half-borrowing-at-7-9-trillion-rupees"
   },
   {
-    "title": "Indonesia Court Cuts Nadiem Makarim Term in Graft Appeal",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/indonesian-court-lowers-prison-term-in-nadiem-makarim-graft-case"
-  },
-  {
-    "title": "Kenyan Appeals Court Upholds President’s Unpopular Housing Levy",
+    "title": "Kenyan Court Upholds President’s Unpopular Housing Levy",
     "link": "https://www.bloomberg.com/news/articles/2026-09-25/kenyan-appeals-court-upholds-president-s-unpopular-housing-levy"
   },
   {
@@ -664,10 +668,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-24/banxico-holds-key-rate-steady-at-6-5-as-price-pressures-persist"
   },
   {
-    "title": "Ecobank Earmarks $2.6 Billion for Women and Agriculture by 2030",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/ecobank-earmarks-2-6-billion-for-women-and-agriculture-by-2030"
-  },
-  {
     "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
     "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
   },
@@ -708,6 +708,14 @@
     "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
   },
   {
+    "title": "Insta360 conquered 360 cameras — now it’s eyeing glasses",
+    "link": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview"
+  },
+  {
+    "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+    "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
+  },
+  {
     "title": "Here’s the Tesla Semi… again",
     "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer"
   },
@@ -738,13 +746,5 @@
   {
     "title": "Jensen Huang talks about AI and climate change like a supervillain",
     "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain"
-  },
-  {
-    "title": "Meta is going to let you build games with AI right on your phone",
-    "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
-  },
-  {
-    "title": "Muse will apparently let you download its entire filesystem",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem"
   }
 ]
