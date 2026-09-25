@@ -72,7 +72,7 @@
     "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
   },
   {
-    "title": "How V7 gives AI agents institutional memory",
+    "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
     "link": "https://openai.com/index/v7"
   },
   {
@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/"
   },
   {
+    "title": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
+    "link": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html"
+  },
+  {
     "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
     "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html"
   },
@@ -308,8 +312,16 @@
     "link": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html"
   },
   {
-    "title": "GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales",
-    "link": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html"
+    "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+    "link": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html"
+  },
+  {
+    "title": "Russia could attack a NATO country within months, Danish intelligence warns",
+    "link": "https://www.cnbc.com/2026/09/25/russia-ukraine-war-nato-denmark-putin.html"
+  },
+  {
+    "title": "India's viral Cockroach Party calls election panel head 'biggest threat' to democracy. Here's why it matters",
+    "link": "https://www.cnbc.com/2026/09/25/india-cockroach-party-election-protest-democracy.html"
   },
   {
     "title": "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
@@ -416,18 +428,6 @@
     "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html"
   },
   {
-    "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
-    "link": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html"
-  },
-  {
-    "title": "Russia’s pro-Putin party set to win election as Ukraine exposes war’s growing reach into Moscow",
-    "link": "https://www.cnbc.com/2026/09/21/russia-election-putin-moscow-attack-ukraine.html"
-  },
-  {
-    "title": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
-    "link": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html"
-  },
-  {
     "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
     "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
   },
@@ -508,6 +508,70 @@
     "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
   },
   {
+    "title": "Trump, Xi Have Realized They Need Each Other: China Beige Book",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-25/trump-xi-realize-they-need-each-other-china-beige-book-video"
+  },
+  {
+    "title": "SpaceX-Focused Pentagon Contracts Leave Rivals Feeling Squeezed",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/spacex-focused-pentagon-contracts-leave-rivals-feeling-squeezed"
+  },
+  {
+    "title": "Telefónica Weighs Sale of Venezuelan Unit After 35 Years",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/telefonica-weighs-sale-of-venezuelan-telecom-unit-after-35-years"
+  },
+  {
+    "title": "Meta Connect 2026: Muse AI Gadget Shows Ambitious Hardware Vision",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-25/meta-connect-2026-muse-ai-gadget-shows-ambitious-hardware-vision"
+  },
+  {
+    "title": "Bosses Don’t Feel AI-Ready as Safety Concerns Mount",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-25/bosses-don-t-feel-ai-ready-as-safety-concerns-mount"
+  },
+  {
+    "title": "Jev, an AI Model That Can’t Chat, Takes On Bigger Rivals",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals"
+  },
+  {
+    "title": "What El Niño Could Cost Africa | Bloomberg Next Africa",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-25/what-el-nino-could-cost-africa-video"
+  },
+  {
+    "title": "HelloFresh Stocks, Bonds Sink as Bid to Attract Parents Falters",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/hellofresh-stocks-bonds-sink-as-bid-to-attract-parents-falters"
+  },
+  {
+    "title": "UBS Likes Health, EM Bonds, Commodities in Broader Play",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-25/ubs-likes-health-em-bonds-commodities-in-broader-play-video"
+  },
+  {
+    "title": "NYC Lawmakers Propose Financial Rewards for AI Whistleblowers",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers"
+  },
+  {
+    "title": "India Seeks Comfort on Tata’s $14 Billion Chip Plans Amid Boardroom Battle",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/india-seeks-comfort-on-tata-s-14-billion-chip-plans-amid-boardroom-battle"
+  },
+  {
+    "title": "Hollywood Was Cooked Before AI, and Now It's Only Getting Worse",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-25/the-decline-of-hollywood-in-the-age-of-ai-video"
+  },
+  {
+    "title": "Japan Regulator Is Boosting Scrutiny of AI Data Center Financing",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/japan-regulator-is-boosting-scrutiny-of-ai-data-center-financing"
+  },
+  {
+    "title": "US, Iran Explore Deal to Reopen Hormuz, Saudi Oil Exports Hit War-Time High",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-25/horizons-middle-east-africa-9-25-2026-video"
+  },
+  {
+    "title": "Meta's Muse Agent Makes Waves: Market Snapshot",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-25/meta-s-muse-agent-makes-waves-market-snapshot-video"
+  },
+  {
+    "title": "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end"
+  },
+  {
     "title": "Tech Titans, Trump Fete China’s Xi at State Dinner",
     "link": "https://www.bloomberg.com/news/videos/2026-09-25/tech-titans-trump-fete-china-s-xi-at-state-dinner-video"
   },
@@ -524,68 +588,44 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-24/indonesian-court-lowers-prison-term-in-nadiem-makarim-graft-case"
   },
   {
-    "title": "Australia Demands More AI Safeguards After Revealing OpenAI Hack",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-25/australia-demands-more-ai-safeguards-after-revealing-openai-hack"
+    "title": "Kenyan Appeals Court Upholds President’s Unpopular Housing Levy",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/kenyan-appeals-court-upholds-president-s-unpopular-housing-levy"
   },
   {
-    "title": "Goldman’s Moe Says He’s in ‘Stronger-for-Longer Camp’ on AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-25/goldman-s-moe-says-he-s-in-stronger-for-longer-camp-on-ai"
+    "title": "Panda Diplomacy Shows Thawing US-China Ties as Xi and Trump Meet",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-25/panda-diplomacy-shows-thawing-us-china-ties-as-xi-and-trump-meet"
   },
   {
-    "title": "Anthropic Biology Lab Enzyme Discovery Draws Caution From Scientists",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/anthropic-biology-discovery-draws-cautious-notes-from-scientists"
+    "title": "Manulife Sees Canada Rate Hike Next Month as Inflation Pressures Build",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/manulife-sees-canada-rate-hike-next-month-as-inflation-pressures-build"
   },
   {
-    "title": "Why US-China AI Talks Are About Risk Management",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-25/why-us-china-ai-talks-are-about-risk-management-video"
+    "title": "BOE’s Bailey Warns It’s Getting Harder to Avoid Rate Hikes",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/boe-s-bailey-warns-it-s-getting-harder-to-avoid-rate-hikes"
   },
   {
-    "title": "FBI Agent Homes, Job Titles in Data Hackers Claim to Have Stolen",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/fbi-agent-homes-job-titles-in-data-hackers-claim-to-have-stolen"
+    "title": "Trump Shared Concerns Over Weak Yen With Japan’s Takaichi",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/japan-s-katayama-says-trump-shared-yen-concerns-with-takaichi-mugc3g4o"
   },
   {
-    "title": "US Treasury Yields Hit 5% as Wall Street Faces New Rate Regime",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/us-treasury-yields-hit-5-as-wall-street-faces-new-rate-regime"
+    "title": "Japan’s Finance Minister Says Takaichi Is ‘Not a Reflationist’",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/japan-s-finance-minister-says-takaichi-is-not-a-reflationist"
   },
   {
-    "title": "US-China Rivalry Fuels Fierce AI Race: Live Q&A",
-    "link": "https://www.bloomberg.com/sessions/2026-09-25/live-q-amp-a-us-china-superpower-rivalry-fuels-fierce-ai-race"
+    "title": "Angola to Press Ahead With Ending Fuel Subsidies as Costs Double",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/angola-to-press-ahead-with-ending-fuel-subsidies-as-costs-double"
   },
   {
-    "title": "Oil, Treasury Yields & Inflation Pressure Markets",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-24/oil-treasury-yields-inflation-pressure-markets"
+    "title": "Senegal Hopes to Complete Debt Revamp Within Months, Faye Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/senegal-hopes-to-complete-debt-revamp-within-months-faye-says"
   },
   {
-    "title": "Apple Store Creator on New Book and Retail’s AI Future",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-24/apple-store-creator-on-new-book-and-retail-s-ai-future-video"
+    "title": "Ex-Turkish Central Banker Arrested in Fund Probe, Ekonomi Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/ex-turkish-central-bank-deputy-governor-arrested-in-fund-probe"
   },
   {
-    "title": "Live Nation Has Received $420 Million in Subsidies From US Cities: Study",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-24/live-nation-has-received-420-million-in-subsidies-from-us-cities-study"
-  },
-  {
-    "title": "MSCI CEO: Investors Are Putting Money Everywhere",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-24/msci-ceo-investors-are-putting-money-everywhere-video"
-  },
-  {
-    "title": "Goldman Sachs Is Underweight Hyperscalers on Debt Supply Surge",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/goldman-sachs-is-underweight-hyperscalers-on-debt-supply-surge"
-  },
-  {
-    "title": "Maria Vassalou on Rising Government Debt, Trump-XI Summit",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-24/vassalou-on-rising-government-debt-trump-xi-summit-video"
-  },
-  {
-    "title": "Principal CIO on Inflation Concerns, Rising Bond Yields",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-24/principal-cio-on-inflation-concerns-rising-bond-yields-video"
-  },
-  {
-    "title": "Odd Lots: Maybe AI Won’t Kill Us All — Just Some of Us",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-24/odd-lots-maybe-ai-won-t-kill-us-all-just-some-of-us-video"
-  },
-  {
-    "title": "Anthropic Strikes $12 Billion AI Computing Deal With Akamai",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/anthropic-strikes-12-billion-deal-with-akamai-for-ai-computing"
+    "title": "BlackRock Sees Central Asia Joining Gulf as Investment Draw",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/blackrock-sees-central-asia-joining-gulf-as-investment-draw"
   },
   {
     "title": "BOJ’s Price Trend Indicator Quickens in Support of Another Hike",
@@ -602,10 +642,6 @@
   {
     "title": "US-Greenland Security Deal Opens Door to American Investment",
     "link": "https://www.bloomberg.com/news/articles/2026-09-25/us-greenland-security-deal-opens-door-to-american-investment"
-  },
-  {
-    "title": "Trump Shared Concerns Over Weak Yen With Japan’s Takaichi",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-25/japan-s-katayama-says-trump-shared-yen-concerns-with-takaichi-mugc3g4o"
   },
   {
     "title": "Japan Growth Minister Says Economy Has Exited Reflationary Phase",
@@ -632,40 +668,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-24/ecobank-earmarks-2-6-billion-for-women-and-agriculture-by-2030"
   },
   {
-    "title": "Knot Would Be Perfect Fit at ECB for Many Nations, Dutch PM Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/knot-would-be-perfect-fit-at-ecb-for-many-nations-dutch-pm-says"
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
   },
   {
-    "title": "Chile: Kast espera que mejora de Venezuela impulse regreso de migrantes",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/chile-kast-espera-que-mejora-de-venezuela-impulse-regreso-de-migrantes"
-  },
-  {
-    "title": "Ghana Still Cautious on Rates as Wars Seen Stoking Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/ghana-holds-rate-for-third-time-in-row-on-inflation-risks"
-  },
-  {
-    "title": "Brazil Central Bank Cuts GDP Growth Outlook Before Election",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/brazil-central-bank-cuts-economic-growth-outlook-before-election"
-  },
-  {
-    "title": "Chile President Hopes Venezuela Recovers, Bringing Migrants Home",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/chile-president-hopes-venezuela-recovers-bringing-migrants-home"
-  },
-  {
-    "title": "Budget Watchdog Doubts Carney’s Timeline for Operational Balance",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/budget-watchdog-doubts-carney-s-timeline-for-operational-balance"
-  },
-  {
-    "title": "Fed’s Paulson Says Further Modest Rate Hikes May Be Needed",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/fed-s-paulson-says-modest-further-rate-increases-may-be-needed"
-  },
-  {
-    "title": "Two BOE Deputies Signal They Are Moving Toward Raising Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/boe-s-lombardelli-warns-hikes-more-likely-as-iran-war-continues"
-  },
-  {
-    "title": "Schnabel Will Leave ECB Board Early for Senior Role at IMF",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-24/schnabel-will-leave-ecb-board-early-for-senior-role-at-imf"
+    "title": "Young organs may not be a fountain of youth for recipients",
+    "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/"
   },
   {
     "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
@@ -698,14 +706,6 @@
   {
     "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
     "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
-  },
-  {
-    "title": "Don’t be fooled by this summer of AI hype",
-    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
-  },
-  {
-    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-    "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
   },
   {
     "title": "Here’s the Tesla Semi… again",
