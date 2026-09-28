@@ -1,5 +1,9 @@
 [
   {
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+  },
+  {
     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "link": "https://openai.com/index/proaction"
   },
@@ -12,10 +16,6 @@
     "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
   },
   {
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks"
-  },
-  {
     "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
   },
@@ -26,6 +26,10 @@
   {
     "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "link": "https://openai.com/index/ringg"
+  },
+  {
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks"
   },
   {
     "title": "Introducing MentalHealthBench",
@@ -116,10 +120,6 @@
     "link": "https://openai.com/index/unlocking-new-ways-of-working"
   },
   {
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "link": "https://openai.com/index/fyxer"
-  },
-  {
     "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
     "link": "https://blogs.nvidia.com/blog/open-protein-dataset/"
   },
@@ -190,6 +190,14 @@
   {
     "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
     "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/"
+  },
+  {
+    "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+    "link": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html"
+  },
+  {
+    "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
+    "link": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html"
   },
   {
     "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
@@ -302,14 +310,6 @@
   {
     "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
     "link": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html"
-  },
-  {
-    "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-    "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html"
-  },
-  {
-    "title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
-    "link": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html"
   },
   {
     "title": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
@@ -428,15 +428,79 @@
     "link": "https://www.cnbc.com/2026/09/22/india-nse-ipo-billion-nasdaq.html"
   },
   {
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
+  },
+  {
+    "title": "Tesla delays Roadster 2 event again due to bad weather",
+    "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/"
+  },
+  {
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/"
+  },
+  {
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+  },
+  {
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/"
+  },
+  {
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
+  },
+  {
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
+  },
+  {
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
+  },
+  {
+    "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+    "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/"
+  },
+  {
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+    "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/"
+  },
+  {
+    "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+    "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/"
+  },
+  {
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/"
+  },
+  {
+    "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+    "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/"
+  },
+  {
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/"
+  },
+  {
     "title": "Modulate raises $25M for its voice models and analysis suite",
     "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/"
   },
   {
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
+    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
     "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/"
   },
   {
-    "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
     "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
   },
   {
@@ -444,160 +508,120 @@
     "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/"
   },
   {
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+    "title": "Will New China AI ETF Have Its 'Shiny Moment'?",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/will-new-china-ai-etf-have-its-shiny-moment-video"
   },
   {
-    "title": "SpaceX’s Starship rocket reaches orbit for the first time",
-    "link": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/"
+    "title": "Manus Expands AI Tools in Renewed Push Into Agent Market",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market"
   },
   {
-    "title": "Maritime intelligence startup Quartermaster raises another $140M",
-    "link": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/"
+    "title": "Oil Surges, Nvidia Unleashes a Record $150B Buyback",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/open-interest-9-28-2026-video"
   },
   {
-    "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-    "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/"
+    "title": "OpenAI, Meta Expected to Attend AI Hearing, NYC Council Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/nyc-council-says-openai-meta-officials-to-attend-ai-hearing"
   },
   {
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+    "title": "Gecko CEO: Physical AI Needs Humans in Control",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/gecko-ceo-physical-ai-needs-humans-in-control-video"
   },
   {
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+    "title": "Trump, Anthropic CEO Take AI Safety Debate to Dinner",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/trump-anthropic-ceo-take-ai-safety-debate-to-dinner-video"
   },
   {
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+    "title": "Starship Reaches Orbit in Major SpaceX Milestone",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/starship-reaches-orbit-in-major-spacex-milestone-video"
   },
   {
-    "title": "TechCrunch Mobility: AV companies pick their lanes",
-    "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/"
+    "title": "Nvidia’s $235 Billion Buyback, SpaceX Milestone and Meta’s AI Push",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/bloomberg-tech-9-28-2026-video"
   },
   {
-    "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-    "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/"
+    "title": "Cómo funcionaría un “interruptor” de emergencia para la IA",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/como-funcionaria-un-interruptor-de-emergencia-para-la-ia"
   },
   {
-    "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-    "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/"
+    "title": "SpaceX Starship Splashes Down in Pacific Ocean",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/spacex-starship-splashes-down-in-pacific-ocean-video"
   },
   {
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+    "title": "‘I Hope Elon is Listening.’ South Africa Urges Musk on Starlink",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/-i-hope-elon-is-listening-south-africa-urges-musk-on-starlink"
   },
   {
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+    "title": "Shein Operating Profit Falls in Lackluster Results Post IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/shein-faces-first-public-earnings-test-as-growth-woes-mount"
   },
   {
-    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-    "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
+    "title": "Bill McBride's Favorite Housing Charts",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/bill-mcbride-s-favorite-housing-charts-video"
   },
   {
-    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-    "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/"
+    "title": "Meta Hires MongoDB CEO to Run New AI Platform",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/meta-hires-mongodb-ceo-to-run-new-ai-platform-video"
   },
   {
-    "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-    "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/"
+    "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic CEO",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief"
   },
   {
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
+    "title": "Anthropic, OpenAI Executives Urge Oversight of Self-Improving AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/anthropic-openai-executives-urge-oversight-of-self-improving-ai"
   },
   {
-    "title": "A $23 Trillion Market Swayed SoftBank in Hunt for More AI Debt",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/a-23-trillion-market-swayed-softbank-in-hunt-for-more-ai-debt"
+    "title": "Global Bond Rout Weighs on Risk To Start the Week",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/bloomberg-surveillance-9-28-2026-video"
   },
   {
-    "title": "Nvidia (NVDA) Boosts Stock Buyback Authorization by $150 Billion",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-boosts-share-buyback-authorization-by-150-billion-mul5jmu7"
-  },
-  {
-    "title": "Akamai CEO Leighton Calls Anthropic an Ideal Partner",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/akamai-ceo-leighton-calls-anthropic-an-ideal-partner-video"
-  },
-  {
-    "title": "SpaceX Starship Lifts Off for Key Orbital Test",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/spacex-starship-lifts-off-for-key-orbital-test-video"
+    "title": "Nvidia Boosts Share Buyback Program by $150 Billion",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/nvidia-boosts-share-buyback-program-by-150-billion-video"
   },
   {
     "title": "Meta Taps MongoDB CEO to Lead New Enterprise AI Platform",
     "link": "https://www.bloomberg.com/news/articles/2026-09-28/mongodb-s-ceo-steps-down-for-senior-role-at-meta-shares-plunge"
   },
   {
-    "title": "Shein Posts 1% Revenue Growth in First Results Since IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/shein-faces-first-public-earnings-test-as-growth-woes-mount"
+    "title": "Kuaishou’s AI Video Spinoff Unveils New Model in ByteDance Chase",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/kuaishou-s-ai-video-spinoff-unveils-new-model-in-bytedance-chase"
   },
   {
-    "title": "Gold Fields Sees Pressure on Northern Star to Discuss Offer",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/gold-fields-sees-pressure-on-northern-star-to-discuss-offer"
+    "title": "Hassett Signals ‘Outside’ Factors May Hit Deficit, GDP Goals",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/hassett-says-outside-factors-could-upset-growth-deficit-goals"
   },
   {
-    "title": "F2 Inks Investment with Golub, Provides AI Platform",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/f2-gets-investment-from-golub-signs-deal-to-provide-ai-platform"
+    "title": "Fed’s Cook Says AI Gains Won’t Offset Near-Term Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/fed-s-cook-says-ai-gains-won-t-offset-near-term-inflation"
   },
   {
-    "title": "Bose Debuts $99 Bose Noise Cancelling Wired Earbuds, Seizing on Growing Trend",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/bose-debuts-99-bose-noise-cancelling-wired-earbuds-seizing-on-growing-trend"
+    "title": "Canadian Confidence in Neutral as Oil Fuels Inflation Fears",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/canadian-confidence-in-neutral-as-oil-fuels-inflation-concerns"
   },
   {
-    "title": "Defense Tech Firm RedLattice to Merge With Bold Eagle SPAC",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/defense-tech-firm-redlattice-to-merge-with-bold-eagle-spac"
+    "title": "Zimbabwe Cuts Rates Against Global Tide as Iran Risks Persist",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/zimbabwe-cuts-rates-against-global-tide-as-iran-risks-persist"
   },
   {
-    "title": "AI-Assisted Shopping to Rise 130% During Holidays, Adobe Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/ai-assisted-shopping-to-rise-130-during-holidays-adobe-says"
+    "title": "Fed’s Watchdog Warns of Classified File Breach by Former Staffer",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/fed-s-watchdog-warns-of-classified-file-breach-by-former-staffer"
   },
   {
-    "title": "OpenAI, Anthropic CEOs Will Not Attend Australia AI Inquiry",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/openai-s-sam-altman-will-not-attend-australia-senate-ai-inquiry"
+    "title": "Chile’s Kast Rolls Out Jobs Plan as Weak Economy Saps Approval",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/chile-s-kast-rolls-out-jobs-plan-as-weak-economy-saps-approval"
   },
   {
-    "title": "Meta’s Muse Shows How AI Is Taking Over as the New Travel Agent",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-28/meta-s-muse-shows-how-ai-is-taking-over-as-the-new-travel-agent"
+    "title": "ECB’s Lagarde Says Higher Yields to Slow Growth, Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/ecb-s-lagarde-says-higher-yields-to-slow-growth-and-inflation"
   },
   {
-    "title": "Defense Tech Firm RedLattice Agrees to Merge With Bold Eagle SPAC",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/defense-tech-firm-redlattice-agrees-to-merge-with-bold-eagle-spac"
-  },
-  {
-    "title": "AI Safety Fears Grow as Trump Pushes Ahead in Race With China",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-28/ai-safety-fears-grow-as-trump-pushes-ahead-in-race-with-china"
-  },
-  {
-    "title": "Oil Rise Piles More Pressure On Bonds",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/the-opening-trade-9-28-2026-video"
-  },
-  {
-    "title": "Nvidia Rolls Out New Tools to Keep AI Agents in Line",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line-video"
-  },
-  {
-    "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry"
-  },
-  {
-    "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent"
-  },
-  {
-    "title": "Why Building a Crosswalk in LA Is Kafkaesque",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/why-building-a-crosswalk-in-la-is-kafkaesque-video"
-  },
-  {
-    "title": "Healey Says Britain Can’t Have Hope Without Fiscal Discipline",
+    "title": "Healey Pledges Fiscal Restraint in Bid to Reassure Investors",
     "link": "https://www.bloomberg.com/news/articles/2026-09-28/healey-says-hope-for-britons-is-earned-through-fiscal-discipline"
   },
   {
     "title": "Meloni Crafts Budget to Appease Both Italian Voters and Markets",
     "link": "https://www.bloomberg.com/news/articles/2026-09-28/meloni-crafts-budget-to-appease-both-italian-voters-and-markets"
-  },
-  {
-    "title": "ECB’s Lagarde Says Higher Yields to Slow Growth and Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/ecb-s-lagarde-says-higher-yields-to-slow-growth-and-inflation"
   },
   {
     "title": "Colombia Reaches Out to IMF to Help Resolve Fiscal Crisis",
@@ -644,24 +668,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-27/rba-set-to-resume-raising-key-rate-as-patience-on-prices-erodes"
   },
   {
-    "title": "Australia’s Budget Deficit Billions Smaller Than Expected, Treasurer Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/australia-s-budget-deficit-billions-smaller-than-expected-treasurer-says"
-  },
-  {
-    "title": "Japan’s Defense Buildup Won’t Rattle Markets, Government Adviser Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/japan-s-defense-buildup-won-t-rattle-markets-govt-adviser-says"
-  },
-  {
-    "title": "BOJ Rate Hike in October Is Real Possibility, Ex-Official Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/boj-rate-hike-in-october-is-real-possibility-ex-official-says"
-  },
-  {
-    "title": "US Jobs Report Seen Showing 90,000 Payrolls, 4.1% Unemployment Rate",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-26/us-jobs-report-seen-showing-90-000-payrolls-4-1-unemployment-rate"
-  },
-  {
-    "title": "Bessent Urges Fed to Keep ‘Open Mind’ on US Inflation Outlook",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/bessent-urges-fed-to-keep-open-mind-on-us-inflation-outlook"
+    "title": "When can we say AI made a scientific discovery?",
+    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
   },
   {
     "title": "The Download: rogue agent liability and the AI Hype Index",
@@ -700,8 +708,36 @@
     "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/"
   },
   {
-    "title": "The AI Hype Index: AI loves cheating",
-    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/"
+    "title": "OpenAI’s AI agents need to catch up",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent"
+  },
+  {
+    "title": "Trump finalizes rule to make cars less fuel efficient",
+    "link": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards"
+  },
+  {
+    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready"
+  },
+  {
+    "title": "Florida seeks a ban on ChatGPT acting like a person",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids"
+  },
+  {
+    "title": "OpenAI keeps bulldozing mathematicians",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group"
+  },
+  {
+    "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+    "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels"
+  },
+  {
+    "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
+    "link": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev"
+  },
+  {
+    "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+    "link": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale"
   },
   {
     "title": "Bose’s first wired earbuds in 11 years add noise canceling",
@@ -710,37 +746,5 @@
   {
     "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
     "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira"
-  },
-  {
-    "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-    "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
-  },
-  {
-    "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
-    "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush"
-  },
-  {
-    "title": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
-    "link": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo"
-  },
-  {
-    "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
-    "link": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china"
-  },
-  {
-    "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
-    "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"
-  },
-  {
-    "title": "Engram is a sampler that turns broken AI hallucinations into music",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music"
-  },
-  {
-    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
-  },
-  {
-    "title": "Why OLPC’s $100 laptop never stood a chance",
-    "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance"
   }
 ]
