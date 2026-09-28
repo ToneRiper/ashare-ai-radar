@@ -192,6 +192,14 @@
     "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/"
   },
   {
+    "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
+    "link": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html"
+  },
+  {
+    "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+    "link": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html"
+  },
+  {
     "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
     "link": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html"
   },
@@ -304,12 +312,12 @@
     "link": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html"
   },
   {
-    "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
-    "link": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html"
+    "title": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
+    "link": "https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html"
   },
   {
-    "title": "Disney names CTO for the first time as media giant expands tech push",
-    "link": "https://www.cnbc.com/2026/09/18/disney-cto-tech.html"
+    "title": "CNBC Daily Open: A tale of two truces",
+    "link": "https://www.cnbc.com/2026/09/28/daily-open-iran-war-trump-xi-summit.html"
   },
   {
     "title": "Northern Star shares pop as Australia's largest gold miner rejects $27 billion takeover proposal",
@@ -420,12 +428,32 @@
     "link": "https://www.cnbc.com/2026/09/22/india-nse-ipo-billion-nasdaq.html"
   },
   {
-    "title": "Taiwan benchmark Taiex rises to record intraday high as tech stocks advance",
-    "link": "https://www.cnbc.com/2026/09/22/taiwans-taiex-hits-record-intraday-high-as-tech-stocks-advance.html"
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/"
   },
   {
-    "title": "Tesla makes a move on Southeast Asia's largest EV market. A homegrown giant awaits",
-    "link": "https://www.cnbc.com/2026/09/22/tesla-vinfast-ev-vietnam.html"
+    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
+    "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/"
+  },
+  {
+    "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
+  },
+  {
+    "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
+    "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/"
+  },
+  {
+    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+    "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+  },
+  {
+    "title": "SpaceX’s Starship rocket reaches orbit for the first time",
+    "link": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/"
+  },
+  {
+    "title": "Maritime intelligence startup Quartermaster raises another $140M",
+    "link": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/"
   },
   {
     "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
@@ -480,108 +508,128 @@
     "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
   },
   {
-    "title": "At Meta Connect, the company’s smart glasses were everywhere",
-    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+    "title": "A $23 Trillion Market Swayed SoftBank in Hunt for More AI Debt",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/a-23-trillion-market-swayed-softbank-in-hunt-for-more-ai-debt"
   },
   {
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+    "title": "Nvidia (NVDA) Boosts Stock Buyback Authorization by $150 Billion",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-boosts-share-buyback-authorization-by-150-billion-mul5jmu7"
   },
   {
-    "title": "Automattic has a new board after failed attempt to put CEO on leave",
-    "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/"
+    "title": "Akamai CEO Leighton Calls Anthropic an Ideal Partner",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/akamai-ceo-leighton-calls-anthropic-an-ideal-partner-video"
   },
   {
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+    "title": "SpaceX Starship Lifts Off for Key Orbital Test",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/spacex-starship-lifts-off-for-key-orbital-test-video"
   },
   {
-    "title": "Meta opens early access program for new Muse features",
-    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
+    "title": "Meta Taps MongoDB CEO to Lead New Enterprise AI Platform",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/mongodb-s-ceo-steps-down-for-senior-role-at-meta-shares-plunge"
   },
   {
-    "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
-    "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/"
-  },
-  {
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
-  },
-  {
-    "title": "Sinha: Private Credit Market Remains Positive for Asia",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/sinha-private-credit-market-remains-positive-for-asia-video"
-  },
-  {
-    "title": "TSMC Affiliate Plans Second Singapore Chip Plant in Asia Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/tsmc-affiliate-plans-second-singapore-chip-plant-in-asia-push"
-  },
-  {
-    "title": "Polish Space Startup Eycore Taps Demand for Sovereign Satellite Intelligence",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/polish-space-startup-eycore-taps-demand-for-sovereign-satellite-intelligence"
-  },
-  {
-    "title": "The Stocks That Could Survive an AI Bust",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/the-stocks-that-could-survive-an-ai-bust-video"
-  },
-  {
-    "title": "Verisure Bets on AI Partnerships to Counter Disruption Concerns",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/verisure-bets-on-ai-partnerships-to-counter-disruption-concerns"
-  },
-  {
-    "title": "Belgium’s Agfa to Merge Digital Printing Unit with Siris’ EFI",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/belgium-s-agfa-to-merge-digital-printing-unit-with-siris-efi"
-  },
-  {
-    "title": "China May Let Alibaba Buy Nvidia RTX Chips, Information Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says"
-  },
-  {
-    "title": "China’s Industrial Profits Grow at Weakest Since November Slump",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/china-s-industrial-profit-growth-slows-for-fourth-straight-month"
-  },
-  {
-    "title": "China Tech Needs AI Catalyst to Close Valuation Gap, BI Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/china-tech-needs-ai-catalyst-to-close-valuation-gap-bi-says"
-  },
-  {
-    "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief"
-  },
-  {
-    "title": "Shein Faces First Public Earnings Test as Growth Woes Mount",
+    "title": "Shein Posts 1% Revenue Growth in First Results Since IPO",
     "link": "https://www.bloomberg.com/news/articles/2026-09-27/shein-faces-first-public-earnings-test-as-growth-woes-mount"
   },
   {
-    "title": "Anthropic CEO Amodei to Meet Trump as AI Safety Fears Rise",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising"
+    "title": "Gold Fields Sees Pressure on Northern Star to Discuss Offer",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/gold-fields-sees-pressure-on-northern-star-to-discuss-offer"
   },
   {
-    "title": "From Geisha Face Paint to Servers, Sakai Chemical Emerges as AI Linchpin",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/from-geisha-face-paint-to-servers-sakai-chemical-emerges-as-ai-linchpin"
+    "title": "F2 Inks Investment with Golub, Provides AI Platform",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/f2-gets-investment-from-golub-signs-deal-to-provide-ai-platform"
   },
   {
-    "title": "AI Safety Concerns Put Congress on the Spot",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-27/ai-safety-concerns-put-congress-on-the-spot-video"
+    "title": "Bose Debuts $99 Bose Noise Cancelling Wired Earbuds, Seizing on Growing Trend",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/bose-debuts-99-bose-noise-cancelling-wired-earbuds-seizing-on-growing-trend"
   },
   {
-    "title": "Why Humanoid Robots Might Be the Future of Elder Care",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-27/why-humanoid-robots-might-be-the-future-of-elder-care-video"
+    "title": "Defense Tech Firm RedLattice to Merge With Bold Eagle SPAC",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/defense-tech-firm-redlattice-to-merge-with-bold-eagle-spac"
   },
   {
-    "title": "Meta’s VR Glasses Are Exactly What the Apple Vision Pro Should Have Been",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6"
+    "title": "AI-Assisted Shopping to Rise 130% During Holidays, Adobe Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/ai-assisted-shopping-to-rise-130-during-holidays-adobe-says"
   },
   {
-    "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards"
+    "title": "OpenAI, Anthropic CEOs Will Not Attend Australia AI Inquiry",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/openai-s-sam-altman-will-not-attend-australia-senate-ai-inquiry"
   },
   {
-    "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry"
+    "title": "Meta’s Muse Shows How AI Is Taking Over as the New Travel Agent",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-28/meta-s-muse-shows-how-ai-is-taking-over-as-the-new-travel-agent"
   },
   {
-    "title": "China Media Says US Shares Responsibility for Managing AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/china-state-media-says-us-shares-responsibility-for-managing-ai"
+    "title": "Defense Tech Firm RedLattice Agrees to Merge With Bold Eagle SPAC",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/defense-tech-firm-redlattice-agrees-to-merge-with-bold-eagle-spac"
+  },
+  {
+    "title": "AI Safety Fears Grow as Trump Pushes Ahead in Race With China",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-28/ai-safety-fears-grow-as-trump-pushes-ahead-in-race-with-china"
+  },
+  {
+    "title": "Oil Rise Piles More Pressure On Bonds",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/the-opening-trade-9-28-2026-video"
+  },
+  {
+    "title": "Nvidia Rolls Out New Tools to Keep AI Agents in Line",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line-video"
+  },
+  {
+    "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry"
+  },
+  {
+    "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent"
+  },
+  {
+    "title": "Why Building a Crosswalk in LA Is Kafkaesque",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-28/why-building-a-crosswalk-in-la-is-kafkaesque-video"
+  },
+  {
+    "title": "Healey Says Britain Can’t Have Hope Without Fiscal Discipline",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/healey-says-hope-for-britons-is-earned-through-fiscal-discipline"
+  },
+  {
+    "title": "Meloni Crafts Budget to Appease Both Italian Voters and Markets",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/meloni-crafts-budget-to-appease-both-italian-voters-and-markets"
+  },
+  {
+    "title": "ECB’s Lagarde Says Higher Yields to Slow Growth and Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/ecb-s-lagarde-says-higher-yields-to-slow-growth-and-inflation"
+  },
+  {
+    "title": "Colombia Reaches Out to IMF to Help Resolve Fiscal Crisis",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/colombia-seeking-imf-help-amid-fiscal-crisis-espriella-says"
+  },
+  {
+    "title": "Kganyago Sees Significant 2027 Slowdown in South African CPI",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/kganyago-sees-significant-slowdown-in-south-african-cpi-in-2027"
+  },
+  {
+    "title": "Rethinking Fed Rate Path Sends Bond Yields Higher, But a Data Test Is Looming",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-28/rethinking-fed-rate-path-sends-bond-yields-higher-but-a-data-test-is-looming"
+  },
+  {
+    "title": "US-China trade truce and Trump and Xi",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-28/us-china-trade-truce-and-trump-and-xi"
+  },
+  {
+    "title": "BOE’s Ramsden Joins Warnings That Rates May Have to Rise",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/boe-s-ramsden-joins-warnings-that-rates-may-have-to-rise"
+  },
+  {
+    "title": "Key US Data This Week Seen Bolstering Case for October Rate Hike",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/key-us-data-this-week-seen-bolstering-case-for-october-rate-hike"
+  },
+  {
+    "title": "British Inactivity Crisis Was Smaller Than Feared, New Data Show",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/british-inactivity-crisis-was-smaller-than-feared-new-data-show"
+  },
+  {
+    "title": "Tough UK Budget Hangs Over John Healey at Labour Gathering",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-27/a-difficult-budget-hangs-over-john-healey-at-labour-gathering"
   },
   {
     "title": "JPMorgan Defies Consensus With Three Thai Rate Hikes in 2027",
@@ -608,10 +656,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-27/boj-rate-hike-in-october-is-real-possibility-ex-official-says"
   },
   {
-    "title": "Tough UK Budget Hangs Over John Healey at Labour Gathering",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/a-difficult-budget-hangs-over-john-healey-at-labour-gathering"
-  },
-  {
     "title": "US Jobs Report Seen Showing 90,000 Payrolls, 4.1% Unemployment Rate",
     "link": "https://www.bloomberg.com/news/articles/2026-09-26/us-jobs-report-seen-showing-90-000-payrolls-4-1-unemployment-rate"
   },
@@ -620,12 +664,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-27/bessent-urges-fed-to-keep-open-mind-on-us-inflation-outlook"
   },
   {
-    "title": "Zambia Sees GDP Accelerating to 6% in 2027, Fastest Since 2021",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/zambia-sees-gdp-accelerating-to-6-in-2027-fastest-since-2021"
+    "title": "The Download: rogue agent liability and the AI Hype Index",
+    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/"
   },
   {
-    "title": "Dutch Need to Keep State Debt in Check, Central Bank Chief Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-27/dutch-need-to-keep-state-debt-in-check-central-bank-chief-says"
+    "title": "Who’s liable when AI agents go rogue?",
+    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
   },
   {
     "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
@@ -660,12 +704,28 @@
     "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/"
   },
   {
-    "title": "Smart glasses are already causing havoc in India",
-    "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/"
+    "title": "Bose’s first wired earbuds in 11 years add noise canceling",
+    "link": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder"
   },
   {
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+    "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
+    "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira"
+  },
+  {
+    "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+    "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+  },
+  {
+    "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+    "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush"
+  },
+  {
+    "title": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
+    "link": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo"
+  },
+  {
+    "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+    "link": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china"
   },
   {
     "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
@@ -682,29 +742,5 @@
   {
     "title": "Why OLPC’s $100 laptop never stood a chance",
     "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance"
-  },
-  {
-    "title": "Googlebooks might be the real deal",
-    "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse"
-  },
-  {
-    "title": "The smart home graveyard is getting crowded",
-    "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard"
-  },
-  {
-    "title": "Apple hit with $5.7 billion in damages over haptic patents",
-    "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
-  },
-  {
-    "title": "Decap is the man behind the drums behind your favorite song",
-    "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview"
-  },
-  {
-    "title": "Kids turned the comment section of an NPR podcast into a group chat",
-    "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section"
-  },
-  {
-    "title": "OpenAI pauses training of its ‘most capable models’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
   }
 ]
