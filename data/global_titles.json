@@ -4,6 +4,10 @@
     "link": "https://openai.com/index/how-we-will-do-better-for-australia"
   },
   {
+    "title": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+  },
+  {
     "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
     "link": "https://openai.com/index/lenfest-ai-collaborative-expansion"
   },
@@ -28,20 +32,20 @@
     "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
   },
   {
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg"
-  },
-  {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-  },
-  {
     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
   },
   {
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg"
+  },
+  {
     "title": "Sam Altman’s remarks at the United Nations Security Council",
     "link": "https://openai.com/index/sam-altman-un-security-council-remarks"
+  },
+  {
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
   },
   {
     "title": "Introducing MentalHealthBench",
@@ -76,12 +80,12 @@
     "link": "https://openai.com/index/priorities-principles-third-party-assessments"
   },
   {
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
-  },
-  {
     "title": "Advisory Group on Mathematics and Artificial Intelligence",
     "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+  },
+  {
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
   },
   {
     "title": "Building standards for the next phase of AI",
@@ -114,10 +118,6 @@
   {
     "title": "Reimagining advertising with AI",
     "link": "https://openai.com/index/reimagining-advertising-with-ai"
-  },
-  {
-    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-    "link": "https://openai.com/index/hex-gpt-6-astra"
   },
   {
     "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
@@ -190,6 +190,10 @@
   {
     "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
     "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/"
+  },
+  {
+    "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
+    "link": "https://www.cnbc.com/2026/09/29/alaska-airlines-hawaiian-new-cabins.html"
   },
   {
     "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
@@ -308,8 +312,12 @@
     "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html"
   },
   {
-    "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
-    "link": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html"
+    "title": "Shell backs $23 billion LNG Canada expansion in boost to Carney's ‘energy superpower’ push",
+    "link": "https://www.cnbc.com/2026/09/29/shell-canada-lng-carney-oil-gas-energy.html"
+  },
+  {
+    "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
+    "link": "https://www.cnbc.com/2026/09/29/putin-russia-army-ukraine-zelenskyy-north-korea.html"
   },
   {
     "title": "India readies $25 billion for Deep Tech investment as U.S. and China race ahead",
@@ -424,12 +432,24 @@
     "link": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html"
   },
   {
-    "title": "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
-    "link": "https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html"
+    "title": "Fireflies adds dictation to its desktop notetaking apps",
+    "link": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/"
   },
   {
-    "title": "In photos: Key takeaways from day one of the UN General Assembly",
-    "link": "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html"
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/"
+  },
+  {
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
+  },
+  {
+    "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+    "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/"
+  },
+  {
+    "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+    "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/"
   },
   {
     "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -492,24 +512,52 @@
     "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/"
   },
   {
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/"
+    "title": "Chinese Models Are a Big ‘Wrinkle’ for US AI Firms, Gensler Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/chinese-models-are-a-big-wrinkle-for-us-ai-firms-gensler-says"
   },
   {
-    "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
-    "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/"
+    "title": "ExodusPoint Joins Hedge Funds Partnering With Anthropic Over AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/exoduspoint-joins-hedge-funds-partnering-with-anthropic-over-ai"
   },
   {
-    "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
-    "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/"
+    "title": "Anthropic IPO to Be a ‘Watershed Event’ for Tech, Says Ives",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-29/anthropic-ipo-to-be-a-watershed-event-for-tech-ives-video"
   },
   {
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/"
+    "title": "UK Data Center Turns to Gas as Burnham Moves to Fix Grid Delays",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/uk-data-center-turns-to-gas-as-burnham-moves-to-fix-grid-delays"
   },
   {
-    "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/"
+    "title": "Data Centers Create $3 Billion Opportunity for Catering Giants",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/data-centers-create-3-billion-opportunity-for-catering-giants"
+  },
+  {
+    "title": "Microsoft’s Copilot Reboot Pins Focus on Business Customers",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-29/microsoft-s-copilot-reboot-pins-focus-on-business-customers"
+  },
+  {
+    "title": "UK Must Accelerate Data Center Build Out, AI Minister Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/uk-must-accelerate-data-center-build-out-ai-minister-says"
+  },
+  {
+    "title": "Trump to Talk AI Risks and Threats With Tech CEOs",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-29/trump-to-talk-ai-risks-and-threats-with-tech-ceos-video"
+  },
+  {
+    "title": "Meta Introduces the Meta Enterprise Platform to Help Companies With AI Makeovers",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-29/meta-introduces-the-meta-enterprise-platform-to-help-companies-with-ai-makeovers"
+  },
+  {
+    "title": "X Blocks Nearly 500 Accounts in Turkey After Fund Market Crisis",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/x-blocks-nearly-500-accounts-in-turkey-following-court-orders"
+  },
+  {
+    "title": "OpenAI Scraps Debut of AI Model as It Sets New Guardrails",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says"
+  },
+  {
+    "title": "Stocks Battling AI Safety Headwind: Market Analysis",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-29/stocks-battling-ai-safety-headwind-3-minutes-mliv-video"
   },
   {
     "title": "OpenAI Scraps Debut of Latest Astra Model",
@@ -544,60 +592,56 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk"
   },
   {
-    "title": "Telecom Giant Globe Bets on AI for Next Billion-Dollar Business",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business"
+    "title": "Banxico Governor: Rate Path Can Be Charted Independently of Fed",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/banxico-governor-rate-path-can-be-charted-independently-of-fed"
   },
   {
-    "title": "Data Centers, AI Face Skepticism in Australia",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-29/data-centers-ai-face-skepticism-in-australia-video"
+    "title": "Spanish Inflation Unexpectedly Hits 5%, Backing Higher Rates",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/spanish-inflation-unexpectedly-hits-5-backing-higher-ecb-rates"
   },
   {
-    "title": "AI Faces $6 Trillion Test to Justify Data Centers, Bain Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/ai-faces-6-trillion-test-to-justify-data-centers-bain-says"
+    "title": "Canada’s Economy Shows Third Quarter Slowdown After Spring Surge",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/canada-economy-tracking-0-2-growth-in-august"
   },
   {
-    "title": "Nothing Debuts $399 Metal-and-Glass Pro Headphones to Take on Apple, Bose, Sony",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/nothing-debuts-399-metal-and-glass-pro-headphones-to-take-on-apple-bose-sony"
+    "title": "Spain Central Bank Sees Serious Support for de Cos as ECB Chief",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/spain-central-bank-sees-serious-support-for-de-cos-as-ecb-chief"
   },
   {
-    "title": "Nvidia, Anthropic CEOs to Attend Trump-Johnson Lunch on AI Risks",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks"
+    "title": "ECB Hikes Are Easier to Guess at Than Lagarde Succession",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-29/ecb-hikes-are-easier-to-guess-at-than-lagarde-succession"
   },
   {
-    "title": "OpenAI Scraps Debut of Latest Astra Model Over Safety Risks",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says"
+    "title": "China Expands Targeted Lending Support to Bolster Economy",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/china-expands-targeted-lending-to-bolster-economy-cuts-psl-rate"
   },
   {
-    "title": "Stocks & Bonds Sell Off as Oil Drives Yields Higher",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/the-close-9-28-2026-video"
+    "title": "US Canada import ban",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-29/us-canada-import-ban"
   },
   {
-    "title": "El-Hillow: We Should Get Comfortable With Higher Rates",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/el-hillow-we-should-get-comfortable-with-higher-rates-video"
+    "title": "Russia Set to Surge Defense Spending by 27% as War Escalates",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/russia-s-military-spending-set-to-surge-by-27-as-war-escalates"
   },
   {
-    "title": "Premium Sports Content Is Here To Stay: Fmr Hulu and Netflix Executive Simon Gallagher",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/premium-sports-content-is-here-to-stay-simon-gallagher-video"
+    "title": "UK Pays Highest Yield Since 1999 at 10-Year Bond Auction",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/uk-set-to-pay-highest-yield-since-1999-at-10-year-bond-auction"
   },
   {
-    "title": "Rockefeller’s Ruchir Sharma Warns AI Bubble To Burst After 10-Year Yield Hits 5%",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/rockefeller-s-sharma-warns-of-ai-crash-as-10-yr-hits-5-video"
+    "title": "Long-Term Unemployment Hits Level Unprecedented Outside Recessions",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/long-term-unemployment-hits-level-unprecedented-outside-recessions"
   },
   {
-    "title": "Nvidia Debuts System Meant to Stop AI Agents From Going Awry",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry"
-  },
-  {
-    "title": "Libby Leffler on Nvidia Buyback, State of AI Trade",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-28/libby-leffler-on-nvidia-buyback-state-of-ai-trade-video"
-  },
-  {
-    "title": "Why the US-Canada Trade War Is Escalating",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/why-the-us-canada-trade-war-is-escalating"
+    "title": "UK Mortgage Approvals Hit 32-Month Low as Loan Costs Bite",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/uk-mortgage-approvals-fall-to-32-month-low-as-loan-costs-bite"
   },
   {
     "title": "Australia Raises Key Rate to 15-Year High to Cool Inflation",
     "link": "https://www.bloomberg.com/news/articles/2026-09-29/australia-raises-key-rate-to-15-year-high-to-restrain-inflation"
+  },
+  {
+    "title": "Why the US-Canada Trade War Is Escalating",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/why-the-us-canada-trade-war-is-escalating"
   },
   {
     "title": "Indonesia Passes State Budget Seeking 6% Growth in 2027",
@@ -628,48 +672,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-28/japan-veers-from-rice-shortage-to-glut-dealing-blow-to-farmers"
   },
   {
-    "title": "Hassett Signals ‘Outside’ Factors May Hit Deficit, GDP Goals",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/hassett-says-outside-factors-could-upset-growth-deficit-goals"
+    "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/"
   },
   {
-    "title": "Fed’s Cook Says AI Gains Won’t Offset Near-Term Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/fed-s-cook-says-ai-gains-won-t-offset-near-term-inflation"
+    "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/"
   },
   {
-    "title": "Canadian Confidence in Neutral as Oil Fuels Inflation Fears",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/canadian-confidence-in-neutral-as-oil-fuels-inflation-concerns"
-  },
-  {
-    "title": "Zimbabwe Cuts Rates Against Global Tide as Iran Risks Persist",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/zimbabwe-cuts-rates-against-global-tide-as-iran-risks-persist"
-  },
-  {
-    "title": "Fed’s Watchdog Warns of Classified File Breach by Former Staffer",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/fed-s-watchdog-warns-of-classified-file-breach-by-former-staffer"
-  },
-  {
-    "title": "Chile’s Kast Rolls Out Jobs Plan as Weak Economy Saps Approval",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/chile-s-kast-rolls-out-jobs-plan-as-weak-economy-saps-approval"
-  },
-  {
-    "title": "ECB’s Lagarde Says Higher Yields to Slow Growth, Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/ecb-s-lagarde-says-higher-yields-to-slow-growth-and-inflation"
-  },
-  {
-    "title": "Healey Pledges Fiscal Restraint in Bid to Reassure Investors",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/healey-says-hope-for-britons-is-earned-through-fiscal-discipline"
-  },
-  {
-    "title": "Meloni Crafts Budget to Appease Both Italian Voters and Markets",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/meloni-crafts-budget-to-appease-both-italian-voters-and-markets"
-  },
-  {
-    "title": "Colombia Reaches Out to IMF to Help Resolve Fiscal Crisis",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/colombia-seeking-imf-help-amid-fiscal-crisis-espriella-says"
-  },
-  {
-    "title": "Kganyago Sees Significant 2027 Slowdown in South African CPI",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-28/kganyago-sees-significant-slowdown-in-south-african-cpi-in-2027"
+    "title": "Making AI an asset, not an expense",
+    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
   },
   {
     "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -700,16 +712,28 @@
     "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/"
   },
   {
-    "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-    "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/"
+    "title": "Polaroid’s new instant camera has four creative shooting modes you can experiment with",
+    "link": "https://www.theverge.com/tech/1001587/polaroid-mod-instant-camera-creative-shooting-modes"
   },
   {
-    "title": "AI is dominating the conversation at Climate Week",
-    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/"
+    "title": "Firefox just got a redesign with round tabs, new themes, and Compact Mode",
+    "link": "https://www.theverge.com/tech/1001867/mozilla-firefox-157-redesign-compact-mode"
   },
   {
-    "title": "A congressional representative just proposed killing America’s border tower program",
-    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/"
+    "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+    "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty"
+  },
+  {
+    "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
+  },
+  {
+    "title": "Your car’s data privacy problems are worse than you think",
+    "link": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford"
+  },
+  {
+    "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+    "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review"
   },
   {
     "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
@@ -726,29 +750,5 @@
   {
     "title": "Trump finalizes rule to make cars less fuel efficient",
     "link": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards"
-  },
-  {
-    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready"
-  },
-  {
-    "title": "Florida seeks a ban on ChatGPT acting like a person",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids"
-  },
-  {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group"
-  },
-  {
-    "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-    "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels"
-  },
-  {
-    "title": "Volkswagen replaces ID.4 with all-electric Tiguan",
-    "link": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev"
-  },
-  {
-    "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
-    "link": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale"
   }
 ]
