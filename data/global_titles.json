@@ -512,6 +512,14 @@
     "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
   },
   {
+    "title": "CoreWeave, the Original Neocloud, Wants People to Stop Calling It That",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-30/coreweave-the-original-neocloud-wants-people-to-stop-calling-it-that"
+  },
+  {
+    "title": "Amazon Debuts New Fire TV Stick 4K With Sleeker Remote Control",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-30/amazon-debuts-new-fire-tv-stick-4k-with-sleeker-remote-control"
+  },
+  {
     "title": "DoorDash Unveils Text-to-Order AI Agent That Works With Apple's iMessage",
     "link": "https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage"
   },
@@ -582,14 +590,6 @@
   {
     "title": "Chinese Hardware Stocks Cap Worst Quarter as AI Rally Unravels",
     "link": "https://www.bloomberg.com/news/articles/2026-09-30/china-hardware-stocks-set-for-worst-quarter-as-ai-rally-unravels"
-  },
-  {
-    "title": "Oil Drops as Mideast Crude Hits 98% of Pre-War Flows; Man City Guilty Over $1.2B",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-30/horizons-middle-east-africa-9-30-2026-video"
-  },
-  {
-    "title": "Legrand's Coquart Eyes 'Lot of Acquisitions'",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-30/legrand-s-coquart-eyes-lot-of-acquisitions-video"
   },
   {
     "title": "US Goods-Trade Gap Widens Unexpectedly to Largest Since 2025",
@@ -712,26 +712,6 @@
     "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/"
   },
   {
-    "title": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
-    "link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power"
-  },
-  {
-    "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
-    "link": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review"
-  },
-  {
-    "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs"
-  },
-  {
-    "title": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
-    "link": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price"
-  },
-  {
-    "title": "Samsung’s new SmartTag is smaller, longer-lasting, and works with iPhones",
-    "link": "https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features"
-  },
-  {
     "title": "Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th",
     "link": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date"
   },
@@ -750,5 +730,25 @@
   {
     "title": "Suspected ShinyHunters leader arrested in the Netherlands",
     "link": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested"
+  },
+  {
+    "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+  },
+  {
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"
+  },
+  {
+    "title": "Razer’s low-latency wireless gaming keyboard is almost half off",
+    "link": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale"
+  },
+  {
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+  },
+  {
+    "title": "Protesters gather at OpenAI’s DevDay",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers"
   }
 ]
