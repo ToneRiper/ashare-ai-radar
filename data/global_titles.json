@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
   },
   {
+    "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+    "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/"
+  },
+  {
     "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
     "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/"
   },
@@ -188,8 +192,12 @@
     "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/"
   },
   {
-    "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-    "link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/"
+    "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+    "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html"
+  },
+  {
+    "title": "Burger King is betting on local franchisees to fuel its U.S. comeback",
+    "link": "https://www.cnbc.com/2026/10/02/burger-king-refranchising-turnaround.html"
   },
   {
     "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
@@ -304,12 +312,12 @@
     "link": "https://www.cnbc.com/2026/09/25/study-estate-planning-heirs-legal-battles.html"
   },
   {
-    "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-    "link": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html"
+    "title": "Trump wants South Korea in on Alaska LNG. Here’s why Seoul is cautious",
+    "link": "https://www.cnbc.com/2026/10/02/trump-wants-south-korea-in-on-alaska-lng-heres-why-seoul-is-cautious.html"
   },
   {
-    "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
-    "link": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html"
+    "title": "U.S. urges Europe to ‘immediately’ release diesel reserves as Iran war fuels record prices",
+    "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html"
   },
   {
     "title": "South Korean President Lee warns of 'measures' against Ukraine over prisoner row, demands apology",
@@ -424,12 +432,8 @@
     "link": "https://www.cnbc.com/2026/09/25/india-cockroach-party-election-protest-democracy.html"
   },
   {
-    "title": "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
-    "link": "https://www.cnbc.com/2026/09/25/oracle-japan-shares-earnings.html"
-  },
-  {
-    "title": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
-    "link": "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html"
+    "title": "Rivian issues R2 recall for poorly tightened battery packs",
+    "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/"
   },
   {
     "title": "Robotaxi operators will face fines for blocking first responders",
@@ -508,8 +512,44 @@
     "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/"
   },
   {
-    "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
-    "link": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/"
+    "title": "Roblox’s (RBLX) Newest Bear Says Wall Street Is Too Optimistic On Recovery",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/roblox-s-rblx-newest-bear-says-wall-street-is-too-optimistic-on-recovery"
+  },
+  {
+    "title": "Lockheed CEO Maps Pivot to Move at `Skunk Works' Speed",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-ceo-maps-pivot-to-move-at-skunk-works-speed-video"
+  },
+  {
+    "title": "Lockheed’s ‘Big Bet’ Tests CEO Plan to Move at Skunk Works Speed",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/lockheed-s-big-bet-tests-ceo-plan-to-move-at-skunk-works-speed"
+  },
+  {
+    "title": "Microsoft, Amazon Cloud Arms Set to Face Deeper Scrutiny Under EU’s Tech Rules",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/microsoft-amazon-cloud-arms-set-to-face-deeper-scrutiny-under-eu-s-tech-rules"
+  },
+  {
+    "title": "Paramount Backer Cardinale Says CEO David Ellison Is the ‘Future’ of Hollywood",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-02/paramount-backer-cardinale-says-ceo-david-ellison-is-the-future-of-hollywood"
+  },
+  {
+    "title": "Amazon’s Latest Response to AI Data Center Backlash: $1 Billion",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/amazon-s-latest-response-to-ai-data-center-backlash-1-billion"
+  },
+  {
+    "title": "AI Talent Race Between US and China Is the Next Battleground",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-02/ai-talent-race-between-us-and-china-is-the-next-battleground"
+  },
+  {
+    "title": "NYC’s AI Office Boom Is Bust for Young Job Hunters, Report Finds",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/nyc-s-ai-office-boom-is-bust-for-young-job-hunters-report-finds"
+  },
+  {
+    "title": "Nidec Is in Talks With MUFG Bank, SMBC to Renew Credit Lines",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/nidec-is-in-talks-with-mufg-bank-smbc-to-renew-credit-lines"
+  },
+  {
+    "title": "CMA Says Nexfibre’s Alt-Net Deal Could Hurt Competition",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/cma-says-nexfibre-s-2-billion-alt-net-deal-may-hurt-competition"
   },
   {
     "title": "SoftBank Stock Investors See Past Credit Risks to AI Returns",
@@ -552,44 +592,52 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-01/the-close-10-1-2026-video"
   },
   {
-    "title": "EY-Parthenon’s Guerzoni on Latest CEO Outlook Survey",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-01/ey-parthenon-s-guerzoni-on-latest-ceo-outlook-survey-video"
+    "title": "US Firms Add Just 29,000 Jobs, Unemployment Rate Ticks Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/us-firms-add-just-29-000-jobs-unemployment-rate-ticks-up"
   },
   {
-    "title": "Ferguson CEO on the State of the AI Buildout in the U.S.",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-01/ferguson-ceo-on-the-state-of-the-ai-buildout-in-the-u-s-video"
+    "title": "US Jobs Report September 2026: Live News on Employment, Payrolls",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-10-02/us-employment-report-for-september"
   },
   {
-    "title": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/chinese-state-backed-firm-disclosed-nvidia-blackwell-chips-deal"
+    "title": "Bond Traders Expect Jobs Data to Leave Fed-Hike Bets Intact",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/treasuries-rebound-raises-stakes-for-job-data-as-rate-hikes-loom"
   },
   {
-    "title": "Amazon Jet Lacked Wind Data Before Miami Crash, NTSB Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/amazon-plane-lacked-wind-data-prior-to-miami-crash-ntsb-says"
+    "title": "Bessent’s Message on US Wages Bears Risks",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-02/bessent-s-message-on-us-wages-bears-risks"
   },
   {
-    "title": "Rising Yields Are Wreaking Havoc on Stocks Outside the AI Trade",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/rising-yields-are-wreaking-havoc-on-stocks-outside-the-ai-trade"
+    "title": "UK Firms Predict Faster Price Rises After Energy Costs Surge",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/uk-firms-predict-faster-price-increases-after-energy-costs-surge"
   },
   {
-    "title": "Anthropic Said to Plan Pre-IPO Investor Day as Listing Nears",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-is-said-to-plan-pre-ipo-investor-day-as-listing-nears"
+    "title": "Euro-Zone Inflation Tops Estimates to Hit Three-Year High",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/euro-zone-inflation-tops-estimates-to-hit-three-year-high"
   },
   {
-    "title": "OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust"
+    "title": "Meloni’s Budget Dials Down on Defense to Narrow Italy’s Deficit",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/meloni-s-budget-dials-down-on-defense-to-narrow-italy-s-deficit"
   },
   {
-    "title": "US Further Targets Iran-Linked Russian A7 Financial Network",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/us-further-targets-iran-linked-russian-a7-financial-network"
+    "title": "Macron Plans G7 Leaders Call on Oil Prices as Soon as Possible",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/macron-plans-g7-leaders-call-on-oil-prices-as-soon-as-possible"
   },
   {
-    "title": "Google Faces $3.2 Billion Damage Claims on Ad-Tech Monopoly",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/google-to-face-3-2-billion-damage-claims-over-ad-tech-monopoly"
+    "title": "Poland Moves to Quickly Tame Fuel Prices After Nawrocki’s U-Turn",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/poland-moves-to-quickly-tame-fuel-prices-after-nawrocki-s-u-turn"
   },
   {
-    "title": "Tesla Sell Ratings Slide as Street Says ‘Don’t Bet Against Musk’",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/tesla-sell-ratings-slide-as-analysts-eye-musk-s-ai-ambitions"
+    "title": "Global Food Prices Extend Gain to Highest Since End of 2022",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/global-food-prices-extend-gain-to-highest-since-end-of-2022"
+  },
+  {
+    "title": "New Indonesia Finance Chief Steers Clear of Prabowo Turf Wars",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/indonesia-s-new-finance-chief-puts-teamwork-at-heart-of-reset"
+  },
+  {
+    "title": "Takaichi Told During Trump Talks That US Trade Hurt by Weak Yen",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-02/takaichi-told-during-trump-talks-that-us-trade-hurt-by-weak-yen"
   },
   {
     "title": "Fuel Subsidies May Top $1 Trillion As Iran War Drags, UN Says",
@@ -612,64 +660,28 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-01/tokyo-inflation-accelerates-to-levels-well-above-boj-s-target"
   },
   {
-    "title": "Treasuries Rebound Raises Stakes for Job Data as Rate Hikes Loom",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-02/treasuries-rebound-raises-stakes-for-job-data-as-rate-hikes-loom"
-  },
-  {
     "title": "Bank Indonesia Chief Says FX Defense Unchanged as Tactics Shift",
     "link": "https://www.bloomberg.com/news/articles/2026-10-01/bank-indonesia-chief-says-fx-defense-unchanged-as-tactics-shift"
+  },
+  {
+    "title": "IMF Approves El Salvador Funds After Waiver for Bitcoin Breach",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-01/imf-approves-el-salvador-funds-after-waiver-for-bitcoin-breach"
   },
   {
     "title": "Breaking Down Nike's 'Disappointing' Earnings",
     "link": "https://www.bloomberg.com/news/videos/2026-10-01/breaking-down-nike-s-disappointing-earnings-video"
   },
   {
-    "title": "Why ‘Manchesterism’ May Face an Uphill Battle",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/why-manchesterism-may-face-an-uphill-battle"
+    "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
   },
   {
-    "title": "Bank of Canada Won’t Target House Prices With Interest Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/bank-of-canada-won-t-target-house-prices-with-interest-rates"
+    "title": "A new contest pits competitors against each other in a race to biological youth",
+    "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/"
   },
   {
-    "title": "Jefferson Says Fed May Need More Time to Weigh Next Move",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/fed-s-jefferson-says-officials-may-need-more-time-for-next-move"
-  },
-  {
-    "title": "US Manufacturing Expansion Continues Despite Mounting Costs",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/us-manufacturing-expansion-continues-despite-mounting-costs"
-  },
-  {
-    "title": "ECB’s Sleijpen Says Central Banks Can’t Ignore Climate Change",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/ecb-s-sleijpen-says-central-banks-can-t-ignore-climate-change"
-  },
-  {
-    "title": "Peru’s Inflation Accelerates to Fastest Pace in Three Years",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/peru-s-inflation-accelerates-to-fastest-pace-in-three-years"
-  },
-  {
-    "title": "US Initial Jobless Claims Slip to 197,000, Lowest Since July",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/us-initial-jobless-claims-slip-to-197-000-lowest-since-july"
-  },
-  {
-    "title": "Bank of England Must Raise Rates to Maintain Credibility, Mann Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/bank-of-england-must-raise-rates-to-maintain-credibility-mann-says"
-  },
-  {
-    "title": "France Seeks to Win Over Markets and Lawmakers With Deficit Plan",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/france-seeks-to-win-over-markets-and-lawmakers-with-deficit-plan"
-  },
-  {
-    "title": "Fed’s Kashkari Says He Doesn’t Know How High Rates Must Go",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/fed-s-kashkari-says-he-doesn-t-know-how-high-rates-need-to-go"
-  },
-  {
-    "title": "Brazil Steelmakers See New Import Threats as China Share Falls",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/brazil-steelmakers-see-new-import-threats-as-china-share-falls"
-  },
-  {
-    "title": "Russian Budget Plans Three Years of Record War Spending",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-01/russia-plans-three-years-of-record-war-spending-under-new-budget"
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
   },
   {
     "title": "The Download: AI “mind-reading” and creative uses for small batteries",
@@ -700,16 +712,24 @@
     "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/"
   },
   {
-    "title": "Making AI an asset, not an expense",
-    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
+    "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
+    "link": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review"
   },
   {
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+    "title": "AI hallucinations are making entitled customers even worse",
+    "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents"
   },
   {
-    "title": "When can we say AI made a scientific discovery?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
+    "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+    "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry"
+  },
+  {
+    "title": "Amazon writes scary blog warning communities not to block data centers",
+    "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"
+  },
+  {
+    "title": "AI music maker Suno now generates spoken words",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
   },
   {
     "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
@@ -730,25 +750,5 @@
   {
     "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
     "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
-  },
-  {
-    "title": "Sony brings AI graphics upscaling to the regular PS5",
-    "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr"
-  },
-  {
-    "title": "Can VR glasses save VR?",
-    "link": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality"
-  },
-  {
-    "title": "Microsoft’s Office and Teams chief is leaving",
-    "link": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving"
-  },
-  {
-    "title": "Inside Microsoft’s big Copilot rethink",
-    "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad"
-  },
-  {
-    "title": "NYC is now the first city in America that bans sketchy subscriptions",
-    "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule"
   }
 ]
