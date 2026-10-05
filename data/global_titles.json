@@ -1,5 +1,13 @@
 [
   {
+    "title": "Our approach to EU text provenance rules",
+    "link": "https://openai.com/index/eu-text-provenance"
+  },
+  {
+    "title": "Building advertising for the way people use AI",
+    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+  },
+  {
     "title": "A model guide for the GPT-6 family",
     "link": "https://openai.com/index/practical-guide-building-gpt-6"
   },
@@ -76,16 +84,16 @@
     "link": "https://openai.com/index/sam-altman-un-security-council-remarks"
   },
   {
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg"
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
   },
   {
     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
   },
   {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg"
   },
   {
     "title": "Introducing MentalHealthBench",
@@ -112,12 +120,8 @@
     "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
   },
   {
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
-  },
-  {
-    "title": "Priorities and principles for effective third party assessments",
-    "link": "https://openai.com/index/priorities-principles-third-party-assessments"
+    "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+    "link": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/"
   },
   {
     "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
@@ -188,8 +192,16 @@
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/"
   },
   {
-    "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-    "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/"
+    "title": "David Ellison and Ynon Kreiz announce Skydance leadership team",
+    "link": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html"
+  },
+  {
+    "title": "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
+    "link": "https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html"
+  },
+  {
+    "title": "Why airfares could rise even more, but airline profits won't",
+    "link": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html"
   },
   {
     "title": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
@@ -300,16 +312,12 @@
     "link": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html"
   },
   {
-    "title": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
-    "link": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html"
+    "title": "Saudi Aramco chief says replenishing global oil stockpiles could take two years",
+    "link": "https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html"
   },
   {
-    "title": "Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro",
-    "link": "https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html"
-  },
-  {
-    "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
-    "link": "https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html"
+    "title": "Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks",
+    "link": "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html"
   },
   {
     "title": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
@@ -424,12 +432,36 @@
     "link": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html"
   },
   {
-    "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
-    "link": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html"
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
   },
   {
-    "title": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
-    "link": "https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html"
+    "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+    "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/"
+  },
+  {
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "title": "Hackers steal 8 million citizens’ records from Danish government database",
+    "link": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/"
+  },
+  {
+    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/"
+  },
+  {
+    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+  },
+  {
+    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+    "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/"
   },
   {
     "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
@@ -480,40 +512,40 @@
     "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
   },
   {
-    "title": "Sanders introduces bill to ban the federal government from using Flock",
-    "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/"
+    "title": "Skydance's Big Bet: Streaming, Debt, and AI",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-05/skydance-s-big-bet-streaming-debt-and-ai-video"
   },
   {
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
+    "title": "Lockheed’s Fabled Skunk Works Integrates AI in Push to Modernize Defense",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-05/lockheed-s-fabled-skunk-works-integrates-ai-in-push-to-modernize-defense"
   },
   {
-    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
-  },
-  {
-    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
-  },
-  {
-    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
-  },
-  {
-    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
-  },
-  {
-    "title": "Paramount and Warner Bros. Discovery to become Skydance",
-    "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/"
-  },
-  {
-    "title": "BT Buys TalkTalk to Save UK Broadband Provider From Collapse",
+    "title": "BT TalkTalk Deal to Test UK Regulator’s Competition Rhetoric",
     "link": "https://www.bloomberg.com/news/articles/2026-10-05/bt-buys-talktalk-to-save-uk-broadband-provider-from-collapse"
+  },
+  {
+    "title": "AI Billionaires Drive $845 Billion Surge in Wealth This Year",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year"
+  },
+  {
+    "title": "Why Treasuries Are ‘Risky’ Again",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-05/why-treasuries-are-risky-again-video"
+  },
+  {
+    "title": "Lane Urges Measured ECB Response to Second Wave of Energy Shock",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/lane-urges-measured-ecb-response-to-second-wave-of-energy-shock"
+  },
+  {
+    "title": "AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council"
+  },
+  {
+    "title": "Nvidia Partner Hon Hai Beats Sales Estimates Due to AI Frenzy",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-partner-hon-hai-beats-sales-estimates-due-to-ai-frenzy"
+  },
+  {
+    "title": "Nvidia’s Valuations Show AI Rally Isn’t a Bubble, DBS Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-s-valuations-show-ai-rally-isn-t-a-bubble-dbs-says"
   },
   {
     "title": "Denmark Data Breach Exposes 8.8 Million People’s Personal Data",
@@ -560,44 +592,60 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-04/david-ellison-s-plan-for-warner-bros-is-no-longer-a-secret"
   },
   {
-    "title": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says"
+    "title": "US Services Expansion Slows, Price Gauge at Four-Year High",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/us-service-sector-growth-slows-price-gauge-hits-four-year-high"
   },
   {
-    "title": "AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council"
+    "title": "A French Crisis Would Be a Nightmare for ECB",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-05/a-french-crisis-would-be-a-nightmare-for-ecb"
   },
   {
-    "title": "AI Stocks Drive an Increasingly Divided Market",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-04/ai-stocks-drive-an-increasingly-divided-market-video"
+    "title": "ECB Should Stop Bond Roll-Off Amid Turmoil, Bini Writes in FT",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/ecb-should-stop-bond-roll-off-amid-turmoil-bini-writes-in-ft"
   },
   {
-    "title": "Apple’s John Ternus Leads Design; Touch-Screen OLED MacBook Pro Gets Lighter",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter"
+    "title": "Greer and G20 trade ministers in Milwaukee",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-05/greer-and-g20-trade-ministers-in-milwaukee"
   },
   {
-    "title": "Trump Taps Clayton for AI Task Force in Response to Safety Fears",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports"
+    "title": "Japan, Australia Finance Chiefs Set Up Dialogue to Deepen Ties",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/japan-australia-finance-chiefs-set-up-dialogue-to-deepen-ties"
   },
   {
-    "title": "48 Hours in the Singapore With No Smartphone",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-04/48-hours-in-the-singapore-with-no-smartphone-video"
+    "title": "Nigeria Leads Africa Investability Gains on President’s Reforms",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/nigeria-leads-africa-investability-gains-on-president-s-reforms"
   },
   {
-    "title": "Trump Names Clayton, Ferguson to Lead AI Task Force",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-04/trump-names-clayton-ferguson-to-lead-ai-task-force"
-  },
-  {
-    "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-04/softbank-s-masayoshi-son-has-rare-cautionary-note-on-ai-safety"
-  },
-  {
-    "title": "Vietnam Warns of ‘Challenges’ to Hitting Lofty 10% Growth Goal",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-05/vietnam-warns-of-challenges-to-hitting-lofty-10-growth-goal"
+    "title": "Slovaks Sets Election-Year Budget With Widest Deficit Since 2024",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/slovaks-sets-election-year-budget-with-widest-deficit-since-2024"
   },
   {
     "title": "UK Expected to Follow EU With China EV Tariffs, Times Says",
     "link": "https://www.bloomberg.com/news/articles/2026-10-04/uk-expected-to-follow-eu-with-tariffs-on-chinese-evs-times-says"
+  },
+  {
+    "title": "Super Rich Worth $160 Billion Exit UK in Blow to London",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-05/super-rich-worth-160-billion-exit-uk-in-blow-to-london-video"
+  },
+  {
+    "title": "UK Job Slump Longer Than During Financial Crisis, PMI Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/uk-s-job-slump-now-longer-than-during-financial-crisis-pmi-says"
+  },
+  {
+    "title": "ECB Must Be Flexible Due to Uncertain Inflation Path, Nagel Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/ecb-must-be-flexible-due-to-uncertain-inflation-path-nagel-says"
+  },
+  {
+    "title": "Nagel Sees Good Case for Central-Bank Diversification Into Gold",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/nagel-sees-good-case-for-central-bank-diversification-into-gold"
+  },
+  {
+    "title": "Surprise Slowdown in Turkish Prices Makes Case for Rate Cut",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/turkey-annual-inflation-slows-more-than-expected-in-september"
+  },
+  {
+    "title": "Vietnam Warns of ‘Challenges’ to Hitting Lofty 10% Growth Goal",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-05/vietnam-warns-of-challenges-to-hitting-lofty-10-growth-goal"
   },
   {
     "title": "BOJ’s Deputy Chief Flags AI’s Possible Impact on Neutral Rate",
@@ -612,8 +660,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-04/trump-aide-hassett-says-powell-should-move-on-from-fed-board"
   },
   {
-    "title": "Fed, ECB Minutes to Show Inflation Fears as Hike Bets Fade",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-03/fed-ecb-minutes-to-show-inflation-fears-as-hike-bets-fade"
+    "title": "Bringing predictive analytics to the agentic AI era",
+    "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
+  },
+  {
+    "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+    "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/"
+  },
+  {
+    "title": "People really hate AI, so why can’t they get enough?",
+    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
   },
   {
     "title": "EmTech Future 2026: When AI Meets Everything",
@@ -644,55 +700,43 @@
     "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
   },
   {
-    "title": "How smaller, distributed batteries could help the grid",
-    "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/"
+    "title": "Apple’s new M6 Mac Mini is over $100 off",
+    "link": "https://www.theverge.com/gadgets/1004772/apple-mac-mini-m6-deal-october-prime-day-deal-sale"
   },
   {
-    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
+    "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
+    "link": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros"
   },
   {
-    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
-  },
-  {
-    "title": "The new Fitbit Edge leaks",
-    "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
-  },
-  {
-    "title": "Prick’s theatrical industrial punk is perfect for spooky season",
-    "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review"
+    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+    "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption"
   },
   {
     "title": "The best early October Prime Day deals happening now",
     "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october"
   },
   {
-    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true"
+    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool"
   },
   {
-    "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+    "title": "OpenAI is sticking more ads in ChatGPT",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
   },
   {
-    "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
-    "link": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone"
+    "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
+    "link": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo"
   },
   {
-    "title": "The AirPods Pro 3 are a fantastic deal at $179",
-    "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale"
+    "title": "Google admits not every Android app runs great on Intel Googlebooks",
+    "link": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance"
   },
   {
-    "title": "The MacBook Air M5 is $200 off for the first time in months",
-    "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale"
+    "title": "Our minds aren’t equipped to handle AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought"
   },
   {
-    "title": "The iPad Mini is slightly cheaper again during Prime Day",
-    "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale"
-  },
-  {
-    "title": "The forgotten Chromebook that started it all",
-    "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all"
+    "title": "The new Fitbit Edge leaks",
+    "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
   }
 ]
