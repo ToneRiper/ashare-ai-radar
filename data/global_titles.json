@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/"
   },
   {
+    "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
+    "link": "https://www.cnbc.com/2026/10/07/used-cars-manheim-index.html"
+  },
+  {
     "title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
     "link": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html"
   },
@@ -308,11 +312,7 @@
     "link": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html"
   },
   {
-    "title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
-    "link": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html"
-  },
-  {
-    "title": "Jaguar unveils $130,500 electric vehicle two years after controversial rebrand",
+    "title": "Jaguar unveils $130,000 electric vehicle two years after controversial rebrand",
     "link": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html"
   },
   {
@@ -432,6 +432,10 @@
     "link": "https://www.cnbc.com/2026/10/01/dubai-israel-flight-pilot-crash-indian.html"
   },
   {
+    "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+    "link": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/"
+  },
+  {
     "title": "Spotify expands audiobooks to over 180 markets",
     "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
   },
@@ -508,8 +512,56 @@
     "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
   },
   {
-    "title": "Pinterest’s AI now turns beauty Pins into action plans",
-    "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/"
+    "title": "Apollo’s Wassenaar Sees Underinvestment Risk in AI Buildout",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-07/apollo-s-wassenaar-sees-underinvestment-risk-in-ai-build-video"
+  },
+  {
+    "title": "McKinsey's Kutcher Says AI Creates Jobs and Opportunity",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-07/mckinsey-s-kutcher-says-ai-creates-jobs-and-opportunity-video"
+  },
+  {
+    "title": "Bitcoin (BTC) Falls as $550 Million in Risky Crypto Bets Wiped Out",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/bitcoin-btc-falls-as-550-million-in-risky-crypto-bets-wiped-out"
+  },
+  {
+    "title": "Apollo Trades $35 Billion Private Credit in Push to Open Market",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/apollo-trades-35-billion-private-credit-in-push-to-open-market"
+  },
+  {
+    "title": "SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-06/spacex-seeking-to-raise-40-billion-to-buy-nvidia-chips-ft-says"
+  },
+  {
+    "title": "SpaceX Seeks To Join AI Borrowing Bonanza",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-07/spacex-seeks-to-join-ai-borrowing-bonanza-video"
+  },
+  {
+    "title": "CoreWeave Tees Up First India Data Centers With AdaniConneX Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/coreweave-tees-up-first-india-data-centers-with-adaniconnex-deal"
+  },
+  {
+    "title": "Study: Claude, ChatGPT, AI Bots Offer Different Shopping Prices Based on Wealth",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth"
+  },
+  {
+    "title": "AI Bots Swarm the Fed’s FRED Data Site as Jamie Dimon Warns of Security Risks",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-07/ai-bots-swarm-the-fed-s-fred-data-site-as-jamie-dimon-warns-of-security-risks"
+  },
+  {
+    "title": "ChatGPT for Teens Is Not Safe for Kids, Common Sense Media Report Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/chatgpt-for-teens-is-not-safe-for-kids-common-sense-media-report-says"
+  },
+  {
+    "title": "Elon Musk Rules Out Potential TSMC Role in Terafab Operations",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/elon-musk-rules-out-potential-tsmc-role-in-terafab-operations"
+  },
+  {
+    "title": "South Korea’s Nuri Rocket Lifts Off With Hanwha Aerospace Help",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/south-korea-s-nuri-rocket-lifts-off-with-hanwha-aerospace-help"
+  },
+  {
+    "title": "JPMorgan's Guven Toktamis on Private Equity DPI & Outlook",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-07/jpm-s-guven-toktamis-on-private-equity-dpi-outlook-video"
   },
   {
     "title": "ServiceNow President and COO Amit Zavery on AI Demand",
@@ -540,136 +592,88 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-07/franklin-templeton-s-perkins-ai-crypto-are-friends-video"
   },
   {
-    "title": "Bitgo: Digital Assets Entering Mainstream Finance",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/bitgo-digital-assets-entering-mainstream-finance-video"
+    "title": "Ghana Inflation Quickens, Buoying Case for Holding Rates Steady",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/ghana-s-inflation-rate-edges-higher-again-in-september"
   },
   {
-    "title": "Intel to Keep Working on Elon Musk’s Terafab Chipmaking Venture",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/intel-to-keep-working-on-elon-musk-s-terafab-chipmaking-venture"
+    "title": "Indian Households Expect Inflation to Spike, RBI Surveys Show",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/indian-households-expect-inflation-to-spike-rbi-surveys-show"
   },
   {
-    "title": "Temasek CIO Says AI, Inflation Pose Biggest Market Risks in 2027",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/temasek-cio-says-ai-inflation-pose-biggest-market-risks-in-2027"
+    "title": "Bessent Pressed by Warren on ‘Chaotic’ US Treasuries Buybacks",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/bessent-pressed-by-warren-on-chaotic-us-treasuries-buybacks"
   },
   {
-    "title": "Ray Dalio Warns AI Bubble Is Approaching Burst Point",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/ray-dalio-warns-ai-bubble-is-approaching-burst-point"
+    "title": "AI Drives Global Goods Trade Facing Trump Tariffs, War Headwinds",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/ai-drives-global-goods-trade-facing-trump-tariffs-war-headwinds"
   },
   {
-    "title": "Globe Bets on AI for Next Billion-Dollar Business",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-29/telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business"
+    "title": "Iraq Devalues Currency as Hormuz Disruption Hits Oil Exports",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/iraq-devalues-currency-as-hormuz-closure-hits-oil-exports"
   },
   {
-    "title": "AMD’s Su to Meet Samsung’s Chip Head as Memory Crunch Persists",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/amd-s-su-to-meet-samsung-s-chip-head-as-memory-crunch-persists"
+    "title": "China Warns EU It Has Tools Ready If Trade Tensions Escalate",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/china-warns-eu-it-has-tools-ready-if-trade-tensions-escalate"
   },
   {
-    "title": "‘King of Africa’ Smartphone Maker Seeks $428 Million in HK Debut",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/-king-of-africa-smartphone-maker-seeks-428-million-in-hk-debut"
+    "title": "Hungary Sees GDP Growth Upswing, Bond Rally on Euro Path",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/hungary-sees-economic-growth-upswing-bond-rally-on-euro-path"
   },
   {
-    "title": "SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/spacex-seeking-to-raise-40-billion-to-buy-nvidia-chips-ft-says"
+    "title": "France Turmoil Threatens to Drag ECB Into Bond Market Showdown",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/france-turmoil-threatens-to-drag-ecb-into-bond-market-showdown-muy1qgr1"
   },
   {
-    "title": "Robinhood's Kerbrat on Business Strategy, Crypto",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/robinhood-s-kerbrat-on-business-strategy-crypto-video"
+    "title": "In India, Global Forces Are Narrowing Room to Set Rate Policy Independently",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-07/in-india-global-forces-are-narrowing-room-to-set-rate-policy-independently"
   },
   {
-    "title": "Hines Global CIO on Real Estate, Rising Rates",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/hines-global-cio-on-real-estate-rising-rates-video"
+    "title": "Farmers and diesel prices",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-07/farmers-and-diesel-prices"
   },
   {
-    "title": "JPMorgan Tops Global AI Banking Index With Jobs Seen to Grow",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/jpmorgan-tops-global-ai-banking-index-for-fifth-straight-year"
+    "title": "Putin Is Spending a Record $200 Billion on the War This Year",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/putin-ramped-up-2026-war-spending-to-record-after-talks-stalled"
   },
   {
-    "title": "Apple to Launch Doorbell, Lock and Thermostat Developed With LG",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/apple-to-launch-doorbell-lock-and-thermostat-video"
+    "title": "ECB’s Dolenc Says Rate Give Flexibility for Next Decisions",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/ecb-s-dolenc-says-rate-give-flexibility-for-next-decisions"
   },
   {
-    "title": "Big Take: The Unexpected Billionaires of the AI Boom",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-06/big-take-the-unexpected-billionaires-of-the-ai-boom"
+    "title": "Peru Seen Lifting Interest Rate for First Time Since 2023: Decision Guide",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/peru-seen-lifting-rate-for-first-time-since-2023-decision-guide"
   },
   {
-    "title": "ECB’s Moulin Says Conditions for France Intervention Aren’t Met",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/ecb-s-moulin-says-conditions-for-france-intervention-aren-t-met"
+    "title": "Fed’s Warsh Earns IMF Praise for Focusing on Price Stability",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/fed-s-warsh-earns-imf-praise-for-focusing-on-price-stability"
   },
   {
-    "title": "RBI Signals Further Interest-Rate Hikes as Inflation Intensifies",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/india-central-bank-lifts-rates-for-first-time-in-near-four-years"
+    "title": "Vietnam Central Bank Warns of Rising Inflation, Rates Pressure",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/vietnam-central-bank-warns-of-rising-inflation-rates-pressure"
   },
   {
-    "title": "Takaichi Says Japan May Review Spending if Yields Move Sharply",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/takaichi-says-japan-may-review-spending-if-yields-move-sharply"
-  },
-  {
-    "title": "Norway Seeks to Keep Wealth Fund Spending Steady in 2027 Budget",
+    "title": "Norway Targets Biggest Income-Tax Break in Two Decades",
     "link": "https://www.bloomberg.com/news/articles/2026-10-07/norway-seeks-to-keep-wealth-fund-spending-steady-in-2027-budget"
   },
   {
-    "title": "French School Protests Draw More Than 250,000",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-07/french-school-protests-draw-more-than-250-000-video"
+    "title": "Thailand Puts Bangkok on 24-Hour Flood Watch for IMF Meetings",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/thailand-puts-bangkok-on-24-hour-flood-watch-for-imf-meetings"
   },
   {
-    "title": "Sweden’s Steady Inflation Rate Keeps Riksbank Rate Hike in Play",
+    "title": "Iceland Keeps Key Rate at 8% as Economy Shows Signs of Cooling",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/iceland-keeps-key-rate-at-8-as-economy-shows-signs-of-cooling"
+  },
+  {
+    "title": "RBI Signals Further Rate Hikes as Price Pressures Intensify",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-07/india-central-bank-lifts-rates-for-first-time-in-near-four-years"
+  },
+  {
+    "title": "Sweden’s Steady Inflation Keeps Door Open for Riksbank Hike",
     "link": "https://www.bloomberg.com/news/articles/2026-10-07/sweden-s-steady-inflation-rate-keeps-riksbank-rate-hike-in-play"
   },
   {
-    "title": "German Production Jumps Most in 17 Months on Construction Boom",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/german-production-jumps-most-in-17-months-on-construction-boom"
-  },
-  {
-    "title": "RBI Monetary Policy Live: India Rate Decision Amid Inflation Risks, Weak Rupee",
-    "link": "https://www.bloomberg.com/news/live-blog/2026-10-07/reserve-bank-of-india-rate-decision"
-  },
-  {
-    "title": "Poland to Hold Rates as Fuel-Price Cap Seen Cooling Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/poland-to-hold-rates-as-fuel-price-cap-seen-cooling-inflation"
-  },
-  {
-    "title": "Australians Are Less Vulnerable to Rate Hikes, Deutsche Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-07/australians-are-less-vulnerable-to-rba-rate-hikes-deustche-says"
-  },
-  {
-    "title": "Japan’s Real Wages Rise Again, Aided by Takaichi’s Relief",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/japan-real-wages-rise-for-eighth-month-aided-by-takaichi-relief"
-  },
-  {
-    "title": "South Africa’s Reserve Bank Surveys Firms to Guide Rate Policy",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/south-africa-s-reserve-bank-surveys-firms-to-guide-rate-policy"
-  },
-  {
-    "title": "Ireland Cuts Energy Taxes in Budget Bid to Appease Voters",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/ireland-reduces-energy-taxes-in-budget-aimed-at-appeasing-voters"
-  },
-  {
-    "title": "Bolsonaro Surge in Brazil Opens Door to Commodities Trade Shift",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/bolsonaro-surge-in-brazil-opens-door-to-commodities-trade-shift"
-  },
-  {
-    "title": "US Lawmaker Seeks Review of Hong Kong’s Access to Fed Facility",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/us-lawmaker-seeks-review-of-hong-kong-s-access-to-fed-facility"
-  },
-  {
-    "title": "Bessent’s Debt-Cutting Plan Draws Skepticism From Market Strategists",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/bessent-s-bend-the-debt-curve-hope-seen-as-more-market-jawboning"
-  },
-  {
-    "title": "Venezuelans Leave Chile, Easing Pressure on Depressed Job Market",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/venezuelans-leave-chile-easing-pressure-of-depressed-job-market"
-  },
-  {
-    "title": "Canadians Expect Higher Inflation as Bank of Canada Weighs Hikes",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/canadians-expect-higher-inflation-as-bank-of-canada-weighs-hikes"
-  },
-  {
-    "title": "Yellen Says Trump ‘Appalling’ on US Allies, Backs Retaliation",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/yellen-says-trump-appalling-on-us-allies-backs-retaliation"
-  },
-  {
-    "title": "Central Bank ‘Hubris’ Era Gets Slammed by Ex-BIS Official Borio",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-06/central-bank-hubris-era-gets-slammed-by-ex-bis-official-borio"
+    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+    "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/"
   },
   {
     "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
@@ -708,47 +712,43 @@
     "link": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/"
   },
   {
-    "title": "WaveSave and its portable rubber dam",
-    "link": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/"
+    "title": "Amazon uses its tracking data to guess whether shoppers have a flat butt and no friends",
+    "link": "https://www.theverge.com/tech/1006712/amazon-about-you-shopping-data"
   },
   {
-    "title": "OpenAI drops another batch of mathematical breakthroughs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+    "title": "Windows and Surface event: how to watch and what to expect",
+    "link": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch"
   },
   {
-    "title": "Xbox has secured GTA 6 streaming rights",
-    "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights"
+    "title": "The Social Reckoning is a tepid thriller that reminds us of how we got here",
+    "link": "https://www.theverge.com/entertainment/1005997/the-social-reconing-review-facebook-zuckerberg-frances-haugen"
   },
   {
-    "title": "The best robot vacuum and mop deals during October Prime Day",
-    "link": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale"
+    "title": "Google&#8217;s Pixel Buds update will put them to sleep along with you",
+    "link": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute"
   },
   {
-    "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-    "link": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc"
+    "title": "AI could upend food delivery",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites"
   },
   {
-    "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
-    "link": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy"
+    "title": "At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses",
+    "link": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder"
   },
   {
-    "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
-    "link": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup"
+    "title": "Google now lets you make games with AI",
+    "link": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai"
   },
   {
-    "title": "Google’s power-hungry data centers crave nuclear energy",
-    "link": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation"
+    "title": "The best October Prime Day deals from Apple, Sony, Google, and more",
+    "link": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two"
   },
   {
-    "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
-    "link": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale"
+    "title": "Samsung Wallet now unlocks some GM cars",
+    "link": "https://www.theverge.com/transportation/1006585/samsung-wallet-now-unlocks-some-gm-cars"
   },
   {
-    "title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
-    "link": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale"
-  },
-  {
-    "title": "Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED",
-    "link": "https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications"
+    "title": "Jaguar’s Type 01 EV looks just like its divisive concept car",
+    "link": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal"
   }
 ]
