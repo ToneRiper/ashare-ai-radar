@@ -1,5 +1,9 @@
 [
   {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos"
+  },
+  {
     "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
     "link": "https://openai.com/index/oracle"
   },
@@ -80,12 +84,12 @@
     "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
   },
   {
-    "title": "DevDay 2026 Recap",
-    "link": "https://openai.com/index/devday-2026-recap"
-  },
-  {
     "title": "Introducing GPT-6.1 Sol",
     "link": "https://openai.com/index/introducing-gpt-6-1-sol"
+  },
+  {
+    "title": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap"
   },
   {
     "title": "Introducing dots",
@@ -114,10 +118,6 @@
   {
     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "link": "https://openai.com/index/proaction"
-  },
-  {
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "link": "https://openai.com/index/wayfair"
   },
   {
     "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -190,6 +190,14 @@
   {
     "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
     "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/"
+  },
+  {
+    "title": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
+    "link": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html"
+  },
+  {
+    "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html"
   },
   {
     "title": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
@@ -304,12 +312,8 @@
     "link": "https://www.cnbc.com/2026/10/02/american-airlines-tickets-cash-miles.html"
   },
   {
-    "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
-    "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html"
-  },
-  {
-    "title": "Boeing engineers and technical workers approve new contract, avoiding strike",
-    "link": "https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html"
+    "title": "India calls JD Vance's comments about immigrants 'deeply offensive'",
+    "link": "https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html"
   },
   {
     "title": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
@@ -428,8 +432,12 @@
     "link": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html"
   },
   {
-    "title": "Trump wants South Korea in on Alaska LNG. Here’s why Seoul is cautious",
-    "link": "https://www.cnbc.com/2026/10/02/trump-wants-south-korea-in-on-alaska-lng-heres-why-seoul-is-cautious.html"
+    "title": "Surveillance company Flock cuts staff as privacy backlash grows",
+    "link": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/"
+  },
+  {
+    "title": "Xona’s commercial GPS alternative is about to go live",
+    "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/"
   },
   {
     "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
@@ -504,92 +512,116 @@
     "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
   },
   {
-    "title": "Spotify is getting more serious about selling enterprise software",
-    "link": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/"
+    "title": "OpenAI Targets $70 Billion in Annualized Revenue by Year-End",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/openai-targets-70b-in-annualized-revenue-by-year-end-video"
   },
   {
-    "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
-    "link": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/"
+    "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value"
   },
   {
-    "title": "OpenAI Expects $70 Bln Annualized Revenue by End of 2026",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/openai-expects-70-bln-annualized-revenue-by-end-of-2026-video"
+    "title": "Koch Nets Nearly $1 Billion From Infor Payouts in Two Years",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/koch-nets-nearly-1-billion-in-payouts-from-infor-in-two-years"
   },
   {
-    "title": "Asia Data Center Boom Is Vulnerable to US Policies, Jardine Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/asia-data-center-boom-is-vulnerable-to-us-policies-jardine-says"
-  },
-  {
-    "title": "SoftBank Seeks $100 Billion From Gulf States for AI, FT Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/softbank-seeks-100-billion-from-gulf-investors-for-ai-ft-says"
-  },
-  {
-    "title": "Franklin Templeton Sees Short-Term Debt as Sweet Spot for AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/franklin-templeton-sees-short-term-debt-as-sweet-spot-for-ai"
-  },
-  {
-    "title": "Airtel Money CEO Says London IPO a 'Big Milestone'",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/airtel-money-ceo-says-london-ipo-a-big-milestone-video"
-  },
-  {
-    "title": "A $240 Billion Asset Manager Plans to Back Johannesburg Revival",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/a-240-billion-asset-manager-plans-to-back-johannesburg-revival"
-  },
-  {
-    "title": "Franklin Templeton: AI Investing A Durable Opportunity",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/franklin-templeton-ai-investing-a-durable-opportunity-video"
-  },
-  {
-    "title": "Uzbek Fintech Uzum Eyes Eurobond After Becoming Top Local Issuer",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/uzbek-fintech-uzum-eyes-eurobond-after-becoming-top-local-issuer"
-  },
-  {
-    "title": "China’s Tech Hardware Selloff Extends as Valuation Concerns Rise",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/china-s-tech-hardware-selloff-extends-as-valuation-concerns-rise"
-  },
-  {
-    "title": "Asia’s Largest IT Firm Shrugs Off Latest US Immigration Curbs",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/asia-s-largest-it-firm-shrugs-off-latest-us-immigration-curbs"
-  },
-  {
-    "title": "Netflix, Streaming Rivals Dominate $6 Billion Asia Sports Arena",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/netflix-streaming-rivals-dominate-6-billion-asia-sports-arena"
-  },
-  {
-    "title": "Nvidia-Backed Firmus IPO Collapses as AI Valuation Concerns Grow",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-firmus-is-set-to-postpone-ipo-weigh-private-round"
-  },
-  {
-    "title": "OpenAI Asia-Pacific Policy Head to Leave After Six Months in Job",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/openai-asia-pacific-policy-head-to-leave-after-six-months-in-job"
+    "title": "Burnham Says UK Will Curb Non-Compete Clauses After Tech, AI Startup Outcry",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry"
   },
   {
     "title": "Nvidia-Backed Lumentum Sold Out of AI Server Parts Till 2029",
     "link": "https://www.bloomberg.com/news/articles/2026-10-09/nvidia-backed-lumentum-sees-opto-parts-capacity-sold-out-to-2029"
   },
   {
-    "title": "Principal's Shah on AI Capex Cycle, Markets",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/principal-s-shah-on-ai-capex-cycle-markets-video"
+    "title": "Facebook Whistleblowers Don’t All Get the Hollywood Treatment",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-09/facebook-whistleblowers-don-t-all-get-the-hollywood-treatment"
+  },
+  {
+    "title": "We Want to 'Dominate' US: Revolut's Storonsky",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/revolut-ceo-nik-storonsky-on-us-strategy-video"
+  },
+  {
+    "title": "Medtech Faces One More Weak Quarter Before a 2027 Rebound",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/medtech-faces-one-more-weak-quarter-before-a-2027-rebound"
+  },
+  {
+    "title": "Bending Spoons CEO Sees Opportunity in ‘SaaSpocalypse’",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/bending-spoons-ceo-sees-opportunity-in-saaspocalypse-video"
+  },
+  {
+    "title": "Revolut CEO Aims To Rival JPMorgan, American Express",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/revolut-ceo-aims-to-rival-jpmorgan-american-express-video"
+  },
+  {
+    "title": "China Is Trouncing the US in Consumer Adoption of Generative AI",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-09/china-is-trouncing-the-us-in-consumer-adoption-of-generative-ai"
+  },
+  {
+    "title": "Virgin Media Bonds Slide Deeper Into Distress on Snagged Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/virgin-media-bonds-slide-deeper-into-distress-on-snagged-deal"
+  },
+  {
+    "title": "'Last Night I Had Nightmares' Says Airtel Money CEO Before IPO",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/-i-had-nightmares-says-airtel-money-ceo-before-ipo-video"
   },
   {
     "title": "OpenAI Expects $70 Billion in Annualized Revenue by End of 2026",
     "link": "https://www.bloomberg.com/news/articles/2026-10-09/openai-expects-70-billion-in-annualized-revenue-by-end-of-2026"
   },
   {
-    "title": "Will OpenAI Revenue Reset Stop AI Demand?",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/will-openai-revenue-reset-stop-ai-demand-video"
+    "title": "AI in Banking: Risk and Reward | Bloomberg Tech: Europe 10/9/2026",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/ai-in-banking-risk-and-reward-bloomberg-tech-europe-video"
   },
   {
-    "title": "Ex-Flipkart Execs Press Walmart to Buy Out Stock Options",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/ex-flipkart-execs-press-walmart-to-buy-out-their-stock-options"
+    "title": "Goldman Says Investors to Shift Focus to AI Monetization",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/goldman-says-investors-to-shift-focus-to-ai-monetization-video"
   },
   {
-    "title": "Meta Bans TikTok Parent ByteDance From Advertising on Its Apps in 7 Countries",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/meta-bans-tiktok-parent-bytedance-from-advertising-on-its-apps-in-7-countries"
+    "title": "Bending Spoons CEO Sees Buying Opportunities in SaaSpocalypse",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/bending-spoons-ceo-sees-buying-opportunities-in-saaspocalypse"
   },
   {
-    "title": "Nvidia-Backed Firmus IPO Being Pulled Sends AI Funding Warning",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-ipo-s-cratering-demand-sends-warning-on-ai-funding"
+    "title": "Why JPMorgan Is the Most AI-Advanced Bank",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/why-jpmorgan-is-the-most-ai-advanced-bank-video"
+  },
+  {
+    "title": "Firmus Explores $3 Billion Private Round After IPO Flop",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/firmus-is-said-to-explore-raising-3-billion-after-shelving-ipo"
+  },
+  {
+    "title": "How AI Is Upending the World of Mathematics",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-09/how-ai-is-upending-the-world-of-mathematics-video"
+  },
+  {
+    "title": "Bolsonaro’s Potential Finance Chief Wants Fast Fiscal Policy Fix",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/bolsonaro-s-potential-finance-chief-wants-fast-fiscal-policy-fix"
+  },
+  {
+    "title": "Zambia, IMF Reach Staff-Level Agreement for $1.5 Billion Program",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/zambia-imf-reach-staff-level-agreement-for-1-5-billion-program"
+  },
+  {
+    "title": "Germany Wants to Keep Schnabel’s Markets Portfolio at ECB",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/germany-wants-to-keep-schnabel-s-markets-portfolio-at-the-ecb"
+  },
+  {
+    "title": "Brazil Inflation Tops Target Ceiling Before Election Runoff",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/brazil-inflation-tops-target-ceiling-before-presidential-runoff"
+  },
+  {
+    "title": "ECB Strives for Wide Use of Digital Euro From First Issuance",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/ecb-strives-for-wide-use-of-digital-euro-from-first-issuance"
+  },
+  {
+    "title": "AI Lagged Impact Helps Asia First With US Last",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-09/ai-lagged-impact-helps-asia-first-with-us-last"
+  },
+  {
+    "title": "Bank of Spain Raises Inflation Forecasts on Higher Energy Prices",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/bank-of-spain-raises-inflation-forecasts-on-higher-energy-prices"
+  },
+  {
+    "title": "Petronas Boosts Malaysia Dividends Further as Oil Prices Surge",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-09/petronas-boosts-malaysia-dividends-further-as-oil-prices-surge"
   },
   {
     "title": "India Scraps Key Tax Relief on Gold Imports, Raising Costs",
@@ -640,36 +672,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-08/polish-central-bank-chief-calls-probe-into-his-conduct-baseless"
   },
   {
-    "title": "Poland’s Glapinski Ready to Raise Rates If Inflation Risks Mount",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/poland-s-glapinski-ready-to-raise-rates-if-inflation-risks-mount"
+    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/"
   },
   {
-    "title": "Mexico Inflation Ticked Back Up as Banxico Weighs Options",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/mexico-inflation-ticks-up-in-september-as-banxico-weighs-options"
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
   },
   {
-    "title": "BOE’s Bailey Fears Governments Are Running Out of Firepower",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/boe-s-bailey-fears-governments-running-out-of-fiscal-firepower"
+    "title": "Job titles of the future: Delivery drone air traffic controller",
+    "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/"
   },
   {
-    "title": "Chile’s Consumer Prices Post Modest Gain as Fuel Costs Rise",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/chile-consumer-prices-post-modest-gain-as-fuel-costs-rise-again"
-  },
-  {
-    "title": "What’s the TPI? How ECB Can Respond to French Bond Turmoil",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/what-s-the-tpi-how-ecb-can-respond-to-french-bond-turmoil"
-  },
-  {
-    "title": "WTO Lifts Goods Trade Outlook as AI Demand Outweighs War Strains",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/wto-lifts-goods-trade-outlook-as-ai-demand-outweighs-war-strains"
-  },
-  {
-    "title": "US Jobless Claims Eased Last Week to Lowest Level Since July",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/us-jobless-claims-eased-last-week-to-lowest-level-since-july"
-  },
-  {
-    "title": "ECB Officials Sought ‘Proportionate’ Step With Latest Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-08/ecb-officials-took-proporionate-step-with-last-month-s-hike"
+    "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+    "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
   },
   {
     "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -696,20 +712,20 @@
     "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/"
   },
   {
-    "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-    "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
+    "title": "A week with Googlebooks: four notes from our testing so far",
+    "link": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable"
   },
   {
-    "title": "The Download: 10 climate tech companies to watch",
-    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/"
+    "title": "Meta is banning TikTok ads across its platforms",
+    "link": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban"
   },
   {
-    "title": "2026 Climate Tech Companies to Watch",
-    "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/"
+    "title": "The humble Playdate has become one of gaming’s best deals",
+    "link": "https://www.theverge.com/entertainment/1008441/playdate-season-3"
   },
   {
-    "title": "Here’s how our climate team picked 10 promising companies to watch",
-    "link": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/"
+    "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
   },
   {
     "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
@@ -734,21 +750,5 @@
   {
     "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
     "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor"
-  },
-  {
-    "title": "California is trying to shut down robot vs. human cage matches",
-    "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human"
-  },
-  {
-    "title": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
-    "link": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video"
-  },
-  {
-    "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
-    "link": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11"
-  },
-  {
-    "title": "Paramount is making a Cyberpunk 2077 film",
-    "link": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie"
   }
 ]
