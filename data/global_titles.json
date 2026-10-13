@@ -1,5 +1,9 @@
 [
   {
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "link": "https://openai.com/index/higgsfield-longer-videos-voice"
+  },
+  {
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "link": "https://openai.com/index/sophos"
   },
@@ -116,15 +120,11 @@
     "link": "https://openai.com/form/codex-originals"
   },
   {
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra"
-  },
-  {
     "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
     "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
   },
   {
-    "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+    "title": "NVIDIA Announces New Investments in France’s Startups",
     "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/"
   },
   {
@@ -190,6 +190,14 @@
   {
     "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
     "link": "https://blogs.nvidia.com/blog/ai-day-singapore/"
+  },
+  {
+    "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
+    "link": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html"
+  },
+  {
+    "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
+    "link": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html"
   },
   {
     "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
@@ -302,14 +310,6 @@
   {
     "title": "Private capital is reshaping Hollywood moviemaking",
     "link": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html"
-  },
-  {
-    "title": "High-tech vehicles are driving up auto repair costs for shops and consumers",
-    "link": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html"
-  },
-  {
-    "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
-    "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html"
   },
   {
     "title": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
@@ -432,6 +432,50 @@
     "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html"
   },
   {
+    "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
+    "link": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/"
+  },
+  {
+    "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
+    "link": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/"
+  },
+  {
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
+  },
+  {
+    "title": "Facebook is giving users more control over their algorithm",
+    "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
+  },
+  {
+    "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/"
+  },
+  {
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+  },
+  {
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+  },
+  {
+    "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
+    "link": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/"
+  },
+  {
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+  },
+  {
+    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+  },
+  {
+    "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+    "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/"
+  },
+  {
     "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
     "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/"
   },
@@ -444,7 +488,7 @@
     "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/"
   },
   {
-    "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
+    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
     "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
   },
   {
@@ -468,128 +512,108 @@
     "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/"
   },
   {
-    "title": "Apple makes another push into the smart home market with HomeView",
-    "link": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/"
+    "title": "Saylor Exclusive, DC Fintech, Longshot Prediction",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/bloomberg-crypto-10-13-2026-video"
   },
   {
-    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+    "title": "Fed’s Williams Currently Sees No Need for Rate Hike in 2027",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/fed-s-williams-currently-sees-no-need-for-rate-hike-in-2027"
   },
   {
-    "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-    "link": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/"
+    "title": "Tencent Sells Nearly $5.7 Billion of Bonds to Fund AI Efforts",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/tencent-kicks-off-5-billion-bond-sale-to-finance-ai-spending"
   },
   {
-    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-    "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+    "title": "Digital Credit Is The Product: Saylor",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/digital-credit-is-the-product-saylor-video"
   },
   {
-    "title": "Meta releases its first frontier model, Muse Wonder",
-    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+    "title": "'Inoculating' Investors, Could Buy Or Sell Bitcoin: Saylor",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/inoculating-investors-could-buy-or-sell-bitcoin-saylor-video"
   },
   {
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+    "title": "Saylor Talks Bullish Bitcoin, Clarity, MSCI Disappointment",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/saylor-on-bullish-bitcoin-clarity-msci-disappointment-video"
   },
   {
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+    "title": "Supreme Court Will Address Prediction Markets: Yadav",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/supreme-court-will-address-prediction-markets-yadav-video"
   },
   {
-    "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+    "title": "Saudi-Owned Refinery Was Buyer of Oil on Cyberattacked Tanker",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/saudi-owned-refinery-was-buyer-of-oil-on-cyberattacked-tanker"
   },
   {
-    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+    "title": "Zuckerberg Admits Meta Lacked AI Certainty on $200 Billion Bet",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/zuckerberg-admits-meta-lacked-ai-certainty-on-200-billion-bet"
   },
   {
-    "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-    "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/"
-  },
-  {
-    "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-    "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/"
-  },
-  {
-    "title": "Apple Unveils $299 HomeView Hub in New Smart Home Push",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/apple-unveils-299-homeview-hub-in-new-smart-home-push-video"
+    "title": "Bitcoin Is at Beginning a Bull Market, Says Strategy's Saylor",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/saylor-says-bitcoin-is-at-beginning-a-bull-market-video"
   },
   {
     "title": "Nandan Nilekani Sees AI Opportunity for Infosys",
     "link": "https://www.bloomberg.com/news/videos/2026-10-13/nandan-nilekani-sees-ai-opportunity-for-infosys-video"
   },
   {
-    "title": "Moderna Founder Calls for Urgent Regulation of AI Agents",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/moderna-founder-calls-for-urgent-regulation-of-ai-agents"
+    "title": "Mainspring, AEP Strike Deal to Bring Power Online Faster",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/mainspring-aep-strike-deal-to-bring-power-online-faster-video"
   },
   {
-    "title": "Power and Talent Biggest AI Bottlenecks, Say Data Center Firms",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/power-and-talent-biggest-ai-bottlenecks-say-data-center-firms"
+    "title": "Chip Selloff Spreads Globally, Apple Makes Smart Home Push",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/bloomberg-tech-10-13-2026-video"
   },
   {
-    "title": "Tailscale Touts Canadian AI Identity to Win Europe, Trump Tariff-Wary Clients",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/tailscale-touts-canadian-ai-identity-to-win-europe-trump-tariff-wary-clients"
+    "title": "SambaNova CEO: AI’s Next Phase Is About Efficiency",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/sambanova-ceo-ai-s-next-phase-is-about-efficiency-video"
   },
   {
-    "title": "Apple Unveils $299 HomeView Smart Home Hub, New Apple TV 4K, HomePod Mini 2",
-    "link": "https://www.bloomberg.com/news/features/2026-10-13/apple-unveils-299-homeview-smart-home-hub-new-apple-tv-4k-homepod-mini-2"
+    "title": "SpaceX IPO Helps Fuel $100 Billion Space Boom",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/spacex-ipo-helps-fuel-100-billion-space-boom-video"
   },
   {
-    "title": "AI Turns Little-Known Lithuanian Unicorn Into Data Powerhouse",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/ai-turns-little-known-lithuanian-unicorn-into-data-powerhouse"
+    "title": "Meta’s Muse Wonder Takes Aim at OpenAI, Anthropic",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/meta-s-muse-wonder-takes-aim-at-openai-anthropic-video"
   },
   {
-    "title": "Siemens Sees Poland’s Defense Buildup Driving Automation Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/siemens-sees-poland-s-defense-buildup-driving-automation-demand"
+    "title": "Google Will Let Anyone Publish Privately Listed Vibe-Coded Apps on Play Store",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/google-will-let-anyone-publish-privately-listed-vibe-coded-apps-on-play-store"
   },
   {
-    "title": "Grab Takes On TikTok in Fight to Keep the Attention of Consumers",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-13/grab-takes-on-tiktok-in-fight-to-keep-the-attention-of-consumers"
+    "title": "$299 Device Puts Apple at Center of Homes",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/-299-device-puts-apple-at-center-of-homes-video"
   },
   {
-    "title": "Ledger to Review Sale Policies After Crypto Spyware Attack",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/ledger-to-review-sale-policies-after-crypto-spyware-attack"
+    "title": "Wall Street Banks Face New Pressure",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/open-interest-10-13-2026-video"
   },
   {
-    "title": "Moderna, Google DeepMind, Biocon on AI in Science",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/moderna-google-deepmind-biocon-on-ai-in-science-video"
+    "title": "Apple Unveils HomeView Hub as Part of Smart Home Push",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/apple-unveils-homeview-hub-as-part-of-smart-home-push-video"
   },
   {
-    "title": "Jio Platforms Said to Draw More Than $20 Billion in Bids for IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/jio-platforms-said-to-draw-more-than-20-billion-in-bids-for-ipo"
+    "title": "Argentina Posts Second Straight Month of Inflation Below 2%",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/argentina-posts-second-straight-month-of-inflation-below-2"
   },
   {
-    "title": "AI Boom Fuels Global Financial Risks: A Guide to the Circular Deals",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-13/ai-boom-fuels-global-financial-risks-a-guide-to-the-circular-deals"
+    "title": "Fed’s Williams Interview With Bloomberg News: Full Transcript",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/fed-s-williams-interview-with-bloomberg-news-full-transcript"
   },
   {
-    "title": "Raimondo Says AI Challenges Need Governance Framework",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/raimondo-says-ai-challenges-need-governance-framework"
+    "title": "Lagarde Faces ECB Staff Questions Over Book, Talks With Fink",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/lagarde-faces-ecb-staff-questions-over-book-and-talks-with-fink"
   },
   {
-    "title": "Chip Selloff Deepens as Investors Question AI Trade",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/chip-selloff-deepens-as-investors-question-ai-trade-video"
+    "title": "US Small-Business Optimism Falls on Dimmer Economic Outlook",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/us-small-business-optimism-falls-on-dimmer-economic-outlook"
   },
   {
-    "title": "We’re Watching the Wrong AI Race",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/we-re-watching-the-wrong-ai-race-video"
+    "title": "Colombia: Villamizar de BanRep ve período prolongado de tasas altas",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/colombia-villamizar-de-banrep-ve-periodo-prolongado-de-tasas-altas"
   },
   {
-    "title": "China’s CXMT Claims Memory Advances Ahead of Samsung, Hynix",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix"
-  },
-  {
-    "title": "Sitharaman: Investor Interest in India Extends Beyond AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/sitharaman-investor-interest-in-india-extends-beyond-ai-video"
-  },
-  {
-    "title": "Orbital Data Centers Risk Becoming Military Targets in Space",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/orbital-data-centers-risk-becoming-military-targets-in-space"
-  },
-  {
-    "title": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets"
+    "title": "Colombian Central Banker Sees Extended Period of High Rates",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/colombian-central-banker-sees-extended-period-of-high-rates"
   },
   {
     "title": "US Existing-Home Sales Edged Up Ahead of Mortgage-Rate Shock",
@@ -636,10 +660,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-13/bok-governor-backs-further-won-gains-vows-to-keep-policy-tight"
   },
   {
-    "title": "US Small-Business Optimism Falls on Dimmer Economic Outlook",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/us-small-business-optimism-falls-on-dimmer-economic-outlook"
-  },
-  {
     "title": "BOJ Is Said to Lean Against Back-to-Back Rate Hike in October",
     "link": "https://www.bloomberg.com/news/articles/2026-10-13/boj-is-said-to-lean-against-back-to-back-rate-hike-in-october"
   },
@@ -650,26 +670,6 @@
   {
     "title": "Waller Says Higher Treasury Yields Can Help Fed Cool Demand",
     "link": "https://www.bloomberg.com/news/articles/2026-10-13/fed-s-waller-says-higher-yields-could-help-fed-cool-demand"
-  },
-  {
-    "title": "IMF Chief: Financial Stability Is First Line of Defense",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/imf-chief-financial-stability-is-first-line-of-defense-video"
-  },
-  {
-    "title": "Blackstone’s Gray Warns European Debt Woes Outstrip US Risk",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/blackstone-s-gray-bets-big-on-electriciy-defense-life-sciences"
-  },
-  {
-    "title": "South Africa Factories Crater as China Imports Stunt Revival",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/south-african-factories-crater-as-china-imports-stunt-revival"
-  },
-  {
-    "title": "How the AI Boom Is Fueling Global Financial Risks",
-    "link": "https://www.bloomberg.com/news/features/2026-10-12/how-the-ai-boom-is-fueling-global-financial-risks"
-  },
-  {
-    "title": "IMF Urges Caution on Cost of Living Support Before UK Budget",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/imf-urges-caution-on-cost-of-living-support-before-uk-budget"
   },
   {
     "title": "The Download: open model trade-offs and geothermal power’s promise",
@@ -688,7 +688,7 @@
     "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
   },
   {
-    "title": "Mars may be a hellhole, but the moon is not far behind",
+    "title": "What it would take to build a city on the moon",
     "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
   },
   {
@@ -712,43 +712,43 @@
     "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
   },
   {
-    "title": "Apple’s HomePod Mini 2 is available to preorder",
-    "link": "https://www.theverge.com/gadgets/1009971/apple-homepod-mini-2-preorder-buy"
+    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+    "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
   },
   {
-    "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-    "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements"
+    "title": "The Nothing Headphone A are half off for the first time",
+    "link": "https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale"
   },
   {
-    "title": "Discovery Plus is getting more expensive",
-    "link": "https://www.theverge.com/streaming/1009994/discovery-plus-price-increase"
+    "title": "Russian bot farms are still trolling, even after Ukraine&#8217;s drone strikes on Yandex",
+    "link": "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy"
   },
   {
-    "title": "Where to preorder the new Apple TV 4K",
-    "link": "https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy"
+    "title": "Rivian spinoff Mind Robotics hires Doug Field as president",
+    "link": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple"
   },
   {
-    "title": "Watch Apple’s reveal video for the HomeView",
-    "link": "https://www.theverge.com/1008810/apple-homeview-reveal-video-watch"
+    "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+    "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables"
   },
   {
-    "title": "Getty Images is going private after failed Shutterstock merger",
-    "link": "https://www.theverge.com/business/1009893/getty-images-bankruptcy-private-plans-agreement"
+    "title": "The feds are looking into reports of Tesla’s robotaxis speeding through school zones",
+    "link": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation"
   },
   {
-    "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
-    "link": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced"
+    "title": "The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever",
+    "link": "https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale"
   },
   {
-    "title": "Apple announces the HomePod Mini 2, but it isn&#8217;t ready for Siri AI at launch",
-    "link": "https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai"
+    "title": "Facebook will let you customize your feed algorithm using AI",
+    "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
   },
   {
-    "title": "The new Apple Home Collection includes a video doorbell, smart lock, and more",
-    "link": "https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced"
+    "title": "Google makes it easier to launch your vibe-coded apps",
+    "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"
   },
   {
-    "title": "Apple launches HomeView, its first smart display for the home",
-    "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look"
+    "title": "A redesigned Play Store is coming to cars with Google built-in",
+    "link": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store"
   }
 ]
