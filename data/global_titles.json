@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/basis-tax-workbook-with-astra"
   },
   {
+    "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+    "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/"
+  },
+  {
     "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
     "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
   },
@@ -186,10 +190,6 @@
   {
     "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
     "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/"
-  },
-  {
-    "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-    "link": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/"
   },
   {
     "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
@@ -312,6 +312,26 @@
     "link": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html"
   },
   {
+    "title": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
+    "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html"
+  },
+  {
+    "title": "Tech stocks slide as Wall Street chip rout spreads. SK Hynix, SoftBank and ASML slump",
+    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html"
+  },
+  {
+    "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+    "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html"
+  },
+  {
+    "title": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
+    "link": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
+    "link": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html"
+  },
+  {
     "title": "Saudi Arabia says drones and missiles still targeting kingdom as Iran-backed Houthis step up attacks",
     "link": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html"
   },
@@ -412,26 +432,6 @@
     "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html"
   },
   {
-    "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
-    "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html"
-  },
-  {
-    "title": "Little room for ‘giving and taking’: India’s finance minister confirms trade impasse with the U.S.",
-    "link": "https://www.cnbc.com/2026/10/06/india-us-trade-deal-deal-sitharaman.html"
-  },
-  {
-    "title": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
-    "link": "https://www.cnbc.com/2026/10/06/starbucks-luckin-china-xinjiang-forced-labour-export-trade-.html"
-  },
-  {
-    "title": "Saudi Aramco chief says replenishing global oil stockpiles could take two years",
-    "link": "https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html"
-  },
-  {
-    "title": "Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks",
-    "link": "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html"
-  },
-  {
     "title": "Meta releases its first frontier model, Muse Wonder",
     "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
   },
@@ -512,6 +512,62 @@
     "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
   },
   {
+    "title": "IMF Says Growth Should Pick Up With AI Investment Boost",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/imf-says-growth-should-pick-up-with-ai-investment-boost-video"
+  },
+  {
+    "title": "Anthropic Hunts for Australia Data Center Deals, Says Envoy",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/anthropic-eyeing-data-center-investment-in-australia-envoy-says"
+  },
+  {
+    "title": "Piramal Pharma On Cutting Exposure To China",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/piramal-pharma-on-cutting-exposure-to-china-video"
+  },
+  {
+    "title": "Tata Chair Defends Nation-Building Bets Over Short-Term Returns",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/tata-chair-defends-nation-building-bets-over-short-term-returns"
+  },
+  {
+    "title": "China’s CXMT Claims Memory Breakthrough Ahead of Samsung, Hynix",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix"
+  },
+  {
+    "title": "Revolut and Vinted Backer Sprints Raises €725 Million Fund",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/revolut-and-vinted-backer-sprints-raises-725-million-fund"
+  },
+  {
+    "title": "Tech Giants to Outpace US in Issuing Long-Term Debt, Sunak Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/tech-giants-to-outpace-us-in-issuing-long-term-debt-sunak-says"
+  },
+  {
+    "title": "Asia Tech Stocks Are Cracking as AI Trade Wobbles",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/asia-tech-stocks-are-cracking-as-ai-trade-wobbles-video"
+  },
+  {
+    "title": "IMF Forecasts 2027 Global GDP Boost, But Risks Remain",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/imf-forecasts-2027-global-gdp-boost-but-risks-remain-video"
+  },
+  {
+    "title": "India Food Watchdog to Tighten Grip on $80 Billion Online Market",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/india-food-watchdog-to-tighten-grip-on-80-billion-online-market"
+  },
+  {
+    "title": "Tencent Kicks Off $5 Billion Bond Sale to Finance AI Spending",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/tencent-kicks-off-5-billion-bond-sale-to-finance-ai-spending"
+  },
+  {
+    "title": "Muse Wonder Puts Meta's Aggressive AI Push in Focus",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-12/muse-wonder-puts-meta-s-aggressive-ai-push-in-focus-video"
+  },
+  {
+    "title": "Earnings Season, AI & Oil Prices in Focus",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-12/the-close-10-12-2026-video"
+  },
+  {
+    "title": "Neostellar’s Willy Lee on AI Landscape Ahead of Anthropic Pre-IPO Investor Day",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-12/neostellar-s-willy-lee-ai-market-is-starting-to-mature-video"
+  },
+  {
     "title": "Barclays: “Generational Shift” in Aerospace & Defense",
     "link": "https://www.bloomberg.com/news/videos/2026-10-12/barclays-generational-shift-in-aerospace-defense-video"
   },
@@ -536,64 +592,68 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-12/meta-releases-new-ai-model-called-muse-wonder-video"
   },
   {
-    "title": "Robinhood CIO on Investment Ideas Ahead of Earnings",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-12/robinhood-cio-on-investment-ideas-ahead-of-earnings-video"
-  },
-  {
-    "title": "Tesla Cybercab to Make European Debut at Paris Motor Show",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-12/tesla-to-debut-cybercab-at-paris-motor-show-video"
-  },
-  {
-    "title": "Meta Rallies as New Muse Wonder Model Heats up AI Race | Closing Bell",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-12/meta-unveils-muse-wonder-ai-closing-bell-video"
-  },
-  {
-    "title": "The Staggering Costs of a Single Data Center, From Land to Chips",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-12/the-staggering-costs-of-a-single-data-center-video"
-  },
-  {
-    "title": "Bumble in Talks to Be Taken Private for $1 Billion, WSJ Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/bumble-in-talks-to-be-taken-private-in-1-billion-deal-wsj-says"
-  },
-  {
-    "title": "How Apple Plans to Compete in the Home: Power On",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-12/how-apple-plans-to-compete-in-the-home-power-on-video"
-  },
-  {
-    "title": "How the OpenAI, Anthropic IPOs Could Lift the Veil on AI Economics",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-12/following-the-money-across-ai-s-infrastructure-boom-video"
-  },
-  {
-    "title": "Cisco, Nvidia Tackle AI’s Growing Data Center Bottleneck",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-12/cisco-nvidia-tackle-ai-s-growing-data-center-bottleneck-video"
-  },
-  {
-    "title": "Fidelity: Tech Stocks Can Keep ‘Climbing the Wall of Worry’",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-12/tech-rally-puts-earnings-in-focus-video"
-  },
-  {
-    "title": "Meta Says New Muse Model Reaches AI Frontier After Aggressive Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/meta-says-new-muse-model-reaches-ai-frontier-after-14-month-push"
-  },
-  {
-    "title": "Microsoft, Musk Race to Reinvent the AI Chip",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-12/bloomberg-tech-10-12-2026-video"
-  },
-  {
-    "title": "Microsoft Ramps Up Homegrown AI Chip Push",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-12/microsoft-ramps-up-homegrown-ai-chip-push-video"
-  },
-  {
-    "title": "Why Big Tech Is Borrowing Billions to Fund AI Spending",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/why-big-tech-is-borrowing-billions-to-fund-ai-spending"
-  },
-  {
-    "title": "Hackers Hit French Supermarkets in Attack Disabling Fridges",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks"
+    "title": "South Africa Factories Crater as China Imports Stunt Revival",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/south-african-factories-crater-as-china-imports-stunt-revival"
   },
   {
     "title": "How the AI Boom Is Fueling Global Financial Risks",
     "link": "https://www.bloomberg.com/news/features/2026-10-12/how-the-ai-boom-is-fueling-global-financial-risks"
+  },
+  {
+    "title": "Blackstone’s Gray Warns Europe Fiscal Risks Outweigh US Woes",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/blackstone-s-gray-bets-big-on-electriciy-defense-life-sciences"
+  },
+  {
+    "title": "IMF Urges Caution on Cost of Living Support Before UK Budget",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/imf-urges-caution-on-cost-of-living-support-before-uk-budget"
+  },
+  {
+    "title": "BOE’s Greene Says UK Growth Upgrade Is Proof Rate Hike Needed",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/boe-s-greene-says-uk-growth-upgrade-is-proof-rate-hike-needed"
+  },
+  {
+    "title": "Xpeng Welcomes EU-China Deal on Capping Hybrid Imports",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/xpeng-welcomes-eu-china-deal-on-capping-hybrid-imports-video"
+  },
+  {
+    "title": "Can Peter Magyar Deliver Euro Membership for Hungary?",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/can-peter-magyar-deliver-euro-membership-for-hungary"
+  },
+  {
+    "title": "IMF’s Tenreyro Tells UK to ‘Stay the Course’ on Fiscal Plans",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/imf-s-tenreyro-tells-uk-to-stay-the-course-on-fiscal-plans"
+  },
+  {
+    "title": "World Economy Holds Up, Nears Limits of Resilience, IMF Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/world-economy-holds-up-but-nears-limits-of-resilience-imf-says"
+  },
+  {
+    "title": "Thailand Eyes $30 Departure Tax for Tourists in Revenue Push",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/thailand-eyes-30-departure-tax-for-tourists-in-revenue-push"
+  },
+  {
+    "title": "IMF World Economic Report Says GDP to Rise 3.4% in 2027 But Strains Remain: Live",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-10-13/imf-world-bank-annual-meetings-in-bangkok"
+  },
+  {
+    "title": "Japan’s Producer Prices Cools, Indicating Room for BOJ to Wait",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/japan-s-producer-prices-cools-indicating-room-for-boj-to-wait"
+  },
+  {
+    "title": "Japan Producer Prices Rise 6.8% From a Year Earlier",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/japan-producer-prices-rise-6-8-from-a-year-earlier-video"
+  },
+  {
+    "title": "Katayama to Be First Japanese Chair of IMF-WB Development Panel",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/katayama-to-be-first-japanese-chair-of-imf-wb-development-panel"
+  },
+  {
+    "title": "Singapore’s MAS to Tighten ‘Very Slightly’ as Price Risks Linger",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-12/singapore-s-mas-to-tighten-very-slightly-as-price-risks-linger"
+  },
+  {
+    "title": "Current High Inflation Is a Real Concern: Jennifer McKeown",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-12/current-high-inflation-a-real-concern-jennifer-mckeown-video"
   },
   {
     "title": "Modi’s Free Trade Push Could Lead to $140 Billion GDP Gain for India",
@@ -610,66 +670,6 @@
   {
     "title": "Empresas de México temen más riesgos locales que aranceles: CCE",
     "link": "https://www.bloomberg.com/news/articles/2026-10-12/empresas-de-mexico-temen-mas-riesgos-locales-que-aranceles-cce"
-  },
-  {
-    "title": "ECB’s Higher Rates Can’t Prevent More Shocks, Patsalides Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/ecb-s-higher-rates-can-t-prevent-more-shocks-patsalides-says"
-  },
-  {
-    "title": "India Inflation Hits Two-Year High, Backs RBI Tightening",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/india-inflation-hits-almost-two-year-high-backs-rbi-tightening"
-  },
-  {
-    "title": "Rich-World Bond Selloff Puts Advanced Economies in IMF Spotlight",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-12/rich-world-bond-selloff-puts-advanced-economies-in-imf-spotlight"
-  },
-  {
-    "title": "AI Fuels Boom in Global Goods Trade",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-12/ai-fuels-boom-in-global-goods-trade"
-  },
-  {
-    "title": "Bank of England’s Breeden in No Rush to Launch ‘Britcoin’",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/bank-of-england-s-breeden-in-no-rush-to-launch-britcoin"
-  },
-  {
-    "title": "Crisis Theorists Recasting Ideas of Keynes Share Nobel Prize",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/nobel-economics-prize-goes-to-academics-for-stabilization-work"
-  },
-  {
-    "title": "Mauritius Rates Policy to Hinge on Persistance of Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/mauritius-rates-policy-to-hinge-on-persistance-of-inflation"
-  },
-  {
-    "title": "RBI Window to Meet Refiners’ $10 Billion Monthly Need, Aid Rupee",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/rbi-window-to-meet-refiners-10-billion-monthly-need-aid-rupee"
-  },
-  {
-    "title": "Pakistan Targets Another Ratings Upgrade, Finance Minister Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/pakistan-targets-another-ratings-upgrade-says-finance-minister"
-  },
-  {
-    "title": "EU Agrees to Discuss Curbs on Chinese Inverters After Trade Meet",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/eu-agrees-to-discuss-curbs-on-chinese-inverters-after-trade-meet"
-  },
-  {
-    "title": "China Moves to Stave Off Wider EU Trade War With Hybrid Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-11/china-moves-to-stave-off-wider-eu-trade-war-with-hybrid-deal"
-  },
-  {
-    "title": "NZ National Party Will Wait for Budget Surplus Before Tax Cuts",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-11/nz-national-party-will-wait-for-budget-surplus-before-tax-cuts"
-  },
-  {
-    "title": "Healey Needs £35 Billion to Meet UK Spending Plans, IFS Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-11/healey-needs-35-billion-to-meet-uk-spending-plans-ifs-says"
-  },
-  {
-    "title": "A Higher-Rate World Is in Store as Central Banks Approach 2027",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-11/a-higher-rate-world-is-in-store-as-central-banks-approach-2027"
-  },
-  {
-    "title": "Anwar’s Budget Lifts Households as Election, Fiscal Test Nears",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-11/anwar-s-budget-lifts-households-as-election-fiscal-test-nears"
   },
   {
     "title": "The Download: moon city problems and drone traffic controllers",
