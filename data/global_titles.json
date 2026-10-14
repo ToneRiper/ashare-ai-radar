@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/ai-day-singapore/"
   },
   {
+    "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027",
+    "link": "https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html"
+  },
+  {
     "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
     "link": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html"
   },
@@ -308,15 +312,27 @@
     "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html"
   },
   {
-    "title": "Private capital is reshaping Hollywood moviemaking",
-    "link": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html"
+    "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
+    "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html"
+  },
+  {
+    "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
+    "link": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html"
+  },
+  {
+    "title": "China's producer prices rise at fastest pace since June 2022, beating expectations",
+    "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html"
+  },
+  {
+    "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+    "link": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html"
   },
   {
     "title": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
     "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html"
   },
   {
-    "title": "Micron, Seagate, Western Digital sink as chip sell-off deepens",
+    "title": "Micron sinks, other memory-linked names dip for a second day",
     "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html"
   },
   {
@@ -416,28 +432,52 @@
     "link": "https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html"
   },
   {
-    "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
-    "link": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html"
+    "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+    "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/"
   },
   {
-    "title": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
-    "link": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html"
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
   },
   {
-    "title": "Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive",
-    "link": "https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html"
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
   },
   {
-    "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel cost spike ahead of midterms",
-    "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html"
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+  },
+  {
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
+  },
+  {
+    "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+    "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/"
+  },
+  {
+    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+    "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/"
+  },
+  {
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
+  },
+  {
+    "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+    "link": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/"
+  },
+  {
+    "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+    "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/"
   },
   {
     "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
     "link": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/"
   },
   {
-    "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
-    "link": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/"
+    "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+    "link": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/"
   },
   {
     "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
@@ -472,128 +512,148 @@
     "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
   },
   {
-    "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-    "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/"
+    "title": "ASML Boosts Outlook as Demand for Chip Tools Outpaces Supply",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/asml-raises-full-year-sales-outlook-as-ai-boom-drives-demand"
   },
   {
-    "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
-    "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/"
+    "title": "India’s Goyal Calls US Ties ‘Very Good’ Despite Trade Tensions",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/india-s-goyal-calls-us-ties-very-good-despite-trade-tensions"
   },
   {
-    "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
-    "link": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/"
+    "title": "IMF, World Bank Unveil Bangkok Blueprint to Combat Digital Fraud",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/imf-world-bank-unveil-bangkok-blueprint-to-combat-digital-fraud"
   },
   {
-    "title": "TechCrunch Disrupt 2026: Day 1",
-    "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/"
+    "title": "Cheaper Yuan Debt Gives Chinese Firms an AI Funding Edge",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/cheaper-yuan-debt-gives-tencent-an-ai-funding-advantage"
   },
   {
-    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-    "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
+    "title": "Singapore’s PDG Seeks $1.2 Billion Loan for Malaysia Data Center",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/singapore-s-pdg-seeks-1-2-billion-loan-for-malaysia-data-center"
   },
   {
-    "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
-    "link": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/"
+    "title": "Hitachi Energy CEO on AI, Energy Security and Grids",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/hitachi-energy-ceo-on-ai-energy-security-and-grids-video"
   },
   {
-    "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
-    "link": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/"
+    "title": "India’s Jaishankar on Key Foreign Policy Objectives",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/india-s-jaishankar-on-key-foreign-policy-objectives-video"
   },
   {
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+    "title": "China's Robotic Hands Key to $5 Trillion AI Humanoid Development Race",
+    "link": "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race"
   },
   {
-    "title": "India delays digital payments fee rollout amid retailer pushback",
-    "link": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/"
+    "title": "Malaysia Taps China’s Satellite Tech for Earlier Flood Warnings",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/malaysia-taps-china-s-satellite-tech-for-earlier-flood-warnings"
   },
   {
-    "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-    "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/"
+    "title": "China’s Producer Prices Jolted by Oil as Inflation Rebounds",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/china-s-producer-prices-jolted-by-100-oil-as-inflation-rebounds"
   },
   {
-    "title": "Saylor Exclusive, DC Fintech, Longshot Prediction",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/bloomberg-crypto-10-13-2026-video"
+    "title": "A $90 Million Spyware Hack Sparks Review of Crypto Wallet Sales",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/ledger-to-review-sale-policies-after-crypto-spyware-attack"
   },
   {
-    "title": "Fed’s Williams Currently Sees No Need for Rate Hike in 2027",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/fed-s-williams-currently-sees-no-need-for-rate-hike-in-2027"
+    "title": "OpenAI Says Staffer Arrested for Hidden Recording Device in Office",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office"
   },
   {
-    "title": "Tencent Sells Nearly $5.7 Billion of Bonds to Fund AI Efforts",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/tencent-kicks-off-5-billion-bond-sale-to-finance-ai-spending"
+    "title": "Anthropic Asks Appeals Court to Rehear Fight Over Security Risk",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/anthropic-asks-appeals-court-to-rehear-fight-over-security-risk"
   },
   {
-    "title": "Digital Credit Is The Product: Saylor",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/digital-credit-is-the-product-saylor-video"
+    "title": "Microsoft AI Focused Data Center Plan to Add 26 Gigawatts of Compute",
+    "link": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute"
   },
   {
-    "title": "'Inoculating' Investors, Could Buy Or Sell Bitcoin: Saylor",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/inoculating-investors-could-buy-or-sell-bitcoin-saylor-video"
+    "title": "Vista Equity CEO Smith on Growth of AI, Agentic Software",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/vista-s-smith-on-growth-of-ai-agentic-software-video"
   },
   {
-    "title": "Saylor Talks Bullish Bitcoin, Clarity, MSCI Disappointment",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/saylor-on-bullish-bitcoin-clarity-msci-disappointment-video"
+    "title": "Applied Materials CEO on Doubling Revenue Thanks To AI",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/applied-materials-ceo-on-doubling-revenue-thanks-to-ai-video"
   },
   {
-    "title": "Supreme Court Will Address Prediction Markets: Yadav",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/supreme-court-will-address-prediction-markets-yadav-video"
+    "title": "PSP’s Momei Qu on Anthropic’s Pre-IPO Investor Day",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/psp-s-momei-qu-on-anthropic-s-pre-ipo-investor-day-video"
   },
   {
-    "title": "Saudi-Owned Refinery Was Buyer of Oil on Cyberattacked Tanker",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/saudi-owned-refinery-was-buyer-of-oil-on-cyberattacked-tanker"
+    "title": "AI Fuels Game Streaming to $38 Billion as Consoles Fade, BI Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/cloud-gaming-and-ai-threaten-to-make-home-consoles-extinct"
   },
   {
-    "title": "Zuckerberg Admits Meta Lacked AI Certainty on $200 Billion Bet",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/zuckerberg-admits-meta-lacked-ai-certainty-on-200-billion-bet"
+    "title": "Why China Wants to Master the Robotic Hand",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-13/why-china-wants-to-master-the-robotic-hand-video"
   },
   {
-    "title": "Bitcoin Is at Beginning a Bull Market, Says Strategy's Saylor",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/saylor-says-bitcoin-is-at-beginning-a-bull-market-video"
+    "title": "Microsoft Reports $130 Billion in Data Center Leases",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-over-130-billion-in-new-data-center-leases"
   },
   {
-    "title": "Nandan Nilekani Sees AI Opportunity for Infosys",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/nandan-nilekani-sees-ai-opportunity-for-infosys-video"
+    "title": "China on Cusp of $1 Trillion Trade Surplus as Exports Surge",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/china-s-trade-surplus-nears-940-billion-as-export-growth-surges"
   },
   {
-    "title": "Mainspring, AEP Strike Deal to Bring Power Online Faster",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/mainspring-aep-strike-deal-to-bring-power-online-faster-video"
+    "title": "UK Needs to Slash Spending to Fund Defense Buildup, IMF Warns",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/uk-needs-to-slash-spending-to-fund-defense-buildup-imf-warns"
   },
   {
-    "title": "Chip Selloff Spreads Globally, Apple Makes Smart Home Push",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/bloomberg-tech-10-13-2026-video"
+    "title": "Morgan Stanley Expects Renewal of South African Fuel-Tax Relief",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/morgan-stanley-expects-renewal-of-south-african-fuel-tax-relief"
   },
   {
-    "title": "SambaNova CEO: AI’s Next Phase Is About Efficiency",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/sambanova-ceo-ai-s-next-phase-is-about-efficiency-video"
+    "title": "IMF Says US Growth Not Enough to Fight High Debt, Deficit Levels",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/imf-says-us-growth-not-enough-to-fight-high-debt-deficit-levels"
   },
   {
-    "title": "SpaceX IPO Helps Fuel $100 Billion Space Boom",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/spacex-ipo-helps-fuel-100-billion-space-boom-video"
+    "title": "France’s Credibility Needs Timely Budget Approval, IMF Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/france-s-budget-must-get-timely-approval-imf-s-valdes-says"
   },
   {
-    "title": "Meta’s Muse Wonder Takes Aim at OpenAI, Anthropic",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/meta-s-muse-wonder-takes-aim-at-openai-anthropic-video"
+    "title": "ECB Will Probably Have to Hike Rates Again, Wunsch Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/ecb-will-probably-have-to-hike-interest-rates-again-wunsch-says"
   },
   {
-    "title": "Google Will Let Anyone Publish Privately Listed Vibe-Coded Apps on Play Store",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/google-will-let-anyone-publish-privately-listed-vibe-coded-apps-on-play-store"
+    "title": "Swiss Set to Reject Tax Hike to Fund Pensions, First Poll Shows",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/swiss-set-to-reject-tax-hike-to-fund-pensions-first-poll-shows"
   },
   {
-    "title": "$299 Device Puts Apple at Center of Homes",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/-299-device-puts-apple-at-center-of-homes-video"
+    "title": "RBI Open to More Steps to Curb FX Speculation, Malhotra Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/rbi-open-to-more-steps-to-curb-forex-speculation-malhotra-says"
   },
   {
-    "title": "Wall Street Banks Face New Pressure",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/open-interest-10-13-2026-video"
+    "title": "Why New Zealanders Are Moving to Australia: Jobs, Wages and the Economy",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/why-new-zealanders-are-moving-to-australia-jobs-wages-and-the-economy"
   },
   {
-    "title": "Apple Unveils HomeView Hub as Part of Smart Home Push",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/apple-unveils-homeview-hub-as-part-of-smart-home-push-video"
+    "title": "Thai Central Bank Signals 1% Rate Floor, Sees Eventual Hikes",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/thai-central-bank-signals-1-rate-floor-sees-eventual-hikes"
+  },
+  {
+    "title": "Singapore’s MAS Stands Pat as Easing AI Momentum Tames Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/singapore-holds-monetary-policy-as-economy-expands-5-4-on-ai"
+  },
+  {
+    "title": "Fed’s Lisa Cook Puts Off White House Hearing Over Trump’s Allegations",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/fed-s-lisa-cook-puts-off-white-house-hearing-over-trump-s-allegations"
+  },
+  {
+    "title": "BOE’s Bailey Says Getting Harder to Avoid Inflationary Impact",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/boe-s-bailey-says-getting-harder-to-avoid-inflationary-impact"
   },
   {
     "title": "Argentina Posts Second Straight Month of Inflation Below 2%",
     "link": "https://www.bloomberg.com/news/articles/2026-10-13/argentina-posts-second-straight-month-of-inflation-below-2"
+  },
+  {
+    "title": "Fed’s Collins Sees Higher Rates Likely This Year to Tame Prices",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/fed-s-collins-sees-higher-rates-likely-this-year-to-tame-prices"
+  },
+  {
+    "title": "ECB’s Lane Says Boom in AI Is Tightening Financing Conditions",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-13/ecb-s-lane-says-boom-in-ai-is-tightening-financing-conditions"
   },
   {
     "title": "Fed’s Williams Interview With Bloomberg News: Full Transcript",
@@ -610,66 +670,6 @@
   {
     "title": "Colombia: Villamizar de BanRep ve período prolongado de tasas altas",
     "link": "https://www.bloomberg.com/news/articles/2026-10-13/colombia-villamizar-de-banrep-ve-periodo-prolongado-de-tasas-altas"
-  },
-  {
-    "title": "Colombian Central Banker Sees Extended Period of High Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/colombian-central-banker-sees-extended-period-of-high-rates"
-  },
-  {
-    "title": "US Existing-Home Sales Edged Up Ahead of Mortgage-Rate Shock",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/us-existing-home-sales-edged-up-ahead-of-mortgage-rate-shock"
-  },
-  {
-    "title": "Rory McIlroy Would Welcome LIV Golfers Back to PGA Tour",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/rory-mcilroy-would-welcome-liv-golfers-back-to-pga-tour-video"
-  },
-  {
-    "title": "Senegal’s Quickfire Debt Workout Plan Is Already Running Into Speedbumps",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/senegal-s-quickfire-debt-workout-plan-is-already-running-into-speedbumps"
-  },
-  {
-    "title": "BOE’s Breeden in No Rush to Launch ‘Britcoin’",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-12/bank-of-england-s-breeden-in-no-rush-to-launch-britcoin"
-  },
-  {
-    "title": "Uganda Central Bank Calls Special Meeting as Shilling Sinks",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/ugandan-central-bank-calls-special-meeting-after-shilling-sinks"
-  },
-  {
-    "title": "Brazil Analysts Cut Key Rate Bets as Bolsonaro Tops Runoff Polls",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/brazil-economists-cut-selic-bets-as-bolsonaro-leads-runoff-polls"
-  },
-  {
-    "title": "Blackstone’s Gray, Fed’s Waller See Warning From France’s Stress",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/blackstone-s-gray-fed-s-waller-see-warning-from-france-s-stress"
-  },
-  {
-    "title": "Czech Core Inflation Quickens as Central Bank Mulls Another Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/czech-core-inflation-quickens-as-central-bank-mulls-another-hike"
-  },
-  {
-    "title": "Why the AI Boom Is Papering Over Cracks in Global Economy",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-13/why-the-ai-boom-is-papering-over-cracks-in-global-economy"
-  },
-  {
-    "title": "Financial imbalances and AI boom",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-13/financial-imbalances-and-ai-boom"
-  },
-  {
-    "title": "BOK Governor Backs Further Won Gains, Vows to Keep Policy Tight",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/bok-governor-backs-further-won-gains-vows-to-keep-policy-tight"
-  },
-  {
-    "title": "BOJ Is Said to Lean Against Back-to-Back Rate Hike in October",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/boj-is-said-to-lean-against-back-to-back-rate-hike-in-october"
-  },
-  {
-    "title": "Meloni’s Budget Heads to Italian Cabinet Amid ‘Storm Clouds’",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/meloni-s-budget-heads-to-italian-cabinet-amid-storm-clouds"
-  },
-  {
-    "title": "Waller Says Higher Treasury Yields Can Help Fed Cool Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/fed-s-waller-says-higher-yields-could-help-fed-cool-demand"
   },
   {
     "title": "The Download: open model trade-offs and geothermal power’s promise",
@@ -712,6 +712,22 @@
     "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
   },
   {
+    "title": "Apple’s HomeView ad is confusing to everyone except parents",
+    "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction"
+  },
+  {
+    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+  },
+  {
+    "title": "It looks like Apple Music is getting a new icon",
+    "link": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta"
+  },
+  {
+    "title": "Shopify opens its catalog up to more AI agents",
+    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+  },
+  {
     "title": "Xbox is officially embracing the chaos of AI-powered game ports",
     "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
   },
@@ -724,7 +740,7 @@
     "link": "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy"
   },
   {
-    "title": "Rivian spinoff Mind Robotics hires Doug Field as president",
+    "title": "Rivian partner Mind Robotics hires Doug Field as president",
     "link": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple"
   },
   {
@@ -734,21 +750,5 @@
   {
     "title": "The feds are looking into reports of Tesla’s robotaxis speeding through school zones",
     "link": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation"
-  },
-  {
-    "title": "The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever",
-    "link": "https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale"
-  },
-  {
-    "title": "Facebook will let you customize your feed algorithm using AI",
-    "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
-  },
-  {
-    "title": "Google makes it easier to launch your vibe-coded apps",
-    "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"
-  },
-  {
-    "title": "A redesigned Play Store is coming to cars with Google built-in",
-    "link": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store"
   }
 ]
