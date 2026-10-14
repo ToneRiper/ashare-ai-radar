@@ -120,6 +120,14 @@
     "link": "https://openai.com/form/codex-originals"
   },
   {
+    "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+    "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/"
+  },
+  {
+    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+    "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/"
+  },
+  {
     "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
     "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
   },
@@ -182,14 +190,6 @@
   {
     "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/"
-  },
-  {
-    "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-    "link": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/"
-  },
-  {
-    "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-    "link": "https://blogs.nvidia.com/blog/ai-day-singapore/"
   },
   {
     "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027",
@@ -512,6 +512,14 @@
     "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
   },
   {
+    "title": "ASML Raises Full-Year Sales Outlook",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/asml-raises-full-year-sales-outlook-video"
+  },
+  {
+    "title": "AI Regulation Needed Now Before Accidents Occur, Mittal Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/ai-regulation-needed-now-before-accidents-occur-mittal-says"
+  },
+  {
     "title": "ASML Boosts Outlook as Demand for Chip Tools Outpaces Supply",
     "link": "https://www.bloomberg.com/news/articles/2026-10-14/asml-raises-full-year-sales-outlook-as-ai-boom-drives-demand"
   },
@@ -584,14 +592,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-13/cloud-gaming-and-ai-threaten-to-make-home-consoles-extinct"
   },
   {
-    "title": "Why China Wants to Master the Robotic Hand",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-13/why-china-wants-to-master-the-robotic-hand-video"
-  },
-  {
-    "title": "Microsoft Reports $130 Billion in Data Center Leases",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-over-130-billion-in-new-data-center-leases"
-  },
-  {
     "title": "China on Cusp of $1 Trillion Trade Surplus as Exports Surge",
     "link": "https://www.bloomberg.com/news/articles/2026-10-14/china-s-trade-surplus-nears-940-billion-as-export-growth-surges"
   },
@@ -618,6 +618,10 @@
   {
     "title": "Swiss Set to Reject Tax Hike to Fund Pensions, First Poll Shows",
     "link": "https://www.bloomberg.com/news/articles/2026-10-14/swiss-set-to-reject-tax-hike-to-fund-pensions-first-poll-shows"
+  },
+  {
+    "title": "ECB Not Seeing Second-Round Inflation Effects, Lagarde Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/ecb-not-seeing-second-round-inflation-effects-lagarde-says"
   },
   {
     "title": "RBI Open to More Steps to Curb FX Speculation, Malhotra Says",
@@ -666,10 +670,6 @@
   {
     "title": "US Small-Business Optimism Falls on Dimmer Economic Outlook",
     "link": "https://www.bloomberg.com/news/articles/2026-10-13/us-small-business-optimism-falls-on-dimmer-economic-outlook"
-  },
-  {
-    "title": "Colombia: Villamizar de BanRep ve período prolongado de tasas altas",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/colombia-villamizar-de-banrep-ve-periodo-prolongado-de-tasas-altas"
   },
   {
     "title": "The Download: open model trade-offs and geothermal power’s promise",
