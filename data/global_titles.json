@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/"
   },
   {
+    "title": "How lower fuel economy targets could boost pickups and V-8 engines",
+    "link": "https://www.cnbc.com/2026/10/15/cafe-fuel-economy-v8-trucks.html"
+  },
+  {
     "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
     "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
   },
@@ -306,10 +310,6 @@
   {
     "title": "AstraZeneca CEO says Summit drug could drive next generation of cancer combinations after $2 billion investment",
     "link": "https://www.cnbc.com/2026/10/05/astrazeneca-ceo-says-summit-drug-could-drive-future-cancer-combos.html"
-  },
-  {
-    "title": "These are the cheapest and most expensive U.S. flights this November",
-    "link": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html"
   },
   {
     "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
@@ -432,6 +432,14 @@
     "link": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html"
   },
   {
+    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+    "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+  },
+  {
+    "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
+    "link": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/"
+  },
+  {
     "title": "Figma announces new features to define how agents work on its platform",
     "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
   },
@@ -504,12 +512,36 @@
     "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/"
   },
   {
-    "title": "Prismm helps banks keep inherited money in-house",
-    "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/"
+    "title": "Amazon Debuts Revamped Bee AI Wearables, $12-a-Month Subscription Plan",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan"
   },
   {
-    "title": "Deezer will soon let you filter out AI-generated music",
-    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+    "title": "Ripple Opens $9 Billion Perp-Trading Boom to Wall Street Clients",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ripple-opens-9-billion-perp-trading-boom-to-wall-street-clients"
+  },
+  {
+    "title": "Ledger Unveils $899 Smartphone-Like Device After $90 Million Crypto Theft",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ledger-unveils-899-smartphone-like-device-after-90-million-crypto-theft"
+  },
+  {
+    "title": "Bonds Seeing ‘Classic Flight to Quality,’ Says JPM’s Berro",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/bonds-seeing-classic-flight-to-quality-jpm-s-berro-video"
+  },
+  {
+    "title": "Dyson’s $500 Toothbrush Has One Big Problem: It Doesn’t Work (Yet)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/dyson-s-500-toothbrush-has-one-big-problem-video"
+  },
+  {
+    "title": "AI Trade in Fear Phase Right Now, Says Baird’s Mortonson",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/ai-trade-in-fear-phase-right-now-says-baird-s-mortonson-video"
+  },
+  {
+    "title": "Taiwan Blocks Coinbase, Kalshi Over Suspected Election Bets",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/taiwan-blocks-coinbase-kalshi-over-suspected-election-bets"
+  },
+  {
+    "title": "Truecaller India Rival Seeks $1 Billion Valuation in New Funding",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/truecaller-india-rival-seeks-1-billion-valuation-in-new-funding"
   },
   {
     "title": "Instagram Fills a Pregnant Reporter’s Feed With a Future to Dread",
@@ -530,10 +562,6 @@
   {
     "title": "AI Medicine: Big Pharma Investing Billions, But Success Is Debatable",
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/ai-medicine-big-pharma-investing-billions-but-success-is-debatable"
-  },
-  {
-    "title": "Bonds Seeing ‘Classic Flight to Quality,’ Says JPM’s Berro",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/bonds-seeing-classic-flight-to-quality-jpm-s-berro-video"
   },
   {
     "title": "Dyson CameraJet Review: $500 AI Toothbrush Has Reliability, Water Issues",
@@ -564,32 +592,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-15/ai-race-puts-3-5-trillion-at-write-down-risk-gartner-warns"
   },
   {
-    "title": "Semiconductor Research Head: AI Trade 'Remarkably Resilient' Despite Rising Rates",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/semiconductor-research-head-ai-trade-resilient-video"
-  },
-  {
-    "title": "Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/how-the-financial-industry-could-wind-up-on-hyperliquid-video"
-  },
-  {
-    "title": "Deutsche Bank Sees 'Promising' Signs in Limited Selloff",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/deutsche-bank-sees-promising-signs-in-limited-selloff-video"
-  },
-  {
-    "title": "TSMC’s Upbeat Outlook Fails to Quash AI Buildout Concerns",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in"
-  },
-  {
-    "title": "Global Leaders on AI Growth and Governance",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/global-leaders-on-ai-growth-and-governance-video"
-  },
-  {
-    "title": "Trifecta Capital Sees Five Portfolio Firms Listing in a Year",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/trifecta-capital-sees-five-portfolio-firms-listing-in-a-year"
-  },
-  {
-    "title": "TSMC Open to Working With Terafab But Must Control Plants",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-open-to-working-with-terafab-but-must-control-plants"
+    "title": "Spain’s Opposition Leader Backs De Cos to Succeed Lagarde at ECB",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/spain-s-opposition-leader-backs-de-cos-to-succeed-lagarde-at-ecb"
   },
   {
     "title": "Warsh Takes IMF Stage as Hot Inflation Spurs Rate Hike Bets",
@@ -668,10 +672,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-15/imf-aims-to-wrap-up-egypt-s-final-program-review-by-end-of-year"
   },
   {
-    "title": "RBNZ Chief Economist: Direction of OCR \"Most Likely Up\"",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/rbnz-chief-economist-direction-of-ocr-most-likely-up-video"
-  },
-  {
     "title": "How much more can nuclear power plants give?",
     "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
   },
@@ -712,6 +712,14 @@
     "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
   },
   {
+    "title": "Ledger’s new hardware wallet is an Android phone without the phone",
+    "link": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android"
+  },
+  {
+    "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+    "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
+  },
+  {
     "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
     "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab"
   },
@@ -742,13 +750,5 @@
   {
     "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
     "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
-  },
-  {
-    "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
-    "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features"
-  },
-  {
-    "title": "YouTube sticks new labels on AI-generated songs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
   }
 ]
