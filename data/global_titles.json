@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/introducing-gpt-6-1-sol"
   },
   {
+    "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+    "link": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/"
+  },
+  {
     "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
     "link": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/"
   },
@@ -186,10 +190,6 @@
   {
     "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
     "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/"
-  },
-  {
-    "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-    "link": "https://blogs.nvidia.com/blog/open-protein-dataset/"
   },
   {
     "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
@@ -512,84 +512,148 @@
     "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
   },
   {
-    "title": "TSMC’s Profit Surpasses Expectations After AI Orders Rush In",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in"
-  },
-  {
-    "title": "Anthropic Revenue Hits $16.8 Billion in Quarter Before IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo"
-  },
-  {
-    "title": "Ericsson Earnings Beat Forecast on Solid Mobile Network Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ericsson-earnings-beat-forecast-on-solid-mobile-network-demand"
-  },
-  {
-    "title": "Suzlon's Tanti on India's Next Big Wind Power Push",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/suzlon-s-tanti-on-india-s-next-big-wind-power-push-video"
-  },
-  {
-    "title": "Mukesh Aghi on India-US Ties",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/mukesh-aghi-on-india-us-ties-video"
-  },
-  {
-    "title": "'Adoption Is All': Rishi Sunak on Winners in the AI Race",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/-adoption-is-all-rishi-sunak-on-winners-in-the-ai-race-video"
-  },
-  {
-    "title": "HSBC on Using AI and Quantum Computing",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/hsbc-on-using-ai-and-quantum-computing-video"
-  },
-  {
-    "title": "NYU Professor Gary Marcus on AI Safety",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/nyu-professor-gary-marcus-on-ai-safety-video"
-  },
-  {
-    "title": "Asia Tech Selloff Shows China as Possible Bright Spot",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/asia-tech-selloff-shows-china-as-possible-bright-spot-video"
-  },
-  {
-    "title": "Smartphone Shipments Crash 22% in Worst Quarter Ever, IDC Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/smartphone-shipments-crash-22-in-worst-quarter-ever-idc-says"
-  },
-  {
-    "title": "GlobalFoundries Gets $21 Billion for Plants in US-Japan Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/globalfoundries-gets-21-billion-to-run-plants-in-us-japan-deal"
-  },
-  {
-    "title": "India and the World in the Age of AI: Bloomberg New Economy Forum Live Q&A",
-    "link": "https://www.bloomberg.com/sessions/2026-10-15/live-q-amp-a-how-will-india-wield-its-growing-influence-in-the-age-of-ai"
-  },
-  {
-    "title": "ByteDance in Talks to Secure MediaTek AI Chips for Data Centers",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers"
+    "title": "Instagram Fills a Pregnant Reporter’s Feed With a Future to Dread",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/instagram-fills-a-pregnant-reporter-s-feed-with-a-future-to-dread"
   },
   {
     "title": "CoreWeave’s Big Dream Crashes Into Reality as Yields Top 15%",
     "link": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-s-brazen-dream-crashes-into-reality-as-yields-top-15"
   },
   {
-    "title": "JPMorgan's Dimon Sees Benefits From AI, Warns of Risks",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/jpmorgan-s-dimon-sees-benefits-from-ai-warns-of-risks-video"
+    "title": "Uruguay Hails $5.7 Billion Solar Plant, Data Centers Project",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/spain-s-solaria-to-build-solar-plant-for-uruguay-data-center"
   },
   {
-    "title": "CoreWeave Shares Plunge as CEO Expresses Confidence",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/coreweave-shares-plunge-as-ceo-expresses-confidence-video"
+    "title": "AI Demand Keeps T. Rowe Price CIO Optimistic on Trade",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/ai-demand-keeps-t-rowe-price-cio-optimistic-on-trade-video"
   },
   {
-    "title": "Exporter Dollar Sales Bolster Malaysian Ringgit, Analysts Say",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/exporter-dollar-sales-bolster-malaysian-ringgit-analysts-say"
+    "title": "AI Medicine: Big Pharma Investing Billions, But Success Is Debatable",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/ai-medicine-big-pharma-investing-billions-but-success-is-debatable"
   },
   {
-    "title": "CreditSights Head of Strategy on Bond Market Volatility",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/creditsights-head-of-strategy-on-bond-market-volatility-video"
+    "title": "Bonds Seeing ‘Classic Flight to Quality,’ Says JPM’s Berro",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/bonds-seeing-classic-flight-to-quality-jpm-s-berro-video"
   },
   {
-    "title": "Stocks Slide as Hot Inflation & AI Credit Fears Hit Markets",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/the-close-10-14-2026-video"
+    "title": "Dyson CameraJet Review: $500 AI Toothbrush Has Reliability, Water Issues",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/dyson-camerajet-review-500-ai-toothbrush-has-reliability-water-issues"
   },
   {
-    "title": "OpenAI Vows Not to Use Trade Secrets Allegedly Taken From Apple",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight"
+    "title": "Ramp Completes Funding at $60 Billion Value as Revenue Surges",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ramp-completes-funding-at-60-billion-value-as-revenue-surges"
+  },
+  {
+    "title": "Israeli Firms Placed Spyware at Al Jazeera via Ads, Report Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/israeli-firms-placed-spyware-at-al-jazeera-via-ads-report-says"
+  },
+  {
+    "title": "SpaceX’s Spectrum Purchase Exposes Risks for Big Telecom Stocks",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/spacex-s-spectrum-purchase-exposes-risks-for-big-telecom-stocks"
+  },
+  {
+    "title": "SmartNews Said to Plan December Tokyo IPO as Valuation Craters",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/smartnews-said-to-plan-december-tokyo-ipo-as-valuation-craters"
+  },
+  {
+    "title": "US-China Locked in ‘Unwinnable’ War on AI, NYU’s Marcus Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/us-china-locked-in-unwinnable-war-on-ai-nyu-s-marcus-says"
+  },
+  {
+    "title": "AI Race Puts $3.5 Trillion at Write-Down Risk, Gartner Warns",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ai-race-puts-3-5-trillion-at-write-down-risk-gartner-warns"
+  },
+  {
+    "title": "Semiconductor Research Head: AI Trade 'Remarkably Resilient' Despite Rising Rates",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/semiconductor-research-head-ai-trade-resilient-video"
+  },
+  {
+    "title": "Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/how-the-financial-industry-could-wind-up-on-hyperliquid-video"
+  },
+  {
+    "title": "Deutsche Bank Sees 'Promising' Signs in Limited Selloff",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/deutsche-bank-sees-promising-signs-in-limited-selloff-video"
+  },
+  {
+    "title": "TSMC’s Upbeat Outlook Fails to Quash AI Buildout Concerns",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in"
+  },
+  {
+    "title": "Global Leaders on AI Growth and Governance",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/global-leaders-on-ai-growth-and-governance-video"
+  },
+  {
+    "title": "Trifecta Capital Sees Five Portfolio Firms Listing in a Year",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/trifecta-capital-sees-five-portfolio-firms-listing-in-a-year"
+  },
+  {
+    "title": "TSMC Open to Working With Terafab But Must Control Plants",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-open-to-working-with-terafab-but-must-control-plants"
+  },
+  {
+    "title": "Warsh Takes IMF Stage as Hot Inflation Spurs Rate Hike Bets",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/warsh-takes-imf-stage-as-hot-inflation-spurs-rate-hike-bets"
+  },
+  {
+    "title": "Chokepoints and the impact on the global economy and inflation",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/chokepoints-and-the-impact-on-the-global-economy-and-inflation"
+  },
+  {
+    "title": "Banks Are Part of ‘Jewel’ in UK Economic Crown, Healey Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/banks-are-part-of-jewel-in-uk-economic-crown-healey-says"
+  },
+  {
+    "title": "India’s Top Court Hears Delhi Protest Cases",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/india-s-top-court-hears-delhi-protest-cases-video"
+  },
+  {
+    "title": "India Trade Deficit Widened in September on Higher Import Bill",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/india-trade-deficit-widened-in-september-on-higher-import-bill"
+  },
+  {
+    "title": "IMF Says Africa Showing Resilience but More Vulnerable to Shocks",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/imf-says-africa-showing-resilience-but-more-vulnerable-to-shocks"
+  },
+  {
+    "title": "Bank of England Officials Divide Over Inflation Risk Facing UK",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/bank-of-england-officials-divide-over-inflation-risk-facing-uk"
+  },
+  {
+    "title": "Draghi Says AI Can Help US Steady Debt If Congress Curbs Deficit",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/draghi-says-ai-can-help-us-steady-debt-if-congress-curbs-deficit"
+  },
+  {
+    "title": "Draghi Sees High Bar for ECB to Help France With Crisis Tool",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/draghi-sees-high-bar-for-ecb-to-help-france-with-crisis-tool"
+  },
+  {
+    "title": "ECB in No Rush to Act Amid Opposing Economic Forces, Kazaks Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ecb-in-no-rush-to-act-amid-opposing-economic-forces-kazaks-says"
+  },
+  {
+    "title": "Malaysia Central Bank Chief Signals Room to Act as Inflation Risks Rise",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/malaysia-central-bank-chief-signals-room-to-act-as-inflation-risks-rise"
+  },
+  {
+    "title": "BOJ’s Koeda Warns Against Too Much Caution on Rate Hikes",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/boj-s-koeda-warns-against-overly-cautious-stance-on-rate-hikes"
+  },
+  {
+    "title": "What Hot US Inflation Means for Bonds, Warsh in Asia",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/what-hot-us-inflation-means-for-bonds-warsh-in-asia-video"
+  },
+  {
+    "title": "UK Unexpectedly Grows in August After Manufacturing Surge",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/uk-economy-grew-in-august-with-better-than-feared-performance"
+  },
+  {
+    "title": "Volkswagen Turns to US for Growth",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/volkswagen-turns-to-us-for-growth-video"
+  },
+  {
+    "title": "India May Need Rate Hikes, Tax Cuts to Buoy Rupee, Analysts Say",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/india-may-need-rate-hikes-tax-cuts-to-buoy-rupee-analysts-say"
   },
   {
     "title": "IMF Warns Yuan to Stay Undervalued Without Stronger Stimulus",
@@ -608,68 +672,16 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-15/rbnz-chief-economist-direction-of-ocr-most-likely-up-video"
   },
   {
-    "title": "ECB May Not Have to Do as Much If Markets Tighten, Dolenc Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ecb-may-not-have-to-do-as-much-if-markets-tighten-dolenc-says"
+    "title": "How much more can nuclear power plants give?",
+    "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/"
   },
   {
-    "title": "Bessent Pushes IMF on ‘Distortionary’ Policies, Hints at China",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/bessent-pushes-imf-on-distortionary-policies-in-china-signal"
+    "title": "Six wild ideas for perpetuating your mind",
+    "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/"
   },
   {
-    "title": "ECB Probably Needs to Embrace Mildly Hawkish Stance, Knot Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ecb-probably-needs-to-embrace-mildly-hawkish-stance-knot-says"
-  },
-  {
-    "title": "UK’s Healey Says He Will ‘Stay The Path’ on Deficit Reduction",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/uk-s-healey-says-he-will-stay-the-path-on-deficit-reduction"
-  },
-  {
-    "title": "BOJ’s Koeda Warns Against Too Much Caution on Rate Hikes",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/boj-s-koeda-warns-against-overly-cautious-stance-on-rate-hikes"
-  },
-  {
-    "title": "RBNZ Chief Economist Says Next Interest Rate Call ‘Wide Open’",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/rbnz-chief-economist-says-next-interest-rate-call-wide-open"
-  },
-  {
-    "title": "IMF Sees Asia’s Growth Slowing Despite AI-Fueled Resilience",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/imf-sees-asia-s-growth-slowing-despite-ai-fueled-resilience"
-  },
-  {
-    "title": "Australia’s Higher Unemployment Prompts Paring of Rate Bets",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/australian-unemployment-rate-was-4-7-in-september-on-job-losses"
-  },
-  {
-    "title": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/japan-s-katayama-renews-warnings-on-yen-after-us-cpi-heats-up"
-  },
-  {
-    "title": "India May Need Rate Hikes, Tax Cuts to Buoy Rupee, Analysts Say",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/india-may-need-rate-hikes-tax-cuts-to-buoy-rupee-analysts-say"
-  },
-  {
-    "title": "Top Forecaster Says Fed May Hike Rates Half a Point in December",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/top-forecaster-says-fed-may-hike-rates-half-a-point-in-december"
-  },
-  {
-    "title": "India Seeks a Game-Changing AI Dividend. It Won’t Come Easy",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/india-seeks-a-game-changing-ai-dividend-it-won-t-come-easy"
-  },
-  {
-    "title": "Fed’s Goolsbee Says Inflation Discouraging, Warns of Overheating",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-goolsbee-says-inflation-discouraging-warns-of-overheating"
-  },
-  {
-    "title": "Fed Beige Book Shows Intensifying Price Growth in Some Areas",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-beige-book-shows-intensifying-price-growth-in-some-areas"
-  },
-  {
-    "title": "Senegal’s Quickfire Debt Workout Plan Is Already Running Into Speedbumps",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-13/senegal-s-quickfire-debt-workout-plan-is-already-running-into-speedbumps"
-  },
-  {
-    "title": "Argentina Eyes Tapping China Swap to Cover 2027 Financing Needs",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/argentina-eyes-tapping-china-swap-to-cover-2027-financing-needs"
+    "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+    "link": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/"
   },
   {
     "title": "The Download: faking blood and the future of batteries",
@@ -700,16 +712,12 @@
     "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
   },
   {
-    "title": "The ecologist revealing the invisible networks that revive rainforests",
-    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
+    "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+    "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab"
   },
   {
-    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/"
-  },
-  {
-    "title": "We’re putting too much faith in AI’s ability to say no",
-    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
+    "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+    "link": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott"
   },
   {
     "title": "McKinsey is making job applicants spar with a fake AI client",
@@ -742,13 +750,5 @@
   {
     "title": "YouTube sticks new labels on AI-generated songs",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
-  },
-  {
-    "title": "Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more",
-    "link": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale"
-  },
-  {
-    "title": "Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon",
-    "link": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale"
   }
 ]
