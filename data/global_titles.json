@@ -4,8 +4,16 @@
     "link": "https://openai.com/index/amp-beyond-coding"
   },
   {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "link": "https://openai.com/index/sentinelone"
+  },
+  {
     "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
     "link": "https://openai.com/index/third-moment-research"
+  },
+  {
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "link": "https://openai.com/index/block-ai-powered-security"
   },
   {
     "title": "The EU’s next chapter in AI is agentic",
@@ -112,15 +120,11 @@
     "link": "https://openai.com/index/introducing-gpt-6-1-sol"
   },
   {
-    "title": "Introducing dots",
-    "link": "https://openai.com/index/introducing-dots"
+    "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+    "link": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/"
   },
   {
-    "title": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia"
-  },
-  {
-    "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+    "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
     "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/"
   },
   {
@@ -188,8 +192,8 @@
     "link": "https://blogs.nvidia.com/blog/open-protein-dataset/"
   },
   {
-    "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/"
+    "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+    "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
   },
   {
     "title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
@@ -208,7 +212,7 @@
     "link": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html"
   },
   {
-    "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+    "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
   },
   {
@@ -308,8 +312,16 @@
     "link": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html"
   },
   {
-    "title": "David Ellison and Ynon Kreiz announce Skydance leadership team",
-    "link": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html"
+    "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+    "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html"
+  },
+  {
+    "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
+    "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html"
+  },
+  {
+    "title": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+    "link": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html"
   },
   {
     "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
@@ -420,16 +432,72 @@
     "link": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html"
   },
   {
-    "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-    "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html"
+    "title": "Figma announces new features to define how agents work on its platform",
+    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
   },
   {
-    "title": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
-    "link": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html"
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
   },
   {
-    "title": "Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s problem, says Singapore's foreign minister",
-    "link": "https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html"
+    "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/"
+  },
+  {
+    "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/"
+  },
+  {
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
+  },
+  {
+    "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+    "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/"
+  },
+  {
+    "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+    "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/"
+  },
+  {
+    "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+    "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
+  },
+  {
+    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/"
+  },
+  {
+    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+    "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/"
+  },
+  {
+    "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/"
+  },
+  {
+    "title": "Electric vehicle sales in the US are showing signs of life",
+    "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/"
+  },
+  {
+    "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+    "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/"
+  },
+  {
+    "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+    "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/"
+  },
+  {
+    "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+    "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/"
+  },
+  {
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+  },
+  {
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
   },
   {
     "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
@@ -444,156 +512,156 @@
     "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
   },
   {
-    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-    "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/"
+    "title": "TSMC’s Profit Surpasses Expectations After AI Orders Rush In",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in"
   },
   {
-    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-    "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+    "title": "Anthropic Revenue Hits $16.8 Billion in Quarter Before IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo"
   },
   {
-    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-    "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
+    "title": "Ericsson Earnings Beat Forecast on Solid Mobile Network Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ericsson-earnings-beat-forecast-on-solid-mobile-network-demand"
   },
   {
-    "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
-    "link": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/"
+    "title": "Suzlon's Tanti on India's Next Big Wind Power Push",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/suzlon-s-tanti-on-india-s-next-big-wind-power-push-video"
   },
   {
-    "title": "TechCrunch Disrupt 2026: Day 2",
-    "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/"
+    "title": "Mukesh Aghi on India-US Ties",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/mukesh-aghi-on-india-us-ties-video"
   },
   {
-    "title": "NTangible bets it can predict how athletes will perform under pressure",
-    "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/"
+    "title": "'Adoption Is All': Rishi Sunak on Winners in the AI Race",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/-adoption-is-all-rishi-sunak-on-winners-in-the-ai-race-video"
   },
   {
-    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-    "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+    "title": "HSBC on Using AI and Quantum Computing",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/hsbc-on-using-ai-and-quantum-computing-video"
   },
   {
-    "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
-    "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/"
+    "title": "NYU Professor Gary Marcus on AI Safety",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/nyu-professor-gary-marcus-on-ai-safety-video"
   },
   {
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+    "title": "Asia Tech Selloff Shows China as Possible Bright Spot",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/asia-tech-selloff-shows-china-as-possible-bright-spot-video"
   },
   {
-    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+    "title": "Smartphone Shipments Crash 22% in Worst Quarter Ever, IDC Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/smartphone-shipments-crash-22-in-worst-quarter-ever-idc-says"
   },
   {
-    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+    "title": "GlobalFoundries Gets $21 Billion for Plants in US-Japan Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/globalfoundries-gets-21-billion-to-run-plants-in-us-japan-deal"
   },
   {
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
+    "title": "India and the World in the Age of AI: Bloomberg New Economy Forum Live Q&A",
+    "link": "https://www.bloomberg.com/sessions/2026-10-15/live-q-amp-a-how-will-india-wield-its-growing-influence-in-the-age-of-ai"
   },
   {
-    "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-    "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/"
+    "title": "ByteDance in Talks to Secure MediaTek AI Chips for Data Centers",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers"
   },
   {
-    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-    "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/"
+    "title": "CoreWeave’s Big Dream Crashes Into Reality as Yields Top 15%",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-s-brazen-dream-crashes-into-reality-as-yields-top-15"
   },
   {
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
+    "title": "JPMorgan's Dimon Sees Benefits From AI, Warns of Risks",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/jpmorgan-s-dimon-sees-benefits-from-ai-warns-of-risks-video"
   },
   {
-    "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-    "link": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/"
+    "title": "CoreWeave Shares Plunge as CEO Expresses Confidence",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/coreweave-shares-plunge-as-ceo-expresses-confidence-video"
   },
   {
-    "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
-    "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/"
+    "title": "Exporter Dollar Sales Bolster Malaysian Ringgit, Analysts Say",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/exporter-dollar-sales-bolster-malaysian-ringgit-analysts-say"
   },
   {
-    "title": "US, Chinese Robotaxi Rivals Race for Europe",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/us-chinese-robotaxi-rivals-race-for-europe-video"
+    "title": "CreditSights Head of Strategy on Bond Market Volatility",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/creditsights-head-of-strategy-on-bond-market-volatility-video"
   },
   {
-    "title": "Modal CEO: AI Has Entered a ‘New Era of Software’",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/modal-ceo-ai-has-entered-a-new-era-of-software-video"
+    "title": "Stocks Slide as Hot Inflation & AI Credit Fears Hit Markets",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-14/the-close-10-14-2026-video"
   },
   {
-    "title": "OpenAI Employee Arrested Over Hidden Recording Device",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/openai-employee-arrested-over-hidden-recording-device-video"
-  },
-  {
-    "title": "ASML Struggles to Keep Up With High AI Demand",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/asml-struggles-to-keep-up-with-high-ai-demand-video"
-  },
-  {
-    "title": "Hackers Hit Fridge Vendor Before Temperatures Soared in French Stores",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-14/hackers-hit-fridge-vendor-before-temperatures-soared-in-french-stores"
-  },
-  {
-    "title": "CoreWeave, Neocloud Leverage a Concern for Gil Luria",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/coreweave-neocloud-leverage-a-concern-for-gil-luria-video"
-  },
-  {
-    "title": "Inflation Rises as Fuel Costs Surge",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/open-interest-10-14-2026-video"
-  },
-  {
-    "title": "Iowa, Michigan Hit by Weak Exports Ahead of Tight Midterm Races",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/iowa-michigan-hit-by-weak-exports-ahead-of-tight-midterm-races"
-  },
-  {
-    "title": "OpenAI Names Ruddarraju to Lead Data Center, Computing Unit",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/openai-names-uday-ruddarraju-to-lead-data-center-computing-unit"
-  },
-  {
-    "title": "AI Financing Will Need To Tap Global Markets: August",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/ai-financing-will-need-to-tap-global-markets-august"
-  },
-  {
-    "title": "Apple, OpenAI Head to Court in Fight Over AI Trade Secrets",
+    "title": "OpenAI Vows Not to Use Trade Secrets Allegedly Taken From Apple",
     "link": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight"
   },
   {
-    "title": "Kansas Data Center Plan Includes $1,000 Annual Payments for De Soto Households",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/data-center-offers-1-000-a-year-to-kansas-neighbors-for-decade"
+    "title": "Korean Households Increase Borrowing at Slowest Pace Since March",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/korean-households-increase-borrowing-at-slowest-pace-since-march"
   },
   {
-    "title": "Spain’s Solaria to Build Solar Plant for Uruguay Data Center",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/spain-s-solaria-to-build-solar-plant-for-uruguay-data-center"
+    "title": "IMF Aims to Wrap Up Egypt’s Final Program Review by End of Year",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/imf-aims-to-wrap-up-egypt-s-final-program-review-by-end-of-year"
   },
   {
-    "title": "AI Will Change Banking Jobs, Says Santander's Botín",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/ai-will-change-banking-jobs-says-santander-s-botin-video"
+    "title": "RBNZ Chief Economist: Direction of OCR \"Most Likely Up\"",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/rbnz-chief-economist-direction-of-ocr-most-likely-up-video"
   },
   {
-    "title": "Excess Regulation in Europe Is a Big Tax, Botin Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/excess-regulation-in-europe-is-a-big-tax-botin-says-video"
+    "title": "ECB May Not Have to Do as Much If Markets Tighten, Dolenc Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ecb-may-not-have-to-do-as-much-if-markets-tighten-dolenc-says"
   },
   {
-    "title": "Chip Stocks Set to Erase $1 Trillion in Value as Rout Deepens",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/chip-stocks-set-to-erase-1-trillion-in-value-as-rout-deepens"
-  },
-  {
-    "title": "Palantir Settles Suit With London Mayor Over Scrapped Policing Contract",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/palantir-settles-suit-with-london-mayor-over-scrapped-policing-contract"
-  },
-  {
-    "title": "Amount of AI Going into Defense Budgets is 'Immense,' Says Ted Mortonson",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/ai-in-defense-budgets-is-immense-says-mortonson-video"
-  },
-  {
-    "title": "Tanzania Court Cuts Pula Case Against Tycoon Motsepe’s ARM",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/tanzanian-court-ends-pula-s-case-against-billionaire-motsepe"
-  },
-  {
-    "title": "AI’s Biggest Risk: Debt-Fueled Growth",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/ai-s-biggest-risk-debt-fueled-growth-video"
-  },
-  {
-    "title": "Bessent Pushes IMF on ‘Distortionary’ Policies, in China Signal",
+    "title": "Bessent Pushes IMF on ‘Distortionary’ Policies, Hints at China",
     "link": "https://www.bloomberg.com/news/articles/2026-10-14/bessent-pushes-imf-on-distortionary-policies-in-china-signal"
+  },
+  {
+    "title": "ECB Probably Needs to Embrace Mildly Hawkish Stance, Knot Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ecb-probably-needs-to-embrace-mildly-hawkish-stance-knot-says"
+  },
+  {
+    "title": "UK’s Healey Says He Will ‘Stay The Path’ On Deficit Reduction",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/uk-s-healey-says-he-will-stay-the-path-on-deficit-reduction"
+  },
+  {
+    "title": "BOJ’s Koeda Warns Against Too Much Caution on Rate Hikes",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/boj-s-koeda-warns-against-overly-cautious-stance-on-rate-hikes"
+  },
+  {
+    "title": "RBNZ Chief Economist Says Next Interest Rate Call ‘Wide Open’",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/rbnz-chief-economist-says-next-interest-rate-call-wide-open"
+  },
+  {
+    "title": "IMF Sees Asia’s Growth Slowing Despite AI-Fueled Resilience",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/imf-sees-asia-s-growth-slowing-despite-ai-fueled-resilience"
+  },
+  {
+    "title": "IMF Warns China Stimulus Lacks Ambition, Leaves Yuan Undervalued",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/imf-warns-china-stimulus-lacks-ambition-leaves-yuan-undervalued"
+  },
+  {
+    "title": "Australia’s Higher Unemployment Prompts Paring of Rate Bets",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/australian-unemployment-rate-was-4-7-in-september-on-job-losses"
+  },
+  {
+    "title": "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/japan-s-katayama-renews-warnings-on-yen-after-us-cpi-heats-up"
+  },
+  {
+    "title": "India May Need Rate Hikes, Tax Cuts to Buoy Rupee, Analysts Say",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/india-may-need-rate-hikes-tax-cuts-to-buoy-rupee-analysts-say"
+  },
+  {
+    "title": "Top Forecaster Says Fed May Hike Rates Half a Point in December",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/top-forecaster-says-fed-may-hike-rates-half-a-point-in-december"
+  },
+  {
+    "title": "India Seeks a Game-Changing AI Dividend. It Won’t Come Easy",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/india-seeks-a-game-changing-ai-dividend-it-won-t-come-easy"
+  },
+  {
+    "title": "Fed’s Goolsbee Says Inflation Discouraging, Warns of Overheating",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-goolsbee-says-inflation-discouraging-warns-of-overheating"
+  },
+  {
+    "title": "Fed Beige Book Shows Intensifying Price Growth in Some Areas",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-beige-book-shows-intensifying-price-growth-in-some-areas"
   },
   {
     "title": "Senegal’s Quickfire Debt Workout Plan Is Already Running Into Speedbumps",
@@ -602,74 +670,6 @@
   {
     "title": "Argentina Eyes Tapping China Swap to Cover 2027 Financing Needs",
     "link": "https://www.bloomberg.com/news/articles/2026-10-14/argentina-eyes-tapping-china-swap-to-cover-2027-financing-needs"
-  },
-  {
-    "title": "Shilling World’s Best Performer After Uganda’s Big Rate Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/uganda-announces-jumbo-interest-rate-hike-to-defend-shilling"
-  },
-  {
-    "title": "US Consumer Prices Rise by Most Since April in Broad Advance",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/us-consumer-prices-climb-by-most-since-april-on-fuel-costs"
-  },
-  {
-    "title": "Fed Rate Hike Would Probably Be 'Stupid' Now, JPMorgan's Kelly Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/fed-would-be-stupid-to-raise-rates-now-jpm-s-kelly-video"
-  },
-  {
-    "title": "IMF Says US Growth Not Enough To Fight High Debt, Deficit Levels",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/imf-says-us-growth-not-enough-to-fight-high-debt-deficit-levels"
-  },
-  {
-    "title": "‘Middle Powers’ Grapple With New Survival Strategies Under Trump",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/-middle-powers-grapple-with-new-survival-strategies-under-trump"
-  },
-  {
-    "title": "ECB’s Simkus Says Inflation Pressures Point to More Tightening",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/ecb-s-simkus-says-inflation-pressures-point-to-more-tightening"
-  },
-  {
-    "title": "US CPI Report September 2026: Live News on Inflation, Consumer Price Index",
-    "link": "https://www.bloomberg.com/news/live-blog/2026-10-14/us-cpi-for-september-live-updates"
-  },
-  {
-    "title": "South African and Chinese imports",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-14/south-african-and-chinese-imports"
-  },
-  {
-    "title": "Feedback Loop Ensnares Governments With Debt and Yields High, IMF Says",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-14/feedback-loop-ensnares-governments-with-debt-and-yields-high-imf-says"
-  },
-  {
-    "title": "Wages May Deliver a £9 Billion Boost for Healey at UK Budget",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/wages-may-deliver-a-9-billion-boost-for-healey-at-uk-budget"
-  },
-  {
-    "title": "Slovak Lawmakers Back Wider Deficit as Fico Readies for Election",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/slovak-lawmakers-back-wider-deficit-as-fico-readies-for-election"
-  },
-  {
-    "title": "Singapore’s MAS Stands Pat as Easing AI Boom Tames Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/singapore-holds-monetary-policy-as-economy-expands-5-4-on-ai"
-  },
-  {
-    "title": "ECB Not Seeing Second-Round Inflation Effects, Lagarde Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/ecb-not-seeing-second-round-inflation-effects-lagarde-says"
-  },
-  {
-    "title": "Commerzbank Sees ECB Approval for UniCredit Control Soon",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-14/commerzbank-sees-ecb-approval-for-unicredit-control-soon-video"
-  },
-  {
-    "title": "Surging China Exports Push Trade Surplus Toward Fresh Record",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/china-s-trade-surplus-nears-940-billion-as-export-growth-surges"
-  },
-  {
-    "title": "BOE’s Bailey Berates Social Media Platforms for Allowing Fraud",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/boe-s-bailey-berates-social-media-platforms-for-allowing-fraud"
-  },
-  {
-    "title": "Italy Industry Lobby Says Energy Shock Could Wipe Out Growth",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/italy-industry-lobby-says-energy-shock-could-wipe-out-growth"
   },
   {
     "title": "The Download: faking blood and the future of batteries",
@@ -712,43 +712,43 @@
     "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
   },
   {
+    "title": "McKinsey is making job applicants spar with a fake AI client",
+    "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview"
+  },
+  {
+    "title": "The best feature of Apple’s HomeView might be its simplicity",
+    "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature"
+  },
+  {
+    "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+  },
+  {
+    "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+    "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown"
+  },
+  {
+    "title": "The AI race is back on",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+  },
+  {
+    "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+    "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
+  },
+  {
+    "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
+    "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features"
+  },
+  {
+    "title": "YouTube sticks new labels on AI-generated songs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
+  },
+  {
+    "title": "Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more",
+    "link": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale"
+  },
+  {
     "title": "Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon",
     "link": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale"
-  },
-  {
-    "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
-    "link": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod"
-  },
-  {
-    "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
-    "link": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds"
-  },
-  {
-    "title": "My AI doppelganger tells me what to eat",
-    "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health"
-  },
-  {
-    "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans"
-  },
-  {
-    "title": "Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone",
-    "link": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare"
-  },
-  {
-    "title": "Honey, Xbox shrunk its controller",
-    "link": "https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing"
-  },
-  {
-    "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-    "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"
-  },
-  {
-    "title": "Now you can call anyone with WhatsApp, even if they don&#8217;t have WhatsApp",
-    "link": "https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls"
-  },
-  {
-    "title": "Square’s new kiosk lets you talk to AI for help with your order",
-    "link": "https://www.theverge.com/tech/1009086/square-kiosk"
   }
 ]
