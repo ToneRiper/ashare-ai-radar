@@ -1,5 +1,9 @@
 [
   {
+    "title": "Teaching students to think and learn through questions",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+  },
+  {
     "title": "Amp puts AI agents to work beyond code with OpenAI models",
     "link": "https://openai.com/index/amp-beyond-coding"
   },
@@ -116,8 +120,16 @@
     "link": "https://openai.com/index/devday-2026-recap"
   },
   {
-    "title": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol"
+    "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/"
+  },
+  {
+    "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+    "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/"
+  },
+  {
+    "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/"
   },
   {
     "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
@@ -180,16 +192,12 @@
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/"
   },
   {
-    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-    "link": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/"
+    "title": "JetBlue’s new domestic first class, BlueFirst, is now on sale",
+    "link": "https://www.cnbc.com/2026/10/15/jetblue-bluefirst-first-class.html"
   },
   {
-    "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
-    "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/"
-  },
-  {
-    "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-    "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/"
+    "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
+    "link": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html"
   },
   {
     "title": "How lower fuel economy targets could boost pickups and V-8 engines",
@@ -302,14 +310,6 @@
   {
     "title": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
     "link": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html"
-  },
-  {
-    "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
-    "link": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html"
-  },
-  {
-    "title": "AstraZeneca CEO says Summit drug could drive next generation of cancer combinations after $2 billion investment",
-    "link": "https://www.cnbc.com/2026/10/05/astrazeneca-ceo-says-summit-drug-could-drive-future-cancer-combos.html"
   },
   {
     "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
@@ -432,6 +432,26 @@
     "link": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html"
   },
   {
+    "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+    "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/"
+  },
+  {
+    "title": "AI agents are coming to Rivian’s cars",
+    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
+  },
+  {
+    "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+    "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/"
+  },
+  {
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Last day",
+    "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
+  },
+  {
     "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
     "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
   },
@@ -492,104 +512,120 @@
     "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/"
   },
   {
-    "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
-    "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/"
+    "title": "Santander's Ana Botin on US Growth, Debt, AI and the Global Economy | The David Rubenstein Show",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/santander-s-ana-botin-the-david-rubenstein-show-video"
   },
   {
-    "title": "Hiyd is a health tracker that attaches to the watch you already wear",
-    "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/"
+    "title": "Anthropic Revenue Hits $16.8 Billion in Quarter Before IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo"
   },
   {
-    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+    "title": "Meta Releases Open AI Model While Keeping Its Best Tech Closed",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/meta-releases-open-ai-model-while-keeping-its-best-tech-closed"
   },
   {
-    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
+    "title": "Israeli Firms Put Spyware at Al Jazeera via Ads, Report Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/israeli-firms-placed-spyware-at-al-jazeera-via-ads-report-says"
   },
   {
-    "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
-    "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/"
+    "title": "CityFibre Asks Banks to Restructure Debt and Fund New M&A Deals",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/cityfibre-asks-banks-to-lend-for-new-deals-write-down-some-debt"
   },
   {
-    "title": "Amazon Debuts Revamped Bee AI Wearables, $12-a-Month Subscription Plan",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan"
-  },
-  {
-    "title": "Ripple Opens $9 Billion Perp-Trading Boom to Wall Street Clients",
+    "title": "Ripple Opens $9 Billion Perps Boom to Wall Street Clients",
     "link": "https://www.bloomberg.com/news/articles/2026-10-15/ripple-opens-9-billion-perp-trading-boom-to-wall-street-clients"
   },
   {
-    "title": "Ledger Unveils $899 Smartphone-Like Device After $90 Million Crypto Theft",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ledger-unveils-899-smartphone-like-device-after-90-million-crypto-theft"
+    "title": "Anthropic Revenue Hits $16.8 Billion in Q3 Before IPO",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/anthropic-revenue-hits-16-8-billion-in-q3-before-ipo-video"
   },
   {
-    "title": "Bonds Seeing ‘Classic Flight to Quality,’ Says JPM’s Berro",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/bonds-seeing-classic-flight-to-quality-jpm-s-berro-video"
+    "title": "CoreWeave’s Selloff Is ‘Buying Opportunity,’ Deutsche Bank Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/coreweave-s-selloff-is-buying-opportunity-deutsche-bank-says"
   },
   {
-    "title": "Dyson’s $500 Toothbrush Has One Big Problem: It Doesn’t Work (Yet)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/dyson-s-500-toothbrush-has-one-big-problem-video"
+    "title": "Apple HomeView Is Finally Here + Touchscreen MacBook Pro Launch Details",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/power-on-podcast-apple-s-homeview-is-here-video"
   },
   {
-    "title": "AI Trade in Fear Phase Right Now, Says Baird’s Mortonson",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/ai-trade-in-fear-phase-right-now-says-baird-s-mortonson-video"
+    "title": "Nvidia CEO Says There’s No Need to Backstop Troubled CoreWeave",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/nvidia-ceo-huang-says-coreweave-improving-no-backstop-needed"
+  },
+  {
+    "title": "Sony Debuts $5,900 Gold-Plated Walkman Music Player for Enthusiasts",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/sony-debuts-5-900-gold-plated-walkman-music-player-for-enthusiasts"
+  },
+  {
+    "title": "Telefónica Is Said to Offer Buyer Loan to Rescue Mexico Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/telefonica-is-said-to-offer-buyer-loan-to-rescue-mexico-deal"
+  },
+  {
+    "title": "CoreWeave Credit Risk Hits Record as Default Odds Top 60% on Borrowing Plans",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/coreweave-risk-gauge-hits-record-pricing-60-odds-of-default"
   },
   {
     "title": "Taiwan Blocks Coinbase, Kalshi Over Suspected Election Bets",
     "link": "https://www.bloomberg.com/news/articles/2026-10-15/taiwan-blocks-coinbase-kalshi-over-suspected-election-bets"
   },
   {
-    "title": "Truecaller India Rival Seeks $1 Billion Valuation in New Funding",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/truecaller-india-rival-seeks-1-billion-valuation-in-new-funding"
+    "title": "Ryan Israel on Investing Beyond AI",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/ryan-israel-on-investing-beyond-ai-video"
   },
   {
-    "title": "Instagram Fills a Pregnant Reporter’s Feed With a Future to Dread",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/instagram-fills-a-pregnant-reporter-s-feed-with-a-future-to-dread"
+    "title": "Anthropic Urged to Pause IPO for AI Safety by NYC Comptroller",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/anthropic-urged-to-pause-ipo-by-nyc-comptroller-video"
   },
   {
-    "title": "CoreWeave’s Big Dream Crashes Into Reality as Yields Top 15%",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-s-brazen-dream-crashes-into-reality-as-yields-top-15"
-  },
-  {
-    "title": "Uruguay Hails $5.7 Billion Solar Plant, Data Centers Project",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-14/spain-s-solaria-to-build-solar-plant-for-uruguay-data-center"
-  },
-  {
-    "title": "AI Demand Keeps T. Rowe Price CIO Optimistic on Trade",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/ai-demand-keeps-t-rowe-price-cio-optimistic-on-trade-video"
-  },
-  {
-    "title": "AI Medicine: Big Pharma Investing Billions, But Success Is Debatable",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/ai-medicine-big-pharma-investing-billions-but-success-is-debatable"
-  },
-  {
-    "title": "Dyson CameraJet Review: $500 AI Toothbrush Has Reliability, Water Issues",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/dyson-camerajet-review-500-ai-toothbrush-has-reliability-water-issues"
-  },
-  {
-    "title": "Ramp Completes Funding at $60 Billion Value as Revenue Surges",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ramp-completes-funding-at-60-billion-value-as-revenue-surges"
-  },
-  {
-    "title": "Israeli Firms Placed Spyware at Al Jazeera via Ads, Report Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/israeli-firms-placed-spyware-at-al-jazeera-via-ads-report-says"
+    "title": "Rocket Lab Falls After Neutron Rocket Debut Delayed to 2027",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-14/rocket-lab-delays-debut-of-larger-neutron-rocket-to-next-year"
   },
   {
     "title": "SpaceX’s Spectrum Purchase Exposes Risks for Big Telecom Stocks",
     "link": "https://www.bloomberg.com/news/articles/2026-10-15/spacex-s-spectrum-purchase-exposes-risks-for-big-telecom-stocks"
   },
   {
-    "title": "SmartNews Said to Plan December Tokyo IPO as Valuation Craters",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/smartnews-said-to-plan-december-tokyo-ipo-as-valuation-craters"
+    "title": "Crypto Traders Are Already Betting on Ambani’s Big Jio IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ambani-s-jio-hits-crypto-rails-ahead-of-record-india-ipo"
   },
   {
-    "title": "US-China Locked in ‘Unwinnable’ War on AI, NYU’s Marcus Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/us-china-locked-in-unwinnable-war-on-ai-nyu-s-marcus-says"
+    "title": "Dangote Cement Adds Goldman, UBS for November London Listing",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/dangote-cement-adds-goldman-ubs-for-november-london-listing"
   },
   {
-    "title": "AI Race Puts $3.5 Trillion at Write-Down Risk, Gartner Warns",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ai-race-puts-3-5-trillion-at-write-down-risk-gartner-warns"
+    "title": "Kenya IMF Program Timing Uncertain, Central Bank Chief Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/kenya-imf-program-timing-uncertain-central-bank-chief-says"
+  },
+  {
+    "title": "Italy Three-Year Budget Draws €10.7 Billion From Finance Sector",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/italy-three-year-budget-draws-10-7-billion-from-finance-sector"
+  },
+  {
+    "title": "Peru’s Economy Expanded Faster Than 3% for Second Month",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/peru-s-economy-expanded-faster-than-3-for-second-month"
+  },
+  {
+    "title": "US Retail Sales Rise More Than Expected on Gasoline Receipts",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/us-retail-sales-rise-more-than-expected-on-gasoline-receipts"
+  },
+  {
+    "title": "ECB Officials Get Impatient for Lagarde to Clear Up Future Plans",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/ecb-officials-get-impatient-for-lagarde-to-clear-up-future-plans"
+  },
+  {
+    "title": "Japan’s Katayama Says G20 Should Monitor Markets With Urgency",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/japan-s-katayama-renews-warnings-on-yen-after-us-cpi-heats-up"
+  },
+  {
+    "title": "US Producer Prices Up Most Since 2022 as Energy Pain Worsens",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/us-producer-prices-rise-by-most-in-more-than-four-years"
+  },
+  {
+    "title": "India’s Top Court Hears Delhi Protest Cases",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-15/india-s-top-court-hears-delhi-protest-cases-video"
+  },
+  {
+    "title": "Banks Are Part of ‘Jewel’ in UK Economic Crown, Healey Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/banks-are-part-of-jewel-in-uk-economic-crown-healey-says"
   },
   {
     "title": "Spain’s Opposition Leader Backs De Cos to Succeed Lagarde at ECB",
@@ -602,14 +638,6 @@
   {
     "title": "Chokepoints and the impact on the global economy and inflation",
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/chokepoints-and-the-impact-on-the-global-economy-and-inflation"
-  },
-  {
-    "title": "Banks Are Part of ‘Jewel’ in UK Economic Crown, Healey Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/banks-are-part-of-jewel-in-uk-economic-crown-healey-says"
-  },
-  {
-    "title": "India’s Top Court Hears Delhi Protest Cases",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/india-s-top-court-hears-delhi-protest-cases-video"
   },
   {
     "title": "India Trade Deficit Widened in September on Higher Import Bill",
@@ -644,32 +672,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-15/boj-s-koeda-warns-against-overly-cautious-stance-on-rate-hikes"
   },
   {
-    "title": "What Hot US Inflation Means for Bonds, Warsh in Asia",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/what-hot-us-inflation-means-for-bonds-warsh-in-asia-video"
-  },
-  {
-    "title": "UK Unexpectedly Grows in August After Manufacturing Surge",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/uk-economy-grew-in-august-with-better-than-feared-performance"
-  },
-  {
-    "title": "Volkswagen Turns to US for Growth",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/volkswagen-turns-to-us-for-growth-video"
-  },
-  {
-    "title": "India May Need Rate Hikes, Tax Cuts to Buoy Rupee, Analysts Say",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/india-may-need-rate-hikes-tax-cuts-to-buoy-rupee-analysts-say"
-  },
-  {
-    "title": "IMF Warns Yuan to Stay Undervalued Without Stronger Stimulus",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/imf-warns-china-stimulus-lacks-ambition-leaves-yuan-undervalued"
-  },
-  {
-    "title": "Korean Households Increase Borrowing at Slowest Pace Since March",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/korean-households-increase-borrowing-at-slowest-pace-since-march"
-  },
-  {
-    "title": "IMF Aims to Wrap Up Egypt’s Final Program Review by End of Year",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/imf-aims-to-wrap-up-egypt-s-final-program-review-by-end-of-year"
+    "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+    "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/"
   },
   {
     "title": "How much more can nuclear power plants give?",
@@ -708,47 +712,43 @@
     "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
   },
   {
-    "title": "What it would take to build a city on the moon",
-    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
+    "title": "Google is making inline links more prominent in AI responses",
+    "link": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links"
   },
   {
-    "title": "Ledger’s new hardware wallet is an Android phone without the phone",
-    "link": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android"
+    "title": "Sony’s WH-1000XM6 headphones are $130 off today only",
+    "link": "https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale"
   },
   {
-    "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-    "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
+    "title": "Friends don&#8217;t let friends feed their data to AI agents",
+    "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent"
   },
   {
-    "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-    "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab"
+    "title": "E Ink upgraded the screen found in most color e-readers",
+    "link": "https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness"
   },
   {
-    "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
-    "link": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott"
+    "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
+    "link": "https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm"
   },
   {
-    "title": "McKinsey is making job applicants spar with a fake AI client",
-    "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview"
+    "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
+    "link": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom"
   },
   {
-    "title": "The best feature of Apple’s HomeView might be its simplicity",
-    "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature"
+    "title": "Shelly’s new presence sensor simultaneously detects up to 10 people without a camera",
+    "link": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera"
   },
   {
-    "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+    "title": "Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries",
+    "link": "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud"
   },
   {
-    "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
-    "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown"
+    "title": "Trump calls off livestream of execution",
+    "link": "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming"
   },
   {
-    "title": "The AI race is back on",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
-  },
-  {
-    "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-    "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
+    "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+    "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad"
   }
 ]
