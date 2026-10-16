@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/"
   },
   {
+    "title": "Nike's India campus is a long-term growth bet amid turnaround",
+    "link": "https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html"
+  },
+  {
     "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
     "link": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html"
   },
@@ -308,8 +312,8 @@
     "link": "https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html"
   },
   {
-    "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
-    "link": "https://www.cnbc.com/2026/10/07/used-cars-manheim-index.html"
+    "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
+    "link": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html"
   },
   {
     "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
@@ -428,10 +432,6 @@
     "link": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html"
   },
   {
-    "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
-    "link": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html"
-  },
-  {
     "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
     "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/"
   },
@@ -512,104 +512,152 @@
     "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
   },
   {
-    "title": "Schneider Hikes Guidance Again on Soaring Data-Center Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/schneider-hikes-guidance-again-on-soaring-data-center-demand"
+    "title": "Nvidia’s Huang and Broadcom’s Tan See the AI Boom From Slightly Different Places",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-16/nvidia-s-huang-and-broadcom-s-tan-see-the-ai-boom-from-slightly-different-places"
   },
   {
-    "title": "Rakuten Sells Record ¥400 Billion of Bonds on Retail Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/rakuten-prices-record-400-billion-bonds-as-retail-demand-grows"
+    "title": "ARK’s Wood Says CoreWeave Will Overcome Debt Fears on AI Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/ark-s-wood-says-coreweave-will-overcome-debt-fears-on-ai-demand"
   },
   {
-    "title": "Emerging-Market Stocks Gain as Fed’s Warsh Backs AI Optimism",
+    "title": "China Plans AI Export Curbs to Exert Control Over Key Tech",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents"
+  },
+  {
+    "title": "Emerging Stocks, Currencies Rebound After Week of AI-Led Swings",
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/emerging-market-stocks-gain-as-fed-s-warsh-backs-ai-optimism"
   },
   {
-    "title": "Fed's Warsh Says AI Will Change Monetary Policy Conduct",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/fed-s-warsh-says-ai-will-change-monetary-policy-conduct-video"
+    "title": "Nscale IPO: Data Center Delays Show Risks for the Neoclouds",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-16/nscale-ipo-data-center-delays-show-risks-for-the-neoclouds"
   },
   {
-    "title": "BOE’s Bailey Calls for Global AI Testing Standards",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/boe-s-bailey-calls-for-global-ai-testing-standards-video"
+    "title": "Taiwan to Curb China AI Chip Exports to Align With US",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-16/taiwan-to-curb-china-ai-chip-exports-to-align-with-us-video"
   },
   {
-    "title": "Reliance Pushes Back as Musk Questions Starlink’s Delay in India",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/reliance-pushes-back-as-musk-questions-starlink-s-delay-in-india"
+    "title": "CoreWeave Faces Funding Risks as Costs Rise",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-16/coreweave-faces-funding-risks-as-costs-rise-video"
   },
   {
-    "title": "ETF IQ Asia: Rex Financial on Monetizing Volatility",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/etf-iq-asia-rex-financial-on-monetizing-volatility-video"
+    "title": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed"
   },
   {
-    "title": "Blue Owl’s Clarke Plays Down Software Risks, Touts Data Centers",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/blue-owl-s-clarke-plays-down-software-risks-touts-data-centers"
+    "title": "Schneider Gains Visibility Into 2028 on Data-Center Boom",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/schneider-hikes-guidance-again-on-soaring-data-center-demand"
   },
   {
-    "title": "Lescure: France Will Use Budget Guardrails If Needed",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/lescure-france-will-use-budget-guardrails-if-needed-video"
+    "title": "European Shares Outperform S&P 500 Amid Defensive Tilt From AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/european-shares-outperform-s-p-500-amid-defensive-tilt-from-ai"
   },
   {
-    "title": "China’s Tencent Detected Unintended Behaviors From AI Agents",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/china-s-tencent-detected-unintended-behaviors-from-ai-agents"
+    "title": "Neuberger Berman on \"Underweight\" European Equities",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-16/why-neuberger-berman-has-neutral-stance-on-global-stocks-video"
   },
   {
-    "title": "Nvidia Partner GMI Cloud Calls CoreWeave’s 15% Yield ‘Insane’",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-partner-gmi-cloud-calls-coreweave-s-15-yield-insane"
+    "title": "Asia Tech's Muted Rebound Shows AI Doubts Persist: Market Analysis",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-16/asia-tech-s-muted-rebound-shows-ai-doubts-persist-mliv-video"
   },
   {
-    "title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners"
+    "title": "CityFibre Asks Banks to Restructure Debt and Fund M&A Deals",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/cityfibre-asks-banks-to-lend-for-new-deals-write-down-some-debt"
   },
   {
     "title": "India’s Billionaire Family Offices are Betting Big on Homegrown AI Startups",
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/india-s-billionaire-family-offices-are-betting-big-on-homegrown-ai-startups"
   },
   {
-    "title": "Top Korea Tech Fund Favors Non-Memory Stocks in AI Value Chain",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/top-korea-tech-fund-favors-non-memory-stocks-in-ai-value-chain"
+    "title": "AI Capex, Gamble or Jackpot?: Market Snapshot",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-16/ai-capex-gamble-or-jackpot-market-snapshot-video"
   },
   {
-    "title": "Taiwan Fund Managers Quit Jobs to Trade Their Own Money in Stock Boom",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/taiwan-fund-managers-quit-jobs-to-trade-their-own-money-in-stock-boom"
+    "title": "Nscale's Flagship Data Center Hit by Delays Ahead of IPO",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-16/nscale-s-flagship-data-center-hit-by-delays-ahead-of-ipo-video"
   },
   {
-    "title": "Stocks Rotate as Tech & Chip Shares Slide",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/the-close-10-15-2026-video"
+    "title": "Full Interview: Fed's Warsh on the Global Economy, AI",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-16/full-interview-fed-s-warsh-on-the-global-economy-ai-video"
   },
   {
-    "title": "MSCI Decision Moves Michael Saylor’s Strategy Toward Index Exit",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/msci-decision-moves-michael-saylor-s-strategy-toward-index-exit"
+    "title": "Taiwan to Curb AI Chip Exports to China as Part of US Trade Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal"
   },
   {
-    "title": "Nscale’s $35 Billion IPO Plans Muddied by AI Data Center Delays",
-    "link": "https://www.bloomberg.com/news/features/2026-10-15/nscale-s-35-billion-ipo-plans-muddied-by-ai-data-center-delays"
+    "title": "Rakuten Sells Record ¥400 Billion of Bonds on Retail Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/rakuten-prices-record-400-billion-bonds-as-retail-demand-grows"
   },
   {
-    "title": "Nvidia CEO Downplays CoreWeave Concerns, Bolstering Stock",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/nvidia-ceo-huang-says-coreweave-improving-no-backstop-needed"
+    "title": "Fed's Warsh Says AI Will Change Monetary Policy Conduct",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-16/fed-s-warsh-says-ai-will-change-monetary-policy-conduct-video"
   },
   {
-    "title": "AI Race Heats Up Again a Month After Calls for a Slowdown",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/ai-race-heats-up-again-a-month-after-calls-for-a-slowdown"
+    "title": "Absent Bessent Can’t Keep Spotlight Off US at IMF",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-16/absent-bessent-can-t-keep-spotlight-off-us-at-imf"
   },
   {
-    "title": "UK's Healey Set to Raise Taxes on Banks (Video)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/uk-s-healey-set-to-raise-taxes-on-banks-video"
+    "title": "US-China Blame Game Over Global Economy Tilts in Beijing’s Favor",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/us-china-blame-game-over-global-economy-tilts-in-beijing-s-favor"
   },
   {
-    "title": "Kenya IMF Program Timing Uncertain, Central Bank Chief Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/kenya-imf-program-timing-uncertain-central-bank-chief-says"
+    "title": "Key Takeaways From Financial Elite’s Big Gathering in Bangkok",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/key-takeaways-from-financial-elite-s-big-gathering-in-bangkok"
+  },
+  {
+    "title": "Energy Shock Filtering Through US Economy Complicates Fed’s Job",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/energy-shock-filtering-through-us-economy-complicates-fed-s-job"
+  },
+  {
+    "title": "UK Bank Tax Plan Risks Putting Healey at Odds With BOE’s Bailey",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/uk-bank-tax-plan-risks-putting-healey-at-odds-with-boe-s-bailey"
   },
   {
     "title": "Kganyago Says Rand Helping Cushion South Africa From Shocks",
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/kganyago-says-rand-resilience-cushioning-south-africa-from-shock"
   },
   {
+    "title": "Heinz Solar Panels Power Telford Factory as Iran War Hits Oil",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/heinz-solar-panels-power-telford-factory-as-iran-war-hits-oil"
+  },
+  {
+    "title": "EU to Boost Its Power to Block Chinese Goods in Trade Fight",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/eu-prepares-trade-tool-that-could-block-china-from-single-market"
+  },
+  {
+    "title": "Indonesia Rate-Hike Bets Grow as MSCI Alarm Pressures Rupiah",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-rate-hike-bets-grow-as-msci-alarm-pressures-rupiah"
+  },
+  {
+    "title": "China’s Payback for Late Stimulus Looms With Sub-4.5% Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/tardy-china-stimulus-sets-up-second-quarter-of-sub-target-growth"
+  },
+  {
+    "title": "Healey Plans to Raise UK Taxes on Banks at Budget This Month",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/healey-plans-to-raise-uk-taxes-on-banks-at-budget-this-month"
+  },
+  {
+    "title": "Sitharaman Says Trade Barriers A Hurdle to China-India Ties",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/sitharaman-says-china-s-trade-barriers-biggest-hurdle-to-ties"
+  },
+  {
+    "title": "IMF Sees One More BOJ Hike Toward Neutral, Urges Flexibility",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/imf-sees-one-more-boj-hike-toward-neutral-urges-flexibility"
+  },
+  {
     "title": "Warsh Boosts Market Expectations of Fed Rate Hold in October",
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/warsh-boosts-market-expectations-of-fed-hold-in-october"
   },
   {
-    "title": "China’s Payback for Late Stimulus Looms With Growth Below Target",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/tardy-china-stimulus-sets-up-second-quarter-of-sub-target-growth"
+    "title": "Nagel Says He Can’t Exclude That ECB May Need to Hike Again",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-16/nagel-says-he-can-t-exclude-that-ecb-may-need-to-hike-again"
+  },
+  {
+    "title": "UK's Healey Set to Raise Taxes on Banks",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-16/uk-s-healey-set-to-raise-taxes-on-banks-video"
+  },
+  {
+    "title": "Kenya IMF Program Timing Uncertain, Central Bank Chief Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-15/kenya-imf-program-timing-uncertain-central-bank-chief-says"
   },
   {
     "title": "Malaysia’s Growth Tops Forecasts as AI Boom Drives Export Surge",
@@ -624,52 +672,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-15/ecb-officials-get-impatient-for-lagarde-to-clear-up-future-plans"
   },
   {
-    "title": "Fed’s Warsh Announces Productivity, Jobs Task Force Hearing",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/fed-s-warsh-says-announces-productivity-jobs-task-force-hearing"
+    "title": "This implant can restore sight for patients with macular degeneration",
+    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
   },
   {
-    "title": "Heinz Solar Panels Power Telford Factory as Iran War Hits Oil",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/heinz-solar-panels-power-telford-factory-as-iran-war-hits-oil"
+    "title": "Love is infrastructure",
+    "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/"
   },
   {
-    "title": "Lescure Says Bond Turmoil Helps France See Need for Discipline",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/lescure-says-bond-turmoil-helps-france-see-need-for-discipline"
+    "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+    "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/"
   },
   {
-    "title": "Sitharaman Says Trade Barriers A Hurdle to China-India Ties",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/sitharaman-says-china-s-trade-barriers-biggest-hurdle-to-ties"
-  },
-  {
-    "title": "BOE’s Bailey Sees Little Evidence of Second-Round Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/boe-s-bailey-sees-little-evidence-of-second-round-inflation"
-  },
-  {
-    "title": "Nagel Says He Can’t Exclude That ECB May Need to Hike Again",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/nagel-says-he-can-t-exclude-that-ecb-may-need-to-hike-again"
-  },
-  {
-    "title": "ECB’s Rehn Praises Measured Approach, Sees More Data in December",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/ecb-s-rehn-praises-measured-approach-sees-more-data-in-december"
-  },
-  {
-    "title": "EU Eyes New Trade Powers to Curb Chinese Imports",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/eu-eyes-new-trade-powers-to-curb-chinese-imports-video"
-  },
-  {
-    "title": "Live: Fed Chief Kevin Warsh Speaks at IMF After Hotter US Inflation",
-    "link": "https://www.bloomberg.com/news/live-blog/2026-10-16/imf-world-bank-annual-meetings-bangkok-fed-warsh-bailey"
-  },
-  {
-    "title": "Europe Not at Stage Where ESM Has to Jump In, Gramegna Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/europe-not-at-stage-where-esm-has-to-jump-in-gramegna-says"
-  },
-  {
-    "title": "EU to Bolster Its Power to Block Chinese Imports in Trade Fight",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/eu-prepares-trade-tool-that-could-block-china-from-single-market"
-  },
-  {
-    "title": "NYC Childcare Expansion to Cost $735 Million a Year, Study Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/nyc-childcare-expansion-to-cost-735-million-a-year-study-says"
+    "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+    "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/"
   },
   {
     "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
@@ -696,20 +712,8 @@
     "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/"
   },
   {
-    "title": "The Download: open model trade-offs and geothermal power’s promise",
-    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
-  },
-  {
-    "title": "Open models have real benefits. Do they outweigh the risks?",
-    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
-  },
-  {
-    "title": "AI labs are buying data from dead startups to train their models",
-    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
-  },
-  {
-    "title": "The Download: moon city problems and drone traffic controllers",
-    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
+    "title": "Time is a-changin’: say goodbye to the leap second",
+    "link": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change"
   },
   {
     "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
@@ -746,9 +750,5 @@
   {
     "title": "Meta and Apple team up to make Muse AI models run better on Macs",
     "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
-  },
-  {
-    "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
-    "link": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player"
   }
 ]
