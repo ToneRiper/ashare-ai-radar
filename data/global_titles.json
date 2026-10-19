@@ -432,6 +432,10 @@
     "link": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html"
   },
   {
+    "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+    "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/"
+  },
+  {
     "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
     "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
   },
@@ -508,12 +512,28 @@
     "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/"
   },
   {
-    "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-    "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/"
+    "title": "Anthropic May Put Some Shares in 'Public Good' Fund",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/anthropic-may-put-some-shares-in-public-good-fund-video"
   },
   {
-    "title": "US Futures Climb as Chips Rebound After Rout; CoreWeave Jumps",
+    "title": "US Stocks Climb as Chips Rebound After Rout; CoreWeave Gains",
     "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-futures-climb-with-semiconductor-stocks-rebounding-after-rout"
+  },
+  {
+    "title": "US Moves to Bar DeepSeek From Federal Agencies and Contracts",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts"
+  },
+  {
+    "title": "JPMorgan Deploys $230 Billion to Begin Security Push",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/jpmorgan-deploys-230-billion-to-begin-security-push-video"
+  },
+  {
+    "title": "Nscale Says Microsoft Has Withdrawn From UK Data Center Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/microsoft-scraps-uk-data-center-deal-with-nscale-telegraph-says"
+  },
+  {
+    "title": "Academy’s Tchir Fears AI Debt May Trigger Sharp Selloff",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/academy-s-tchir-fears-ai-debt-may-trigger-sharp-selloff-video"
   },
   {
     "title": "Chip Startup Tenstorrent Raises Funds at $6.2 Billion Value",
@@ -570,26 +590,6 @@
   {
     "title": "Indonesia Ends Radioactive Emergency After US Shrimp Scare",
     "link": "https://www.bloomberg.com/news/articles/2026-10-19/indonesia-ends-radioactive-emergency-after-us-shrimp-scare"
-  },
-  {
-    "title": "Anti-AI Trade Drives Buyers Into Bonds: Market Analysis",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/anti-ai-trade-drives-buyers-into-bonds-3-minutes-mliv-video"
-  },
-  {
-    "title": "Korea Data Center IPO to Test AI Investor Resolve After Tumult",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/korea-data-center-ipo-to-test-ai-investor-resolve-after-tumult"
-  },
-  {
-    "title": "JPMorgan Brings Deposit Token JPM Coin to Ethereum for Institutional Clients",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients"
-  },
-  {
-    "title": "Norway Data Center Firm Hunts for Partner on Canada-Europe Fiber Link",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/norway-data-center-firm-hunts-for-partner-on-canada-europe-fiber-link"
-  },
-  {
-    "title": "Japan’s Nikkei Narrows Losses as Tech Woes Cool Ahead of Results",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/japanese-equities-set-to-fall-on-tech-share-selloff-higher-oil"
   },
   {
     "title": "Canada Inflation Rate Edges Up to 3.1%, Core Measures Ease",
@@ -692,6 +692,14 @@
     "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/"
   },
   {
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+  },
+  {
+    "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
+    "link": "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display"
+  },
+  {
     "title": "Vibe coding is turning the music gear world upside down",
     "link": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware"
   },
@@ -722,13 +730,5 @@
   {
     "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
     "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale"
-  },
-  {
-    "title": "J Mascis has nothing better to do",
-    "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview"
-  },
-  {
-    "title": "Trump says Google kisses his ass",
-    "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass"
   }
 ]
