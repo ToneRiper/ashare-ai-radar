@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/the-eternal-complement"
   },
   {
+    "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+    "link": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/"
+  },
+  {
     "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
     "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
   },
@@ -186,10 +190,6 @@
   {
     "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
     "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/"
-  },
-  {
-    "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-    "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/"
   },
   {
     "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
@@ -432,12 +432,44 @@
     "link": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html"
   },
   {
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
+  },
+  {
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+  },
+  {
+    "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+    "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/"
+  },
+  {
+    "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+    "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/"
+  },
+  {
+    "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+    "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"
+  },
+  {
+    "title": "People are using AI to make their smart TVs dumb again",
+    "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
+  },
+  {
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+  },
+  {
     "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
     "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/"
   },
   {
     "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
     "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
+  },
+  {
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
   },
   {
     "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
@@ -456,7 +488,7 @@
     "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/"
   },
   {
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "title": "Disney agrees to hire the majority of Character AI’s workforce",
     "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
   },
   {
@@ -480,120 +512,104 @@
     "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
   },
   {
-    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-    "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
+    "title": "T.Rowe's Crypto ETF Outpaces S&P",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/t-rowe-s-crypto-etf-outpaces-s-p-video"
   },
   {
-    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/"
+    "title": "Vinted Cracks Down on Looted Goods After French Riots",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots"
   },
   {
-    "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-    "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"
+    "title": "Hamilton Lane: AI’s Biggest Returns Have Been Private",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/hamilton-lane-ai-s-biggest-returns-have-been-private-video"
   },
   {
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+    "title": "Apple Already Developing Higher-End HomeView",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/apple-already-developing-higher-end-homeview-video"
   },
   {
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+    "title": "Anthropic, Musk Offer Competing Visions for Sharing AI Wealth",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/anthropic-and-musk-on-ai-wealth-sharing-video"
   },
   {
-    "title": "Waymo’s robotaxis are headed to Canada",
-    "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
+    "title": "Nscale’s $30B IPO Ambition Meets Investor Pushback",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/bloomberg-tech-10-19-2026-video"
   },
   {
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
+    "title": "Germany's Merz Says Russia's Push to Destabilize Europe Is Underestimated",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/merz-russia-s-push-to-destabilize-europe-underestimated-video"
   },
   {
-    "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-    "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/"
+    "title": "US Moves to Bar China’s DeepSeek From Federal Agency Systems",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts"
+  },
+  {
+    "title": "Musk Plans to Gift SpaceX Shares to Kids Through Trump Accounts",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/musk-says-he-will-gift-spacex-shares-to-every-kid-in-america"
+  },
+  {
+    "title": "Tech Stocks Pull S&P 500 Higher as Dip Buyers Step in After Rout",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-futures-climb-with-semiconductor-stocks-rebounding-after-rout"
+  },
+  {
+    "title": "Markets Brace for Inflation, Tech Earnings",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/open-interest-10-19-2026-video"
+  },
+  {
+    "title": "Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro"
+  },
+  {
+    "title": "Proofpoint's $6.3 Billion Cybersecurity Bet",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/proofpoint-s-6-3-billion-cybersecurity-bet-video"
+  },
+  {
+    "title": "Biotech Firm Colossal Set to Return Extinct Bird’s Egg to New Zealand",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/biotech-firm-colossal-set-to-return-extinct-bird-s-egg-to-new-zealand"
+  },
+  {
+    "title": "Transferencias rápidas sacuden el negocio global de remesas",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/transferencias-rapidas-sacuden-el-negocio-global-de-remesas-mvffayeb"
+  },
+  {
+    "title": "Tech Earnings Ahead: SpaceX, Meta to Test AI Monetization",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/tech-earnings-spacex-meta-to-test-ai-monetization-video"
+  },
+  {
+    "title": "DOJ Calls for Detaining OpenAI Engineer, Citing Saudi Ties",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/doj-calls-for-detaining-openai-engineer-citing-saudi-ties"
+  },
+  {
+    "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/nasdaq-100-climbs-on-ai-trade-revival-after-rout-video"
+  },
+  {
+    "title": "Coreweave Gets Stock Upgrade; Cleveland-Cliffs Jumps on Earnings | Stock Movers",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/coreweave-gets-stock-upgrade-cleveland-cliffs-earnings-video"
   },
   {
     "title": "Anthropic May Put Some Shares in 'Public Good' Fund",
     "link": "https://www.bloomberg.com/news/videos/2026-10-19/anthropic-may-put-some-shares-in-public-good-fund-video"
   },
   {
-    "title": "US Stocks Climb as Chips Rebound After Rout; CoreWeave Gains",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-futures-climb-with-semiconductor-stocks-rebounding-after-rout"
-  },
-  {
-    "title": "US Moves to Bar DeepSeek From Federal Agencies and Contracts",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts"
-  },
-  {
-    "title": "JPMorgan Deploys $230 Billion to Begin Security Push",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/jpmorgan-deploys-230-billion-to-begin-security-push-video"
-  },
-  {
-    "title": "Nscale Says Microsoft Has Withdrawn From UK Data Center Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/microsoft-scraps-uk-data-center-deal-with-nscale-telegraph-says"
-  },
-  {
-    "title": "Academy’s Tchir Fears AI Debt May Trigger Sharp Selloff",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/academy-s-tchir-fears-ai-debt-may-trigger-sharp-selloff-video"
-  },
-  {
-    "title": "Chip Startup Tenstorrent Raises Funds at $6.2 Billion Value",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/ai-chip-startup-tenstorrent-raises-funds-at-6-2-billion-value"
-  },
-  {
-    "title": "Amazon and AEP Explore 960-Megawatt Nuclear Project in Indiana",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/amazon-and-aep-explore-960-megawatt-nuclear-project-in-indiana"
-  },
-  {
-    "title": "Vinted Faces Influx of Suspected Looted Goods After French Riots",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots"
-  },
-  {
-    "title": "Market Stress Mostly Driven by Technicals, Says HSBC’s Kettner",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/market-stress-mostly-driven-by-technicals-kettner-video"
-  },
-  {
-    "title": "Marc Andreessen’s Techno-Optimism Leaves Some Supporters Shaking Their Heads",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-19/marc-andreessen-s-techno-optimism-leaves-some-supporters-shaking-their-heads"
-  },
-  {
-    "title": "Musk Pledges SpaceX Shares to ‘Every Kid in America’",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/musk-pledges-spacex-shares-to-every-kid-in-america-video"
-  },
-  {
-    "title": "Uber Wins Bid to Dismiss £250 Million Black Cab Driver Suit",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/uber-wins-bid-to-dismiss-250-million-black-cab-driver-suit"
-  },
-  {
-    "title": "Western Union, MoneyGram Turn to Stablecoins as Crypto Disrupts Money Transfers",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/western-union-moneygram-turn-to-stablecoins-as-crypto-disrupts-money-transfers"
-  },
-  {
-    "title": "AI’s Premium Valuations Are Getting More Pushback From Investors",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-19/ai-s-premium-valuations-are-getting-more-pushback-from-investors"
-  },
-  {
-    "title": "Musk Says He’ll Gift SpaceX Shares to ‘Every Kid in America’",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/musk-says-he-will-gift-spacex-shares-to-every-kid-in-america"
-  },
-  {
-    "title": "Nscale Faces Pushback on $30 Billion IPO Valuation",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/nscale-faces-pushback-on-30-billion-ipo-valuation-video"
-  },
-  {
-    "title": "Don Wilson on the GPU Market's Trillion Dollar Question",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/don-wilson-on-the-gpu-market-s-trillion-dollar-question-video"
-  },
-  {
-    "title": "Samsung, SK Hynix Slide Causes $137 Billion Hit to Korea Pension",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/samsung-sk-hynix-slide-causes-137-billion-hit-to-korea-pension"
-  },
-  {
-    "title": "Indonesia Ends Radioactive Emergency After US Shrimp Scare",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/indonesia-ends-radioactive-emergency-after-us-shrimp-scare"
+    "title": "Merz Says Quick Decision Can Be Reached on ECB Jobs If Needed",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/merz-says-quick-decision-can-be-reached-on-ecb-jobs-if-needed"
   },
   {
     "title": "Canada Inflation Rate Edges Up to 3.1%, Core Measures Ease",
     "link": "https://www.bloomberg.com/news/articles/2026-10-19/canada-inflation-rate-edges-up-to-3-1-core-measures-ease"
+  },
+  {
+    "title": "US Homebuilder Sentiment Drops to 14-Year Low on Weak Sales",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-homebuilder-sentiment-drops-to-14-year-low-on-depressed-sales"
+  },
+  {
+    "title": "France Toughens Its Response To Protests After Riots and Looting",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/france-toughens-its-response-to-protests-video"
+  },
+  {
+    "title": "Hassett Says CPI Data Shows Inflation Needs ‘Some Work’",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/hassett-says-cpi-data-shows-inflation-needs-some-work"
   },
   {
     "title": "Trump Puts US Politics Ahead of Global Strategy:",
@@ -652,6 +668,14 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/ukraine-talks-with-turkey-india-egypt-over-grain-corridor"
   },
   {
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
+  },
+  {
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+  },
+  {
     "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
     "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/"
   },
@@ -684,12 +708,36 @@
     "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/"
   },
   {
-    "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-    "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/"
+    "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
+    "link": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only"
   },
   {
-    "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-    "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/"
+    "title": "Apple teases MacBook Pro event next week",
+    "link": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement"
+  },
+  {
+    "title": "Amazon is funding a new nuclear plant in Indiana",
+    "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"
+  },
+  {
+    "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+    "link": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale"
+  },
+  {
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
+  },
+  {
+    "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
+    "link": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink"
+  },
+  {
+    "title": "Elon Musk promises to give one SpaceX share to every child in the US",
+    "link": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children"
+  },
+  {
+    "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
+    "link": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these"
   },
   {
     "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
@@ -698,37 +746,5 @@
   {
     "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
     "link": "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display"
-  },
-  {
-    "title": "Vibe coding is turning the music gear world upside down",
-    "link": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware"
-  },
-  {
-    "title": "Democrats think cracking down on AI could give them an edge",
-    "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms"
-  },
-  {
-    "title": "The Maeving RM2 is high-style electric riding with a few compromises",
-    "link": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs"
-  },
-  {
-    "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
-    "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband"
-  },
-  {
-    "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
-    "link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review"
-  },
-  {
-    "title": "A woman was arrested in Philly for blocking a delivery robot",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
-  },
-  {
-    "title": "Video game ownership bill introduced in Congress",
-    "link": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act"
-  },
-  {
-    "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
-    "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale"
   }
 ]
