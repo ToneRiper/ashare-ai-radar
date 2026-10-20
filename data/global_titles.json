@@ -192,8 +192,16 @@
     "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/"
   },
   {
-    "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
+    "title": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
+    "link": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html"
+  },
+  {
+    "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
     "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html"
+  },
+  {
+    "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+    "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html"
   },
   {
     "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
@@ -304,12 +312,8 @@
     "link": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html"
   },
   {
-    "title": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
-    "link": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html"
-  },
-  {
-    "title": "Lululemon poaches Athleta CEO as new chief product officer",
-    "link": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html"
+    "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+    "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html"
   },
   {
     "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
@@ -428,8 +432,16 @@
     "link": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html"
   },
   {
-    "title": "India calls JD Vance's comments about immigrants 'deeply offensive'",
-    "link": "https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html"
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+  },
+  {
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+  },
+  {
+    "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+    "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
   },
   {
     "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
@@ -500,96 +512,136 @@
     "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
   },
   {
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+    "title": "Masayoshi Son’s RoboCop Dreams May Get a Boost With Allied Universal Deal",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/masayoshi-son-s-robocop-dreams-may-get-a-boost-with-allied-universal-deal"
   },
   {
-    "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-    "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/"
+    "title": "Polymarket Investors Push CEO Coplan For Change as Kalshi Gains Ground",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/polymarket-investors-push-ceo-coplan-for-change-as-kalshi-gains-ground"
   },
   {
-    "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-    "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/"
+    "title": "Google Cloud Outage Takes Down Revolut and Other Banks in UK",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk"
+  },
+  {
+    "title": "Amazon, Meta AI Wearables Raise Privacy Concerns Over Always-Listening Devices",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/amazon-meta-ai-wearables-raise-privacy-concerns-over-always-listening-devices"
+  },
+  {
+    "title": "AI Debutant’s Flameout Stokes Fears the Boom Is Ending",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/ai-debutant-s-flameout-stokes-fears-the-boom-is-ending"
+  },
+  {
+    "title": "Vinted Pledges to Crack Down on Looted Goods After French Riots",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots"
+  },
+  {
+    "title": "Amazon Pledges €16 Billion in Germany on Data Centers, Prime",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/amazon-pledges-16-billion-in-germany-on-data-centers-prime"
+  },
+  {
+    "title": "Nscale, Anthropic in Talks for $45 Billion AI Computing Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal"
+  },
+  {
+    "title": "Ocado Rally Tipped to Extend as JPMorgan Sets Street-High Target",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/ocado-rally-tipped-to-extend-as-jpmorgan-sets-street-high-target"
+  },
+  {
+    "title": "Emerging Stocks Are Trading at Biggest-Ever Discount to US",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/emerging-stocks-are-trading-at-their-biggest-ever-discount-to-us"
+  },
+  {
+    "title": "FNZ Directors to Face Shareholders in New Zealand Court",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/fnz-directors-to-face-employee-shareholders-in-new-zealand-court"
+  },
+  {
+    "title": "Elice’s Record First-Day Plunge Hammers Korea’s Retail Investors",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/elice-s-record-first-day-plunge-hammers-korea-s-retail-investors"
+  },
+  {
+    "title": "CME's Terry Duffy on the Disconcerting State of Finance Regulation",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-20/cme-s-terry-duffy-on-the-state-of-finance-regulation-video"
+  },
+  {
+    "title": "South Korean Data Center Firm Elice Plunges in Trading Debut",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-20/data-center-firm-elice-plunges-in-trading-debut-video"
+  },
+  {
+    "title": "MNT-Halan Shares Rise 18% in Egypt Trading Debut After IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/mnt-halan-shares-rise-18-in-egypt-trading-debut-after-ipo"
+  },
+  {
+    "title": "US Moves to Bar China’s DeepSeek From Federal Agency Systems",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts"
+  },
+  {
+    "title": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case"
+  },
+  {
+    "title": "AI Fears Roar Back With Data Center Firm Elice’s 32% Debut Flop",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/data-center-firm-elice-plunges-32-in-debut-after-korea-ipo"
+  },
+  {
+    "title": "Cybersecurity Startup Blackwall Joins Unicorns With Fundraising",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/cybersecurity-startup-blackwall-joins-unicorns-with-fundraising"
   },
   {
     "title": "Sea Starts Enterprise Cloud Foray While Eyeing a Fintech Arm IPO",
     "link": "https://www.bloomberg.com/news/articles/2026-10-20/sea-starts-enterprise-cloud-foray-while-eyeing-a-fintech-arm-ipo"
   },
   {
-    "title": "FNZ Directors to Face Employee Shareholders in New Zealand Court",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/fnz-directors-to-face-employee-shareholders-in-new-zealand-court"
+    "title": "Traders are growing wary of a copper price crash with no sign of tariffs",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/traders-are-growing-wary-of-a-copper-price-crash-with-no-sign-of-tariffs"
   },
   {
-    "title": "Anthropic in Talks for $45B Nscale Cloud Computing Deal",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/anthropic-in-talks-for-45b-nscale-cloud-computing-deal-video"
+    "title": "A Giant Debt Quandary Now Looms Within the US Political Horizon",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/a-giant-debt-quandary-now-looms-within-the-us-political-horizon"
   },
   {
-    "title": "Australia Set to Sue Facebook, TikTok in Child-Safety Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/australia-to-sue-facebook-tiktok-for-alleged-breaches-of-ban"
+    "title": "ECB’s Rehn Says French Spread to Germany Has Widened ‘Somewhat’",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/ecb-s-rehn-says-french-spread-to-germany-has-widened-somewhat"
   },
   {
-    "title": "AI Tool That Hacked Korean Banks Was Used in Japan, GMO Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/ai-tool-that-hacked-korea-banks-were-used-in-japan-gmo-says"
+    "title": "Colombia Passes 16% Budget Increase After IMF Fiscal Warning",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/colombia-passes-16-budget-increase-after-imf-fiscal-warning"
   },
   {
-    "title": "Elice’s 33% Debut Plunge Rekindles Doubts Over AI Spending Boom",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/data-center-firm-elice-plunges-32-in-debut-after-korea-ipo"
+    "title": "Bank of England Considers Stress Testing AI’s Effect on the Financial Sector",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/bank-of-england-considers-stress-testing-ai-s-effect-on-the-financial-sector"
   },
   {
-    "title": "US to Bar China’s DeepSeek From Federal Agency Systems",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/us-to-bar-china-s-deepseek-from-federal-agency-systems-video"
+    "title": "Hungary Aims to Cut Deficit to Below 3% by 2030, Magyar Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/hungary-plans-to-bring-deficit-to-below-3-by-2030-magyar-says"
   },
   {
-    "title": "Eric Schmidt’s 1% Anthropic Stake Set to Pay Huge Windfall",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall"
+    "title": "China’s Benchmark Switch Spells Ramp-Up of Overnight Operations",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-faces-multi-month-road-to-new-rate-anchor-analysts-say"
   },
   {
-    "title": "CATL’s Valuation Gap Shows Investor Divide as Earnings Near",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/catl-s-valuation-gap-highlights-investor-divide-as-earnings-near"
+    "title": "Citi's UK CEO Says Increase in Bank Taxes Would Be Disappointing",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-20/citi-s-uk-ceo-says-bank-tax-hike-would-be-disappointing-video"
   },
   {
-    "title": "Activist Starboard Value Builds Stake in Solstice, FT Reports",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/activist-starboard-value-builds-stake-in-solstice-ft-reports"
+    "title": "German Investor Outlook Worsens for First Time Since April",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/german-investor-outlook-worsens-for-first-time-since-april"
   },
   {
-    "title": "Alibaba Backs Chinese Robovan Maker in $400 Million Fundraising",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/alibaba-backs-chinese-robovan-maker-in-400-million-fundraising"
+    "title": "Bank Indonesia Rate-Hike Bets Rise as MSCI Shock Tests Rupiah",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/bank-indonesia-rate-hike-bets-rise-as-msci-shock-tests-rupiah"
   },
   {
-    "title": "Citi Global Chief Economist on Global Growth",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/citi-global-chief-economist-on-global-growth-video"
+    "title": "China Issues Blunt Warning on Global Turmoil at APEC Meeting",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/china-issues-blunt-warning-on-global-turbulence-at-apec-meeting"
   },
   {
-    "title": "Citi Australia CEO on ANZ Market, Biz Growth",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/citi-australia-ceo-on-anz-market-biz-growth-video"
+    "title": "UK Dealers See £3.4 Billion More Gilt Sales as Headroom Shrinks",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/uk-dealers-see-3-4-billion-more-gilt-sales-as-headroom-shrinks"
   },
   {
-    "title": "Z.AI Founders Worked on Research Funded by China Institute UK Tied to Spies",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/z-ai-founders-worked-on-research-funded-by-china-institute-uk-tied-to-spies"
-  },
-  {
-    "title": "Alger’s Crawford: There’s Skittishness in the Market",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/alger-s-crawford-there-s-skittishness-in-the-market-video"
-  },
-  {
-    "title": "Big Take: CoreWeave And The Fragile AI Economy",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/big-take-coreweave-and-the-fragile-ai-economy"
-  },
-  {
-    "title": "Big Tech Earnings Could Validate AI, Ives Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/big-tech-earnings-could-validate-ai-ives-says-video"
-  },
-  {
-    "title": "Tenstorrent CEO on New Funding Round, AI Progress",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/tenstorrent-ceo-on-new-funding-round-ai-progress-video"
-  },
-  {
-    "title": "Retailers Will Struggle During Earnings Season, Says Meredith Whitney",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/retailers-will-struggle-during-earnings-season-whitney-video"
-  },
-  {
-    "title": "OpenAI Staffer Charged With Bugging Office Stays Jailed for Now",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/doj-calls-for-detaining-openai-engineer-citing-saudi-ties"
+    "title": "UK Payrolls Rebound and Unemployment Drops Ahead of Budget",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/uk-payrolls-bounce-back-ahead-of-chancellor-healey-s-budget"
   },
   {
     "title": "India Steps Up Overseas Investment Checks as Rupee Slides",
@@ -612,60 +664,24 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-20/cf40-institute-s-guo-on-china-s-economy-video"
   },
   {
+    "title": "PBOC Rate Shift Plan Would Lower Borrowing Costs: Analysts",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-rate-shift-plan-would-lower-borrowing-costs-analysts"
+  },
+  {
     "title": "Japan’s Katayama Vows Fiscal Prudence on Defense Funding",
     "link": "https://www.bloomberg.com/news/articles/2026-10-20/japan-s-katayama-vows-fiscal-prudence-on-defense-funding"
   },
   {
-    "title": "Korea Plans New Samsung, SK Hynix Chip Hub in Gwangju, Risking Trump's Ire",
-    "link": "https://www.bloomberg.com/news/features/2026-10-19/korea-plans-new-samsung-sk-hynix-chip-hub-in-gwangju-risking-trump-s-ire"
+    "title": "How to study a swiftly melting climate disaster",
+    "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/"
   },
   {
-    "title": "Merz Says Quick Decision Can Be Reached on ECB Jobs If Needed",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/merz-says-quick-decision-can-be-reached-on-ecb-jobs-if-needed"
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
   },
   {
-    "title": "Canada Inflation Rate Edges Up to 3.1%, Core Measures Ease",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/canada-inflation-rate-edges-up-to-3-1-core-measures-ease"
-  },
-  {
-    "title": "US Homebuilder Sentiment Drops to 14-Year Low on Weak Sales",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/us-homebuilder-sentiment-drops-to-14-year-low-on-depressed-sales"
-  },
-  {
-    "title": "France Toughens Its Response To Protests After Riots and Looting",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-19/france-toughens-its-response-to-protests-video"
-  },
-  {
-    "title": "Hassett Says CPI Data Shows Inflation Needs ‘Some Work’",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/hassett-says-cpi-data-shows-inflation-needs-some-work"
-  },
-  {
-    "title": "Trump Puts US Politics Ahead of Global Strategy:",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-19/trump-puts-us-politics-ahead-of-global-strategy"
-  },
-  {
-    "title": "China Growth Stays on Track as Retail Sales Beat Forecasts",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-19/china-growth-stays-on-track-as-retail-sales-beat-forecasts"
-  },
-  {
-    "title": "German Inflation Risks Clearly Tilted to Upside, Bundesbank Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/german-inflation-risks-clearly-tilted-to-upside-bundesbank-says"
-  },
-  {
-    "title": "South Africa’s Business Mood Steadies Despite Ongoing Iran War",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/south-africa-s-business-mood-steadies-despite-ongoing-iran-war"
-  },
-  {
-    "title": "Kenyan Remittances Dented by New US Tax, Fallout from Iran War",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/kenyan-remittances-dented-by-new-us-tax-fallout-from-iran-war"
-  },
-  {
-    "title": "China Puts Growth Back on Target With Stimulus Push, Export Boom",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/china-s-growth-rebounds-to-4-5-puts-annual-target-within-reach"
-  },
-  {
-    "title": "Malaysia Exports Surge 55% to a Record in September on AI Boom",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-19/malaysia-september-exports-surge-to-five-year-high-on-ai-demand"
+    "title": "These startups hope “blended” food will cut our appetite for red meat",
+    "link": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/"
   },
   {
     "title": "Making the internet better for AI agents might make it worse for everyone else",
@@ -696,16 +712,8 @@
     "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   },
   {
-    "title": "The Download: failed social media bans, and extending pets’ lives",
-    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/"
-  },
-  {
-    "title": "This implant can restore sight for patients with macular degeneration",
-    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
-  },
-  {
-    "title": "Love is infrastructure",
-    "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/"
+    "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+    "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download"
   },
   {
     "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
@@ -742,9 +750,5 @@
   {
     "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
     "link": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale"
-  },
-  {
-    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-    "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
   }
 ]
