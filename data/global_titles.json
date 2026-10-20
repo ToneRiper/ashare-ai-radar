@@ -432,6 +432,14 @@
     "link": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html"
   },
   {
+    "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+    "link": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/"
+  },
+  {
+    "title": "Oura adds new fitness metrics to show how workouts impact your body",
+    "link": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/"
+  },
+  {
     "title": "Yelp can now call on your behalf to check wait times at a restaurant",
     "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
   },
@@ -504,14 +512,6 @@
     "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
   },
   {
-    "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-    "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/"
-  },
-  {
-    "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
-    "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
-  },
-  {
     "title": "Masayoshi Son’s RoboCop Dreams May Get a Boost With Allied Universal Deal",
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/masayoshi-son-s-robocop-dreams-may-get-a-boost-with-allied-universal-deal"
   },
@@ -526,6 +526,10 @@
   {
     "title": "Amazon, Meta AI Wearables Raise Privacy Concerns Over Always-Listening Devices",
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/amazon-meta-ai-wearables-raise-privacy-concerns-over-always-listening-devices"
+  },
+  {
+    "title": "Apple Faces UK Pressure to Open iPhone to Rival Wallets",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/apple-faces-uk-pressure-to-open-iphone-to-rival-wallets"
   },
   {
     "title": "AI Debutant’s Flameout Stokes Fears the Boom Is Ending",
@@ -556,7 +560,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-20/fnz-directors-to-face-employee-shareholders-in-new-zealand-court"
   },
   {
-    "title": "Elice’s Record First-Day Plunge Hammers Korea’s Retail Investors",
+    "title": "Korea Data Center’s 32% Plunge in Debut Stuns Retail Traders",
     "link": "https://www.bloomberg.com/news/articles/2026-10-20/elice-s-record-first-day-plunge-hammers-korea-s-retail-investors"
   },
   {
@@ -588,8 +592,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-20/cybersecurity-startup-blackwall-joins-unicorns-with-fundraising"
   },
   {
-    "title": "Sea Starts Enterprise Cloud Foray While Eyeing a Fintech Arm IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/sea-starts-enterprise-cloud-foray-while-eyeing-a-fintech-arm-ipo"
+    "title": "Hungary Holds Interest Rate With Budget and Euro Path In Focus",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/hungary-holds-interest-rate-with-budget-and-euro-path-in-focus"
+  },
+  {
+    "title": "UK Dealers See £3 Billion More Gilt Sales as Headroom Falls",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/uk-dealers-see-3-4-billion-more-gilt-sales-as-headroom-shrinks"
   },
   {
     "title": "Traders are growing wary of a copper price crash with no sign of tariffs",
@@ -636,10 +644,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-20/china-issues-blunt-warning-on-global-turbulence-at-apec-meeting"
   },
   {
-    "title": "UK Dealers See £3.4 Billion More Gilt Sales as Headroom Shrinks",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/uk-dealers-see-3-4-billion-more-gilt-sales-as-headroom-shrinks"
-  },
-  {
     "title": "UK Payrolls Rebound and Unemployment Drops Ahead of Budget",
     "link": "https://www.bloomberg.com/news/articles/2026-10-20/uk-payrolls-bounce-back-ahead-of-chancellor-healey-s-budget"
   },
@@ -666,10 +670,6 @@
   {
     "title": "PBOC Rate Shift Plan Would Lower Borrowing Costs: Analysts",
     "link": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-rate-shift-plan-would-lower-borrowing-costs-analysts"
-  },
-  {
-    "title": "Japan’s Katayama Vows Fiscal Prudence on Defense Funding",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/japan-s-katayama-vows-fiscal-prudence-on-defense-funding"
   },
   {
     "title": "How to study a swiftly melting climate disaster",
@@ -712,6 +712,10 @@
     "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   },
   {
+    "title": "Spotify’s new podcast memberships let you pay for extra perks",
+    "link": "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch"
+  },
+  {
     "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
     "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download"
   },
@@ -746,9 +750,5 @@
   {
     "title": "Amazon is funding a new nuclear plant in Indiana",
     "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"
-  },
-  {
-    "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-    "link": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale"
   }
 ]
