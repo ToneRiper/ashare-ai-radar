@@ -120,6 +120,46 @@
     "link": "https://openai.com/index/eu-text-provenance"
   },
   {
+    "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+    "link": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/"
+  },
+  {
+    "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+    "link": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/"
+  },
+  {
+    "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+    "link": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/"
+  },
+  {
+    "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+    "link": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/"
+  },
+  {
+    "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+    "link": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/"
+  },
+  {
+    "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+    "link": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/"
+  },
+  {
+    "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+    "link": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/"
+  },
+  {
+    "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+    "link": "https://blogs.nvidia.com/blog/open-models-europe-industry/"
+  },
+  {
+    "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+    "link": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/"
+  },
+  {
+    "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+    "link": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/"
+  },
+  {
     "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
     "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/"
   },
@@ -150,46 +190,6 @@
   {
     "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
     "link": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/"
-  },
-  {
-    "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
-    "link": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/"
-  },
-  {
-    "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
-    "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/"
-  },
-  {
-    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-    "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/"
-  },
-  {
-    "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
-  },
-  {
-    "title": "NVIDIA Announces New Investments in France’s Startups",
-    "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/"
-  },
-  {
-    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-    "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
-  },
-  {
-    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-    "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
-  },
-  {
-    "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/"
-  },
-  {
-    "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
-  },
-  {
-    "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-    "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/"
   },
   {
     "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
@@ -512,84 +512,140 @@
     "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
   },
   {
-    "title": "AI Neocloud Elice CEO Sees Sales Doubling as Shares Rebound",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/ai-neocloud-elice-s-ceo-sees-sales-doubling-after-shares-rebound"
+    "title": "Kallum Pickering Warns of AI Boom Bust Risks",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-21/kallum-pickering-warns-of-ai-boom-bust-risks-video"
   },
   {
-    "title": "Nextdc Shares Plunge After Public Backlash Hits Data Center",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/nextdc-cuts-outlook-as-public-backlash-delays-data-center-power"
+    "title": "SpaceX-Tesla Combination ‘Extremely Tangible,’ Ferragu Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-21/spacex-tesla-combination-extremely-tangible-ferragu-video"
   },
   {
-    "title": "Cyberattack Hits India’s Largest Bank, Exposes Customer Records",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/cyberattack-hits-india-s-largest-bank-exposes-customer-records"
+    "title": "AT&T Mobile Subscribers Miss Estimates as Starlink Threat Looms",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/at-t-beats-on-profit-expectations-raises-annual-guidance"
   },
   {
-    "title": "TSMC Pauses Some Taiwan Construction After Mishap Kills Four",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/tsmc-suspends-some-construction-after-deadly-accident-kills-four"
+    "title": "AI Backlash Hits Home for Member of Congress in Virginia’s ‘Data Center Alley’",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-21/ai-backlash-hits-home-for-member-of-congress-in-virginia-s-data-center-alley"
   },
   {
-    "title": "DeepSeek Unveils Open-Source Tool to Cut AI Operating Costs",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs"
+    "title": "Nvidia CEO Huang Pitches Europe on All Industries Adopting AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai"
   },
   {
-    "title": "Anthropic May Spend $750 Billion on Computing Costs, WSJ Reports",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says"
+    "title": "Eternal Net Trails Estimates on Higher Quick-Delivery Costs",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/eternal-s-profit-trails-estimates-on-higher-quick-delivery-costs"
   },
   {
-    "title": "AI to Spur SE Asian Digital Economy to $368 Billion, Study Shows",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/ai-to-spur-se-asian-digital-economy-to-368-billion-study-shows"
+    "title": "Silicon Data Plans Tradable Token Index Products With CME",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/silicon-data-plans-tradable-token-index-products-with-cme"
   },
   {
-    "title": "Citi's Chang on AI Trade, Private Credit",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/citi-s-chang-on-ai-trade-private-credit-video"
+    "title": "AI Hacking Threat to Banks as BOE, JPMorgan, Meta (META) Tighten Rules",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-21/ai-hacking-threat-to-banks-as-boe-jpmorgan-meta-meta-tighten-rules"
   },
   {
-    "title": "Elice CEO Shrugs Off Choppy IPO, Eyes Revenue Boost",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/elice-ceo-shrugs-off-choppy-ipo-eyes-revenue-boost-video"
+    "title": "AI Boom Has Years to Run Before Risks Bite, Chiavarone Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/ai-boom-has-years-to-run-before-bubble-risks-bite-cio-says"
   },
   {
-    "title": "DayOne Said to Weigh Options for US IPO After Data Center Rout",
+    "title": "Malaysia Bans Civil Servants From Using Israel-based Waze",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/malaysia-bans-civil-service-use-of-google-s-israel-based-waze"
+  },
+  {
+    "title": "Meta Earnings Will Provide a Gut Check for Struggling AI Trade",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/meta-earnings-will-provide-a-gut-check-for-struggling-ai-trade"
+  },
+  {
+    "title": "DayOne Said to Weigh Options for IPO After Data Center Rout",
     "link": "https://www.bloomberg.com/news/articles/2026-10-21/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout"
   },
   {
-    "title": "OpenAI Says Its Agents Weakened System That Flags AI Misbehavior",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/openai-says-its-agents-weakened-system-that-flags-ai-misbehavior"
+    "title": "VVDN Technologies Said to Consider Up to $300 Million India IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/vvdn-technologies-said-to-consider-up-to-300-million-india-ipo"
   },
   {
-    "title": "Nvidia in Talks to Back Firmus After IPO Flop, Information Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/nvidia-in-talks-to-back-firmus-after-ipo-flop-information-says"
+    "title": "(NVDA) Nvidia CEO Jensen Huang Speaks at GTC Berlin",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-10-21/nvda-nvidia-ceo-jensen-huang-at-gtc-berlin"
   },
   {
-    "title": "Musk Teases SpaceX-Tesla Merger in Earnings Call",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/musk-teases-spacex-tesla-merger-in-earnings-call-video"
+    "title": "James Robinson on What It Looks Like When a State is Failing",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-21/james-robinson-on-what-a-failing-state-looks-like-video"
   },
   {
-    "title": "Ken Griffin Says AI ‘Almost Certainly’ in a Bubble Right Now",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now"
+    "title": "Qualcomm’s Effort to Market the Invisible",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-21/qualcomm-s-effort-to-market-the-invisible-video"
   },
   {
-    "title": "Judge Reluctant to Set Rates in Qualcomm-Arm Licensing Talks",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/judge-reluctant-to-intervene-in-qualcomm-arm-licensing-talks"
+    "title": "Lenovo Seeks $2 Billion Loan to Refinance Debt at Lower Cost",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/lenovo-seeks-2-billion-loan-to-refinance-debt-at-lower-cost"
   },
   {
-    "title": "Musk Gave Order to Slow Down Ukraine’s Starlink, WSJ Reports",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/musk-gave-the-order-to-slow-down-ukraine-s-starlink-wsj-reports"
-  },
-  {
-    "title": "Detavio Samuels Says Creators Can Build Media Empires Beyond YouTube",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/detavio-samuels-says-creators-can-build-media-empires-video"
-  },
-  {
-    "title": "Ken Griffin Says AI 'Almost Certainly' in a Bubble Right Now",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-now-video"
+    "title": "TSMC Slows Taiwan Construction After Accident Kills Four",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/tsmc-suspends-some-construction-after-deadly-accident-kills-four"
   },
   {
     "title": "Musk Says ASML and Others Are Expediting Chipmaking Gear for Terafab",
     "link": "https://www.bloomberg.com/news/articles/2026-10-20/musk-says-asml-and-others-are-expediting-chipmaking-gear-for-terafab"
   },
   {
-    "title": "Ken Griffin Says AI Presents 'Golden Era' for Entrepreneurs",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-20/griffin-says-ai-presents-golden-era-for-entrepreneurs-video"
+    "title": "BlackRock’s Fink Says Slow AI Buildout Would Spur Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/blackrock-s-fink-says-slow-data-center-buildout-is-inflationary"
+  },
+  {
+    "title": "Asia’s Chip Exports Soar as AI Bubble Debate Rages",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-21/asia-s-chip-exports-soar-as-ai-bubble-debate-rages"
+  },
+  {
+    "title": "Japan’s Premier Faces Delivery Test on Her Economic Pledges",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-21/japan-s-premier-faces-delivery-test-on-her-economic-pledges"
+  },
+  {
+    "title": "France’s Macron Secures Qatar LNG Supplies for Winter Period",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/france-secures-qatar-lng-supplies-work-to-lower-fuel-transport"
+  },
+  {
+    "title": "ECB’s Kazaks Says More Tightening May Be Needed: Econostream",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/ecb-s-kazaks-says-more-tightening-may-be-needed-econostream"
+  },
+  {
+    "title": "Ghana Plans to Unveil $10 Billion Economic Program to Drive Jobs",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/ghana-plans-to-unveil-10-billion-economic-program-to-drive-jobs"
+  },
+  {
+    "title": "German Economy Probably Stagnated in Third Quarter: Bundesbank",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/german-economy-probably-stagnated-in-third-quarter-bundesbank"
+  },
+  {
+    "title": "Merz Says EU Isn't Looking for a Trade 'Conflict' With China",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-21/merz-eu-isn-t-looking-for-a-trade-conflict-with-china-video"
+  },
+  {
+    "title": "Sewing Sees German Pension Overhaul as ‘Mother of All Reforms’",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/sewing-sees-german-pension-overhaul-as-mother-of-all-reforms"
+  },
+  {
+    "title": "Japan Has ¥195 Trillion Inflation Windfall, Ex-BOJ Official Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/japan-has-195-trillion-inflation-windfall-ex-boj-official-says"
+  },
+  {
+    "title": "Sweden to Hike Key Rate Twice Before April 2027, Survey Finds",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/sweden-to-hike-key-rate-twice-before-april-2027-survey-finds"
+  },
+  {
+    "title": "Mercedes CEO Warns of EU Protectionism Triggering Higher Costs",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/mercedes-ceo-warns-of-eu-protectionism-triggering-higher-costs"
+  },
+  {
+    "title": "South African Inflation Rate Up Less Than Expected in September",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/south-african-inflation-rate-up-less-than-expected-in-september"
+  },
+  {
+    "title": "UK Inflation Hits 11-Month High as Bank of England Eyes Rate Hike",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/inflation-jumps-to-11-month-high-as-bank-of-england-considers-a-hike"
+  },
+  {
+    "title": "South Africa Set to Tighten Budget Rules as Pressures From Iran War Mount",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-20/south-africa-set-to-tighten-budget-rules-as-pressures-from-iran-war-mount"
   },
   {
     "title": "Lane Says Greater Global Euro Use May Help ECB Control Inflation",
@@ -616,60 +672,32 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-21/japan-s-export-growth-stays-solid-supported-by-chips-cars"
   },
   {
-    "title": "China Benchmark Switch Spells Ramp-Up of Overnight Operation",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/pboc-faces-multi-month-road-to-new-rate-anchor-analysts-say"
+    "title": "We can do impossible things",
+    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/"
   },
   {
-    "title": "S. Korea’s Export Boom Stays Strong Ahead of BOK Rate Decision",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/s-korea-s-export-boom-stays-strong-ahead-of-bok-rate-decision"
+    "title": "Nuclear-powered spaceships",
+    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/"
   },
   {
-    "title": "South Africa Set to Tighten Budget Rules as Pressures From Iran War Mount",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/south-africa-set-to-tighten-budget-rules-as-pressures-from-iran-war-mount"
+    "title": "Exercise in a pill",
+    "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/"
   },
   {
-    "title": "BOE’s Greene Says UK Labor Market Is Not as Weak as Thought",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/boe-s-greene-says-uk-labor-market-is-not-as-weak-as-thought"
+    "title": "Interspecies communication",
+    "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/"
   },
   {
-    "title": "UK Open to Discussing Chinese Car Tariffs Ahead of EU Summit",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/uk-open-to-discussing-chinese-car-tariffs-ahead-of-eu-summit"
+    "title": "Cleaning up PFAS",
+    "link": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/"
   },
   {
-    "title": "Hungary Holds Key Rate With Budget and Euro Path In Focus",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/hungary-holds-interest-rate-with-budget-and-euro-path-in-focus"
+    "title": "Solid-state batteries",
+    "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/"
   },
   {
-    "title": "US Pending Home Sales Plunged in September to a Record Low",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/us-pending-home-sales-fall-to-record-low-as-mortgage-rates-rise"
-  },
-  {
-    "title": "US Housing Starts Fall to One of the Worst Paces Since Pandemic",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/us-housing-starts-fall-to-four-month-low-as-demand-falters"
-  },
-  {
-    "title": "Amazon to Hire Over 300,000 in Holiday Season, Up 20% From 2025",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/amazon-to-hire-over-300-000-in-holiday-season-up-20-from-2025"
-  },
-  {
-    "title": "Drop in Insolvencies Adds to Signs of Resilience in UK Economy",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/uk-insolvencies-drop-as-businesses-endure-higher-costs"
-  },
-  {
-    "title": "UK Dealers See £3 Billion More Gilt Sales as Headroom Falls",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/uk-dealers-see-3-4-billion-more-gilt-sales-as-headroom-shrinks"
-  },
-  {
-    "title": "Traders are growing wary of a copper price crash with no sign of tariffs",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/traders-are-growing-wary-of-a-copper-price-crash-with-no-sign-of-tariffs"
-  },
-  {
-    "title": "A Giant Debt Quandary Now Looms Within the US Political Horizon",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/a-giant-debt-quandary-now-looms-within-the-us-political-horizon"
-  },
-  {
-    "title": "ECB’s Rehn Says French Spread to Germany Has Widened ‘Somewhat’",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-20/ecb-s-rehn-says-french-spread-to-germany-has-widened-somewhat"
+    "title": "Eliminating traffic deaths",
+    "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/"
   },
   {
     "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
@@ -682,34 +710,6 @@
   {
     "title": "Melt it, spin it, use it again",
     "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/"
-  },
-  {
-    "title": "A reason to eat carbs",
-    "link": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/"
-  },
-  {
-    "title": "Robotic therapy for stroke patients",
-    "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"
-  },
-  {
-    "title": "Taking a swing at a pickleball startup",
-    "link": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/"
-  },
-  {
-    "title": "A good TA: priceless",
-    "link": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/"
-  },
-  {
-    "title": "Nebraska native explores galaxies far, far away",
-    "link": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/"
-  },
-  {
-    "title": "A champion for brain injury patients",
-    "link": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/"
-  },
-  {
-    "title": "A cleaner path to rare earth metals",
-    "link": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/"
   },
   {
     "title": "YouTube might be testing hiding the dislike button",
