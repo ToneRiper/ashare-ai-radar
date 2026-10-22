@@ -192,12 +192,20 @@
     "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/"
   },
   {
-    "title": "American Airlines expects deeper 2026 loss on pricier fuel despite record revenue",
+    "title": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
     "link": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html"
+  },
+  {
+    "title": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
+    "link": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html"
   },
   {
     "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
     "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html"
+  },
+  {
+    "title": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+    "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html"
   },
   {
     "title": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
@@ -302,14 +310,6 @@
   {
     "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
     "link": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html"
-  },
-  {
-    "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html"
-  },
-  {
-    "title": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
-    "link": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html"
   },
   {
     "title": "CNBC Daily Open: Ukraine's Starlink whodunit",
@@ -512,6 +512,22 @@
     "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/"
   },
   {
+    "title": "Bosch to Separate Auto-Parts Unit as Chinese Rivals Gain Ground",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/bosch-to-separate-auto-parts-unit-as-chinese-rivals-gain-ground"
+  },
+  {
+    "title": "Young Brits See Tech and Finance Jobs Plunge 22% in Three Years",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/young-brits-see-tech-and-finance-jobs-plunge-22-in-three-years"
+  },
+  {
+    "title": "IBM Shares Fall as Results Fail to Offset Broader Tech Worries",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/ibm-posts-5-sales-growth-says-infrastructure-deals-came-back"
+  },
+  {
+    "title": "Meta Reports $825 Billion in Future Spending Commitments",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/meta-reports-825-billion-in-future-spending-commitments"
+  },
+  {
     "title": "Nvidia’s Jensen Huang Scolds Europe on AI Race",
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/nvidia-s-jensen-huang-scolds-europe-on-ai-race"
   },
@@ -576,20 +592,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-22/huawei-gets-2-3-billion-offshore-loan-as-chip-spending-soars"
   },
   {
-    "title": "Malaysian Traffic App Draws Ridicule After Officials Banned Waze",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/malaysian-traffic-app-draws-ridicule-after-officials-banned-waze"
-  },
-  {
-    "title": "SAP CFO Says Cloud Growth at 25% Is 'Very Strong'",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-22/sap-cfo-says-cloud-growth-at-25-is-very-strong-video"
-  },
-  {
-    "title": "SoftBank Market Value Halves From Peak as AI Fears Grow",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/softbank-market-value-poised-to-halve-from-peak-as-ai-fears-grow"
-  },
-  {
-    "title": "Japan Scrambles to Patch PHP Flaws as Banks, Airlines Go Offline",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/japan-scrambles-to-patch-php-flaws-as-banks-airlines-go-offline"
+    "title": "Czech Policymaker Sees Tough Rate Hike Call as Energy Risks Grow",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/czech-policymaker-sees-tough-rate-hike-call-as-energy-risks-grow"
   },
   {
     "title": "Turkey Delivers Cautious Rate Cut, Leaves Room for Another",
@@ -662,10 +666,6 @@
   {
     "title": "US Mortgage Rates Fall for First Time Since Early August",
     "link": "https://www.bloomberg.com/news/articles/2026-10-21/us-mortgage-rates-fall-for-first-time-since-early-august"
-  },
-  {
-    "title": "Highlights of South Africa Finance Minister’s 2026 Budget Update",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/highlights-of-south-africa-finance-minister-s-2026-budget-update"
   },
   {
     "title": "Making the case for context-aware AI",
