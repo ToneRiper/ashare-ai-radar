@@ -192,6 +192,18 @@
     "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/"
   },
   {
+    "title": "American Airlines expects deeper 2026 loss on pricier fuel despite record revenue",
+    "link": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html"
+  },
+  {
+    "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
+    "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html"
+  },
+  {
+    "title": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
+    "link": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html"
+  },
+  {
     "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
     "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html"
   },
@@ -300,16 +312,8 @@
     "link": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html"
   },
   {
-    "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
-  },
-  {
-    "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027",
-    "link": "https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html"
-  },
-  {
-    "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
-    "link": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html"
+    "title": "CNBC Daily Open: Ukraine's Starlink whodunit",
+    "link": "https://www.cnbc.com/2026/10/22/trump-meta-tesla-earnings-iran-nvidia-gtc.html"
   },
   {
     "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
@@ -428,10 +432,6 @@
     "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html"
   },
   {
-    "title": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
-    "link": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html"
-  },
-  {
     "title": "Tesla says it will start selling Cybercabs by end of year",
     "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
   },
@@ -512,84 +512,116 @@
     "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/"
   },
   {
+    "title": "Nvidia’s Jensen Huang Scolds Europe on AI Race",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/nvidia-s-jensen-huang-scolds-europe-on-ai-race"
+  },
+  {
+    "title": "Comcast Sees Steep Internet, Video Losses; Eyes Job Cuts",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/comcast-sees-steep-internet-video-losses-eyes-job-cuts"
+  },
+  {
+    "title": "Hollywood Executives Weigh AI’s Promise — and Risks",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-22/hollywood-executives-weigh-ai-s-promise-and-risks"
+  },
+  {
+    "title": "Chip Stocks Face Peak-Earnings in 2027, Says NewEdge’s Dawson",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-22/chip-stocks-face-peak-earnings-in-2027-newedge-s-dawson-video"
+  },
+  {
+    "title": "Researchers Say Hackers Targeted PHP Before Flaws Were Known",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/researchers-say-hackers-targeted-php-before-flaws-were-known"
+  },
+  {
+    "title": "Australia Watchdog Says Weighing Action in Social Media Probe",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/australia-watchdog-says-weighing-action-in-social-media-probe"
+  },
+  {
+    "title": "Tesla-SpaceX Merger Is Elon Musk’s Biggest AI Bet Yet",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/tesla-spacex-merger-is-elon-musk-s-biggest-ai-bet-yet"
+  },
+  {
+    "title": "Amazon Rivals Apple's iPad Offering With New Alexa Tablet 12 Pro: Review",
+    "link": "https://www.bloomberg.com/news/features/2026-10-22/amazon-rivals-apple-s-ipad-offering-with-new-alexa-tablet-12-pro-review"
+  },
+  {
+    "title": "SAP Warns of Customer Headwinds After Beating Cloud Forecast",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/sap-cloud-growth-beats-forecast-in-sign-of-software-s-resilience"
+  },
+  {
+    "title": "Meta Touts AI Progress While Escalating Bet on the Market",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering"
+  },
+  {
+    "title": "Nvidia's Huang Says Neoclouds Are 'Good Investment'",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-22/nvidia-s-huang-says-neoclouds-are-good-investment-video"
+  },
+  {
+    "title": "Nvidia’s Huang Urged Nscale to Move Faster After Early Setbacks",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/nvidia-s-huang-urged-nscale-to-move-faster-after-early-setbacks"
+  },
+  {
     "title": "Nokia Profit Beats Estimates as Data Centers Fuel Growth",
     "link": "https://www.bloomberg.com/news/articles/2026-10-22/nokia-profit-beats-estimates-as-data-centers-fuel-growth"
   },
   {
-    "title": "Meta Gains on Results, New Stock Class to Fund AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-22/meta-gains-on-results-new-stock-class-to-fund-ai-video"
+    "title": "Elbilassy: Tech Selloff Healthy After Nasdaq Record High",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-22/elbilassy-tech-selloff-healthy-after-nasdaq-record-high-video"
   },
   {
-    "title": "SoftBank Market Value Poised to Halve From Peak as AI Fears Grow",
+    "title": "Barclays to Cut 5,000 Jobs as AI Starts to Create Efficiency",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-creates-efficiency-video"
+  },
+  {
+    "title": "Huawei Gets $2.3 Billion Offshore Loan as Chip Spending Soars",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/huawei-gets-2-3-billion-offshore-loan-as-chip-spending-soars"
+  },
+  {
+    "title": "Malaysian Traffic App Draws Ridicule After Officials Banned Waze",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/malaysian-traffic-app-draws-ridicule-after-officials-banned-waze"
+  },
+  {
+    "title": "SAP CFO Says Cloud Growth at 25% Is 'Very Strong'",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-22/sap-cfo-says-cloud-growth-at-25-is-very-strong-video"
+  },
+  {
+    "title": "SoftBank Market Value Halves From Peak as AI Fears Grow",
     "link": "https://www.bloomberg.com/news/articles/2026-10-22/softbank-market-value-poised-to-halve-from-peak-as-ai-fears-grow"
   },
   {
-    "title": "Venture Capitalists Push Up AI Startup Valuations with Tranched, Two-Step Rounds",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/venture-capitalists-push-up-ai-startup-valuations-with-tranched-two-step-rounds"
+    "title": "Japan Scrambles to Patch PHP Flaws as Banks, Airlines Go Offline",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/japan-scrambles-to-patch-php-flaws-as-banks-airlines-go-offline"
   },
   {
-    "title": "UK Taxman to Tackle Rogue Advice From Artificial Intelligence",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/uk-taxman-to-tackle-rogue-advice-from-artificial-intelligence"
+    "title": "Turkey Delivers Cautious Rate Cut, Leaves Room for Another",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/turkey-cuts-interest-rate-for-first-time-since-start-of-iran-war"
   },
   {
-    "title": "Meta’s $25 Billion Penalty Is Massive Win for AG in Small State",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/meta-s-25-billion-penalty-is-massive-win-for-ag-in-small-state"
+    "title": "How Bessent Has Switched His Metric of Bond-Market Success",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/how-bessent-has-switched-his-metric-of-bond-market-success"
   },
   {
-    "title": "India’s Eternal Unveils AI Assistant Built for Privacy",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/india-s-eternal-unveils-ai-assistant-built-for-privacy"
+    "title": "Spain Faces Oil Disruption Danger of a Different Kind",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/spain-faces-oil-disruption-danger-of-a-different-kind"
   },
   {
-    "title": "CATL-Backed Noetix Robotics Is Said to File for Hong Kong IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo"
+    "title": "UGX/USD: Uganda Shilling Drops 2.5%, Erasing Gains After Rate Hike",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/ugx-usd-uganda-shilling-drops-2-5-erasing-gains-after-rate-hike"
   },
   {
-    "title": "DeepSeek Raises $15 Billion in Challenge to Leading US Labs",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs"
+    "title": "Turkey Consumer Confidence Slumps Most in Years on Fund Rout",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/turkey-consumer-confidence-slumps-most-in-years-after-fund-rout"
   },
   {
-    "title": "Meta Touts AI Progress While Escalating Its Bet on the Market",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering"
+    "title": "SNB Judged Franc Threat No Longer Needed as Haven Flows Ebbed",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/snb-judged-franc-threat-no-longer-needed-as-haven-flows-ebbed"
   },
   {
-    "title": "Meta Offers Zuckerberg New Shares to Shield Him From Wealth Tax",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/meta-offers-zuckerberg-new-shares-to-shield-him-from-wealth-tax"
+    "title": "Philippines Ready to Tighten Further After Surprise Jumbo Hike",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/philippines-delivers-jumbo-rate-hike-as-inflation-heats-up-anew"
   },
   {
-    "title": "Comcast Planning Significant Jobs Cuts as Part of Reorganization",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/comcast-planning-significant-jobs-cuts-as-part-of-reorganization"
-  },
-  {
-    "title": "Tesla, IBM & Meta Report Earnings as AI Takes Center Stage",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/the-close-10-21-2026-video"
-  },
-  {
-    "title": "New $4.2 Billion Texas Gas Pipe to Supply Fuel for Data Center",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/new-4-2-billion-texas-gas-pipe-to-supply-fuel-for-data-center"
-  },
-  {
-    "title": "Encouraged by Meta’s Partnerships, Says First Founder",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/encouraged-by-meta-s-partnerships-says-first-founder-video"
-  },
-  {
-    "title": "Meta Boosts Bet on AI With Spending Outlook, New Stock Class",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/meta-boosts-ai-bet-with-capex-outlook-new-stock-class-video"
-  },
-  {
-    "title": "Frank Baker on New Firm, October Capital",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/frank-baker-on-new-firm-october-capital-video"
-  },
-  {
-    "title": "Texas Instruments Gives Sales Forecast That Tops Estimates",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/texas-instruments-forecast-tops-estimates-after-demand-picks-up"
-  },
-  {
-    "title": "SpaceX and Tesla Will Combine, Steve Westly Predicts",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/spacex-and-tesla-will-combine-steve-westly-predicts-video"
-  },
-  {
-    "title": "Tesla's Future Is Robotaxis, Says Ark's Keeney",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/tesla-s-future-is-robotaxis-says-ark-s-keeney-video"
+    "title": "BOK Signals More Tightening on Strong Growth After Holding Rate",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/bok-holds-rate-as-it-takes-stock-of-back-to-back-increases"
   },
   {
     "title": "RBI Minutes Show Split Over Signal for More Rate Hikes",
@@ -598,10 +630,6 @@
   {
     "title": "Australia Pensions Warned to Ratchet Up Cyber Defence Spending",
     "link": "https://www.bloomberg.com/news/articles/2026-10-22/australia-pensions-warned-to-ratchet-up-cyber-defence-spending"
-  },
-  {
-    "title": "BOK Signals More Tightening on Strong Growth After Holding Rate",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/bok-holds-rate-as-it-takes-stock-of-back-to-back-increases"
   },
   {
     "title": "Philippines Set to Lift Rate as El Niño Adds to Price Threat",
@@ -640,36 +668,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-21/highlights-of-south-africa-finance-minister-s-2026-budget-update"
   },
   {
-    "title": "IMF Urges Currency Flexibility as RBI Mounts Rupee Defense",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/imf-urges-currency-flexibility-as-rbi-mounts-rupee-defense"
+    "title": "Making the case for context-aware AI",
+    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
   },
   {
-    "title": "Asia’s Chip Exports Soar as AI Bubble Debate Rages",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-21/asia-s-chip-exports-soar-as-ai-bubble-debate-rages"
+    "title": "Three things you should know about permafrost",
+    "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/"
   },
   {
-    "title": "Japan’s Premier Faces Delivery Test on Her Economic Pledges",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-21/japan-s-premier-faces-delivery-test-on-her-economic-pledges"
-  },
-  {
-    "title": "UK House Prices Decline for a Third Month, Official Data Show",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/uk-house-prices-decline-for-a-third-month-official-data-show"
-  },
-  {
-    "title": "ECB’s Kazaks Says More Tightening May Be Needed: Econostream",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/ecb-s-kazaks-says-more-tightening-may-be-needed-econostream"
-  },
-  {
-    "title": "Ghana Plans to Unveil $10 Billion Economic Program to Drive Jobs",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/ghana-plans-to-unveil-10-billion-economic-program-to-drive-jobs"
-  },
-  {
-    "title": "German Economy Probably Stagnated in Third Quarter: Bundesbank",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-21/german-economy-probably-stagnated-in-third-quarter-bundesbank"
-  },
-  {
-    "title": "Merz Says EU Isn't Looking for a Trade 'Conflict' With China",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-21/merz-eu-isn-t-looking-for-a-trade-conflict-with-china-video"
+    "title": "AI’s hidden storage bill: What inference leaves behind",
+    "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
   },
   {
     "title": "The Download: introducing the Impossible issue",
@@ -700,16 +708,8 @@
     "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/"
   },
   {
-    "title": "Eliminating traffic deaths",
-    "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/"
-  },
-  {
-    "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-    "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
-  },
-  {
-    "title": "Here’s the tea",
-    "link": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/"
+    "title": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+    "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach"
   },
   {
     "title": "YouTube says it isn’t testing hiding the dislike button",
@@ -746,9 +746,5 @@
   {
     "title": "Bose acquires Skullcandy to help it reach a wider audience",
     "link": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers"
-  },
-  {
-    "title": "Airbnb bans making guests do dishes and take out the trash",
-    "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update"
   }
 ]
