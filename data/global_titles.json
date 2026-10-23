@@ -316,7 +316,7 @@
     "link": "https://www.cnbc.com/2026/10/23/trump-elon-musk-tesla-starlink-tech-nasdaq-.html"
   },
   {
-    "title": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
+    "title": "Volvo Cars plunges 26% as CEO says China sales slump came 'faster than we thought'",
     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html"
   },
   {
@@ -512,6 +512,18 @@
     "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/"
   },
   {
+    "title": "Futures Drop as Tech Stocks Slide, Oil Prices Climb Past $101 a Barrel",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/us-futures-slip-as-big-tech-wavers-oil-extends-gains"
+  },
+  {
+    "title": "Dudley Sees Fed Likely to Hold With a Hike Coming in December",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/dudley-sees-fed-likely-to-hold-with-a-hike-in-december-video"
+  },
+  {
+    "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-tech-fears-push-global-credit-spreads-to-17-month-high"
+  },
+  {
     "title": "Blackstone Bet on Chips Drove a Debt Boom That’s Upending Credit",
     "link": "https://www.bloomberg.com/news/articles/2026-10-23/blackstone-bet-on-chips-drove-a-debt-boom-that-s-upending-credit"
   },
@@ -542,10 +554,6 @@
   {
     "title": "The Forgotten Godmother of Economic Literature",
     "link": "https://www.bloomberg.com/news/videos/2026-10-23/the-forgotten-godmother-of-economic-literature-video"
-  },
-  {
-    "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-tech-fears-push-global-credit-spreads-to-17-month-high"
   },
   {
     "title": "Hyperscalers Capex to Be Big 2027 Theme, UBS' Baweja Says",
@@ -584,20 +592,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-22/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-concerns"
   },
   {
-    "title": "UK Pushes for Carve-Out From New EU Tech Sovereignty Rules",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-pushes-for-carve-out-from-new-eu-tech-sovereignty-rules"
-  },
-  {
-    "title": "CATL, BAIC Target 1 Million Cars With New Battery Swap Network",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/catl-baic-target-1-million-cars-with-new-battery-swap-network"
+    "title": "Russia Holds Key Rate as Ukrainian Strikes Spur Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/russia-holds-key-rate-as-ukrainian-strikes-spur-inflation"
   },
   {
     "title": "China’s Parcel Sales Are Shrinking as They Become Tax Targets",
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/china-s-parcel-sales-are-shrinking-as-they-become-tax-targets"
-  },
-  {
-    "title": "Russia Holds Key Rate as Ukrainian Strikes Spur Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/russia-holds-key-rate-as-ukrainian-strikes-spur-inflation"
   },
   {
     "title": "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
@@ -712,6 +712,10 @@
     "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/"
   },
   {
+    "title": "Retro gaming is being overrun with AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
+  },
+  {
     "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
     "link": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs"
   },
@@ -746,9 +750,5 @@
   {
     "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
     "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
-  },
-  {
-    "title": "Meta turns Muse sharing back on",
-    "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"
   }
 ]
