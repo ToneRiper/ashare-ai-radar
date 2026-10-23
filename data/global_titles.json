@@ -312,6 +312,14 @@
     "link": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html"
   },
   {
+    "title": "CNBC Daily Open: Tech falls to earth, Musk's fortunes diverge",
+    "link": "https://www.cnbc.com/2026/10/23/trump-elon-musk-tesla-starlink-tech-nasdaq-.html"
+  },
+  {
+    "title": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
+    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html"
+  },
+  {
     "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
     "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html"
   },
@@ -424,14 +432,6 @@
     "link": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html"
   },
   {
-    "title": "China's producer prices rise at fastest pace since June 2022, beating expectations",
-    "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html"
-  },
-  {
-    "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
-    "link": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html"
-  },
-  {
     "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
     "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/"
   },
@@ -512,6 +512,78 @@
     "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/"
   },
   {
+    "title": "Blackstone Bet on Chips Drove a Debt Boom That’s Upending Credit",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/blackstone-bet-on-chips-drove-a-debt-boom-that-s-upending-credit"
+  },
+  {
+    "title": "Apple’s iPhone Duo Ushers in New Era for Smartphones",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/apple-s-iphone-duo-ushers-in-new-era-for-smartphones"
+  },
+  {
+    "title": "AI Chipmaker Cambricon’s Sales Miss in Sign of Output Constraint",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-chipmaker-cambricon-s-sales-miss-in-sign-of-output-constraint"
+  },
+  {
+    "title": "Infosys Lowers Sales Forecast After Companies Curb IT Spending",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/infosys-lowers-sales-forecast-after-companies-curb-it-spending"
+  },
+  {
+    "title": "DeepSeek Open-Sources AI Model as China, US Restrict Each Other’s Tech",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/deepseek-open-sources-ai-model-as-china-us-restrict-each-other-s-tech"
+  },
+  {
+    "title": "SpaceX Aims to Secure 80,000 Cell Sites for New Network",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/spacex-aims-to-secure-80-000-cell-sites-for-new-network-video"
+  },
+  {
+    "title": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028"
+  },
+  {
+    "title": "The Forgotten Godmother of Economic Literature",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/the-forgotten-godmother-of-economic-literature-video"
+  },
+  {
+    "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-tech-fears-push-global-credit-spreads-to-17-month-high"
+  },
+  {
+    "title": "Hyperscalers Capex to Be Big 2027 Theme, UBS' Baweja Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/hyperscalers-capex-to-be-big-2027-theme-ubs-baweja-video"
+  },
+  {
+    "title": "Zetwerk Erases Gains, Slides 16% in Debut Caught in Selloff",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/zetwerk-shares-gain-in-mumbai-debut-after-529-million-ipo"
+  },
+  {
+    "title": "US Proposes Curbs on Investment in Chinese Biotech Firms",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/us-proposes-curbs-on-investment-in-chinese-biotech-firms"
+  },
+  {
+    "title": "Nvidia, TCV Invest in AI Video Startup Higgsfield in Series B Extension",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension"
+  },
+  {
+    "title": "Shoprite, Investec Said to Discuss South African Fintech Tie-Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/shoprite-investec-said-to-discuss-south-african-fintech-tie-up"
+  },
+  {
+    "title": "AI Trade Faces Earnings Test: Market Snapshot",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/ai-trade-faces-earnings-test-market-snapshot-video"
+  },
+  {
+    "title": "Saudi Aramco Said to Order HQ Evacuation, Oil Prices Set for Weekly Gain",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/horizons-middle-east-africa-10-23-2026-video"
+  },
+  {
+    "title": "Korea EXIM Bank Postpones Yen Bond as Market Volatility Jumps",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/korea-exim-bank-postpones-yen-bond-as-market-volatility-jumps"
+  },
+  {
+    "title": "SK Hynix Pulls Solidigm’s $10 Billion IPO on Regulatory Pushback",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-concerns"
+  },
+  {
     "title": "UK Pushes for Carve-Out From New EU Tech Sovereignty Rules",
     "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-pushes-for-carve-out-from-new-eu-tech-sovereignty-rules"
   },
@@ -520,76 +592,68 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-23/catl-baic-target-1-million-cars-with-new-battery-swap-network"
   },
   {
-    "title": "Apple’s iPhone Duo Hits Stores in Face of Short Supply and High Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/apple-s-iphone-duo-hits-stores-in-face-of-short-supply-and-high-demand"
+    "title": "China’s Parcel Sales Are Shrinking as They Become Tax Targets",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/china-s-parcel-sales-are-shrinking-as-they-become-tax-targets"
   },
   {
-    "title": "Treasuries Surge as Global Worries Spark Rush to Safety",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/treasuries-surge-as-global-worries-spark-rush-to-safety-video"
+    "title": "Russia Holds Key Rate as Ukrainian Strikes Spur Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/russia-holds-key-rate-as-ukrainian-strikes-spur-inflation"
   },
   {
-    "title": "Nvidia, TCV Invest in AI Video Startup Higgsfield in Series B Extension",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension"
+    "title": "Macklem Ensnared by Market Pricing and Will Hike, Economists Say",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/macklem-ensnared-by-market-pricing-and-will-hike-economists-say"
   },
   {
-    "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-tech-fears-push-global-credit-spreads-to-17-month-high"
+    "title": "UK’s Two-Speed Economy Motors on for Now as Firms Defy the Gloom",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-growth-hits-eight-month-high-and-jobs-slump-ends-pmi-shows"
   },
   {
-    "title": "Asia Investors Seek Havens as AI Selloff Deepens",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/asia-investors-seek-havens-as-ai-selloff-deepens-video"
+    "title": "China Barely Eased Austerity Before Shift Into Stimulus Mode",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/china-barely-eased-austerity-just-before-shift-to-stimulus-mode"
   },
   {
-    "title": "Zetwerk Shares Gain in Mumbai Debut After $529 Million IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/zetwerk-shares-gain-in-mumbai-debut-after-529-million-ipo"
+    "title": "De Cos Is Narrow Favorite to Follow Lagarde at ECB, Survey Shows",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/de-cos-is-narrow-favorite-to-follow-lagarde-at-ecb-survey-shows"
   },
   {
-    "title": "SK Hynix Pulls Solidigm’s $10 Billion IPO on Regulatory Pushback",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-concerns"
+    "title": "UK Bonds Look Attractive After Year of Repricing, Says RLAM",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-bonds-look-attractive-after-year-of-repricing-says-rlam"
   },
   {
-    "title": "US Proposes Curbs on Investment in Chinese Biotech Firms",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/us-proposes-curbs-on-investment-in-chinese-biotech-firms"
+    "title": "Healey’s First Budget to Push Hard UK Choices to Another Day",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/healey-s-first-budget-to-push-uk-s-hard-choices-to-another-day"
   },
   {
-    "title": "DeepSeek, MiniMax Win Approval for Global Use, State Media Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/deepseek-minimax-win-approval-for-global-use-state-media-says"
+    "title": "Euro-Zone Business Activity Slowed as France Unrest Weighs",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/euro-zone-business-activity-slowed-as-france-unrest-weighs"
   },
   {
-    "title": "Delta Electronics VP on Data Centre Demand",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/delta-electronics-vp-on-data-centre-demand-video"
+    "title": "BOJ Is Said to Keep Rate Hikes on Fast Track, December in Focus",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/boj-is-said-to-keep-rate-hikes-on-fast-track-december-in-focus"
   },
   {
-    "title": "FailSafe President on AI hacking, Cybersecurity",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/failsafe-president-on-ai-hacking-cybersecurity-video"
+    "title": "ECB Says Consumers’ Inflation Expectations Edge Up in September",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ecb-says-consumers-inflation-expectations-edge-up-in-september"
   },
   {
-    "title": "Startup Pursues Palmer Luckey’s Vision of Enhanced Military Dogs",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/startup-pursues-palmer-luckey-s-vision-of-enhanced-military-dogs"
+    "title": "German Business Activity Slows More Than Expected on Services",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/german-business-activity-slows-more-than-expected-on-services"
   },
   {
-    "title": "SK Data Center Arm Plans to Fund $350B AI Buildout",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/sk-data-center-arm-plans-to-fund-350b-ai-buildout-video"
+    "title": "French Business Activity Shrinks on Budget Trouble and Unrest",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/french-business-activity-unexpectedly-shrinks-on-budget-unrest"
   },
   {
-    "title": "SK Data Center Arm in Talks to Fund $350 Billion AI Buildout",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout"
+    "title": "Kazakhstan Cuts Base Rate by 50 Basis Points as Inflation Slows",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/kazakhstan-cuts-base-rate-by-50-basis-points-as-inflation-slows"
   },
   {
-    "title": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/openai-shifts-value-to-1-25-trillion-as-funding-talks-finalize"
+    "title": "UK Retail Sales Drop Amid Brexit-Sized Slump in Confidence",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/uk-consumer-confidence-in-slump-as-big-as-brexit-shock-gfk-says"
   },
   {
-    "title": "Trump, Crypto Firm Sued for Profiting Off Foreign Government",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/trump-and-crypto-firm-sued-for-profiting-from-foreign-government"
-  },
-  {
-    "title": "Tiffany McGhee Says AI Trade Needs Revenue Results as Expectations Rise",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-22/tiffany-mcghee-says-ai-trade-needs-revenue-results-video"
-  },
-  {
-    "title": "SpaceX in Talks to Access 80,000 Cell Sites for New Network",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/spacex-in-talks-to-access-80-000-cell-sites-for-wireless-network"
+    "title": "UK Retail Sales Fall 0.4% in September, More Than Forecast",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-retail-sales-fall-0-4-in-september-more-than-forecast"
   },
   {
     "title": "India’s Business Activity Picks Up Modestly, Flash PMIs Show",
@@ -604,72 +668,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-23/singapore-s-core-inflation-for-september-unexpectedly-cools"
   },
   {
-    "title": "Healey’s First Budget to Push UK’s Hard Choices to Another Day",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/healey-s-first-budget-to-push-uk-s-hard-choices-to-another-day"
-  },
-  {
     "title": "ECB Set to Raise Rates in December After Pause, Economists Say",
     "link": "https://www.bloomberg.com/news/articles/2026-10-23/ecb-set-to-raise-rates-in-december-after-pause-economists-say"
   },
   {
-    "title": "Russia to Extend Rate-Cut Pause as Ukraine Strikes Push Inflation Above Target",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/russia-to-extend-rate-cut-pause-as-ukraine-strikes-push-inflation-above-target"
-  },
-  {
-    "title": "UK Consumer Confidence in Slump as Big as Brexit Shock, GfK Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/uk-consumer-confidence-in-slump-as-big-as-brexit-shock-gfk-says"
-  },
-  {
-    "title": "New Zealand Likely Facing Pre-Election Rate Hike, Economists Say",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/new-zealand-likely-facing-pre-election-rate-hike-economists-say"
-  },
-  {
-    "title": "ECB’s Panetta Says Rising Bond Yields Will Restrain Economy",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/ecb-s-panetta-says-rising-bond-yields-will-restrain-economy"
-  },
-  {
-    "title": "Czech Policymaker Sees Tough Rate Hike Call on Energy Risks",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/czech-policymaker-sees-tough-rate-hike-call-as-energy-risks-grow"
-  },
-  {
-    "title": "Peru Government to Seek Higher Fiscal Deficits to Shield Economy",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/peru-government-to-seek-higher-fiscal-deficits-to-shield-economy"
-  },
-  {
-    "title": "Mexico Inflation Ticks Up as Banxico Weighs Next Rate Move",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/mexico-inflation-ticks-up-as-banxico-weighs-next-rate-move"
-  },
-  {
-    "title": "US Initial Jobless Claims Fall to Three-Month Low of 194,000",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/us-initial-jobless-claims-fall-to-three-month-low"
-  },
-  {
-    "title": "German Finance Ministry Says No Fiscal Leeway With Tax Revenue",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/german-finance-ministry-says-no-fiscal-leeway-with-tax-revenue"
-  },
-  {
-    "title": "Turkey Delivers Cautious Rate Cut, Leaves Room for Another",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/turkey-cuts-interest-rate-for-first-time-since-start-of-iran-war"
-  },
-  {
-    "title": "How Bessent Has Switched His Metric of Bond-Market Success",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/how-bessent-has-switched-his-metric-of-bond-market-success"
-  },
-  {
-    "title": "Spain Faces Oil Disruption Danger of a Different Kind",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/spain-faces-oil-disruption-danger-of-a-different-kind"
-  },
-  {
-    "title": "UGX/USD: Uganda Shilling Drops 2.5%, Erasing Gains After Rate Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/ugx-usd-uganda-shilling-drops-2-5-erasing-gains-after-rate-hike"
-  },
-  {
-    "title": "Turkey Consumer Confidence Slumps Most in Years on Fund Rout",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/turkey-consumer-confidence-slumps-most-in-years-after-fund-rout"
-  },
-  {
-    "title": "SNB Judged Franc Threat No Longer Needed as Haven Flows Ebbed",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/snb-judged-franc-threat-no-longer-needed-as-haven-flows-ebbed"
+    "title": "In the biotech world, you can’t see everything",
+    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
   },
   {
     "title": "Designing an AI serving harness built to last",
@@ -708,8 +712,12 @@
     "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/"
   },
   {
-    "title": "Exercise in a pill",
-    "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/"
+    "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
+    "link": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs"
+  },
+  {
+    "title": "No, the iPhone Duo isn’t a small phone",
+    "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini"
   },
   {
     "title": "Etsy is cracking down on AI slop listings",
@@ -742,13 +750,5 @@
   {
     "title": "Meta turns Muse sharing back on",
     "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"
-  },
-  {
-    "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
-    "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"
-  },
-  {
-    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"
   }
 ]
