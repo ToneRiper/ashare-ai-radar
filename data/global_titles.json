@@ -1,5 +1,9 @@
 [
   {
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+  },
+  {
     "title": "Build more responsive apps with the Decisions API",
     "link": "https://openai.com/index/decisions-api"
   },
@@ -68,12 +72,12 @@
     "link": "https://openai.com/index/itau-generative-ai"
   },
   {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners"
-  },
-  {
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "link": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+  },
+  {
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners"
   },
   {
     "title": "Bringing GPT-Rosalind to academic research labs",
@@ -114,10 +118,6 @@
   {
     "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
     "link": "https://openai.com/index/asana-browser-agent"
-  },
-  {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos"
   },
   {
     "title": "Kazakhstan Expands Compute for Its AI Future",
@@ -512,6 +512,10 @@
     "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/"
   },
   {
+    "title": "UK Pushes for Carve-Out From New EU Tech Sovereignty Rules",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-pushes-for-carve-out-from-new-eu-tech-sovereignty-rules"
+  },
+  {
     "title": "CATL, BAIC Target 1 Million Cars With New Battery Swap Network",
     "link": "https://www.bloomberg.com/news/articles/2026-10-23/catl-baic-target-1-million-cars-with-new-battery-swap-network"
   },
@@ -542,10 +546,6 @@
   {
     "title": "SK Hynix Pulls Solidigm’s $10 Billion IPO on Regulatory Pushback",
     "link": "https://www.bloomberg.com/news/articles/2026-10-22/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-concerns"
-  },
-  {
-    "title": "Treasuries’ Link to AI Shows Sharp Shift as Haven Trade Returns",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/treasuries-link-to-ai-shows-sharp-shift-as-haven-trade-returns"
   },
   {
     "title": "US Proposes Curbs on Investment in Chinese Biotech Firms",
