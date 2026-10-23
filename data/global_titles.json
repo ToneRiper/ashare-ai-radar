@@ -1,5 +1,9 @@
 [
   {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+  },
+  {
     "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
     "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
   },
@@ -72,12 +76,12 @@
     "link": "https://openai.com/index/itau-generative-ai"
   },
   {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-  },
-  {
     "title": "Benefit Street Partners answers questions faster with Codex",
     "link": "https://openai.com/index/benefit-street-partners"
+  },
+  {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin"
   },
   {
     "title": "Bringing GPT-Rosalind to academic research labs",
@@ -114,10 +118,6 @@
   {
     "title": "Higgsfield takes AI video from 1 minute to over 10",
     "link": "https://openai.com/index/higgsfield-longer-videos-voice"
-  },
-  {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://openai.com/index/asana-browser-agent"
   },
   {
     "title": "Kazakhstan Expands Compute for Its AI Future",
@@ -190,6 +190,18 @@
   {
     "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
     "link": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/"
+  },
+  {
+    "title": "Restaurant earnings will test whether owning more brands pays off",
+    "link": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html"
+  },
+  {
+    "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+    "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html"
+  },
+  {
+    "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+    "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html"
   },
   {
     "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
@@ -300,23 +312,11 @@
     "link": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html"
   },
   {
-    "title": "Porsche reveals Mission S concept car that previews new design identity",
-    "link": "https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html"
-  },
-  {
-    "title": "JetBlue’s new domestic first class, BlueFirst, is now on sale",
-    "link": "https://www.cnbc.com/2026/10/15/jetblue-bluefirst-first-class.html"
-  },
-  {
-    "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
-    "link": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html"
-  },
-  {
     "title": "CNBC Daily Open: Tech falls to earth, Musk's fortunes diverge",
     "link": "https://www.cnbc.com/2026/10/23/trump-elon-musk-tesla-starlink-tech-nasdaq-.html"
   },
   {
-    "title": "Volvo Cars plunges 26% as CEO says China sales slump came 'faster than we thought'",
+    "title": "Volvo Cars plunges 24% as CEO says China sales slump came 'faster than we thought'",
     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html"
   },
   {
@@ -432,11 +432,27 @@
     "link": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html"
   },
   {
-    "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+    "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+  },
+  {
+    "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+    "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/"
+  },
+  {
+    "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+    "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/"
+  },
+  {
+    "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+    "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/"
+  },
+  {
+    "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
     "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/"
   },
   {
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
   },
   {
@@ -496,104 +512,108 @@
     "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"
   },
   {
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+    "title": "Apple’s Most Exciting Phone in Years Has Growing Pains",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/iphone-duo-review"
   },
   {
-    "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
-    "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/"
+    "title": "Moonshot Debuts First AI Upgrade Since Its Own DeepSeek Moment",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/moonshot-debuts-first-ai-upgrade-since-its-own-deepseek-moment"
   },
   {
-    "title": "Uber puts all 30,000 employees on ChatGPT Work",
-    "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+    "title": "Apple iPhone Duo Review: Stunning Foldable Screen, Uneven Apps",
+    "link": "https://www.bloomberg.com/news/features/2026-10-23/apple-iphone-duo-review-stunning-foldable-screen-uneven-apps"
   },
   {
-    "title": "Tesla is prepping a Cybercab onslaught",
-    "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/"
+    "title": "Why ‘Final Fantasy’ Returned to 2D",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/why-final-fantasy-returned-to-2d"
   },
   {
-    "title": "Futures Drop as Tech Stocks Slide, Oil Prices Climb Past $101 a Barrel",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/us-futures-slip-as-big-tech-wavers-oil-extends-gains"
+    "title": "Apple’s iPhone Duo Hits Stores in Face of Short Supply and High Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/apple-s-iphone-duo-hits-stores-in-face-of-short-supply-and-high-demand"
   },
   {
-    "title": "Dudley Sees Fed Likely to Hold With a Hike Coming in December",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/dudley-sees-fed-likely-to-hold-with-a-hike-in-december-video"
+    "title": "US Economy 'Quite Dependent' on AI as Growth Engine, Says Tani Fukui",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-economy-dependent-on-ai-as-growth-engine-says-fukui-video"
+  },
+  {
+    "title": "Apple’s $2,000 iPhone Duo Debuts With Limited Supply",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/apple-s-2-000-iphone-duo-debuts-with-limited-supply-video"
   },
   {
     "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
     "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-tech-fears-push-global-credit-spreads-to-17-month-high"
   },
   {
-    "title": "Blackstone Bet on Chips Drove a Debt Boom That’s Upending Credit",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/blackstone-bet-on-chips-drove-a-debt-boom-that-s-upending-credit"
+    "title": "OpenAI, SpaceX and AI Market Jitters",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/open-interest-10-23-2026-video"
   },
   {
-    "title": "Apple’s iPhone Duo Ushers in New Era for Smartphones",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/apple-s-iphone-duo-ushers-in-new-era-for-smartphones"
+    "title": "Why AI Is Causing a Global Panic Over Cybersecurity",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/why-ai-is-causing-a-global-panic-over-cybersecurity-video"
   },
   {
-    "title": "AI Chipmaker Cambricon’s Sales Miss in Sign of Output Constraint",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-chipmaker-cambricon-s-sales-miss-in-sign-of-output-constraint"
+    "title": "Japan Labor Market 'Can Leverage AI,' Says Masa Takeda",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/japan-labor-market-can-leverage-ai-says-masa-takeda-video"
   },
   {
-    "title": "Infosys Lowers Sales Forecast After Companies Curb IT Spending",
+    "title": "AI in Early Stages of a Bubble, Gabelli's Marangi Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/ai-in-early-stages-of-a-bubble-gabelli-s-marangi-says-video"
+  },
+  {
+    "title": "Futures Drop as Tech Stocks Slide, Oil Prices Climb Past $101 a Barrel",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/us-futures-slip-as-big-tech-wavers-oil-extends-gains"
+  },
+  {
+    "title": "Aevex Says Drone Boats Contract With Navy Now Worth $350 Million",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/aevex-says-drone-boats-contract-with-navy-now-worth-350-million"
+  },
+  {
+    "title": "Nscale Sued in Norway for Labor Violations at Data Center Site",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/nscale-sued-in-norway-for-labor-violations-at-data-center-site"
+  },
+  {
+    "title": "Infosys Cuts Sales Forecast After Companies Curb IT Spending",
     "link": "https://www.bloomberg.com/news/articles/2026-10-23/infosys-lowers-sales-forecast-after-companies-curb-it-spending"
   },
   {
-    "title": "DeepSeek Open-Sources AI Model as China, US Restrict Each Other’s Tech",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/deepseek-open-sources-ai-model-as-china-us-restrict-each-other-s-tech"
+    "title": "AI Ushers In Era of Rapid-Fire Software Vulnerabilities",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-ushers-in-era-of-rapid-fire-software-vulnerabilities"
   },
   {
-    "title": "SpaceX Aims to Secure 80,000 Cell Sites for New Network",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/spacex-aims-to-secure-80-000-cell-sites-for-new-network-video"
+    "title": "Apple’s $2K iPhone Duo Debuts With Long Lines and Limited Supply",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/apple-iphone-duo-debuts-with-long-lines-limited-supply-video"
   },
   {
-    "title": "Unitree Founder Now Expects Robots Breakthrough as Soon as 2028",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028"
+    "title": "AI Chipmaker Cambricon Sales Miss Signals Output Constraint",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-chipmaker-cambricon-s-sales-miss-in-sign-of-output-constraint"
   },
   {
-    "title": "The Forgotten Godmother of Economic Literature",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/the-forgotten-godmother-of-economic-literature-video"
+    "title": "BlackRock’s Boivin Sees Rates Getting More in Line With the Environment",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/rates-getting-more-in-line-with-environment-boivin-video"
   },
   {
-    "title": "Hyperscalers Capex to Be Big 2027 Theme, UBS' Baweja Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/hyperscalers-capex-to-be-big-2027-theme-ubs-baweja-video"
+    "title": "Kalshi Courts Wall Street in Bid to Be the ‘Inflation Exchange’ With CPI Futures",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/kalshi-courts-wall-street-in-bid-to-be-the-inflation-exchange-with-cpi-futures"
   },
   {
-    "title": "Zetwerk Erases Gains, Slides 16% in Debut Caught in Selloff",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/zetwerk-shares-gain-in-mumbai-debut-after-529-million-ipo"
+    "title": "US Consumer Sentiment Slips to Five-Month Low on Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/us-consumer-sentiment-slips-to-five-month-low-on-inflation-woes"
   },
   {
-    "title": "US Proposes Curbs on Investment in Chinese Biotech Firms",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/us-proposes-curbs-on-investment-in-chinese-biotech-firms"
+    "title": "US Business Activity Expands, Prices Surge Most Since 2022",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/us-business-activity-expands-prices-surge-by-most-since-2022"
   },
   {
-    "title": "Nvidia, TCV Invest in AI Video Startup Higgsfield in Series B Extension",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension"
-  },
-  {
-    "title": "Shoprite, Investec Said to Discuss South African Fintech Tie-Up",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/shoprite-investec-said-to-discuss-south-african-fintech-tie-up"
-  },
-  {
-    "title": "AI Trade Faces Earnings Test: Market Snapshot",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/ai-trade-faces-earnings-test-market-snapshot-video"
-  },
-  {
-    "title": "Saudi Aramco Said to Order HQ Evacuation, Oil Prices Set for Weekly Gain",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/horizons-middle-east-africa-10-23-2026-video"
-  },
-  {
-    "title": "Korea EXIM Bank Postpones Yen Bond as Market Volatility Jumps",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/korea-exim-bank-postpones-yen-bond-as-market-volatility-jumps"
-  },
-  {
-    "title": "SK Hynix Pulls Solidigm’s $10 Billion IPO on Regulatory Pushback",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-concerns"
-  },
-  {
-    "title": "Russia Holds Key Rate as Ukrainian Strikes Spur Inflation",
+    "title": "Bank of Russia Sees Key Rate High for Longer on Refinery Strikes",
     "link": "https://www.bloomberg.com/news/articles/2026-10-23/russia-holds-key-rate-as-ukrainian-strikes-spur-inflation"
+  },
+  {
+    "title": "Canada Retail Sales Rebound Set to Continue in September",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/canada-retail-sales-rebound-set-to-continue-in-september"
+  },
+  {
+    "title": "AI-Driven Job Losses and Inequality: A Guide to Proposals for Helping Workers",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-driven-job-losses-and-inequality-a-guide-to-proposals-for-helping-workers"
   },
   {
     "title": "China’s Parcel Sales Are Shrinking as They Become Tax Targets",
@@ -652,24 +672,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-22/uk-consumer-confidence-in-slump-as-big-as-brexit-shock-gfk-says"
   },
   {
-    "title": "UK Retail Sales Fall 0.4% in September, More Than Forecast",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-retail-sales-fall-0-4-in-september-more-than-forecast"
-  },
-  {
-    "title": "India’s Business Activity Picks Up Modestly, Flash PMIs Show",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/india-s-activity-see-mild-pick-up-in-october-flash-pmis-show"
-  },
-  {
-    "title": "Vietnam Bets Big on High-Speed Rail To Transform Economy",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/vietnam-bets-big-on-high-speed-rail-to-transform-economy"
-  },
-  {
-    "title": "Singapore’s Core Inflation for September Unexpectedly Cools",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/singapore-s-core-inflation-for-september-unexpectedly-cools"
-  },
-  {
-    "title": "ECB Set to Raise Rates in December After Pause, Economists Say",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ecb-set-to-raise-rates-in-december-after-pause-economists-say"
+    "title": "The Download: testing six tech promises and biotech’s blind spots",
+    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
   },
   {
     "title": "In the biotech world, you can’t see everything",
@@ -708,47 +712,43 @@
     "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/"
   },
   {
-    "title": "Nuclear-powered spaceships",
-    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/"
+    "title": "Elon Musk’s dangerous grip on outer space",
+    "link": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly"
   },
   {
-    "title": "Retro gaming is being overrun with AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
+    "title": "The iPhone Duo should have been an iPad",
+    "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast"
   },
   {
-    "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
-    "link": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs"
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
   },
   {
-    "title": "No, the iPhone Duo isn’t a small phone",
-    "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini"
+    "title": "The first broken iPhone Duos are here",
+    "link": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen"
   },
   {
-    "title": "Etsy is cracking down on AI slop listings",
-    "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing"
+    "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+    "link": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss"
   },
   {
-    "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
-    "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes"
+    "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+    "link": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier"
   },
   {
-    "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
-    "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial"
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
   },
   {
-    "title": "Canva’s first AI image model plans designs before generating them",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+    "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
+    "link": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade"
   },
   {
-    "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-    "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram"
+    "title": "Our best tips for using the iPhone Duo",
+    "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe"
   },
   {
-    "title": "Fall 2026 earnings watch",
-    "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch"
-  },
-  {
-    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-    "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
+    "title": "Apple revives the original iPod as an Apple Music easter egg",
+    "link": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page"
   }
 ]
