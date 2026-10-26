@@ -432,6 +432,10 @@
     "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html"
   },
   {
+    "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+    "link": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"
+  },
+  {
     "title": "The best apps for tracking your reading and discovering new books",
     "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
   },
@@ -508,20 +512,36 @@
     "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
   },
   {
-    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-    "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/"
+    "title": "Anthropic IPO: S-1 Filing Offers First Look at Claude Maker’s Finances",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-s-1-filing-offers-first-look-at-claude-maker-s-finances"
   },
   {
-    "title": "EQT to Buy Range Resources, Creating Largest US Gas Producer",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/eqt-to-buy-range-resources-in-an-all-stock-transaction"
+    "title": "Anthropic Files for IPO, Plans to Trade on Nasdaq",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-files-for-ipo-plans-to-trade-on-nasdaq-video"
+  },
+  {
+    "title": "Apple Debuts $699 Water-Resistant iPad Mini With OLED Screen",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/apple-launches-699-water-resistant-ipad-mini-with-oled-screen"
+  },
+  {
+    "title": "SpaceX-Tesla Merger? | Zuckerberg's Deal | The Rundown",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/spacex-tesla-merger-zuckerberg-s-deal-the-rundown-video"
   },
   {
     "title": "SpaceX Agrees to $40 Billion Chip-Financing Deal With Apollo",
     "link": "https://www.bloomberg.com/news/articles/2026-10-26/spacex-agrees-to-40-billion-chip-financing-deal-with-apollo"
   },
   {
+    "title": "EQT to Buy Range Resources, Creating Largest US Gas Producer",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/eqt-to-buy-range-resources-in-an-all-stock-transaction"
+  },
+  {
     "title": "HSBC’s Kettner Turns Cautions on Equities for Now",
     "link": "https://www.bloomberg.com/news/videos/2026-10-26/hsbc-s-kettner-turns-cautious-on-equities-for-now-video"
+  },
+  {
+    "title": "Sierra Space Hires CFO From L3 Harris to Help With Defense Pivot",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/sierra-space-hires-cfo-from-l3-harris-to-help-with-defense-pivot"
   },
   {
     "title": "Verizon Raises 2026 Forecast After Surge in Phone Customers",
@@ -570,26 +590,6 @@
   {
     "title": "Musk Says $40 Billion Debt Deal for AI Chips Has Closed",
     "link": "https://www.bloomberg.com/news/videos/2026-10-26/musk-says-40-billion-debt-deal-for-ai-chips-has-closed-video"
-  },
-  {
-    "title": "AI Funding Angst Stands in Way of Return to Highs: Taking Stock",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/ai-funding-angst-stands-in-way-of-return-to-highs-taking-stock"
-  },
-  {
-    "title": "Palantir’s Fast-Selling $170 Windbreaker Shows Its Korea Appeal",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/palantir-s-fast-selling-170-windbreaker-shows-its-korea-appeal"
-  },
-  {
-    "title": "Can the AI Boom Survive a Margin Squeeze?",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/can-the-ai-boom-survive-a-margin-squeeze-video"
-  },
-  {
-    "title": "Africa-Asia Infrastructure Fund PIDG to Deploy $1 Billion Yearly",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/africa-asia-infrastructure-fund-pidg-to-deploy-1-billion-yearly-pidg"
-  },
-  {
-    "title": "Food-Delivery Firm Meituan Aims to Raise $1 Billion in Bond Sale",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/food-delivery-firm-meituan-aims-1-billion-bond-sale-dim-sum-debt"
   },
   {
     "title": "UK Firms Optimistic Healey Will Remove Energy Bill Levies",
@@ -656,6 +656,14 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/warsh-tells-traders-to-watch-the-data-they-still-follow-the-fed"
   },
   {
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/"
+  },
+  {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
+  },
+  {
     "title": "The Download: testing six tech promises and biotech’s blind spots",
     "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
   },
@@ -688,12 +696,16 @@
     "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
   },
   {
-    "title": "The Download: introducing the Impossible issue",
-    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/"
+    "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
   },
   {
-    "title": "We can do impossible things",
-    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/"
+    "title": "Can AI help solve the COBOL code crisis?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic"
+  },
+  {
+    "title": "Apple updates the iPad Mini with a larger OLED display",
+    "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce"
   },
   {
     "title": "The city that fought Flock",
@@ -722,17 +734,5 @@
   {
     "title": "Now you can watch Instagram Reels on your Apple TV",
     "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv"
-  },
-  {
-    "title": "r/opensource just banned AI, non-English speakers, and more",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
-  },
-  {
-    "title": "Google’s AI search changes upended online publishing",
-    "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
-  },
-  {
-    "title": "Blue Planet III is keeping the rough edges in the age of AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
   }
 ]
