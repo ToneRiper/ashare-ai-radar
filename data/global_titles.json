@@ -1,11 +1,31 @@
 [
   {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "link": "https://openai.com/index/greptile-code-review-codex-astra"
+  },
+  {
+    "title": "Working with academic communities to build scientific understanding",
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+  },
+  {
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+  },
+  {
     "title": "ChatGPT’s expanding world of work",
     "link": "https://openai.com/index/chatgpt-expanding-world-of-work"
   },
   {
     "title": "How Fanatics and OpenAI streamline the fan experience",
     "link": "https://openai.com/index/fanatics-streamline-fan-experience"
+  },
+  {
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "link": "https://openai.com/index/openai-cut-incident-investigation"
+  },
+  {
+    "title": "Introducing GPT-6.1 Terra",
+    "link": "https://openai.com/index/introducing-gpt-6-1-terra"
   },
   {
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -100,26 +120,6 @@
     "link": "https://openai.com/index/introducing-the-rosalind-academic-plan"
   },
   {
-    "title": "Teaching students to think and learn through questions",
-    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
-  },
-  {
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "link": "https://openai.com/index/sullivan-cromwell"
-  },
-  {
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "link": "https://openai.com/index/amp-beyond-coding"
-  },
-  {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "link": "https://openai.com/index/sentinelone"
-  },
-  {
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "link": "https://openai.com/index/third-moment-research"
-  },
-  {
     "title": "Kazakhstan Expands Compute for Its AI Future",
     "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/"
   },
@@ -190,6 +190,10 @@
   {
     "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
     "link": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/"
+  },
+  {
+    "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+    "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html"
   },
   {
     "title": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
@@ -308,8 +312,16 @@
     "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html"
   },
   {
-    "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html"
+    "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+    "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html"
+  },
+  {
+    "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+    "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+    "link": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html"
   },
   {
     "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
@@ -420,16 +432,28 @@
     "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html"
   },
   {
-    "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
-    "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html"
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
   },
   {
-    "title": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
-    "link": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html"
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
   },
   {
-    "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
-    "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html"
+    "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+    "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
+  },
+  {
+    "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+    "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"
+  },
+  {
+    "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+    "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
+  },
+  {
+    "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+    "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
   },
   {
     "title": "This startup’s self-driving excavators help dig up $600M in new funding",
@@ -488,112 +512,104 @@
     "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
   },
   {
-    "title": "Starlink seems to be working normally again in Ukraine",
-    "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+    "title": "Meta Upsizes Equity Offering as It Seeks Almost $98 Billion",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/meta-seeks-up-to-95-billion-in-equity-to-fund-ai-spending"
   },
   {
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+    "title": "BlackRock’s Rieder Spent Weekend Doing Deals in AI Debt Rush",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/blackrock-s-rieder-spent-all-weekend-doing-deals-in-ai-debt-rush"
   },
   {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    "title": "From Blackouts to Surplus: How Eskom Turned South Africa’s Power Around",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-27/how-eskom-turned-south-africa-s-power-around-video"
   },
   {
-    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-    "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
+    "title": "Chinese Brands Drop Soccer Star Mbappé as Online Backlash Grows",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/kylian-mbappe-mao-zedong-eastroc-beverage-china-mengniu-dairy-online-backlash"
   },
   {
-    "title": "Block’s new voice model sounds eerily human",
-    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+    "title": "Oil Shock, AI Boom Deepen Divide in Emerging Asian Currencies",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/oil-shock-ai-boom-asian-dollar-philippine-peso-korean-won-thai-baht-ringgit"
   },
   {
-    "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-    "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
+    "title": "Anthropic’s IPO May See CBA Sitting on Multi-Billion Windfall",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-cba-commonwealth-bank-of-australia-multi-billion-windfall"
   },
   {
-    "title": "France Offers Students Funding, Reforms to Try to End Protests",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/france-offers-students-funding-reforms-to-try-to-end-protests"
+    "title": "BNY CFO on AI Strategy, Business Growth",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-27/bny-cfo-on-ai-strategy-business-growth-video"
   },
   {
-    "title": "Tesla-SpaceX Merger Hopes Send Bearish Ratings to 11-Year Low",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/tesla-spacex-merger-hopes-send-bearish-ratings-to-11-year-low"
+    "title": "AI Fund a ‘Fiscal Dam’, Says South Korea Budget Minister",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-27/ai-fund-a-fiscal-dam-says-south-korea-budget-minister-video-mvpxe6yk"
   },
   {
-    "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/bloomberg-tech-10-26-2026-video"
+    "title": "South Korea’s AI Fund Offers ‘Fiscal Dam’ Against Higher Yields",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/south-korea-s-ai-fund-offers-fiscal-dam-against-higher-yields"
   },
   {
-    "title": "Anthropic’s S-1 Reveals Financial War Chest",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-s-s-1-reveals-financial-war-chest-video"
+    "title": "Anthropic’s IPO Sets Up Defining Moment for Wall Street and AI Boom",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-s-ipo-sets-up-defining-moment-for-wall-street-and-ai-boom"
   },
   {
-    "title": "Anthropic to Deliver Menlo’s Biggest-Ever Return",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-to-deliver-menlo-s-biggest-ever-return-video"
+    "title": "Iran War Boosts Malaysian Data Center Appeal, SD Guthrie Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/iran-war-boosts-malaysian-data-center-appeal-sd-guthrie-says"
   },
   {
-    "title": "Lori Keith Sees Long AI Growth as Anthropic files IPO",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/lori-keith-sees-long-ai-growth-as-anthropic-files-ipo-video"
+    "title": "The High Price of India’s iPhone Manufacturing Boom",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-26/the-high-price-of-india-s-iphone-manufacturing-boom"
   },
   {
-    "title": "What's Next After ChatGPT? Fei-Fei Li Has a Plan",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-19/what-s-next-after-chatgpt-this-ai-pioneer-has-a-plan-video"
+    "title": "Spain Eases Data Center Energy Rules in Win for Big Tech",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/spain-eases-data-center-energy-rules-in-win-for-big-tech"
   },
   {
-    "title": "Apple’s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/apple-s-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking"
+    "title": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/airtrunk-secures-3-billion-green-loan-for-sydney-data-center"
   },
   {
-    "title": "Anthropic Increasingly Relies on Google, Amazon, Microsoft Sales",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft"
+    "title": "Intel to Acquire Startup Classiq in Quantum Computing Push",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push"
   },
   {
-    "title": "Anthropic Files for Massive Nasdaq IPO",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/open-interest-10-26-2026-video"
+    "title": "SVP’s Khosla: Credit Markets Have a Lot of Tail Risk",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-26/svp-s-khosla-credit-markets-have-a-lot-of-tail-risk-video"
   },
   {
-    "title": "Building the Next Generation of Chips",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/building-the-next-generation-of-chips-video"
+    "title": "ValueEdge’s Minow on Anthropic’s Share Class Structure",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-26/valueedge-s-minow-on-anthropic-s-share-class-structure-video"
   },
   {
-    "title": "Meta Looks to Raise $95 Billion From Stock Sale to Fund AI Investments",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/meta-looks-to-raise-95-billion-from-stock-sale-video"
+    "title": "Odd Lots: AI Agents Are Already Changing the Price of Goods",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-26/odd-lots-ai-agents-are-changing-the-price-of-goods-video"
   },
   {
-    "title": "Google Fitbit Edge Review: Smartwatch-Like Tracker Showcases Google Health",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/google-fitbit-edge-review-smartwatch-like-tracker-showcases-google-health"
+    "title": "Applied Materials Boosts BE Semiconductor Stake to About 20%",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/applied-materials-boosts-be-semiconductor-stake-to-about-20"
   },
   {
-    "title": "Goldman’s Pasquariello Says Tech Rout Casts Doubt on AI Trade",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/goldman-s-pasquariello-says-tech-rout-casts-doubt-on-ai-trade"
+    "title": "Japan’s UA Zensen Union Seeks 6% Pay Hike in 2027 Wage Talks",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/japan-s-ua-zensen-union-seeks-6-pay-hike-in-2027-wage-talks"
   },
   {
-    "title": "Anthropic Files for IPO in Global Race to Raise Cash for AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-files-for-ipo-in-race-to-raise-cash-for-ai-video"
+    "title": "China’s Industrial Profits Surge Most in Three Months on Oil",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/china-s-industrial-profits-jump-most-in-three-months-on-oil-ai"
   },
   {
-    "title": "Anthropic IPO: S-1 Filing Offers First Look at Claude Maker’s Finances",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-s-1-filing-offers-first-look-at-claude-maker-s-finances"
+    "title": "S. Korea Growth Tops Forecast as Chip Boom Masks Weak Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/south-korea-s-economy-beats-forecasts-on-ai-driven-chip-boom"
   },
   {
-    "title": "Dutch Crypto Groups Warn of Sell Off Over Wealth-Tax Carveout",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/dutch-investors-poised-to-flee-crypto-over-wealth-tax-carveout"
-  },
-  {
-    "title": "Microsoft Will Offer Buyouts to 60,000 Employees",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/microsoft-offers-buyouts-to-60-000-employees-video"
-  },
-  {
-    "title": "CVC Marathon's Richards on Anthropic IPO, AI Buildout",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-26/cvc-marathon-s-richards-on-anthropic-ipo-ai-buildout-video"
-  },
-  {
-    "title": "Netflix’s Ouster of Top Executives Capped Two Weeks of Turmoil",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/netflix-s-ouster-of-top-executives-capped-two-weeks-of-turmoil"
+    "title": "UK Set to Raise Pay Floor 4% as Burnham Seeks Cost of Living Fix",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/uk-minimum-wages-set-for-4-rise-as-healey-slows-hike-for-youth"
   },
   {
     "title": "Fitch Diverges From South Africa’s Treasury on Debt Outlook",
     "link": "https://www.bloomberg.com/news/articles/2026-10-26/fitch-diverges-from-south-africa-s-treasury-on-debt-outlook"
+  },
+  {
+    "title": "Euro-Shy Czech Government Backs Constitutional Shield for Koruna",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-26/euro-shy-czech-government-backs-constitutional-shield-for-koruna"
   },
   {
     "title": "Claudia Sahm Makes the Case for an October Fed Rate Hike",
@@ -644,26 +660,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-26/euro-zone-slowdown-central-bank-ecb-rates-hold-for-now"
   },
   {
-    "title": "BOE Officials Most Hawkish Since Inflation Was 10%, Model Shows",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/boe-officials-most-hawkish-since-inflation-was-10-model-shows"
-  },
-  {
-    "title": "Thailand Imports Surge at Record Pace on AI, Energy Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/thailand-imports-surge-at-record-pace-on-ai-energy-demand"
-  },
-  {
-    "title": "RBA Warns Retirement Wave Will Test Australian Pension Funds",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/rba-warns-retirement-wave-will-test-australian-pension-funds"
-  },
-  {
-    "title": "RBA’s Hunter Says Rate ‘Not Quite Yet’ Done Fighting Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/rba-s-hunter-says-rate-not-quite-yet-done-fighting-inflation"
-  },
-  {
-    "title": "Texas, Ohio, Michigan Voters Turn Away From Trump, GOP in Midterm Elections 2026",
-    "link": "https://www.bloomberg.com/features/2026-us-midterm-election-affordability/"
-  },
-  {
     "title": "Will the real Anthropic please stand up",
     "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
   },
@@ -704,6 +700,18 @@
     "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/"
   },
   {
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+  },
+  {
+    "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+    "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale"
+  },
+  {
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
+  },
+  {
     "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
     "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil"
   },
@@ -730,17 +738,5 @@
   {
     "title": "Everything old is new again with the Fitbit Edge",
     "link": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health"
-  },
-  {
-    "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
-    "link": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review"
-  },
-  {
-    "title": "Instagram chases YouTube with a push for longer, widescreen videos",
-    "link": "https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube"
-  },
-  {
-    "title": "Microsoft offers buyouts to 60,000 employees",
-    "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
   }
 ]
