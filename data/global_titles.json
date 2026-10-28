@@ -1,5 +1,9 @@
 [
   {
+    "title": "Legora is building the agentic operating system for legal work",
+    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+  },
+  {
     "title": "Retell uses OpenAI models to help power 100M monthly calls",
     "link": "https://openai.com/index/retell-ai"
   },
@@ -116,10 +120,6 @@
     "link": "https://openai.com/index/openai-to-acquire-orchestra-bio"
   },
   {
-    "title": "Advancing coding in low‑resource programming languages",
-    "link": "https://openai.com/index/low-resource-programming-languages"
-  },
-  {
     "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
     "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/"
   },
@@ -190,6 +190,10 @@
   {
     "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
     "link": "https://blogs.nvidia.com/blog/open-models-europe-industry/"
+  },
+  {
+    "title": "Why China is desperate to ship cars outside of the country",
+    "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html"
   },
   {
     "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
@@ -308,10 +312,6 @@
     "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html"
   },
   {
-    "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
-    "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html"
-  },
-  {
     "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
     "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html"
   },
@@ -324,7 +324,7 @@
     "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html"
   },
   {
-    "title": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
+    "title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
     "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
   },
   {
@@ -428,8 +428,12 @@
     "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html"
   },
   {
-    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html"
+    "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+    "link": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/"
+  },
+  {
+    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/"
   },
   {
     "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
@@ -504,12 +508,68 @@
     "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/"
   },
   {
-    "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-    "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
+    "title": "Anthropic’s Tensions With Trump Laid Bare Ahead of Landmark IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-s-tensions-with-trump-laid-bare-ahead-of-landmark-ipo"
   },
   {
-    "title": "Japan internet giant GMO says hackers posted stolen customer data",
-    "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+    "title": "Amazon Unveils New Echo Show 16, Alexa Speakers, Smart Clock and Photo Frame",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame"
+  },
+  {
+    "title": "Samsung Unveils Galaxy Buds On Clip-On Earbuds for $229",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/samsung-unveils-galaxy-buds-on-clip-on-earbuds-for-229"
+  },
+  {
+    "title": "AI Capex in Mid-Cycle Boom, Says Morgan Stanley’s Shalett",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-28/ai-capex-in-mid-cycle-boom-morgan-stanley-s-shalett-video"
+  },
+  {
+    "title": "Russia Adds Apple and Microsoft to State Surveillance Registry",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/russia-adds-apple-and-microsoft-to-state-surveillance-registry"
+  },
+  {
+    "title": "UAE, Canada Space Firms in Alliance as Nations Seek Starlink Alternatives",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/uae-canada-space-firms-in-alliance-as-nations-seek-starlink-alternatives"
+  },
+  {
+    "title": "Apple iPhone Duo’s Cracked Screen Takes Some Excitement Away From Launch",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/apple-iphone-duo-s-cracked-screen-takes-some-excitement-away-from-launch"
+  },
+  {
+    "title": "AI Cybersecurity Startup Upwind Raises at $3.8 Billion Value",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/ai-cybersecurity-startup-upwind-raises-at-3-8-billion-value"
+  },
+  {
+    "title": "Moore Threads Sales Surge Nearly 1,800% on AI Hardware Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/moore-threads-sales-surge-nearly-1-800-on-ai-hardware-demand"
+  },
+  {
+    "title": "AI Could Boost US Economy GDP Growth by 0.8 Percentage Point in 2026",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/ai-could-boost-us-economy-gdp-growth-by-0-8-percentage-point-in-2026"
+  },
+  {
+    "title": "NXP Shares Slide on Tepid Forecast, Auto Industry Sales",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast"
+  },
+  {
+    "title": "Chip Equipment Maker ASM I's CEO to Hit 2030 Target 3 Years Early",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-28/asm-i-s-ceo-to-hit-2030-target-3-years-early-video"
+  },
+  {
+    "title": "ASM Lifts 2027 Outlook as AI Buildout Fuels Demand For Tools",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/asm-lifts-2027-outlook-as-ai-buildout-fuels-demand-for-its-tools"
+  },
+  {
+    "title": "Microsoft and Alphabet Earnings Put Focus on AI Cash Flow Drain",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/microsoft-and-alphabet-earnings-put-focus-on-ai-cash-flow-drain"
+  },
+  {
+    "title": "Adyen Drops 2028 Profit Margin Goal as It Steps Up Investment",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/adyen-sales-beat-estimates-on-payments-growth-from-customers"
+  },
+  {
+    "title": "BNP Paribas CFO on Equities Trading, French Bonds, AI (Video)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-28/bnp-paribas-cfo-on-equities-trading-french-bonds-ai-video"
   },
   {
     "title": "Ambani's Jio Surges in Debut After India's Biggest IPO",
@@ -528,72 +588,60 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-28/gen-z-is-still-skeptical-of-ai-infused-dating-apps-new-survey-finds"
   },
   {
-    "title": "Tsinghua Uni's Zhang on AI Innovation Outlook",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-28/tsinghua-uni-s-zhang-on-ai-innovation-outlook-video"
+    "title": "UK Bonds Hold Steady as Healey Delivers Budget",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/bond-traders-brace-for-budget-test-of-uk-s-newfound-resilience"
   },
   {
-    "title": "China Set to Lead in AI Models, Other Key Areas by 2030, BI Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/china-set-to-lead-in-ai-models-other-key-areas-by-2030-bi-says"
+    "title": "US Trade Gap Jumps to Most Since March 2025 on Capital Goods",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/us-trade-gap-widens-to-biggest-since-march-2025-on-capital-goods"
   },
   {
-    "title": "SK Hynix’s Profit Surge, $45 Billion Payout Fuel AI Rally",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/sk-hynix-profit-jumps-seven-fold-to-soothe-doubts-over-ai-rush"
+    "title": "Bank of Canada Rate Decision Today: Live News & Analysis, Macklem Speech",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-10-28/bank-of-canada-rate-decision-live-updates"
   },
   {
-    "title": "ASMPT Sales Jump 49% on AI Demand as Chip Unit Misses",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/asmpt-sales-jump-49-on-ai-demand-as-chip-unit-misses-estimate"
+    "title": "Asia Port Congestion Shows Signs of Easing",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/asia-port-congestion-shows-signs-of-easing"
   },
   {
-    "title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out"
+    "title": "Healey’s Budget to Buy Breathing Room for UK and Labour",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/healey-to-unveil-budget-to-buy-breathing-room-for-uk-and-labour"
   },
   {
-    "title": "Canada’s Wealthsimple Raises Funds at $9.8 Billion Valuation",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-28/canada-s-wealthsimple-raises-funds-at-9-8-billion-valuation"
+    "title": "South Africa Corn Plantings Seen at Seven-Year Low on El Niño Risk",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/south-africa-corn-plantings-seen-at-seven-year-low-on-el-nino-risk"
   },
   {
-    "title": "Palo Alto Networks CEO Gets Smaller Pay Package After Pushback",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/palo-alto-networks-ceo-gets-smaller-pay-package-after-pushback"
+    "title": "Fed Watchers Prep for Next Step in the Kevin Warsh ‘Discovery Process’",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/fed-watchers-prep-for-next-step-in-the-kevin-warsh-discovery-process"
   },
   {
-    "title": "Bitcoin’s Road to $100,000 Is Crowded With Would-Be Sellers",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/bitcoin-s-road-to-100-000-is-crowded-with-would-be-sellers"
+    "title": "Bullish Treasury Bets Face Reversal Risk From Hawkish Fed",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/bullish-treasury-bets-face-reversal-risk-from-hawkish-fed"
   },
   {
-    "title": "China AI Hardware Firms Face Earnings Test After Stock Selloff",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/china-ai-hardware-firms-face-earnings-test-after-stock-selloff"
+    "title": "How Much Does the US Economy Depend on AI?",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/how-much-does-the-us-economy-depend-on-ai"
   },
   {
-    "title": "Scripps Cuts 431 Jobs in Latest Round of Corporate Restructuring",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/scripps-cuts-431-jobs-in-latest-round-of-corporate-restructuring"
+    "title": "Thailand Holds Key Rate, Lifts Growth Outlook on AI Exports",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/thailand-holds-key-rate-as-high-energy-costs-weigh-on-economy"
   },
   {
-    "title": "Apple 14-inch, 16-inch MacBook Pro Touch Price Is Likely $2,899; Laptop Details",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/apple-14-inch-16-inch-macbook-pro-touch-price-is-likely-2-899-laptop-details"
+    "title": "(USD:UGX) Uganda’s Treasury Chief Vows to Weather Shocks Buffeting Shilling",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/-usd-ugx-uganda-s-treasury-chief-vows-to-weather-shocks-buffeting-shilling"
   },
   {
-    "title": "Fmr. Fed Gov. Randy Kroszner: Warsh’s Statement Will Give Little Hint About Next Move",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/fmr-fed-gov-kroszner-expect-no-change-at-fed-meeting-video"
+    "title": "IMF Lauds South Africa’s Fiscal Gains, Sees Growth as Next Test",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/imf-lauds-south-africa-s-fiscal-gains-sees-growth-as-next-test"
   },
   {
-    "title": "Fmr. MSFT Exec.: Buyouts Is a Harbinger of AI Future",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/fmr-msft-exec-buyouts-is-a-harbinger-of-ai-future-video"
-  },
-  {
-    "title": "UPS CEO on Earnings, Data Center Logistics and Trade",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/ups-ceo-on-earnings-data-center-logistics-and-trade-video"
-  },
-  {
-    "title": "NXP Shares Slide After Chipmaker Gives Tepid Revenue Forecast",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast"
-  },
-  {
-    "title": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation"
-  },
-  {
-    "title": "Rome’s Mayor Rules Out ‘Venice-Like’ Entrance Fee for Tourists",
+    "title": "Rome Mayor Seeks Higher Tourist Taxes, No ‘Venice-Like’ Fee",
     "link": "https://www.bloomberg.com/news/articles/2026-10-28/rome-s-mayor-rules-out-venice-like-entrance-fee-for-tourists"
+  },
+  {
+    "title": "Asia Rate Calls Are Blindsiding Markets and There’s More to Come",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/asia-rate-calls-are-blindsiding-markets-and-there-s-more-to-come"
   },
   {
     "title": "New Zealand Raises Rate for Third Straight Meeting on Fuel Price",
@@ -608,10 +656,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-28/australian-inflation-exceeds-estimate-ahead-of-rba-meeting"
   },
   {
-    "title": "Bullish Treasury Bets Face Reversal Risk From Hawkish Fed",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/bullish-treasury-bets-face-reversal-risk-from-hawkish-fed"
-  },
-  {
     "title": "RBA’s Bullock Says Upside Inflation Risks Are Materializing",
     "link": "https://www.bloomberg.com/news/articles/2026-10-28/rba-s-bullock-says-upside-inflation-risks-are-materializing"
   },
@@ -624,52 +668,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-27/chile-keeps-rates-at-4-5-as-growth-fades-and-inflation-picks-up"
   },
   {
-    "title": "Healey to Unveil Budget to Buy Breathing Room for UK and Labour",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/healey-to-unveil-budget-to-buy-breathing-room-for-uk-and-labour"
+    "title": "The Download: dead startups fueling AI and interspecies communication",
+    "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
   },
   {
-    "title": "IMF Strikes Preliminary Argentina Deal As Market Return Dims",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/imf-strikes-preliminary-argentina-deal-as-market-return-dims"
-  },
-  {
-    "title": "Bank of Canada Decision: Markets Prepare for Higher Interest Rates",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-27/bank-of-canada-decision-markets-prepare-for-higher-interest-rates"
-  },
-  {
-    "title": "South Africa Corn Plantings Seen at Seven-Year Low on El Niño Risk",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/south-africa-corn-plantings-seen-at-seven-year-low-on-el-nino-risk"
-  },
-  {
-    "title": "Senegal Premier Expects to Settle Budget Impasse Within Days",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/senegal-premier-expects-budget-impasse-to-resolve-within-days"
-  },
-  {
-    "title": "Spending Battle to Test Colombian Leader’s Clout in Congress",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/spending-battle-to-test-colombian-leader-s-clout-in-congress"
-  },
-  {
-    "title": "US New Home Sales Fall Amid Surge in Mortgage Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/us-new-home-sales-fall-amid-surge-in-mortgage-rates"
-  },
-  {
-    "title": "US Consumer Confidence Rises for First Time in Four Months",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/us-consumer-confidence-increases-for-first-time-in-four-months"
-  },
-  {
-    "title": "Stifel's Piegza Says Fed Should Raise Rates But Likely Won’t",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/stifel-s-piegza-says-fed-should-hike-rates-likely-won-t-video"
-  },
-  {
-    "title": "US Orders for Durable Goods Increase by Most in Five Months",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/us-orders-for-durable-goods-increase-by-most-in-five-months"
-  },
-  {
-    "title": "USTR and fees on Chinese ships",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-27/ustr-and-fees-on-chinese-ships"
-  },
-  {
-    "title": "Pound May Have to Pay the Price for Britain’s Budget Restraint",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/pound-may-have-to-pay-the-price-for-britain-s-budget-restraint"
+    "title": "Pairing industrial AI autonomy and human control",
+    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
   },
   {
     "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
@@ -704,51 +708,43 @@
     "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
   },
   {
-    "title": "Designing an AI serving harness built to last",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+    "title": "This is how badly X wants you to pay to promote your posts",
+    "link": "https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts"
   },
   {
-    "title": "The Foundations of Scalable AI",
-    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
+    "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
+    "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp"
   },
   {
-    "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-    "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge"
+    "title": "Inside Amazon’s Echo hardware event",
+    "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event"
   },
   {
-    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+    "title": "Almost all of Amazon’s new Echo gear is available now",
+    "link": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy"
   },
   {
-    "title": "Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service",
-    "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service"
+    "title": "Everything announced at Amazon&#8217;s October 2026 hardware launch",
+    "link": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch"
   },
   {
-    "title": "Trump is making it easier for fossil fuel companies to leak methane",
-    "link": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump"
+    "title": "Amazon&#8217;s new Echo line is here: the 6 biggest updates",
+    "link": "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements"
   },
   {
-    "title": "VisionQuest is what happens when AI really goes rogue",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai"
+    "title": "Voters in Texas agree: They hate data centers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas"
   },
   {
-    "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-    "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter"
+    "title": "Amazon’s first digital picture frame lets you add voice notes to photos",
+    "link": "https://www.theverge.com/tech/1019626/amazon-alexa-plus-photo-digital-picture-frame-smart-speaker"
   },
   {
-    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"
+    "title": "How a grocery merger could expand a surveillance network",
+    "link": "https://www.theverge.com/policy/1020187/kroger-grocery-merger-surveillance"
   },
   {
-    "title": "Meta’s $25 billion legal loss just put blood in the water",
-    "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement"
-  },
-  {
-    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
-  },
-  {
-    "title": "Major League Baseball is looking for a new kind of fan",
-    "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers"
+    "title": "Amazon’s new Echo Studio speaker has a camera",
+    "link": "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub"
   }
 ]
