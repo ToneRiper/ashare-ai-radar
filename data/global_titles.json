@@ -1,7 +1,15 @@
 [
   {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "link": "https://openai.com/index/retell-ai"
+  },
+  {
     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
     "link": "https://openai.com/index/oracle-apps-in-chatgpt"
+  },
+  {
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "link": "https://openai.com/index/check-point-daybreak"
   },
   {
     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -112,14 +120,6 @@
     "link": "https://openai.com/index/low-resource-programming-languages"
   },
   {
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "link": "https://openai.com/index/itau-generative-ai"
-  },
-  {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners"
-  },
-  {
     "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
     "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/"
   },
@@ -204,7 +204,7 @@
     "link": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html"
   },
   {
-    "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+    "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
     "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html"
   },
   {
@@ -220,7 +220,7 @@
     "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html"
   },
   {
-    "title": "JetBlue stock surges 20% as company outlook calms investors",
+    "title": "JetBlue stock surges as company outlook calms investors",
     "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html"
   },
   {
@@ -310,6 +310,22 @@
   {
     "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
     "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html"
+  },
+  {
+    "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+    "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html"
+  },
+  {
+    "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+    "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html"
+  },
+  {
+    "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
+    "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html"
+  },
+  {
+    "title": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
+    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
   },
   {
     "title": "The 'stablecoin sandwich': Why speeding up payments isn't so simple, according to Mastercard",
@@ -416,20 +432,52 @@
     "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html"
   },
   {
-    "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
-    "link": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html"
+    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+    "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/"
   },
   {
-    "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
-    "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html"
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
   },
   {
-    "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
-    "link": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html"
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
   },
   {
-    "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
-    "link": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html"
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+  },
+  {
+    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+    "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/"
+  },
+  {
+    "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+    "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/"
+  },
+  {
+    "title": "GM is embracing hybrids now",
+    "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/"
+  },
+  {
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+  },
+  {
+    "title": "Who’s really in charge at Anthropic after the IPO?",
+    "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
+  },
+  {
+    "title": "Discord is making its public communities more searchable, and people have concerns",
+    "link": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/"
+  },
+  {
+    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+    "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/"
+  },
+  {
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
   },
   {
     "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
@@ -464,132 +512,128 @@
     "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
   },
   {
-    "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-    "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/"
+    "title": "Ambani's Jio Surges in Debut After India's Biggest IPO",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-s-biggest-ipo-video"
   },
   {
-    "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-    "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/"
+    "title": "Deutsche Bank CFO Says Fixed Income Trading Is 'Solid'",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-28/deutsche-bank-cfo-on-fixed-income-trading-ai-markets-video"
   },
   {
-    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+    "title": "Nvidia-Backed Firm Launches $3.1 Billion GPU Loan in Market",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/nvidia-backed-firm-launches-3-1-billion-gpu-loan-into-market"
   },
   {
-    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+    "title": "Gen Z Is Still Skeptical of AI-Infused Dating Apps, New Survey Finds",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/gen-z-is-still-skeptical-of-ai-infused-dating-apps-new-survey-finds"
   },
   {
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+    "title": "Tsinghua Uni's Zhang on AI Innovation Outlook",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-28/tsinghua-uni-s-zhang-on-ai-innovation-outlook-video"
   },
   {
-    "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-    "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/"
+    "title": "China Set to Lead in AI Models, Other Key Areas by 2030, BI Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/china-set-to-lead-in-ai-models-other-key-areas-by-2030-bi-says"
   },
   {
-    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+    "title": "SK Hynix’s Profit Surge, $45 Billion Payout Fuel AI Rally",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/sk-hynix-profit-jumps-seven-fold-to-soothe-doubts-over-ai-rush"
   },
   {
-    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+    "title": "ASMPT Sales Jump 49% on AI Demand as Chip Unit Misses",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/asmpt-sales-jump-49-on-ai-demand-as-chip-unit-misses-estimate"
   },
   {
-    "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-    "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
+    "title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out"
   },
   {
-    "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-    "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"
+    "title": "Canada’s Wealthsimple Raises Funds at $9.8 Billion Valuation",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/canada-s-wealthsimple-raises-funds-at-9-8-billion-valuation"
   },
   {
-    "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-    "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
+    "title": "Palo Alto Networks CEO Gets Smaller Pay Package After Pushback",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/palo-alto-networks-ceo-gets-smaller-pay-package-after-pushback"
   },
   {
-    "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-    "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
+    "title": "Bitcoin’s Road to $100,000 Is Crowded With Would-Be Sellers",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/bitcoin-s-road-to-100-000-is-crowded-with-would-be-sellers"
   },
   {
-    "title": "Anduril and Qualcomm Plan to Build US Laptop",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/anduril-and-qualcomm-plan-to-build-us-laptop-video"
+    "title": "China AI Hardware Firms Face Earnings Test After Stock Selloff",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/china-ai-hardware-firms-face-earnings-test-after-stock-selloff"
   },
   {
-    "title": "Neocloud Selloff Is 'Overblown,' Says Crusoe CEO",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/neocloud-selloff-is-overblown-says-crusoe-ceo-video"
+    "title": "Scripps Cuts 431 Jobs in Latest Round of Corporate Restructuring",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/scripps-cuts-431-jobs-in-latest-round-of-corporate-restructuring"
   },
   {
-    "title": "ASM Lifts 2027 Outlook as AI Buildout Fuels Demand For Tools",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/asm-lifts-2027-outlook-as-ai-buildout-fuels-demand-for-its-tools"
+    "title": "Apple 14-inch, 16-inch MacBook Pro Touch Price Is Likely $2,899; Laptop Details",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/apple-14-inch-16-inch-macbook-pro-touch-price-is-likely-2-899-laptop-details"
   },
   {
-    "title": "Apple’s Folding iPhone Hit by Early Complaints of Screen Cracking",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/folding-iphone-hit-by-complaints-of-screen-cracking-video"
+    "title": "Fmr. Fed Gov. Randy Kroszner: Warsh’s Statement Will Give Little Hint About Next Move",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-27/fmr-fed-gov-kroszner-expect-no-change-at-fed-meeting-video"
   },
   {
-    "title": "Anduril and Qualcomm Plan Rugged Laptop With US Supply Chain",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/anduril-and-qualcomm-plan-to-build-laptop-with-us-supply-chain"
+    "title": "Fmr. MSFT Exec.: Buyouts Is a Harbinger of AI Future",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-27/fmr-msft-exec-buyouts-is-a-harbinger-of-ai-future-video"
   },
   {
-    "title": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/crusoe-ceo-defends-rival-coreweave-calls-selloff-overblown"
+    "title": "UPS CEO on Earnings, Data Center Logistics and Trade",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-27/ups-ceo-on-earnings-data-center-logistics-and-trade-video"
   },
   {
-    "title": "Disruptive Closes $10 Billion Megafund for AI, Defense Startups",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/disruptive-closes-10-billion-megafund-for-ai-defense-startups"
+    "title": "NXP Shares Slide After Chipmaker Gives Tepid Revenue Forecast",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast"
   },
   {
-    "title": "SpaceX and Tesla Turn to Boards Cozy With Musk to Mull a Merger",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/spacex-and-tesla-turn-to-boards-cozy-with-musk-to-mull-a-merger"
+    "title": "Robotics Lab Physical Intelligence in Talks for a $20 Billion Valuation",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation"
   },
   {
-    "title": "Oracle to Offer Cerebras Computers in AI Cloud Service",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/oracle-to-offer-cerebras-systems-computers-in-ai-cloud-service"
+    "title": "Rome’s Mayor Rules Out ‘Venice-Like’ Entrance Fee for Tourists",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/rome-s-mayor-rules-out-venice-like-entrance-fee-for-tourists"
   },
   {
-    "title": "Memory Stocks Lost Their Mojo and Strong Earnings Aren’t Helping",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/memory-stocks-lost-their-mojo-and-strong-earnings-aren-t-helping"
+    "title": "New Zealand Raises Rate for Third Straight Meeting on Fuel Price",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/new-zealand-unexpectedly-holds-interest-rates-steady-kiwi-falls"
   },
   {
-    "title": "Meta AI Boom Fuels Goldman Windfall",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/open-interest-10-27-2026-video"
+    "title": "Commonwealth Bank Now Expects RBA to Hike to 4.85% in November",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/commonwealth-bank-now-expects-rba-to-hike-to-4-85-in-november"
   },
   {
-    "title": "Karen Hao: AI is Building the Wrong Future",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-24/karen-hao-ai-doesn-t-have-to-be-built-like-this-video"
+    "title": "Australia Under Pressure to Hike Rates Further as Prices Quicken",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/australian-inflation-exceeds-estimate-ahead-of-rba-meeting"
   },
   {
-    "title": "Starlink Brinkmanship Is Driving Allies to Rethink US Reliance",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/starlink-brinkmanship-is-driving-allies-to-rethink-us-reliance"
+    "title": "Bullish Treasury Bets Face Reversal Risk From Hawkish Fed",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/bullish-treasury-bets-face-reversal-risk-from-hawkish-fed"
   },
   {
-    "title": "Google Upgrades AI World Model That Rattled Video Game Stocks",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/google-upgrades-ai-world-model-that-rattled-video-game-stocks"
+    "title": "RBA’s Bullock Says Upside Inflation Risks Are Materializing",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/rba-s-bullock-says-upside-inflation-risks-are-materializing"
   },
   {
-    "title": "will.i.am: Why Human Creativity Will Survive",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/will-i-am-why-human-creativity-will-survive"
+    "title": "Thailand Seen Holding Rate to Support Growth as 1% Emerges as Policy Floor",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-28/thailand-seen-holding-rate-to-support-growth-as-1-emerges-as-policy-floor"
   },
   {
-    "title": "Solidigm Dangles New $45 Billion US Plant to Upgrade China Site",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/solidigm-dangles-new-45-billion-us-plant-to-upgrade-china-site"
+    "title": "Chile Central Bank Delivers Hawkish Rate Hold",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/chile-keeps-rates-at-4-5-as-growth-fades-and-inflation-picks-up"
   },
   {
-    "title": "The AI Boom Will Pull Back, Warns Former SEC Chair Gary Gensler",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/the-ai-boom-will-pull-back-warns-gary-gensler-video"
+    "title": "Healey to Unveil Budget to Buy Breathing Room for UK and Labour",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/healey-to-unveil-budget-to-buy-breathing-room-for-uk-and-labour"
   },
   {
-    "title": "Spain Eases Data Center Energy Rules in Win for Big Tech",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/spain-eases-data-center-energy-rules-in-win-for-big-tech"
+    "title": "IMF Strikes Preliminary Argentina Deal As Market Return Dims",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-27/imf-strikes-preliminary-argentina-deal-as-market-return-dims"
   },
   {
-    "title": "Dutch Plan to Cut 25,000 Jobs Will Show Whether AI Can Shrink Government",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/dutch-plan-to-cut-25-000-jobs-will-show-whether-ai-can-shrink-government"
-  },
-  {
-    "title": "Anduril and Qualcomm Plan US Supply Chain Laptop",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-27/anduril-and-qualcomm-plan-us-supply-chain-laptop-video"
+    "title": "Bank of Canada Decision: Markets Prepare for Higher Interest Rates",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-27/bank-of-canada-decision-markets-prepare-for-higher-interest-rates"
   },
   {
     "title": "South Africa Corn Plantings Seen at Seven-Year Low on El Niño Risk",
@@ -626,50 +670,6 @@
   {
     "title": "Pound May Have to Pay the Price for Britain’s Budget Restraint",
     "link": "https://www.bloomberg.com/news/articles/2026-10-27/pound-may-have-to-pay-the-price-for-britain-s-budget-restraint"
-  },
-  {
-    "title": "Both the US and France Have Big Deficits. But There’s One Big Difference",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-27/both-the-us-and-france-have-big-deficits-but-there-s-one-big-difference"
-  },
-  {
-    "title": "Chile Seen Holding Key Rate as Markets Mull Odds of Hawkish Tilt",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/chile-seen-holding-key-rate-as-markets-mull-odds-of-hawkish-tilt"
-  },
-  {
-    "title": "Bank of Canada Rate Hike Expected as Oil Prices at $115 Fuel Inflation Fears",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/bank-of-canada-rate-hike-expected-as-oil-prices-at-115-fuel-inflation-fears"
-  },
-  {
-    "title": "French Consumer Confidence Drops to 13-Year Low After Riots",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/french-consumer-confidence-hits-lowest-since-2013-after-riots"
-  },
-  {
-    "title": "ECB Says Banks Tighten Credit Conditions, See Loan Demand Fall",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/ecb-says-banks-tighten-credit-conditions-see-loan-demand-fall"
-  },
-  {
-    "title": "UK’s Renewed Appeal Runs Into a Tough Budget Test: Taking Stock",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/uk-s-renewed-appeal-runs-into-a-tough-budget-test-taking-stock"
-  },
-  {
-    "title": "UK to Raise Pay Floor 4% as Burnham Seeks Cost of Living Fix",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/uk-minimum-wages-set-for-4-rise-as-healey-slows-hike-for-youth"
-  },
-  {
-    "title": "BOJ’s Price Trend Indicator Jumps to Above 3%, Backing Hike Case",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/boj-s-price-trend-indicator-jumps-to-above-3-backing-hike-case"
-  },
-  {
-    "title": "Japan’s UA Zensen Union Seeks 6% Pay Hike in 2027 Wage Talks",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/japan-s-ua-zensen-union-seeks-6-pay-hike-in-2027-wage-talks"
-  },
-  {
-    "title": "China’s Industrial Profits Surge Most in Three Months on Oil",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-27/china-s-industrial-profits-jump-most-in-three-months-on-oil-ai"
-  },
-  {
-    "title": "S. Korea Growth Tops Forecast as Chip Boom Masks Weak Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-26/south-korea-s-economy-beats-forecasts-on-ai-driven-chip-boom"
   },
   {
     "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
@@ -712,6 +712,18 @@
     "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
   },
   {
+    "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+    "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge"
+  },
+  {
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+  },
+  {
+    "title": "Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service",
+    "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service"
+  },
+  {
     "title": "Trump is making it easier for fossil fuel companies to leak methane",
     "link": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump"
   },
@@ -738,17 +750,5 @@
   {
     "title": "Major League Baseball is looking for a new kind of fan",
     "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers"
-  },
-  {
-    "title": "Google’s next Genie AI model generates more realistic experiences",
-    "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
-  },
-  {
-    "title": "My favorite robot vacuum just got quieter, and more expensive",
-    "link": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date"
-  },
-  {
-    "title": "Apple&#8217;s latest AirTag is the cheapest it’s ever been",
-    "link": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale"
   }
 ]
