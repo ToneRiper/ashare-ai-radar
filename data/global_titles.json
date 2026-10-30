@@ -1,5 +1,13 @@
 [
   {
+    "title": "Making it easier for websites to express AI training preferences",
+    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+  },
+  {
+    "title": "Community safety report and new protections for teens",
+    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+  },
+  {
     "title": "An updated Model Spec for more capable and beneficial AI",
     "link": "https://openai.com/index/updated-model-spec"
   },
@@ -10,6 +18,10 @@
   {
     "title": "How Ropes & Gray is developing AI for transactional diligence",
     "link": "https://openai.com/index/ropes-gray-ai-diligence"
+  },
+  {
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "link": "https://openai.com/index/credit-saison"
   },
   {
     "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
@@ -108,16 +120,8 @@
     "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
   },
   {
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
-  },
-  {
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
-  },
-  {
-    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-    "link": "https://openai.com/index/cloudflare-cyber"
+    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+    "link": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/"
   },
   {
     "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -188,8 +192,8 @@
     "link": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/"
   },
   {
-    "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-    "link": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/"
+    "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
+    "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html"
   },
   {
     "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
@@ -308,10 +312,6 @@
     "link": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html"
   },
   {
-    "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
-    "link": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html"
-  },
-  {
     "title": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
     "link": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html"
   },
@@ -428,6 +428,34 @@
     "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html"
   },
   {
+    "title": "Satlyt takes another step toward turning satellites into space data centers",
+    "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/"
+  },
+  {
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+  },
+  {
+    "title": "Google’s first data center satellite is online and writing poetry",
+    "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+  },
+  {
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
+  },
+  {
+    "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+    "link": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+  },
+  {
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/"
+  },
+  {
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+  },
+  {
     "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
     "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
   },
@@ -436,7 +464,7 @@
     "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/"
   },
   {
-    "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+    "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
     "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
   },
   {
@@ -480,116 +508,116 @@
     "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
   },
   {
-    "title": "The R2 SUV is already Rivian’s best-selling vehicle",
-    "link": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/"
+    "title": "Binance Hack Shows Power of Suspected North Korean Hackers",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/binance-heist-shows-power-of-suspected-north-korean-hackers"
   },
   {
-    "title": "OpenAI-backed Thrive Holdings acquires ADT",
-    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+    "title": "Intel Tumbles on PC Outlook, AWS CEO on AI Spending and Growth",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-tech-10-30-2026-video"
   },
   {
-    "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
-    "link": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/"
+    "title": "Why Anthropic’s AI Edge Appeals to Long-Term Investors",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/why-anthropic-s-ai-edge-appeals-to-long-term-investors-video"
   },
   {
-    "title": "Meta quietly launches an AI fashion app called Style Sketch",
-    "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+    "title": "Roblox Sees AI Content Surge as Daily Active Users Fall",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/roblox-sees-ai-content-surge-as-daily-active-users-fall-video"
   },
   {
-    "title": "Granola crunches up a dictation feature to compete with Wispr",
-    "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
+    "title": "Roblox Shares Drop After Fourth-Quarter Guidance Falls Short",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg"
   },
   {
-    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+    "title": "AI to Drive 40% Growth for AWS: CEO Garman",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/ai-to-drive-40-growth-for-aws-ceo-garman-video"
   },
   {
-    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+    "title": "Amazon’s AI Spending Spooks Investors",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/amazon-s-ai-spending-spooks-investors-video"
   },
   {
-    "title": "Kioxia Warns Flash Memory Prices Stalling After Outlook Miss",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs"
-  },
-  {
-    "title": "Apple iPhone Duo Not Great AI Experience, Piecyk Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-30/apple-iphone-duo-not-great-ai-experience-piecyk-says-video"
-  },
-  {
-    "title": "Tech Stocks Poised to Drop as Amazon Adds to AI Spending Fears",
+    "title": "Tech Stocks Tumble as Amazon Adds to AI Spending Fears",
     "link": "https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear"
   },
   {
-    "title": "Meta Investigated by UK Over Alleged Harm Caused in Commercial Small Print",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/meta-investigated-by-uk-over-alleged-harm-caused-in-commercial-small-print"
+    "title": "Foxconn: AI Will Boost Consumer Electronics",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/foxconn-ai-will-boost-consumer-electronics-video"
   },
   {
-    "title": "Binance Estimates $6.3 Billion Hacked in Crypto’s Largest Heist",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-30/binance-says-6-3-billion-hacked-in-largest-crypto-heist-video"
+    "title": "Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips"
+  },
+  {
+    "title": "Amazon Taps $80 Billion Supplier Loan Facility to Help Fund AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/amazon-taps-80-billion-supplier-loan-facility-to-help-fund-ai"
+  },
+  {
+    "title": "ECB’s Lane Says AI Significant Contributor to Euro-Area Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-s-lane-says-ai-significant-contributor-to-euro-area-growth"
+  },
+  {
+    "title": "Binance’s $6.3 Billion Cyber Heist Shows Crypto Vulnerabilities",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/binance-s-6-3b-cyber-heist-shows-crypto-vulnerabilities-video"
+  },
+  {
+    "title": "Anthropic's S1 | Google's AI Problem | The Rundown",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/anthropic-s-s1-google-s-ai-problem-the-rundown-video"
+  },
+  {
+    "title": "Apple Finally Embraces the Touchscreen MacBook + “Crackgate”",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/power-on-podcast-crackgate-touchscreen-mac-video"
+  },
+  {
+    "title": "Largest US Grid Seeks to Hold Data Center Power Auction in March",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/largest-us-grid-seeks-to-hold-data-center-power-auction-in-march"
   },
   {
     "title": "Binance Suspends Deposits, Withdrawals After $6.3 Billion Hack Shakes Industry",
     "link": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls"
   },
   {
-    "title": "US Stock Futures Today: Amazon, Intel, Mondelez, Reddit, Stryker",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/us-stock-futures-today-amazon-intel-mondelez-reddit-stryker"
-  },
-  {
-    "title": "Chinese Memory Leader CXMT’s Sales Surge Yet Growth Slows",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows"
-  },
-  {
-    "title": "DoorDash Deal for Instacart Bolsters Defense Against Amazon and Walmart",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-30/doordash-deal-for-instacart-bolsters-defense-against-amazon-and-walmart"
-  },
-  {
-    "title": "Softbank-Backed OPay Prices at $4 Billion Value in IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/softbank-backed-opay-prices-at-4-billion-value-for-new-york-ipo"
-  },
-  {
-    "title": "Deutsche Bank Says ‘AI Dollar’ Is Here, Haven Bias Less Certain",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/deutsche-bank-says-ai-dollar-is-here-haven-bias-less-certain"
-  },
-  {
-    "title": "Chevron Keeps Microsoft Data Center Timeline Despite Texas Pause",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/chevron-keeps-microsoft-data-center-timeline-despite-texas-pause"
-  },
-  {
-    "title": "Circular AI Deals Spread to Asia, Widening Contagion Risk",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-30/circular-ai-deals-spread-to-asia-widening-contagion-risk"
-  },
-  {
-    "title": "Stryker Cuts Outlook as Cyber Attack Blow on Supply Lingers",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/stryker-cuts-outlook-as-cyberattack-impact-on-supply-lingers"
-  },
-  {
-    "title": "Binance Suffers $6.3 Billion Hack in Crypto’s Biggest Heist",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suffers-6-3-bln-hack-in-crypto-s-biggest-heist-video"
-  },
-  {
-    "title": "Eastern Europe Is Top AI Diversifier for Morgan Stanley’s Psaila",
+    "title": "CEE Is Top AI Diversifier for Morgan Stanley’s Psaila",
     "link": "https://www.bloomberg.com/news/articles/2026-10-30/eastern-europe-is-top-ai-diversifier-for-morgan-stanley-s-psaila"
   },
   {
-    "title": "Japan’s Omron Targets India for Manufacturing, Exports Push",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/japan-s-omron-targets-india-for-manufacturing-exports-push"
+    "title": "Ambani’s Reliance Beats Net Estimate on Robust Refining, Jio",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/ambani-s-jio-posts-14-profit-jump-days-after-blockbuster-ipo"
   },
   {
-    "title": "Intel Shares Plunge After Outlook Hit by PC Slump, Supply Snags",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips"
+    "title": "Binance Hack: How Do Hackers Steal Crypto? Can the Funds Be Recovered?",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/binance-hack-how-do-hackers-steal-crypto-can-the-funds-be-recovered"
   },
   {
-    "title": "Amazon Shares Drop After Spending Soars, E-Commerce Slows",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services"
+    "title": "Fed’s Logan Sees Two More Hikes, But Says Pace Can Be Gradual",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-logan-sees-two-more-hikes-but-says-pace-can-be-gradual"
   },
   {
-    "title": "Nvidia CEO Says Ties to Company in Spy Probe Were ‘Normal’",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-ceo-says-ties-to-company-under-spying-probe-were-normal"
+    "title": "South Africa’s Godongwana Says GDP Lift Creates Fiscal Headroom",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/south-africa-s-godongwana-says-gdp-lift-creates-fiscal-headroom"
+  },
+  {
+    "title": "Housing, Food Costs Make Up Half of Americans’ Spending, Most in 15 Years",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/housing-food-costs-make-up-half-of-americans-spending-most-in-15-years"
+  },
+  {
+    "title": "What Christine Lagarde's ECB Exit Means for Europe and Markets: Live Q&A",
+    "link": "https://www.bloomberg.com/sessions/2026-11-02/live-q-amp-a-what-lagarde-s-exit-means-for-the-ecb-and-europe"
+  },
+  {
+    "title": "Who Could Replace Christine Lagarde as ECB President?",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-30/who-could-replace-christine-lagarde-as-ecb-president-video"
   },
   {
     "title": "Mexico Economic Growth Jumps to Fastest Pace in Three Years",
     "link": "https://www.bloomberg.com/news/articles/2026-10-30/mexico-economic-growth-jumps-to-fastest-pace-in-three-years"
+  },
+  {
+    "title": "Fed’s Barkin Indicates Backing for ‘Gradual’ Rate Increases",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-barkin-indicates-backing-for-gradual-rate-increases"
+  },
+  {
+    "title": "German Inflation Slows Sharply on Renewed Fuel-Tax Relief",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/german-inflation-slows-sharply-on-renewed-fuel-tax-relief"
   },
   {
     "title": "ECB’s Panetta Says More Hikes May Be Needed to Tame Prices",
@@ -598,10 +626,6 @@
   {
     "title": "Canada Economy Slows to 1.3% Pace, Weaker Than BOC Forecast",
     "link": "https://www.bloomberg.com/news/articles/2026-10-30/canada-economy-tracks-1-3-third-quarter-annualized-growth"
-  },
-  {
-    "title": "German Inflation Slows Sharply on Renewed Fuel-Tax Relief",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/german-inflation-slows-sharply-on-renewed-fuel-tax-relief"
   },
   {
     "title": "ECB Has Requested EU Leaders Start Search for Lane Successor",
@@ -644,30 +668,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-30/strong-earnings-mask-growing-struggle-with-inflation-oil-prices"
   },
   {
-    "title": "BOE Agents See Little Sign of Energy Shock Feeding Into Pay",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/boe-agents-see-little-sign-of-energy-shock-feeding-into-pay"
-  },
-  {
-    "title": "China Lifts Secrecy on New Key Rate, Sets It Below Old Benchmark",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/pboc-reveals-overnight-rate-at-1-25-before-policy-anchor-shift"
-  },
-  {
-    "title": "World’s Second-Worst Performing Currency Fans Ugandan Inflation",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/world-s-second-worst-performing-currency-fans-ugandan-inflation"
-  },
-  {
-    "title": "ECB to Act Decisively If Needed to Tame Inflation, Nagel Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-to-act-decisively-if-needed-to-tame-inflation-nagel-says"
-  },
-  {
-    "title": "Kenya Inflation Tops Forecasts, Raises Rate Hike Prospects",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/record-gasoline-prices-push-kenya-inflation-to-three-year-high"
-  },
-  {
-    "title": "ECB’s Moulin Sees Policy as Measured With Most Prices Stable",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-30/ecb-s-moulin-sees-policy-as-measured-with-most-prices-stable"
-  },
-  {
     "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
     "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
   },
@@ -708,43 +708,43 @@
     "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
   },
   {
+    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
+  },
+  {
+    "title": "The delightfully messy state of Apple gadgets",
+    "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets"
+  },
+  {
+    "title": "Rivian’s autonomy gamble faces its first real test",
+    "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026"
+  },
+  {
+    "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
+    "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale"
+  },
+  {
+    "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+    "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale"
+  },
+  {
+    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+  },
+  {
+    "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+    "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter"
+  },
+  {
+    "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+    "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x"
+  },
+  {
     "title": "Silicon Valley wants you to invest in miracles",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles"
   },
   {
     "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
-  },
-  {
-    "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-    "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer"
-  },
-  {
-    "title": "The Apple Pencil turned the Duo into my new favorite notebook",
-    "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on"
-  },
-  {
-    "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-    "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal"
-  },
-  {
-    "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-    "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist"
-  },
-  {
-    "title": "Maine’s data center revolt will decide who controls the Senate",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
-  },
-  {
-    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
-  },
-  {
-    "title": "The director of Obsession put a new horror short on YouTube",
-    "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear"
-  },
-  {
-    "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
-    "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage"
   }
 ]
