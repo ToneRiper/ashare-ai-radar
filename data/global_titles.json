@@ -4,6 +4,14 @@
     "link": "https://openai.com/index/grid-protectors-program"
   },
   {
+    "title": "LifeVal",
+    "link": "https://openai.com/index/lifeval"
+  },
+  {
+    "title": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin"
+  },
+  {
     "title": "Making it easier for websites to express AI training preferences",
     "link": "https://openai.com/index/helping-websites-express-ai-training-preferences"
   },
@@ -110,14 +118,6 @@
   {
     "title": "Uber brings ChatGPT Work to all employees with OpenAI",
     "link": "https://openai.com/index/uber-chatgpt-work-rollout"
-  },
-  {
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "link": "https://openai.com/index/att-legal"
-  },
-  {
-    "title": "Broad access through consistent standards",
-    "link": "https://openai.com/index/broad-access-through-consistent-standards"
   },
   {
     "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
@@ -428,6 +428,34 @@
     "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html"
   },
   {
+    "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+    "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/"
+  },
+  {
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"
+  },
+  {
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+  },
+  {
+    "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+    "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/"
+  },
+  {
+    "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+    "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
+  },
+  {
+    "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+    "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/"
+  },
+  {
+    "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+    "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/"
+  },
+  {
     "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
     "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
   },
@@ -456,7 +484,7 @@
     "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"
   },
   {
-    "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
     "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
   },
   {
@@ -480,116 +508,96 @@
     "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/"
   },
   {
-    "title": "Binance resumes withdrawals following $6.3 billion breach",
-    "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+    "title": "Apple Sales Slow Down, China Revenue Misses Estimates",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-slow-down-china-revenue-misses-estimates-video"
   },
   {
-    "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-    "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/"
+    "title": "Isomorphic Labs President Says AI Will Design All Drugs One Day",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/isomorphic-labs-president-says-ai-will-design-all-drugs-one-day"
   },
   {
-    "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-    "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/"
+    "title": "Apple Growth Decelerates, With China Sales Missing Estimates",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/apple-growth-decelerates-with-china-sales-missing-estimates"
   },
   {
-    "title": "Data centers are now a midterm issue, even in Brooklyn",
-    "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+    "title": "Match Falls After Quarterly Sales, Profit Outlook Miss Estimates",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/match-falls-after-quarterly-sales-profit-outlook-miss-estimates"
   },
   {
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+    "title": "Palantir Boosts 2026 Revenue Outlook on Strong Commercial Sales",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/palantir-boosts-2026-revenue-outlook-on-strong-commercial-sales"
   },
   {
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
-  },
-  {
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
-  },
-  {
-    "title": "Binance Boosts Market Maker Incentives in Wake of Record Hack",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/binance-boosts-market-maker-incentives-in-wake-of-record-hack"
-  },
-  {
-    "title": "Meta Readies Cross-Border Investment Bond Offering",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering"
-  },
-  {
-    "title": "Anthropic Commits to $895 Billion in Spending as Mega-IPO Nears",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo"
-  },
-  {
-    "title": "Binance Outflows Reach $4.7 Billion After North Korea Hack",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/binance-outflows-hit-4-7-billion-after-record-north-korea-hack"
-  },
-  {
-    "title": "Anthropic Revenue Hits Nearly $17 Billion Before Mega-IPO",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-02/anthropic-revenue-hits-nearly-17b-before-mega-ipo-video"
-  },
-  {
-    "title": "Marvell to Buy Lumentum in $115 Billion Deal",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-02/marvell-to-buy-lumentum-in-115-billion-deal-video"
-  },
-  {
-    "title": "Russia Allows Use of Foreign Data Centers in Wake of Attacks",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/russia-allows-use-of-foreign-data-centers-in-wake-of-attacks"
-  },
-  {
-    "title": "Marvell Reaches $115 Billion Deal for Lumentum Holdings",
+    "title": "Marvell to Acquire Lumentum in Historic $115 Billion Deal",
     "link": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings"
   },
   {
-    "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-02/anthropic-revenue-nears-17-billion-ahead-of-ipo-video"
+    "title": "Power On: How Will a Touchscreen MacBook Impact the iPad?",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/power-on-will-a-touchscreen-macbook-impact-ipad-sales-video"
+  },
+  {
+    "title": "Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/nasdaq-100-enters-correction-as-megacap-results-amplify-ai-fears"
+  },
+  {
+    "title": "How Binance’s $6 Billion Heist Unfolded",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/how-binance-s-6-billion-heist-unfolded-video"
+  },
+  {
+    "title": "Apple (AAPL) Earnings: Live Q4 2026 Results, iPhone Sales, CEO Ternus Comments",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-11-02/apple-fourth-quarter-earnings-live-updates"
+  },
+  {
+    "title": "Lumentum Goes From $1 Billion Spinoff to $115 Billion Takeover",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/lumentum-goes-from-1-billion-spinoff-to-115-billion-takeover"
+  },
+  {
+    "title": "Oracle Kicks Off $20 Billion Capital Raise",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-tech-11-02-2026-video"
+  },
+  {
+    "title": "AI Will Create 'Weird' Economic Benefits: Manidis",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/ai-will-create-weird-economic-benefits-manidis-video"
+  },
+  {
+    "title": "Mendler's Northwood Reaches $2 Billion Valuation",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/mendler-s-northwood-reaches-2-billion-valuation-video"
+  },
+  {
+    "title": "Anthropic to Spend $895 Billion in the Years Ahead",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/anthropic-to-spend-895-billion-in-the-years-ahead-video"
+  },
+  {
+    "title": "Qatalyst Notches Its Biggest Deal With Rare Buyside M&A Role",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/qatalyst-notches-its-biggest-deal-with-rare-buyside-m-a-role"
+  },
+  {
+    "title": "Why GTA VI Makes the Case for AI in Gaming",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/opinion-gta-vi-shows-why-gaming-needs-ai-video"
   },
   {
     "title": "Apple’s $1 Trillion Rally Leaves No Room for Error on Earnings",
     "link": "https://www.bloomberg.com/news/articles/2026-11-02/apple-s-1-trillion-rally-leaves-no-room-for-error-on-earnings"
   },
   {
-    "title": "Apple Earnings On Deck After $1 Trillion Rally: Preview",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-02/apple-earnings-on-deck-after-1-trillion-rally-preview-video"
+    "title": "Supermarkets Across Europe Report Suspected Freezer Hack",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-02/supermarkets-across-europe-report-suspected-freezer-hack-video"
   },
   {
-    "title": "TIPS Are Perfect Hedge for AI, Says BMO’s Davis",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-02/tips-are-perfect-hedge-for-ai-says-bmo-s-davis-video"
+    "title": "Meta Eyes at Least $20 Billion From Potential Bond Offerings",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering"
   },
   {
-    "title": "Supermarkets in Belgium, Ireland, Sweden, Finland Hit by Suspected Freezer Hack",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/belgian-swedish-supermarkets-report-new-suspected-freezer-hack"
-  },
-  {
-    "title": "Midterm Election Results Unlikely to Ease Tech’s Polarized Political Rhetoric",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-02/midterm-election-results-unlikely-to-ease-tech-s-polarized-political-rhetoric"
-  },
-  {
-    "title": "Yardeni Says Bond Vigilantes Are Allocating Credit Properly",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-02/yardeni-bond-vigilantes-are-allocating-credit-properly-video"
-  },
-  {
-    "title": "AI Is Making Employees Work Longer Days, New Data Shows",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-02/ai-is-making-employees-work-longer-days-new-data-shows"
-  },
-  {
-    "title": "Alphabet’s Euro Debt Market Return Tests Faith in AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-02/alphabet-s-euro-debt-market-return-tests-faith-in-ai-video"
-  },
-  {
-    "title": "Norway Cabinet Allies Seek Data Center Halt on Power Worry",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/norway-government-allies-seek-data-center-halt-on-power-worries"
-  },
-  {
-    "title": "US GDP, Dollar 'Very Exposed' to AI Pullback, MUFG Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-02/us-gdp-dollar-very-exposed-to-ai-pullback-mufg-says-video"
-  },
-  {
-    "title": "Altman Says AI Will Transform the Economics of Energy",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-02/altman-says-ai-will-transform-the-economics-of-energy-video"
+    "title": "South Africa, Rwanda Lose Access to US’s AGOA Trade Pact",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/south-africa-rwanda-lose-access-to-preferential-us-trade-pact"
   },
   {
     "title": "Wall Street Eyes Biggest Treasury Sales Overhaul in Years",
     "link": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-biggest-treasury-sales-overhaul-in-years"
+  },
+  {
+    "title": "El Niño Could Raise US Inflation, Boost Jobs in 2027: Fed Study",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/el-nino-could-raise-us-inflation-boost-jobs-in-2027-fed-study"
   },
   {
     "title": "Lagarde Wants to Start New Career Phase, ECB’s Moulin Says",
@@ -660,12 +668,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-02/boj-signals-low-hopes-for-consumer-spending-as-population-falls"
   },
   {
-    "title": "Taiwan Eases Exporter US Dollar Sale Curbs as Currency Drops",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/taiwan-said-to-ease-exporter-fx-rule-after-record-stocks-exodus"
-  },
-  {
-    "title": "How Poland’s Central Bank Is Caught in Political Standoff With PM Donald Tusk",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/how-poland-s-central-bank-is-caught-in-political-standoff-with-pm-donald-tusk"
+    "title": "Raising the quality of insights in agentic analytics",
+    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
   },
   {
     "title": "Stop counting tokens, start counting what ships",
@@ -704,47 +708,43 @@
     "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
   },
   {
-    "title": "The Download: dead startups fueling AI and interspecies communication",
-    "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
+    "title": "Meta will end Quest 2 OS updates in 2027",
+    "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates"
   },
   {
-    "title": "Why Peacock is making a huge bet on YouTube",
-    "link": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv"
+    "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
+    "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down"
   },
   {
-    "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
-    "link": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price"
+    "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+    "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027"
   },
   {
-    "title": "Could data center backlash flip Florida?",
-    "link": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers"
+    "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+    "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale"
   },
   {
-    "title": "YouTuber Druski is going to make exclusive content for Netflix",
-    "link": "https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal"
+    "title": "Ford promises not to sell your driving habits to data brokers",
+    "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers"
   },
   {
-    "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
-    "link": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram"
+    "title": "Anthropic clamps down on Claude’s AI video game clones",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
   },
   {
-    "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
-    "link": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report"
+    "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
+    "link": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments"
   },
   {
-    "title": "Affinity’s creative studio is now available on iPad for free",
-    "link": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability"
+    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
   },
   {
-    "title": "More European supermarkets are getting their freezers hacked",
-    "link": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack"
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
   },
   {
-    "title": "Jackery made its portable power stations even smaller",
-    "link": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate"
-  },
-  {
-    "title": "NASA hopes the commercial space industry can help save Hubble",
-    "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble"
+    "title": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
+    "link": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay"
   }
 ]
