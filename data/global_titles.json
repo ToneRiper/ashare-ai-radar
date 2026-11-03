@@ -1,5 +1,9 @@
 [
   {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "link": "https://openai.com/index/heimstaden"
+  },
+  {
     "title": "Scaling Git at OpenAI",
     "link": "https://openai.com/index/scaling-git-at-openai"
   },
@@ -8,24 +12,24 @@
     "link": "https://openai.com/index/grid-protectors-program"
   },
   {
-    "title": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-  },
-  {
     "title": "Preparing our next security sprint to harden OpenAI",
     "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+  },
+  {
+    "title": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
   },
   {
     "title": "LifeVal",
     "link": "https://openai.com/index/lifeval"
   },
   {
-    "title": "Qodo builds context into AI code review with Codex",
-    "link": "https://openai.com/index/qodo-codex-plugin"
-  },
-  {
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "link": "https://openai.com/index/dan-driscoll-joins-openai"
+  },
+  {
+    "title": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin"
   },
   {
     "title": "Making it easier for websites to express AI training preferences",
@@ -116,10 +120,6 @@
     "link": "https://openai.com/index/securing-our-frontier-model-training-environment"
   },
   {
-    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-    "link": "https://openai.com/index/anima"
-  },
-  {
     "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
     "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
   },
@@ -190,6 +190,22 @@
   {
     "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
     "link": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/"
+  },
+  {
+    "title": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+    "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html"
+  },
+  {
+    "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
+    "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html"
+  },
+  {
+    "title": "Versant earnings beat expectations as digital platforms drive growth",
+    "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html"
+  },
+  {
+    "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+    "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html"
   },
   {
     "title": "Baked by Melissa enters Target with first at-home cupcake mix",
@@ -294,22 +310,6 @@
   {
     "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
     "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html"
-  },
-  {
-    "title": "Why popular airplanes are getting scrapped years early",
-    "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html"
-  },
-  {
-    "title": "Restaurant earnings will test whether owning more brands pays off",
-    "link": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html"
-  },
-  {
-    "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-    "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html"
-  },
-  {
-    "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-    "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html"
   },
   {
     "title": "Australia hikes rates to 18-year high to fight inflation",
@@ -428,6 +428,18 @@
     "link": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html"
   },
   {
+    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/"
+  },
+  {
+    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+    "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/"
+  },
+  {
+    "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+    "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/"
+  },
+  {
     "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
     "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
   },
@@ -496,108 +508,144 @@
     "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/"
   },
   {
-    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+    "title": "Apple’s Narrowing Margins Overshadow Upbeat Holiday Forecast",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/apple-growth-decelerates-with-china-sales-missing-estimates"
   },
   {
-    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+    "title": "Meta Seeks $15 Billion From US Dollar Portion of Bond Offering",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments"
   },
   {
-    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
+    "title": "Energy Transfer Approves $1.6 Billion Gas Pipe as AI Use Soars",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/energy-transfer-approves-1-6-billion-gas-pipe-as-ai-use-soars"
   },
   {
-    "title": "UBS CEO Says Cyber Risk Controls Are Key for Banks",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/ubs-ceo-says-cyber-risk-controls-are-key-for-banks-video"
+    "title": "How AI Is Changing Drug Discovery at Isomorphic Labs",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/isomorphic-labs-on-ai-drug-discovery-video"
   },
   {
-    "title": "Philips Profitability Beats Expectations on Cost Cutting",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/philips-third-quarter-beats-expectations-sales-dutch-medical-devices-maker"
+    "title": "Salesforce Sponsor Spotlight",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/salesforce-sponsor-spotlight-video"
   },
   {
-    "title": "Apple Slides After Earnings",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/apple-slides-after-earnings-video"
+    "title": "Private Backers Step Back From Turkey’s Flagship EV Project at €800 Million Valuation",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/private-backers-step-back-from-turkey-s-flagship-ev-project-at-800-million-valuation"
   },
   {
-    "title": "Wall Street CEOs, Big Money Managers Divided Over AI Risks",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/wall-street-ceos-big-global-money-managers-debate-ai-risks"
+    "title": "South Africa’s Kruger Park Faces Flood-Repair Funding Gap",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/south-africa-s-kruger-park-faces-flood-repair-funding-gap"
   },
   {
-    "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says"
+    "title": "How AI and Autonomous Aircraft Are Changing Warfare",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/shield-ai-on-autonomous-warfare-video"
   },
   {
-    "title": "Korea’s Krafton Bets on Bangalore for Next Global Gaming Hit",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/korea-s-krafton-bets-on-bangalore-for-next-global-gaming-hit"
+    "title": "Midterms Threaten Financial Upstarts Basking in Trump Sweet Spot",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/midterms-threaten-financial-upstarts-basking-in-trump-sweet-spot"
   },
   {
-    "title": "China Plans Broad AI Guardrails After Global Security Lapses",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses"
+    "title": "Binance Hack: How Do Hackers Steal Crypto? Can the Funds Be Recovered?",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-30/binance-hack-how-do-hackers-steal-crypto-can-the-funds-be-recovered"
   },
   {
-    "title": "UBS CEO Ermotti Says Cyber Risks Rival Traditional Bank Threats",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/ubs-ceo-ermotti-says-cyber-risks-rival-traditional-bank-threats"
+    "title": "How AI Is Changing Who Can Build Software",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/lovable-on-ai-built-software-video"
   },
   {
-    "title": "Wall Street Bosses See Risks But Remain Bullish On AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/the-china-show-11-03-2026-video"
+    "title": "Shopify Plunges as Revenue Misses for First Time Since 2022",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/shopify-plunges-as-revenue-misses-for-first-time-since-2022"
   },
   {
-    "title": "Morgan Stanley CEO Sees Up to $15T AI Investment Wave",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/morgan-stanley-ceo-sees-up-to-15t-ai-investment-wave-video"
+    "title": "Dan Ives Sees Anthropic IPO Facing Valuation Pressure",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/dan-ives-sees-anthropic-ipo-facing-valuation-pressure-video"
   },
   {
-    "title": "Wall Street Chiefs See Robust Demand for Massive AI Deals",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals"
+    "title": "Can Europe Build AI Sovereignty at Scale?",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/europe-on-ai-sovereignty-video"
   },
   {
-    "title": "Blackstone, Pimco Chiefs Debate the Perils of AI Boom",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/blackstone-pimco-chiefs-debate-the-perils-of-ai-boom-video"
+    "title": "ElevenLabs on What Comes Next for Voice AI",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/elevenlabs-on-voice-ai-video"
   },
   {
-    "title": "Oracle Is Near $10 Billion Share Sale at 11% Discount",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/oracle-is-said-to-near-10-billion-share-sale-at-11-discount"
+    "title": "How BBVA and OpenAI Are Bringing AI Into Banking",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-03/bbva-openai-on-ai-in-banking-video"
   },
   {
-    "title": "Nvidia’s Huang Gave Blessing to Marvell-Lumentum Megadeal",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-s-huang-gave-blessing-to-marvell-lumentum-megadeal"
+    "title": "Shield AI CEO Says Planning At Least $1 Billion Raise, More M&A",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/shield-ai-ceo-says-planning-at-least-1-billion-raise-more-m-a"
   },
   {
-    "title": "State Street CEO Says It’s ‘Hard to See’ AI as a Bubble Yet",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/state-street-ceo-says-it-s-hard-to-see-ai-as-a-bubble-yet"
+    "title": "ABB’s Bangalore Factory Robots Open the Door for Women in Charge",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-03/abb-s-bangalore-factory-robots-open-the-door-for-women-in-charge"
   },
   {
-    "title": "DBS CEO on How Southeast Asia's Biggest Bank Deploys AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/dbs-ceo-on-how-southeast-asia-s-biggest-bank-deploys-ai-video"
+    "title": "Binance Loses Market Share to Crypto Exchange Rivals After Hack",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/binance-loses-market-share-to-crypto-exchange-rivals-after-hack"
   },
   {
-    "title": "Apple Forecast Tops Estimates, Disappoints Investors",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/apple-forecast-tops-estimates-disappoints-investors-video"
+    "title": "Palantir Outlook Signals Slowdown in AI-Fueled Sales Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/palantir-boosts-2026-revenue-outlook-on-strong-commercial-sales"
   },
   {
-    "title": "Grab Raises Sales, Earnings Forecasts on Rising Ride Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/grab-boosts-sales-earnings-forecasts-on-rising-ride-demand"
+    "title": "Brazil Rate and Inflation Bets Soar After Lula’s Reelection",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/brazilian-key-rate-forecasts-soar-after-lula-s-shock-reelection"
   },
   {
-    "title": "L&G AM CEO on APAC, Growth Outlook",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/l-g-am-ceo-on-apac-growth-outlook-video"
+    "title": "Belgium Needs Deeper Budget Cuts to Stabilize Debt, OECD Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/belgium-needs-deeper-budget-cuts-to-stabilize-debt-oecd-says"
   },
   {
-    "title": "Franklin Templeton CEO on Investment, Growth Outlook",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-03/franklin-templeton-ceo-on-investment-growth-outlook-video"
+    "title": "Poland’s Tusk Ends Central Bank Standoff Over Board Nominees",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/tusk-lifts-block-on-polish-central-bank-board-nominees"
   },
   {
-    "title": "Ship Strikes In Hormuz Leave Both Sides With Economic Pain",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-31/shipping-strikes-in-hormuz-leave-both-sides-with-economic-pain"
+    "title": "Senegal Lawmakers Reject Budget in Setback for IMF Program Talks",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/senegal-lawmakers-reject-budget-in-setback-for-imf-program-talks"
+  },
+  {
+    "title": "The Two Big 2027 Challenges Looming for a Divided US Government",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-03/the-two-big-2027-challenges-looming-for-a-divided-us-government"
+  },
+  {
+    "title": "Asia exports and the AI Boom",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-03/asia-exports-and-the-ai-boom"
+  },
+  {
+    "title": "South African Businesses See ‘Minimal’ Impact of AGOA Exclusion",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/south-african-businesses-see-minimal-impact-of-agoa-exclusion"
+  },
+  {
+    "title": "Sweden Is Set for First Rate Increase Since 2023: Decision Guide",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/sweden-is-set-for-first-rate-increase-since-2023-decision-guide"
+  },
+  {
+    "title": "ECB Remarks Point to Sub-2% Inflation By End of 2027, BE Finds",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/ecb-remarks-point-to-sub-2-inflation-by-end-of-2027-be-finds"
+  },
+  {
+    "title": "UK’s BII Targets £2.25 Billion for Africa’s Riskiest Markets",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-02/uk-s-bii-targets-2-25-billion-for-africa-s-riskiest-markets"
+  },
+  {
+    "title": "Eurogroup Calls for ECB Presidency Nominations by Nov. 6",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/eurogroup-calls-for-ecb-presidency-nominations-by-nov-6"
+  },
+  {
+    "title": "Hong Kong Economy’s Surprise Jump Takes Growth to Five-Year High",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-gdp-q3-economic-growth-exports-surge-electronics-ai"
   },
   {
     "title": "Swiss Inflation Accelerates to Highest in Almost Three Years",
     "link": "https://www.bloomberg.com/news/articles/2026-11-03/swiss-inflation-accelerates-to-highest-in-almost-three-years"
   },
   {
-    "title": "Turkey Inflation Quickens Unexpectedly, Clouding Rate Path",
+    "title": "Turkish Rate-Cut Path Intact Despite Inflation Topping Estimates",
     "link": "https://www.bloomberg.com/news/articles/2026-11-03/turkey-inflation-quickens-unexpectedly-clouding-rate-path"
+  },
+  {
+    "title": "Ship Strikes In Hormuz Leave Both Sides With Economic Pain",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-31/shipping-strikes-in-hormuz-leave-both-sides-with-economic-pain"
   },
   {
     "title": "RBA’s Bullock Signals Pause After Split Decision to Hike",
@@ -620,52 +668,12 @@
     "link": "https://www.bloomberg.com/news/live-blog/2026-11-03/reserve-bank-of-australia-rate-decision"
   },
   {
-    "title": "Korea Inflation Holds Firm, Bolstering Case for More Hikes",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/south-korea-inflation-holds-firm-bolstering-case-for-more-hikes"
+    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+    "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
   },
   {
-    "title": "US Inflation: Millions of Data Points Show Some Price Pressures Easing",
-    "link": "https://www.bloomberg.com/graphics/2026-inflation-price-index/"
-  },
-  {
-    "title": "Wall Street Eyes Biggest Treasury Sales Overhaul in Years",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-biggest-treasury-sales-overhaul-in-years"
-  },
-  {
-    "title": "El Niño Could Raise US Inflation, Boost Jobs in 2027: Fed Study",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/el-nino-could-raise-us-inflation-boost-jobs-in-2027-fed-study"
-  },
-  {
-    "title": "Lagarde Wants to Start New Career Phase, ECB’s Moulin Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/lagarde-wants-to-kick-off-new-career-phase-ecb-s-moulin-says"
-  },
-  {
-    "title": "US Manufacturing Activity Accelerates as Production Picks Up",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/us-factory-activity-picks-up-production-grows-most-since-2021"
-  },
-  {
-    "title": "South African Factory Mood Remains Downbeat as Price Pressures Build",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/south-african-factory-mood-remains-downbeat-as-price-pressures-build"
-  },
-  {
-    "title": "Chile Economic Activity Posts First Monthly Rise Since June",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/chile-s-economic-activity-posts-first-monthly-rise-since-june"
-  },
-  {
-    "title": "South Africa Must Reform Now to Grow Faster, Kganyago Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/south-africa-must-reform-now-to-grow-faster-kganyago-says"
-  },
-  {
-    "title": "ECB’s Makhlouf Says France Needs to Fix Public Finances",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-02/ecb-s-makhlouf-says-france-needs-to-fix-public-finances"
-  },
-  {
-    "title": "Food, Housing Share of Americans’ Expenses Rise to 15-Year High",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-02/food-housing-share-of-americans-expenses-rise-to-15-year-high"
-  },
-  {
-    "title": "Trump’s economic populism and the midterm elections",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-02/trump-s-economic-populism-and-the-midterm-elections"
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
   },
   {
     "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
@@ -700,12 +708,36 @@
     "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
   },
   {
-    "title": "We urgently need to monitor AI agents’ actions in real time",
-    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+    "title": "A truck-sized NASA space telescope is about to crash to Earth",
+    "link": "https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth"
   },
   {
-    "title": "Our climate models have a big, dangerous blind spot",
-    "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/"
+    "title": "Peak Design expands its collection of wireless charging accessories",
+    "link": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi"
+  },
+  {
+    "title": "Bambu&#8217;s nine-nozzle H3C foretells the future of 3D printing",
+    "link": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend"
+  },
+  {
+    "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price",
+    "link": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review"
+  },
+  {
+    "title": "Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’",
+    "link": "https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music"
+  },
+  {
+    "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+    "link": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion"
+  },
+  {
+    "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
+    "link": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera"
+  },
+  {
+    "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
+    "link": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp"
   },
   {
     "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
@@ -714,37 +746,5 @@
   {
     "title": "Apple set an iPhone sales record even without a new standard iPhone",
     "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings"
-  },
-  {
-    "title": "Meta will end Quest 2 OS updates in 2027",
-    "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates"
-  },
-  {
-    "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-    "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down"
-  },
-  {
-    "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-    "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027"
-  },
-  {
-    "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-    "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale"
-  },
-  {
-    "title": "Ford promises not to sell your driving habits to data brokers",
-    "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers"
-  },
-  {
-    "title": "Anthropic clamps down on Claude’s AI video game clones",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
-  },
-  {
-    "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
-    "link": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments"
-  },
-  {
-    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
   }
 ]
