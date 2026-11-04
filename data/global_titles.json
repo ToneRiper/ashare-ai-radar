@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "link": "https://openai.com/index/openai-to-acquire-pierre"
+  },
+  {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud"
+  },
+  {
     "title": "Accelerating engineering for the physical world",
     "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
   },
@@ -24,24 +32,24 @@
     "link": "https://openai.com/index/grid-protectors-program"
   },
   {
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-  },
-  {
     "title": "Rewarding defenders with bigger bug bounties",
     "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+  },
+  {
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
   },
   {
     "title": "LifeVal",
     "link": "https://openai.com/index/lifeval"
   },
   {
-    "title": "Qodo builds context into AI code review with Codex",
-    "link": "https://openai.com/index/qodo-codex-plugin"
-  },
-  {
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "link": "https://openai.com/index/dan-driscoll-joins-openai"
+  },
+  {
+    "title": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin"
   },
   {
     "title": "Making it easier for websites to express AI training preferences",
@@ -110,14 +118,6 @@
   {
     "title": "Working with academic communities to build scientific understanding",
     "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
-  },
-  {
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
-  },
-  {
-    "title": "ChatGPT’s expanding world of work",
-    "link": "https://openai.com/index/chatgpt-expanding-world-of-work"
   },
   {
     "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
@@ -192,12 +192,28 @@
     "link": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/"
   },
   {
+    "title": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+    "link": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html"
+  },
+  {
+    "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
+    "link": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html"
+  },
+  {
     "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
     "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html"
   },
   {
-    "title": "McDonald's earnings beat, but traffic to its U.S. restaurants falls",
+    "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+    "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html"
+  },
+  {
+    "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
     "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html"
+  },
+  {
+    "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
+    "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html"
   },
   {
     "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
@@ -294,22 +310,6 @@
   {
     "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
     "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html"
-  },
-  {
-    "title": "American Airlines hikes annual fees on rewards cards for first time since 2018",
-    "link": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html"
-  },
-  {
-    "title": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-    "link": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html"
-  },
-  {
-    "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
-    "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html"
-  },
-  {
-    "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-    "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html"
   },
   {
     "title": "China expands overseas mining stakes, tightening grip on critical minerals",
@@ -428,6 +428,38 @@
     "link": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html"
   },
   {
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
+  },
+  {
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+  },
+  {
+    "title": "Waymo confirms it will start splitting with Uber in January 2028",
+    "link": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-start-splitting-with-uber-in-january-2028/"
+  },
+  {
+    "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+    "link": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/"
+  },
+  {
+    "title": "Sequoia hits rewind, undoing 20 years of expansion",
+    "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/"
+  },
+  {
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"
+  },
+  {
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+  },
+  {
+    "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+    "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/"
+  },
+  {
     "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
     "link": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/"
   },
@@ -476,52 +508,72 @@
     "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/"
   },
   {
-    "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
-    "link": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/"
+    "title": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending"
   },
   {
-    "title": "Ferrari’s controversial Luce EV is sold out for 2027",
-    "link": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/"
+    "title": "Uber Delivery Accelerates as Rides Growth Slows",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-04/uber-delivery-accelerates-as-rides-growth-slows-video"
   },
   {
-    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+    "title": "Data Center Buildout Could Help Energy Prices",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-04/data-center-buildout-could-help-energy-prices-video"
   },
   {
-    "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-    "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/"
+    "title": "Podcasters’ Election Night Streams Highlight Fractured Media Landscape",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-04/podcasters-election-night-streams-highlight-fractured-media-landscape"
   },
   {
-    "title": "Anthropic is still grappling with the economics of compute",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
+    "title": "SpaceX Ups Challenge to US Mobile Carriers With Qualcomm Deal",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-04/spacex-ups-challenge-to-us-mobile-carriers-with-qualcomm-video"
   },
   {
-    "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-    "link": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/"
+    "title": "AI Inference Startup Fal Raises Capital at $16 Billion Valuation",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation"
   },
   {
-    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+    "title": "Meta Raises €9 Billion as Euro Bond Debut Draws Record Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal"
   },
   {
-    "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-    "link": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/"
+    "title": "CVS Plans to Break Up $117 Billion Healthcare Conglomerate",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-04/cvs-plans-to-break-up-117b-healthcare-conglomerate-video"
+  },
+  {
+    "title": "Kiwi Slide Haunts New Zealand’s Main Parties Ahead of Tight Vote",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/kiwi-slide-haunts-new-zealand-s-main-parties-ahead-of-tight-vote"
+  },
+  {
+    "title": "Musk’s Texas Gamble Becomes Liability With Democrats Taking Over",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/musk-s-texas-gamble-becomes-liability-with-democrats-taking-over"
+  },
+  {
+    "title": "Wall Street Sees Risks to AI Boom After the Democratic Sweep",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-sees-risks-to-ai-boom-after-the-democratic-sweep"
+  },
+  {
+    "title": "HP Appoints Emma Walmsley as CEO, Concluding Executive Search",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/hp-names-emma-walmsley-as-new-ceo-ending-monthlong-search"
+  },
+  {
+    "title": "Qualcomm to Build Equipment for SpaceX’s US Mobile Network",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network"
+  },
+  {
+    "title": "Crypto Giants Scrap Crime-Fighting Alliance as Hackers Circle",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle"
+  },
+  {
+    "title": "CoreWeave Bonds Hit New Lows as Texas Data Centers in Crosshairs",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/coreweave-bonds-hit-new-lows-as-texas-data-centers-in-crosshairs"
   },
   {
     "title": "Cyberattacks on Cryptocurrency Targets, Supermarket Fridges Serve Geopolitical Purpose",
     "link": "https://www.bloomberg.com/news/newsletters/2026-11-04/cyberattacks-on-cryptocurrency-targets-supermarket-fridges-serve-geopolitical-purpose"
   },
   {
-    "title": "HP Names Emma Walmsley as New CEO, Ending Monthlong Search",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/hp-names-emma-walmsley-as-new-ceo-ending-monthlong-search"
-  },
-  {
     "title": "Wayfair Growth Reaches Post-Pandemic High on US Share Gains",
     "link": "https://www.bloomberg.com/news/articles/2026-11-04/wayfair-growth-hits-post-pandemic-high-on-us-market-share-gains"
-  },
-  {
-    "title": "Meta Gets Record €53 Billion of Orders for Debut Euro Bonds",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal"
   },
   {
     "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry",
@@ -536,68 +588,40 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders"
   },
   {
-    "title": "Qualcomm to Build Equipment for SpaceX’s US Mobile Phone Network",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network"
+    "title": "Trump Tariffs, Midterm Losses Leave Canada’s Carney With Tough Deal Choice",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/trump-tariffs-midterm-losses-leave-canada-s-carney-with-tough-deal-choice"
   },
   {
-    "title": "Waymo’s Bet on a Driverless Future",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-04/waymo-s-bet-on-a-driverless-future-video"
+    "title": "Polish Constitutional Crisis Has Central Bank Chief on Ropes",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/poland-constitutional-crisis-has-central-bank-chief-adam-glapinski"
   },
   {
-    "title": "Vauban Seeks More Investments in European District Heating, Fiber, Data Centers",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/vauban-eyes-more-deals-in-european-district-heating-fiber-grids-data-centers"
+    "title": "Shock Lula Win Puts Brazil’s Central Bank on Rocky Interest Rate Path",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/shock-lula-win-puts-brazil-s-central-bank-on-rocky-interest-rate-path"
   },
   {
-    "title": "Bloomberg Tech London Event: Looking Ahead to Balance of Power After US Midterms",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-04/bloomberg-tech-london-event-looking-ahead-to-balance-of-power-after-us-midterms"
+    "title": "Paraguay Names New Central Banker After Lender Is Taken Over",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/paraguay-names-new-central-banker-after-lender-is-taken-over"
   },
   {
-    "title": "Cyberattackers Drain Money From French Bank Credit Mutuel Arkea",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/cyberattackers-drain-money-from-french-bank-credit-mutuel-arkea"
-  },
-  {
-    "title": "Democrats’ Midterm Wins Threaten to Slow the AI Data Center Boom",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-04/democrats-midterm-wins-threaten-to-slow-the-ai-data-center-boom"
-  },
-  {
-    "title": "How Markets Reacted to Democrats’ Win: Stocks U-Turn, Gold Gains",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto"
-  },
-  {
-    "title": "Thai Spyware Alerts on Opposition Leaders’ Phones Prompt Demands for Probe",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/thai-spyware-alerts-on-opposition-leaders-phones-prompt-demands-for-probe"
-  },
-  {
-    "title": "Google to Spend $15 Billion in Malaysia Data Center Expansion",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/google-to-spend-15-billion-in-malaysia-data-center-expansion"
-  },
-  {
-    "title": "Oaktree Data Center Firm Pure Secures Up to $1.9 Billion in Debt",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/oaktree-data-center-firm-pure-secures-up-to-1-9-billion-in-debt"
-  },
-  {
-    "title": "Dip Buyers Emerge for Tech Stocks as Traders Look Past Midterms",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/tech-awaits-next-leg-up-after-confronting-midterms-taking-stock"
-  },
-  {
-    "title": "Tencent Declares Latest AI Model Ranks Among China’s Best",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best"
-  },
-  {
-    "title": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow"
+    "title": "Poland Holds Rates Again as Inflation Outlook Gets Riskier",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/poland-s-central-bank-holds-rates-for-eighth-straight-month"
   },
   {
     "title": "Energy, Gold Exports Offset US Tariff Impact on Canada",
     "link": "https://www.bloomberg.com/news/articles/2026-11-04/higher-energy-gold-exports-offset-us-tariff-impact-on-canada"
   },
   {
-    "title": "Poland’s Central Bank Holds Rates for Eighth Straight Month",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/poland-s-central-bank-holds-rates-for-eighth-straight-month"
+    "title": "Bank of England’s New Inflation Gauge Provides Some Reassurance",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/bank-of-england-s-new-inflation-gauge-provides-some-reassurance"
   },
   {
     "title": "Knot Says ECB Will Need to Stick With a Hawkish Stance on Policy",
     "link": "https://www.bloomberg.com/news/articles/2026-11-04/knot-says-ecb-will-need-to-stick-with-a-hawkish-stance-on-policy"
+  },
+  {
+    "title": "US Companies Added 86,000 Jobs in October, ADP Data Show",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-04/us-companies-add-86-000-jobs-more-than-forecast-adp-data-show"
   },
   {
     "title": "Chile Central Bank Mulled a Key Rate Hike at Its Last Decision",
@@ -640,32 +664,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-04/euro-zone-inflation-accelerates-to-double-the-ecb-s-target"
   },
   {
-    "title": "Shock Lula Win Puts Brazil’s Central Bank on Rocky Interest Rate Path",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/shock-lula-win-puts-brazil-s-central-bank-on-rocky-interest-rate-path"
-  },
-  {
     "title": "World Bank Sees Kenya GDP Rising by a Fifth If Graft Tackled",
     "link": "https://www.bloomberg.com/news/articles/2026-11-04/world-bank-sees-kenya-gdp-increasing-by-a-fifth-if-graft-tackled"
   },
   {
-    "title": "Euro-Zone Wage Growth to Slow Sharply Next Year in Boost for ECB",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/euro-zone-wage-growth-to-slow-sharply-next-year-in-boost-for-ecb"
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
   },
   {
-    "title": "UK Rates Are Not High Enough to Curb Inflation, Research Finds",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/uk-rates-are-not-high-enough-to-curb-inflation-research-finds"
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
   },
   {
-    "title": "Polish Constitutional Crisis Has Central Bank Chief on Ropes",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/poland-constitutional-crisis-has-central-bank-chief-adam-glapinski"
-  },
-  {
-    "title": "Saudi Budget Deficit More Than Doubles on War, Aramco Fees",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-03/saudi-budget-deficit-more-than-doubles-as-war-strains-finances"
-  },
-  {
-    "title": "Florida Passes Property Tax Cuts in Challenge for Local Funding",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-04/florida-passes-property-tax-cuts-in-challenge-for-local-funding"
+    "title": "What’s next for US energy policy after the midterm elections?",
+    "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
   },
   {
     "title": "The Download: blended meat, restored sight, and the agentic web",
@@ -696,55 +708,43 @@
     "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
   },
   {
-    "title": "The Download: the agentic web arrives and the drive for safer roads",
-    "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
+    "title": "Google’s Pixel 11 phones are up to 27 percent off",
+    "link": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale"
   },
   {
-    "title": "The agentic web is here",
-    "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
+    "title": "Xbox previews two new ways to control cloud games",
+    "link": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller"
   },
   {
-    "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-    "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
   },
   {
-    "title": "Sam Altman addresses RAM comments: people should &#8216;put as much as they want in their computers&#8217;",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments"
+    "title": "Apple will check shared iCloud links for ‘harmful content’",
+    "link": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3"
   },
   {
-    "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
-    "link": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk"
+    "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+    "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables"
   },
   {
-    "title": "Does opting out of TV tracking work?",
-    "link": "https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study"
+    "title": "ChatGPT will now make you animated GIFs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
   },
   {
-    "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
+    "title": "God of War Laufey delayed until May",
+    "link": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay"
   },
   {
-    "title": "The Legend of Zelda: Ocarina of Time never gets old",
-    "link": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2"
+    "title": "Nintendo is losing a Switch cartridge supplier",
+    "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center"
   },
   {
-    "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
-    "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+    "title": "Anker’s new window-mounted camera monitors the outside of your home from within it",
+    "link": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision"
   },
   {
-    "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
-    "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news"
-  },
-  {
-    "title": "The biggest modding site in PC gaming is taking a stance on AI",
-    "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
-  },
-  {
-    "title": "Please stop asking me when the AI bubble will pop",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
-  },
-  {
-    "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
-    "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
+    "title": "Rian Johnson explains why he had to build his own iPhone camera app",
+    "link": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview"
   }
 ]
