@@ -1,5 +1,21 @@
 [
   {
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+  },
+  {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "link": "https://openai.com/index/control-room"
+  },
+  {
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "link": "https://openai.com/index/coderabbit-codex-daybreak"
+  },
+  {
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "link": "https://openai.com/index/kuken"
+  },
+  {
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
     "link": "https://openai.com/index/partnering-with-hacktron"
   },
@@ -92,32 +108,16 @@
     "link": "https://openai.com/index/lifeval"
   },
   {
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "link": "https://openai.com/index/dan-driscoll-joins-openai"
-  },
-  {
     "title": "Qodo builds context into AI code review with Codex",
     "link": "https://openai.com/index/qodo-codex-plugin"
   },
   {
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai"
+  },
+  {
     "title": "Making it easier for websites to express AI training preferences",
     "link": "https://openai.com/index/helping-websites-express-ai-training-preferences"
-  },
-  {
-    "title": "Community safety report and new protections for teens",
-    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
-  },
-  {
-    "title": "Fair use benefits everyone",
-    "link": "https://openai.com/index/fair-use-benefits-everyone"
-  },
-  {
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "link": "https://openai.com/index/updated-model-spec"
-  },
-  {
-    "title": "How we detect frontier model misalignment",
-    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
   },
   {
     "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
@@ -190,6 +190,30 @@
   {
     "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
     "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/"
+  },
+  {
+    "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+    "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html"
+  },
+  {
+    "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+    "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html"
+  },
+  {
+    "title": "Children’s Place files for bankruptcy protection, seeks buyer",
+    "link": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html"
+  },
+  {
+    "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+    "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html"
+  },
+  {
+    "title": "Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected",
+    "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html"
+  },
+  {
+    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+    "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html"
   },
   {
     "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
@@ -286,30 +310,6 @@
   {
     "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
     "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html"
-  },
-  {
-    "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-    "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html"
-  },
-  {
-    "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
-    "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html"
-  },
-  {
-    "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-    "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html"
-  },
-  {
-    "title": "Versant earnings beat expectations as digital platforms drive growth",
-    "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html"
-  },
-  {
-    "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
-    "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html"
-  },
-  {
-    "title": "Baked by Melissa enters Target with first at-home cupcake mix",
-    "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html"
   },
   {
     "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
@@ -432,6 +432,54 @@
     "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html"
   },
   {
+    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+    "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+  },
+  {
+    "title": "The race is on to sue Nvidia",
+    "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+  },
+  {
+    "title": "Fervo now has $12B in orders for its geothermal power tech",
+    "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"
+  },
+  {
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+  },
+  {
+    "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+    "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
+  },
+  {
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+  },
+  {
+    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+    "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"
+  },
+  {
+    "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+    "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"
+  },
+  {
+    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+  },
+  {
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+  },
+  {
+    "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+    "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/"
+  },
+  {
+    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+  },
+  {
     "title": "Medium’s new TK app brings AI assistance directly into the writing process",
     "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"
   },
@@ -460,140 +508,124 @@
     "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"
   },
   {
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
     "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
   },
   {
-    "title": "Apps to distract you from the endless cycle of doomscrolling",
-    "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"
+    "title": "Big Take: The Markets Fallout From the Huang Scandal",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/big-take-the-markets-fallout-from-the-huang-scandal-video"
   },
   {
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    "title": "Morgan Stanley Wealth Mgmt. Head on Vinyl Equity Deal",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/morgan-stanley-wealth-mgmt-head-on-vinyl-equity-deal-video"
   },
   {
-    "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-    "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/"
+    "title": "Ross Gerber Sees 75% Chance Huang Remains Nvidia CEO",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/ross-gerber-sees-75-chance-huang-remains-nvidia-ceo-video"
   },
   {
-    "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-    "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/"
+    "title": "US Lawmakers Demand Details on Nvidia Amid Jensen Huang Scandal",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal"
   },
   {
-    "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-    "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
+    "title": "Skydance Growing But Has a Lot of Work to Do, Ross Gerber Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/skydance-growing-but-has-work-to-do-ross-gerber-says-video"
   },
   {
-    "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-    "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
-  },
-  {
-    "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-    "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/"
-  },
-  {
-    "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-    "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/"
-  },
-  {
-    "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-    "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/"
-  },
-  {
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
-  },
-  {
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
-  },
-  {
-    "title": "Parents want safer phones for kids. These companies are answering the call.",
-    "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
-  },
-  {
-    "title": "Nvidia Probe Into CEO's Affair Raises Troubling Questions for AI",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-probe-into-ceo-s-affair-adds-to-ai-trade-risks-video"
-  },
-  {
-    "title": "Barrick Mining Moves on Earnings; Google's New AI Chips | Stock Movers",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-09/barrick-mining-moves-on-earnings-google-s-new-ai-chips-video"
-  },
-  {
-    "title": "Goolsbee Says Fed Must Address Inflation Failure",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-09/goolsbee-says-fed-must-address-inflation-failure-video"
+    "title": "Uber Engineering Leader for Robotaxis, Delivery Network to Exit",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/uber-engineering-leader-for-robotaxis-delivery-network-to-exit"
   },
   {
     "title": "Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
     "link": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity"
   },
   {
-    "title": "Binance Hackers Made Memecoins to Launder Stolen Crypto",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/binance-hackers-made-memecoins-to-launder-stolen-crypto"
+    "title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling"
   },
   {
-    "title": "US Stocks Extend Oil Relief-Driven Rally Even as Nvidia Sinks",
+    "title": "S&P 500 Rallies Most Since April as Oil Drop Lures Back Buyers",
     "link": "https://www.bloomberg.com/news/articles/2026-11-09/s-p-500-futures-rise-as-oil-falls-nvidia-sinks-on-huang-affair"
   },
   {
-    "title": "Nvidia Spy Probe: What We Know Now",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-spy-probe-what-we-know-now-video"
+    "title": "AMD Surges 13% as Wall Street Revives AI Chip Trade | Closing Bell",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/amd-surges-as-ai-chip-trade-returns-closing-bell-video"
   },
   {
-    "title": "Google Escalates Nvidia Rivalry With New Versions of Its TPU Systems",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems"
+    "title": "Take-Two’s ‘NBA 2K’ Sales Miss Expectations Due to ‘Grand Theft Auto VI’",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/take-two-s-nba-2k-sales-miss-expectations-due-to-grand-theft-auto-vi"
   },
   {
-    "title": "New Ericsson CEO Sees AI Fueling Next-Generation Network Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/new-ericsson-ceo-sees-ai-fueling-next-generation-network-demand"
+    "title": "Google Rolls Out New AI Chips to Challenge Nvidia",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/google-rolls-out-new-ai-chips-to-challenge-nvidia-video"
   },
   {
-    "title": "EU Plans Crackdown on Addictive Social Media and AI Bot Features",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features"
+    "title": "Who Could Replace Nvidia's CEO Jensen Huang?",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/who-could-replace-nvidia-s-ceo-jensen-huang-video"
   },
   {
-    "title": "SiriusXM Names Tubi’s Anjali Sud Its Next CEO",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/siriusxm-is-said-to-name-tubi-s-anjali-sud-its-next-ceo"
+    "title": "Nvidia-Backed Fireworks AI Notifies Customers of Its Second Hack in Weeks",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-backed-fireworks-ai-notifies-customers-of-its-second-hack-in-weeks"
   },
   {
-    "title": "AI Developers Face 2027 Rate Shock After $1 Trillion Debt Binge",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/ai-developers-face-2027-rate-shock-after-1-trillion-debt-binge"
+    "title": "Former UK Tech Adviser Thinks Government Is Failing Startups",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/uk-must-back-startups-or-face-economic-ruin-ex-adviser-says"
   },
   {
-    "title": "Nvidia Adds ‘Huge Element of Surprise’ to AI Trade, Strategist Hunt Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-adds-huge-element-of-surprise-to-ai-trade-hunt-video"
+    "title": "95% S&P 500, 5% Bitcoin in New Franklin ETF: Drilldown",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/95-s-p-500-5-bitcoin-in-new-franklin-etf-drilldown-video"
   },
   {
-    "title": "What Nvidia Probe Could Mean for US-China Chip Sales",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-09/what-nvidia-probe-could-mean-for-us-china-chip-sales-video"
+    "title": "Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shudders",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders"
   },
   {
-    "title": "Hardware-Testing Startup Nominal Valued at $3 Billion in Round",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/hardware-testing-startup-nominal-valued-at-3-billion-in-round"
+    "title": "Labor Secretary Says Department Looking to 'Modernize' BLS Data",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/department-looking-to-modernize-bls-data-sonderling-video"
   },
   {
-    "title": "AI Bets Meet Higher Capital Costs",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-05/ai-bets-meet-higher-capital-costs-video"
+    "title": "'Fluid Story' With AI, Tech Names: Cinthia Murphy",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-09/-fluid-story-with-ai-tech-names-cinthia-murphy-video"
   },
   {
-    "title": "Neoclouds Confront Dangers Over Demand, Debt and Democracy",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-09/neoclouds-confront-dangers-over-demand-debt-and-democracy"
+    "title": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo"
   },
   {
-    "title": "Semiconductor Earnings Sugar Rush Likely to Fade, Says JPMorgan’s Peters",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-09/semiconductor-earnings-sugar-rush-likely-to-fade-peters-video"
+    "title": "Colombia Seeks $15 Billion IMF Deal as Fiscal Pressure Mounts",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/colombia-seeks-15-billion-imf-deal-as-fiscal-pressure-mounts"
   },
   {
-    "title": "Akamai Technologies Seeks $2.2 Billion From Convertible Bonds",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/akamai-technologies-seeks-2-2-billion-from-convertible-bonds"
+    "title": "Takaichi’s Hunt for New Cash to Fund Spending Harbors Risks",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/takaichi-s-hunt-for-new-cash-to-fund-spending-harbors-risks"
   },
   {
-    "title": "OpenAI and Anthropic Valuations Fall as AI Market Rout Hits Fundraising",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-09/openai-and-anthropic-valuations-fall-as-ai-market-rout-hits-fundraising"
+    "title": "BLS Will Not Publish 12-Month CPI, Core CPI Figures For October",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october"
+  },
+  {
+    "title": "Bank of France Warns of Uncertainty as Modest Growth Returns",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/bank-of-france-warns-of-uncertainty-as-modest-growth-returns"
   },
   {
     "title": "Fed’s Goolsbee Says Officials Must Address Inflation Failure",
     "link": "https://www.bloomberg.com/news/articles/2026-11-09/fed-s-goolsbee-says-officials-must-address-inflation-failure"
+  },
+  {
+    "title": "Bank of England Bailey Backs Trade Opportunities as Burnham Pursues New EU Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/bank-of-england-bailey-backs-trade-opportunities-as-burnham-pursues-new-eu-deal"
+  },
+  {
+    "title": "Fed’s Barkin Says Policy Direction Clear, Needs Careful Pace",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/fed-s-barkin-says-policy-direction-clear-but-needs-careful-pace"
+  },
+  {
+    "title": "Meloni Backs Gas Price Cap to Curb Bills Ahead of Italy Election",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/meloni-backs-gas-price-cap-to-curb-bills-ahead-of-italy-election"
+  },
+  {
+    "title": "Mexico Inflation Jumps to Put Focus on Banxico’s Rate Policy",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-09/mexico-s-inflation-accelerates-with-banxico-rate-policy-in-focus"
   },
   {
     "title": "Steady Inflation Outlook, Mixed Views for Jobs in NY Fed Survey",
@@ -640,24 +672,12 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos"
   },
   {
-    "title": "Lula Vows Fiscal Responsibility in First Address Since Election",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/lula-vows-fiscal-responsibility-in-first-address-since-election"
+    "title": "The backlash about data centers might really just be about electricity",
+    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
   },
   {
-    "title": "Japan Says Three-Day Yen Intervention Lifted Yen in Summer",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/japan-says-three-day-yen-intervention-lifted-yen-in-summer"
-  },
-  {
-    "title": "UK Firms Pared Hiring in Turbulent Weeks Before Budget, REC Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/uk-firms-pared-hiring-in-turbulent-weeks-before-budget-rec-says"
-  },
-  {
-    "title": "RBA’s Hunter Says AI Boom Will Put Near-Term Pressure on CPI",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-08/rba-s-hunter-says-ai-boom-will-put-near-term-pressure-on-prices"
-  },
-  {
-    "title": "US Inflation Set to Simmer Down Some After Recent Pickup",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup"
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
   },
   {
     "title": "The Download: empty AI climate claims, and an Nvidia investigation",
@@ -692,51 +712,43 @@
     "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
   },
   {
-    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-    "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+    "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+    "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale"
   },
   {
-    "title": "What’s next for US energy policy after the midterm elections?",
-    "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
+    "title": "The global pledge to use AI for climate good is a cruel joke",
+    "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31"
+  },
+  {
+    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+  },
+  {
+    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+  },
+  {
+    "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+    "link": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale"
+  },
+  {
+    "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+    "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
+  },
+  {
+    "title": "James Gunn is out as DC movie leader",
+    "link": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+  },
+  {
+    "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me"
+  },
+  {
+    "title": "Uber wants to park your car now, too",
+    "link": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis"
   },
   {
     "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
     "link": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage"
-  },
-  {
-    "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
-  },
-  {
-    "title": "Disney and Adobe are building generative AI tools together",
-    "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
-  },
-  {
-    "title": "Hold up — I had a great time talking to the RIAA guy",
-    "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music"
-  },
-  {
-    "title": "Medium is launching a new note-taking app called TK",
-    "link": "https://www.theverge.com/tech/1029676/medium-tk-notes-app"
-  },
-  {
-    "title": "How to shop like a pro during Black Friday and Cyber Monday",
-    "link": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find"
-  },
-  {
-    "title": "Here are the price-matching policies for Best Buy, Walmart, and others",
-    "link": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft"
-  },
-  {
-    "title": "Here’s when the Black Friday sales start at Walmart, Target, and other retailers",
-    "link": "https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores"
-  },
-  {
-    "title": "Here are the shipping and return policies for all the big-name retailers",
-    "link": "https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon"
-  },
-  {
-    "title": "We’re giving away a bag filled with almost $900 worth of tech for Black Friday",
-    "link": "https://www.theverge.com/gadgets/1024433/black-friday-2026-giveaway-sweepstakes"
   }
 ]
