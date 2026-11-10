@@ -1,5 +1,17 @@
 [
   {
+    "title": "Helping caregivers use AI in everyday life",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+  },
+  {
+    "title": "Closing the AI guidance gap in education",
+    "link": "https://openai.com/index/closing-ai-guidance-gap-education"
+  },
+  {
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "link": "https://openai.com/index/ai-effect-on-freelance-work"
+  },
+  {
     "title": "ChatGPT Enterprise now available in AWS Marketplace",
     "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
   },
@@ -108,18 +120,6 @@
     "link": "https://openai.com/index/lifeval"
   },
   {
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "link": "https://openai.com/index/dan-driscoll-joins-openai"
-  },
-  {
-    "title": "Qodo builds context into AI code review with Codex",
-    "link": "https://openai.com/index/qodo-codex-plugin"
-  },
-  {
-    "title": "Making it easier for websites to express AI training preferences",
-    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences"
-  },
-  {
     "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
     "link": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/"
   },
@@ -190,6 +190,14 @@
   {
     "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
     "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/"
+  },
+  {
+    "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
+    "link": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html"
+  },
+  {
+    "title": "How GM is trying to talk used car shoppers into buying new vehicles",
+    "link": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html"
   },
   {
     "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
@@ -304,15 +312,7 @@
     "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html"
   },
   {
-    "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-    "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html"
-  },
-  {
-    "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
-    "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html"
-  },
-  {
-    "title": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
+    "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
     "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
   },
   {
@@ -432,6 +432,38 @@
     "link": "https://www.cnbc.com/2026/10/23/trump-elon-musk-tesla-starlink-tech-nasdaq-.html"
   },
   {
+    "title": "Reddit is turning user conversations into AI-powered product reviews",
+    "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/"
+  },
+  {
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+  },
+  {
+    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+  },
+  {
+    "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+    "link": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/"
+  },
+  {
+    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+  },
+  {
+    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
+  },
+  {
+    "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+    "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/"
+  },
+  {
+    "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+    "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+  },
+  {
     "title": "Otter AI can now follow conversations across 30+ languages",
     "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
   },
@@ -480,196 +512,172 @@
     "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
   },
   {
-    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-    "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"
+    "title": "Dangote Cement Pauses $1 Billion London Listing Plan After Rout",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/dangote-cement-pauses-london-listing-plan-after-market-selloff"
   },
   {
-    "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-    "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"
+    "title": "Alibaba Chip Design Unit T-Head Files for Hong Kong Listing",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing"
   },
   {
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+    "title": "Anthropic Hired UK Lobby Firm Charlesbye Before IPO, Adding to Sunak",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-hired-uk-lobby-firm-charlesbye-before-ipo-adding-to-sunak"
   },
   {
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+    "title": "CoreWeave Has a Sentiment Problem Even Strong Earnings Can’t Fix",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-has-a-sentiment-problem-even-strong-earnings-can-t-fix"
   },
   {
-    "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-    "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/"
+    "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record"
   },
   {
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+    "title": "Path Robotics Quadruples Valuation to $2.5 Billion in Latest Funding Round",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round"
   },
   {
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"
+    "title": "Dangote Refinery Gets $4.1 Billion Orders in Top Africa IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/dangote-refinery-gets-4-1-billion-share-bids-in-top-africa-ipo"
   },
   {
-    "title": "Meta expands Instagram’s AI age-guessing tech globally",
-    "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"
+    "title": "Latin American Unicorn Clara Raises $105 Million for Growth",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/latin-american-unicorn-clara-raises-105-million-for-growth"
   },
   {
-    "title": "Vodafone Raises Profit Forecast After Cost Cutting Campaign",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/vodafone-raises-profit-forecast-after-cost-cutting-campaign"
+    "title": "Amazon’s Ring Unveils $250 Flying Security Camera After Delays",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/amazon-s-ring-unveils-250-flying-security-camera-after-delays"
   },
   {
-    "title": "SoftBank Logs $7 Billion Loss as US Data Center Costs Swell",
+    "title": "Anthropic Targets $1.4 Trillion Valuation in IPO",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video"
+  },
+  {
+    "title": "Siemens Expands Chip-Design Business With Software Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/siemens-expands-chip-design-business-with-latest-software-deal"
+  },
+  {
+    "title": "SoftBank Loses $7 Billion After Big US Data Center Writedown",
     "link": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son"
   },
   {
-    "title": "Thailand Sets 70-Decibel Noise, Heat Limits for Data Centers",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers"
+    "title": "Nvidia Faces Fresh US Scrutiny on Megaspeed Probe",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-10/nvidia-faces-fresh-us-scrutiny-on-megaspeed-probe-video"
   },
   {
-    "title": "Nvidia Faces Scrutiny Over US Chip-Smuggling Probe as AI Stocks Rebound",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/horizons-middle-east-africa-11-10-2026-video"
+    "title": "Singapore’s Sea Misses Earnings Estimates on Rising AI Costs",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-sea-misses-profit-estimates-on-ai-cloud-costs"
   },
   {
-    "title": "Former Fed's Evans: AI Boom Adds to Inflation Risks",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/former-fed-s-evans-ai-boom-adds-to-inflation-risks-video"
+    "title": "Nvidia CEO Jensen Huang’s Affair Shows Pitfalls of Imperious Leaders",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-10/nvidia-ceo-jensen-huang-s-affair-shows-pitfalls-of-imperious-leaders"
   },
   {
-    "title": "Anthropic to Formally Market IPO After Filing Misstep",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-to-formally-market-ipo-after-filing-misstep-video"
+    "title": "Pan-Africa Venture Firm Enza Seeks Up to $80 Million for AI Fund",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/pan-africa-venture-firm-enza-seeks-up-to-80-million-for-ai-fund"
   },
   {
-    "title": "Anthropic Filing Snafu Jolts Investors in Run-Up to Mega IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says"
+    "title": "AI Agents Have Yet to Disrupt Uber, DoorDash or Online Travel",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-10/ai-agents-have-yet-to-disrupt-uber-doordash-or-online-travel"
   },
   {
-    "title": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show"
+    "title": "What Jensen Huang’s Affair Means for Nvidia",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-10/nvidia-engulfed-in-scandal-video"
   },
   {
-    "title": "Japan’s Rapidus Is Said Likely to Miss Mass Production Deadline",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/japan-s-rapidus-is-said-likely-to-miss-mass-production-deadline"
+    "title": "Canada’s Georgian Backs Physical AI, Quantum Tech to Keep Canadian Firms at Home",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/canada-s-georgian-backs-physical-ai-quantum-tech-to-keep-canadian-firms-at-home"
   },
   {
-    "title": "Hong Kong Listings Raise 6-Year High of $51.9 Billion, Second Best Ever",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/hong-kong-listings-raise-6-year-high-of-51-9-billion-second-best-ever"
+    "title": "Nvidia Lawyer Intervened in US AI Chip Smuggling Probe",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-10/the-pulse-11-10-2026-video"
   },
   {
-    "title": "Australia to Create AI Safety Regulator, Mandatory Rules",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules"
+    "title": "ECB’s Nagel Says December Rate Hike Is Looking ‘Rather Obvious’",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/ecb-s-nagel-says-december-rate-hike-is-looking-rather-obvious"
   },
   {
-    "title": "Anthropic Plans IPO Live Stream With Amodei, JPMorgan CEO Dimon",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon"
+    "title": "Fed’s Waller Sparks Larger Rate Hike Debate After Hot Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move"
   },
   {
-    "title": "Citi's Rizvi Sees 100 Hires in China Over Next Years",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-rizvi-sees-100-hires-in-china-over-next-years-video"
+    "title": "US CPI Report October 2026: Key Takeaways on Inflation, Consumer Price Index",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/us-cpi-report-october-2026-key-takeaways-on-inflation-consumer-price-index"
   },
   {
-    "title": "China Chip Supplier Xinde Jumps in HK Debut as Denglin Slumps",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand"
+    "title": "US Core CPI Rises by More Than Forecast, Supporting Fed Hike",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/us-core-cpi-rises-more-than-forecast-0-3-supporting-rate-hike"
   },
   {
-    "title": "OpenAI Backer Altimeter Targets More Than $3 Billion for Private Markets Funds",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/openai-backer-altimeter-targets-more-than-3-billion-for-private-markets-funds"
+    "title": "Brazil Central Bank Signals Caution as Prices Rise, Growth Slows",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-central-bank-sees-economy-slowing-as-inflation-rises"
   },
   {
-    "title": "Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
-    "link": "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns"
+    "title": "BOE’s Lombardelli Says Interest Rates Are Likely to Rise Further",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/boe-s-lombardelli-says-interest-rates-are-likely-to-rise-further"
   },
   {
-    "title": "Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shakes",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders"
+    "title": "Poland’s Maslowska Sees Growing Case for January Rate Hike",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/poland-s-maslowska-sees-growing-case-for-rate-hike-in-january"
   },
   {
-    "title": "Nvidia Intervened in US Megaspeed Chip Smuggling Probe",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-intervened-in-us-megaspeed-chip-smuggling-probe-video"
+    "title": "Czech Central Bank Keeps Cautious Policy Stance on Price Outlook",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/czech-central-bank-keeps-cautious-policy-stance-on-price-outlook"
   },
   {
-    "title": "Comcast Job Cuts to Begin With Hundreds Let Go in Pennsylvania",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/comcast-job-cuts-to-begin-with-hundreds-let-go-in-pennsylvania"
+    "title": "US CPI Report October 2026: Live News on Inflation, Consumer Price Index",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-11-10/us-cpi-report-for-october-live-updates"
   },
   {
-    "title": "Big Take: The Markets Fallout From the Huang Scandal",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-09/big-take-the-markets-fallout-from-the-huang-scandal-video"
+    "title": "China’s ‘Living Badly, But Not Dying’ Carmakers Spread Global Pain",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-10/china-s-living-badly-but-not-dying-carmakers-spread-global-pain"
   },
   {
-    "title": "Norway Core Prices Cool, Denting Rate Hike Prospects",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/norway-core-prices-cool-likely-reducing-pressure-for-rate-hike"
+    "title": "China trade surplus",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-10/china-trade-surplus"
   },
   {
-    "title": "Bank of France Warns of Uncertainty as Modest Growth Returns",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/bank-of-france-warns-of-uncertainty-as-modest-growth-returns"
+    "title": "Norwegians Are Saving the Most Money in Decades as Rates Rise",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/norwegians-are-saving-the-most-money-in-decades-as-rates-rise"
   },
   {
-    "title": "ECB’s Lane Says French Bond Uncertainty Must Be Fixed in Paris",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/ecb-s-lane-says-french-bond-uncertainty-must-be-fixed-in-paris"
+    "title": "BOE’s Breeden Sees AI Selloff as a Welcome Price Correction",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/boe-s-breeden-sees-ai-selloff-as-a-welcome-price-correction"
+  },
+  {
+    "title": "Hungary Inflation Accelerates With Rates Seen Staying Steady",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/hungary-inflation-accelerates-for-third-month-as-key-rate-steady"
+  },
+  {
+    "title": "Riksbank Officials See Rate Hike Over Months Ahead, Minutes Show",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/riksbank-officials-see-rate-hike-over-months-ahead-minutes-show"
   },
   {
     "title": "ECB’s Lane Sees December Hike as Prudent If Data Don’t Shift",
     "link": "https://www.bloomberg.com/news/articles/2026-11-10/ecb-s-lane-sees-december-hike-as-prudent-if-data-don-t-shift"
   },
   {
-    "title": "Hungary Inflation Accelerates for Third Month as Key Rate Steady",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/hungary-inflation-accelerates-for-third-month-as-key-rate-steady"
+    "title": "ECB’s Lane Says French Bond Trouble Must Be Fixed in Paris",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/ecb-s-lane-says-french-bond-uncertainty-must-be-fixed-in-paris"
   },
   {
-    "title": "French Unemployment Eases in Reprieve for Beleaguered Economy",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/france-unemployment-eases-beleaguered-economy-protests-budget"
+    "title": "ECB’s Kazaks Sees Rate-Hike Judgments Getting ‘More Nuanced’",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/ecb-s-kazaks-sees-rate-hike-judgments-getting-more-nuanced"
   },
   {
-    "title": "Franklin Templeton's Lye Sees Fed Pause as AI Outlays Cool",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-10/templeton-s-lye-sees-fed-pause-as-ai-outlays-cool-video"
-  },
-  {
-    "title": "Chinese Trade Surplus Tops $1 Trillion for Second Time Ever",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/chinese-trade-surplus-surpasses-1-trillion-for-second-time-ever"
-  },
-  {
-    "title": "NZ Inflation Expectations Are Worrying, RBNZ’s Conway Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/new-zealand-inflation-expectations-worrying-rbnz-s-conway-says"
-  },
-  {
-    "title": "BOJ Summary Suggests Good Chance of December Interest Rate Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/boj-summary-suggests-good-chance-of-near-term-interest-rate-hike"
-  },
-  {
-    "title": "Colombia Seeks $15 Billion IMF Deal as Fiscal Pressure Mounts",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/colombia-seeks-15-billion-imf-deal-as-fiscal-pressure-mounts"
-  },
-  {
-    "title": "Takaichi’s Hunt for New Cash to Fund Spending Harbors Risks",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/takaichi-s-hunt-for-new-cash-to-fund-spending-harbors-risks"
-  },
-  {
-    "title": "BLS Will Not Publish 12-Month CPI, Core CPI Figures For October",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october"
-  },
-  {
-    "title": "Fed’s Goolsbee Says Officials Must Address Inflation Failure",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/fed-s-goolsbee-says-officials-must-address-inflation-failure"
-  },
-  {
-    "title": "Bank of England Bailey Backs Trade Opportunities as Burnham Pursues New EU Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/bank-of-england-bailey-backs-trade-opportunities-as-burnham-pursues-new-eu-deal"
-  },
-  {
-    "title": "Fed’s Barkin Says Policy Direction Clear, Needs Careful Pace",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/fed-s-barkin-says-policy-direction-clear-but-needs-careful-pace"
-  },
-  {
-    "title": "Meloni Backs Gas Price Cap to Curb Bills Ahead of Italy Election",
+    "title": "Meloni Backs Gas Cap to Cut Bills Before Italy Election",
     "link": "https://www.bloomberg.com/news/articles/2026-11-09/meloni-backs-gas-price-cap-to-curb-bills-ahead-of-italy-election"
   },
   {
-    "title": "Mexico Inflation Jumps to Put Focus on Banxico’s Rate Policy",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/mexico-s-inflation-accelerates-with-banxico-rate-policy-in-focus"
+    "title": "Norway Core Prices Cool, Denting Rate Hike Prospects",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-10/norway-core-prices-cool-likely-reducing-pressure-for-rate-hike"
   },
   {
-    "title": "Steady Inflation Outlook, Mixed Views for Jobs in NY Fed Survey",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/steady-inflation-outlook-mixed-views-for-jobs-in-ny-fed-survey"
+    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+    "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
   },
   {
-    "title": "ECB Succession Advances as Ministers Look at Trio of Jobs",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-09/ecb-succession-advances-as-ministers-look-to-pick-trio-of-jobs"
+    "title": "Evolving metal extraction processes",
+    "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/"
   },
   {
     "title": "The backlash about data centers might really just be about electricity",
@@ -704,51 +712,43 @@
     "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
   },
   {
-    "title": "A new bill could change how the US builds energy infrastructure",
-    "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
+    "title": "Reddit wants to guide your next purchase",
+    "link": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping"
   },
   {
-    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+    "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
+    "link": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support"
   },
   {
-    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-    "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
+    "title": "Anthropic targets $1.4 trillion IPO",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
   },
   {
-    "title": "What could China get from Jensen Huang?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
+    "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
+    "link": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability"
   },
   {
-    "title": "Here’s what Trump said he knew about Jensen Huang",
-    "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
+    "title": "Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too",
+    "link": "https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review"
   },
   {
-    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    "title": "Adobe is going all in on agentic AI",
+    "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
   },
   {
-    "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-    "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale"
+    "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+    "link": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
   },
   {
-    "title": "The global pledge to use AI for climate good is a cruel joke",
-    "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31"
+    "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
+    "link": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business"
   },
   {
-    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+    "title": "Hands-on with Ring’s new AI drone camera for your home",
+    "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
   },
   {
-    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
-  },
-  {
-    "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
-    "link": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale"
-  },
-  {
-    "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-    "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
+    "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+    "link": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology"
   }
 ]
