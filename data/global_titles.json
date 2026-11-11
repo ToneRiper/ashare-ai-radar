@@ -8,6 +8,10 @@
     "link": "https://openai.com/index/chatgpt-plus-for-veterans"
   },
   {
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "link": "https://openai.com/index/jiostar-vijay-seshadri"
+  },
+  {
     "title": "Helping caregivers use AI in everyday life",
     "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
   },
@@ -116,10 +120,6 @@
     "link": "https://openai.com/index/heimstaden"
   },
   {
-    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-    "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
-  },
-  {
     "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
     "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/"
   },
@@ -190,6 +190,14 @@
   {
     "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/"
+  },
+  {
+    "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+    "link": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html"
+  },
+  {
+    "title": "JetBlue unveils new first class seats to bring back profits",
+    "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html"
   },
   {
     "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
@@ -302,14 +310,6 @@
   {
     "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
     "link": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html"
-  },
-  {
-    "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-    "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html"
-  },
-  {
-    "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-    "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html"
   },
   {
     "title": "Nissan cuts sales forecast again on China woes as CEO outlines plan to fight back",
@@ -432,6 +432,34 @@
     "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html"
   },
   {
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+  },
+  {
+    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+  },
+  {
+    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
+  },
+  {
+    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
+  },
+  {
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+  },
+  {
+    "title": "Siri co-founder backs Helix for its voice ID tech",
+    "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/"
+  },
+  {
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
+  },
+  {
     "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
     "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
   },
@@ -484,112 +512,92 @@
     "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
   },
   {
-    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-    "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    "title": "Expect ‘Dislocations’ in AI Investment Cycle: Waxman",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/expect-dislocations-in-ai-investment-cycle-waxman-video"
   },
   {
-    "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
-    "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/"
+    "title": "Oura to Buy AI Doctor Startup",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/oura-to-buy-ai-doctor-startup-video"
   },
   {
-    "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
-    "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/"
+    "title": "How Adobe Is Helping Disney with Custom AI Tools",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/how-adobe-is-helping-disney-with-custom-ai-tools-video"
   },
   {
-    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-    "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+    "title": "Take-Two’s Zelnick on Success of the GTA Franchise",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-s-zelnick-on-success-of-the-gta-franchise-video"
   },
   {
-    "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-    "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/"
+    "title": "Nvidia China Scandal Demands Answers, Says Congressman",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-china-scandal-demands-answers-says-congressman-video"
   },
   {
-    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-    "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+    "title": "US Military, Congress Focus on Toll of Cyber Jobs Following Suicides",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/us-military-congress-focus-on-toll-of-cyber-jobs-following-suicides"
   },
   {
-    "title": "Reddit is turning user conversations into AI-powered product reviews",
-    "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/"
+    "title": "Google Adds Gemini Voice AI Assistant to Apple CarPlay",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/google-adds-gemini-voice-ai-assistant-to-apple-carplay"
   },
   {
-    "title": "Anthropic IPO Said to Be Multiple Times Oversubscribed",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/anthropic-ipo-said-to-be-multiple-times-oversubscribed-video"
+    "title": "Suicides Raise Alarm Inside US Cybersecurity Agencies",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/suicides-raise-alarm-inside-us-cybersecurity-agencies-video"
   },
   {
-    "title": "CoreWeave Quiets Doubts Over AI Business With Upbeat Outlook",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-boosts-annual-forecast-easing-concerns-about-slowdown"
+    "title": "United Blocks AI Agents From Booking Flights Ahead of Holidays",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/united-blocks-ai-agents-from-booking-flights-ahead-of-holidays"
   },
   {
-    "title": "Elon Musk’s AI Chatbot Grok Sexualized These Teens’ Childhood Photos",
-    "link": "https://www.bloomberg.com/features/2026-grok-sexualized-childhood-photos/"
+    "title": "Anthropic IPO Demand Surges as CoreWeave Calms AI Fears",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-tech-11-10-2026-video"
   },
   {
-    "title": "Nvidia Gets Rare Downgrade as Baird Raises CEO Uncertainities",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-gets-rare-downgrade-as-baird-raises-ceo-uncertainities"
+    "title": "Odd Lots: The AI Trade Shrugs Off a Blue Wave and a Tech Scandal",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/odd-lots-ai-trade-shrugs-off-blue-wave-and-tech-scandal-video"
   },
   {
-    "title": "Take-Two CEO Zelnick: AI Wont Kill Gaming Jobs",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-ceo-zelnick-ai-wont-kill-gaming-jobs-video"
+    "title": "Alts Need Better Communication: Clearlake’s Feliciano",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/alts-need-better-communication-clearlake-s-feliciano-video"
   },
   {
-    "title": "Take-Two’s Zelnick Traded Movies for ‘Grand Theft Auto’ Games",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-s-zelnick-traded-movies-for-grand-theft-auto-games"
+    "title": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/anthropic-s-ipo-said-to-be-multiple-times-oversubscribed-video"
   },
   {
-    "title": "‘Grand Theft Auto VI’ Is Latest Big Swing for Take-Two CEO’s Video Game Empire",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/-grand-theft-auto-vi-is-latest-big-swing-for-take-two-ceo-s-video-game-empire"
+    "title": "AI Optimism Reignites the Tech Trade",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/open-interest-11-11-2026-video"
   },
   {
-    "title": "Nvidia Is Core Part AI-Basket of Stocks, Emanuel Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-is-core-part-ai-basket-of-stocks-emanuel-says-video"
+    "title": "What’s Next for Anthropic’s Mega-IPO: Five Things to Watch",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/what-s-next-for-anthropic-s-mega-ipo-five-things-to-watch"
   },
   {
-    "title": "SAP Touts AI Tools, But Fails to Disclose Numbers to Measure Results",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/sap-touts-ai-tools-but-fails-to-disclose-numbers-to-measure-results"
+    "title": "Observing Distortions in the AI Market: Sixth Street's Alan Waxman",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/observing-distortions-in-ai-market-sixth-street-s-ceo-video"
   },
   {
-    "title": "Utah-Based Startup Raises $500 Million for Modular AI Data Center",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center"
+    "title": "Cinco gráficos que muestran la enorme relevancia de Nvidia",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/cinco-graficos-que-muestran-la-enorme-relevancia-de-nvidia-mwcd82n6"
   },
   {
-    "title": "Anthropic’s Mythos AI Looking for Cyber Flaws in Energy Systems",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems"
+    "title": "Nvidia's Future Rests Squarely on Shoulders of CEO Huang",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-s-future-rests-squarely-on-shoulders-of-ceo-huang-video"
   },
   {
-    "title": "Citi’s Aganga on AI, Markets and Inflation",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-aganga-on-ai-markets-and-inflation-video"
+    "title": "UK’s Healey Promises to Avoid US-Style Data Center Free-for-All",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/uk-s-healey-promises-to-avoid-us-style-data-center-free-for-all"
   },
   {
-    "title": "AI Stocks Face Tug-of-War as Anthropic, CoreWeave Lift Hopes",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-stocks-face-tug-of-war-as-anthropic-coreweave-lift-hopes"
+    "title": "Applied Intuition In Talks to Raise $1.5 Billion at $30 Billion Value",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value"
   },
   {
-    "title": "Airbnb Is Building Its Own AI Travel Agent, Co-Founder Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/airbnb-is-building-its-own-ai-travel-agent-co-founder-video"
+    "title": "The Fed’s Other Big Debate: When Should John Williams’ Term End?",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/retirement-rules-spark-exit-date-debate-for-ny-fed-s-williams"
   },
   {
-    "title": "Kai-Fu Lee Questions Soaring AI Valuations",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/kai-fu-lee-questions-soaring-ai-valuations-video"
-  },
-  {
-    "title": "Anthropic IPO Demand Surges as AI Trade Roars Back",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/the-pulse-with-francine-lacqua-11-11-2026-video"
-  },
-  {
-    "title": "EU Targets Social Media Addiction and Online ‘Dark Patterns’",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/eu-targets-social-media-addiction-and-online-dark-patterns"
-  },
-  {
-    "title": "AI Has Driven a Quarter of UK Growth This Year, Analysis Shows",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/ai-has-driven-a-quarter-of-uk-growth-this-year-analysis-shows"
-  },
-  {
-    "title": "UBS’ Laud Sees Underpriced Risk in AI's ‘Web of Debt’",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-11/ubs-laud-sees-underpriced-risk-in-ai-s-web-of-debt-video"
-  },
-  {
-    "title": "ByteDance Prepares Muse-Like Agent in Push to Close AI Gap",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap"
+    "title": "Ternium Urges Tougher Enforcement of Mexico Steel Tariffs",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-11/ternium-says-mexico-steel-imports-need-strict-tariff-enforcement"
   },
   {
     "title": "German Economic Advisers More Than Double 2026 Growth Forecast",
@@ -636,10 +644,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-11/lula-team-readies-brazil-fiscal-plan-in-bid-to-calm-market-jitters"
   },
   {
-    "title": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-11/ternium-says-mexico-steel-imports-need-strict-tariff-enforcement"
-  },
-  {
     "title": "Fed’s Goolsbee Says October CPI Report ‘Borderline Disturbing’",
     "link": "https://www.bloomberg.com/news/articles/2026-11-11/fed-s-goolsbee-says-october-cpi-report-borderline-disturbing-mwbel9qz"
   },
@@ -668,8 +672,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-bowman-warns-of-stock-correction-if-ai-bets-don-t-pan-out"
   },
   {
-    "title": "Brazil Central Bank Signals Caution on Price Rise, Slowdown",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-central-bank-sees-economy-slowing-as-inflation-rises"
+    "title": "What to know about this year’s UN climate talks",
+    "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
   },
   {
     "title": "The Download: preserving minds and weighing open AI risks",
@@ -708,8 +712,32 @@
     "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
   },
   {
-    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-    "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+    "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+    "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection"
+  },
+  {
+    "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+    "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival"
+  },
+  {
+    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+  },
+  {
+    "title": "The best early Black Friday deals you can already shop",
+    "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
+  },
+  {
+    "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+    "link": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale"
+  },
+  {
+    "title": "Ocarina of Time is even better if you use a smartphone app",
+    "link": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula"
+  },
+  {
+    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
   },
   {
     "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
@@ -722,33 +750,5 @@
   {
     "title": "Streaming is still trying to be TikTok",
     "link": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video"
-  },
-  {
-    "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-    "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions"
-  },
-  {
-    "title": "Not everyone is loving their new iPhone Duo",
-    "link": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps"
-  },
-  {
-    "title": "Serve Robotics wants to democratize sidewalk delivery robots",
-    "link": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery"
-  },
-  {
-    "title": "Apple is killing its Support Community forum next week",
-    "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down"
-  },
-  {
-    "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-    "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling"
-  },
-  {
-    "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-    "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies"
-  },
-  {
-    "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-    "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition"
   }
 ]
