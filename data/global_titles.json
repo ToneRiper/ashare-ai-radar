@@ -1,5 +1,9 @@
 [
   {
+    "title": "Introducing ChatGPT Wallet",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet"
+  },
+  {
     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "link": "https://openai.com/business/customer-stories/amplitude"
   },
@@ -114,10 +118,6 @@
   {
     "title": "A thousand fewer paths to root",
     "link": "https://openai.com/index/a-thousand-fewer-paths-to-root"
-  },
-  {
-    "title": "Introducing Images 2.6",
-    "link": "https://openai.com/index/introducing-images-2-6"
   },
   {
     "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
@@ -432,11 +432,35 @@
     "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html"
   },
   {
+    "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+    "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/"
+  },
+  {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+  },
+  {
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+  },
+  {
+    "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+    "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+  },
+  {
     "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
     "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
   },
   {
-    "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+    "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
     "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
   },
   {
@@ -454,10 +478,6 @@
   {
     "title": "Muse can now place calls to US businesses — if you pay",
     "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
-  },
-  {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
   },
   {
     "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
@@ -492,116 +512,108 @@
     "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
   },
   {
-    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
+    "title": "Everybody’s Business: China Is Writing Its Own AI Playbook",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/everybody-s-business-china-is-writing-its-own-ai-story-video"
   },
   {
-    "title": "Jensen Huang agrees to testify before Congress",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+    "title": "Lutnick Under Fire as Bessent Blames Commerce for Nvidia Crisis",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/bessent-blames-commerce-for-nvidia-crisis-video"
   },
   {
-    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
+    "title": "Amazon Forced Into First North American Union Pact in Canada",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/amazon-s-first-north-american-union-contract-imposed-in-canada"
   },
   {
-    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-    "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+    "title": "Ackman on Huang's Exit, Anthropic IPO Roadshow",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/ackman-on-huang-s-exit-anthropic-ipo-roadshow-video"
   },
   {
-    "title": "Whoop just launched a social network",
-    "link": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/"
+    "title": "Microsoft Cites Progress Fixing Outage That Roiled the World",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages"
   },
   {
-    "title": "Cerebras Shares Jump Following Strong Quarterly Sales Outlook",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/cerebras-delivers-solid-outlook-in-its-bid-to-challenge-nvidia"
+    "title": "Anthropic’s Amodei Doesn’t Want AI Agents to ‘Run Wild’",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-s-amodei-doesn-t-want-ai-agents-to-run-wild-video"
   },
   {
-    "title": "Disney Pivots to Embrace AI From Film to Parks",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/disney-pivots-to-embrace-ai-from-film-to-parks"
+    "title": "Microsoft Makes Some Progress on Outlook Outage",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/microsoft-makes-some-progress-on-outlook-outage-video"
   },
   {
-    "title": "Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo"
+    "title": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma"
   },
   {
-    "title": "Elon Musk’s SpaceX Starship: Why the Rocket Is Critical to Its Future",
-    "link": "https://www.bloomberg.com/graphics/2026-spacex-starship-rocket-future/"
+    "title": "Nvidia Fallout, Microsoft Outage and Anthropic’s IPO Push",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-tech-11-13-2026-video"
   },
   {
-    "title": "Banned Nvidia Chips Installed at China Data Center Linked to Alice Huang",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang"
+    "title": "From CFO to Interim CEO: Kress Takes Charge at Nvidia",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/from-cfo-to-interim-ceo-kress-takes-charge-at-nvidia-video"
   },
   {
-    "title": "Nvidia’s Biggest Risk Is Product Pace: Windsor",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-biggest-risk-is-product-pace-windsor"
+    "title": "Cerebras CEO: AI Infrastructure Opportunity Is Expanding",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/cerebras-ceo-ai-infrastructure-opportunity-is-expanding-video"
   },
   {
-    "title": "Dan Ives on Nvidia Without Jensen Huang, Microsoft Outage",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/ives-on-nvidia-without-jensen-huang-microsoft-outage-video"
+    "title": "Huang and the Myth of the ‘Irreplaceable CEO’",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/huang-and-the-myth-of-the-irreplaceable-ceo-video"
   },
   {
-    "title": "Microsoft Outage Sends Traders Back to Phones and Fax",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-outage-gums-up-markets-forces-traders-to-use-phones"
+    "title": "Best Thing to Happen for China is Jensen Out of the Picture, Says Ives",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/best-thing-to-happen-for-china-is-jensen-out-says-ives-video"
   },
   {
-    "title": "Jensen Huang’s Supporters See Nvidia Exit as Lesson for Founders to Keep Control",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-s-supporters-see-nvidia-exit-as-lesson-for-founders-to-keep-control"
+    "title": "Nvidia Scandal Raises New Concerns About Scale of Chinese Spying",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying"
   },
   {
-    "title": "Businessweek In December Is All About China",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/businessweek-in-december-is-all-about-china"
+    "title": "OpenAI Debuts New ChatGPT Payment Method With Card Networks",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/openai-debuts-new-chatgpt-payment-method-with-card-networks"
   },
   {
-    "title": "Dan Ives Cuts Nvidia Price Target, But Stays Bullish Post-Huang",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/ives-cuts-nvidia-price-target-stays-bullish-post-huang-video"
+    "title": "My Husband and His Chatbot",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/my-husband-and-his-chatbot-video"
   },
   {
-    "title": "Nvidia in Crisis: What Next? | Bloomberg Tech: Europe",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-in-crisis-what-next-bloomberg-tech-europe-video"
+    "title": "Lutnick Under Pressure as Nvidia Crisis Unfolds",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/lutnick-under-pressure-as-nvidia-crisis-unfolds-video"
   },
   {
-    "title": "Microsoft Races to Fix Outlook in One of Its Longest Outages",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage"
+    "title": "Nvidia Crisis Fuels US and China Chip Showdown",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/open-interest-11-13-2026-video"
   },
   {
-    "title": "Jensen Huang’s Nvidia (NVDA) Scandal Fuels Push for Tighter China Chip Curbs",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-s-nvidia-nvda-scandal-fuels-push-for-tighter-china-chip-curbs"
+    "title": "Ahead of ‘Grand Theft Auto VI,’ Rockstar Votes on Unions",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/ahead-of-grand-theft-auto-vi-rockstar-votes-on-unions"
   },
   {
-    "title": "Nvidia’s France Pledges Remain Intact: Varza",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-france-pledges-remain-intact-varza-video"
+    "title": "Democratic Senator Coons Says Secretary Lutnick Let America Down",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-13/coons-says-secretary-lutnick-let-america-down-video"
   },
   {
-    "title": "Paytm Wins India Central Bank’s Conditional Nod to Revive Wallet",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/paytm-wins-india-central-bank-s-conditional-nod-to-revive-wallet"
+    "title": "Nagel Says ‘Highly Probable’ That ECB Will Have to Act Again",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/nagel-says-highly-probable-that-ecb-will-have-to-act-again"
   },
   {
-    "title": "Nvidia’s AI Chip Share Set to Shrink: Akarca",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-ai-chip-share-set-to-shrink-akarca-video"
+    "title": "Russian Economy Slows as Ukrainian Strikes Weigh on Output",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/russian-economy-slows-as-ukrainian-strikes-weigh-on-output"
   },
   {
-    "title": "UK Retailers Are Hiring for AI and Pulling Back on Other Roles",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/uk-retailers-are-hiring-for-ai-and-pulling-back-on-other-roles"
-  },
-  {
-    "title": "Alice Huang Firm Procured Banned Nvidia Chips in China",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/alice-huang-firm-procured-banned-nvidia-chips-in-china-video"
-  },
-  {
-    "title": "Goldman Sees S&P 500 Rising 14% on Cheap Hyperscaler Valuations",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/goldman-sees-s-p-500-rising-14-on-cheap-hyperscaler-valuations"
-  },
-  {
-    "title": "US Wholesale Inflation Picks Up to Fastest Pace Since 2022",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/us-wholesale-inflation-remained-elevated-in-october"
+    "title": "Merz Says German Proposal for Top ECB Jobs Coming Next Week",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/germany-to-make-proposal-for-top-ecb-jobs-next-week-merz-says"
   },
   {
     "title": "Fed’s Logan Calls for Clearer Separation of Market Operations",
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/fed-s-logan-calls-for-clearer-separation-of-market-operations"
   },
   {
-    "title": "Bessent Blames Lutnick’s Commerce for Not Blacklisting Megaspeed",
+    "title": "Bessent Blames Lutnick, Commerce for Not Blocking Megaspeed",
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/bessent-says-treasury-favored-megaspeed-on-trade-blacklist"
+  },
+  {
+    "title": "US Wholesale Inflation Picks Up to Fastest Pace Since 2022",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/us-wholesale-inflation-remained-elevated-in-october"
   },
   {
     "title": "Goolsbee Says Fed Must Reestablish Its Inflation Credibility",
@@ -610,10 +622,6 @@
   {
     "title": "German Lawmakers Sign Off on Higher Borrowing, Spending for 2027",
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/german-lawmakers-sign-off-on-higher-borrowing-spending-for-2027"
-  },
-  {
-    "title": "Germany to Make Proposal for Top ECB Jobs Next Week, Merz Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/germany-to-make-proposal-for-top-ecb-jobs-next-week-merz-says"
   },
   {
     "title": "The US Job Market Narrative Shifts Toward Inflationary Risks",
@@ -664,14 +672,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/us-confirms-500-million-spent-on-yen-intervention-with-euros"
   },
   {
-    "title": "Fed’s Williams Says Inflation ‘Far Too High,’ Work to Do",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/fed-s-williams-says-inflation-far-too-high-still-work-to-do"
-  },
-  {
-    "title": "Yuan May Double Global Payment Share as Usage Climbs, HSBC Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/yuan-may-double-global-payment-share-as-usage-climbs-hsbc-says"
-  },
-  {
     "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
     "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
   },
@@ -712,43 +712,43 @@
     "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
   },
   {
-    "title": "What&#8217;s really at stake in the Jensen Huang saga",
-    "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+    "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+    "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale"
   },
   {
-    "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
-    "link": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta"
+    "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+    "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable"
   },
   {
-    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+    "title": "Jensen Huang was reckless with the environment, too",
+    "link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution"
   },
   {
-    "title": "Apple should have made the MacBook logo RGB",
-    "link": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors"
+    "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+    "link": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain"
   },
   {
-    "title": "Microsoft&#8217;s massive Outlook outage continues",
+    "title": "The new Apple TV has a YouTube problem",
+    "link": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error"
+  },
+  {
+    "title": "Microsoft&#8217;s massive Outlook outage might be over",
     "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage"
   },
   {
-    "title": "Let’s talk about Jensen Huang’s many affairs!",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
+    "title": "The Verge’s 2026 gift guide for dads",
+    "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026"
   },
   {
-    "title": "Donald Trump really wants Tim Cook to run Nvidia",
-    "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang"
+    "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+    "link": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on"
   },
   {
-    "title": "Xbox announces Wolfenstein 3",
-    "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"
+    "title": "The best early Black Friday deals you can already shop",
+    "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
   },
   {
-    "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-    "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network"
-  },
-  {
-    "title": "Humble Bundle redesign removes two-factor verification from settings",
-    "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings"
+    "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+    "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing"
   }
 ]
