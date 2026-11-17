@@ -1,5 +1,9 @@
 [
   {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+  },
+  {
     "title": "Broadening access to AI for scientists",
     "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
   },
@@ -12,6 +16,10 @@
     "link": "https://openai.com/index/science-at-the-frontier"
   },
   {
+    "title": "How Revolut raises ambition without lowering the bar",
+    "link": "https://openai.com/business/customer-stories/revolut"
+  },
+  {
     "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
     "link": "https://openai.com/index/lvmh-media-division-partnership"
   },
@@ -20,12 +28,12 @@
     "link": "https://openai.com/index/our-first-phase-of-embedded-assessments"
   },
   {
-    "title": "Advancing computer-use agents for healthcare teams",
-    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
-  },
-  {
     "title": "More ways to move care forward with ChatGPT for Healthcare",
     "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+  },
+  {
+    "title": "Advancing computer-use agents for healthcare teams",
+    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
   },
   {
     "title": "The King’s Trust and OpenAI launch £1m partnership",
@@ -112,12 +120,8 @@
     "link": "https://openai.com/index/control-room"
   },
   {
-    "title": "CodeRabbit scales agentic software development and ships 20x more",
-    "link": "https://openai.com/index/coderabbit-codex-daybreak"
-  },
-  {
-    "title": "Kuken Industries searches 70 years of drawings in minutes",
-    "link": "https://openai.com/index/kuken"
+    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+    "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/"
   },
   {
     "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
@@ -188,11 +192,11 @@
     "link": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/"
   },
   {
-    "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-    "link": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/"
+    "title": "Here's what to expect when Disney reports earnings before the bell",
+    "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html"
   },
   {
-    "title": "United Airlines reports system outage affecting departing flights",
+    "title": "United Airlines resolves system outage that affected departing flights",
     "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html"
   },
   {
@@ -308,8 +312,8 @@
     "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html"
   },
   {
-    "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
-    "link": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html"
+    "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+    "link": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html"
   },
   {
     "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
@@ -428,8 +432,8 @@
     "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html"
   },
   {
-    "title": "Why China is desperate to ship cars outside of the country",
-    "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html"
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
   },
   {
     "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
@@ -464,7 +468,7 @@
     "link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/"
   },
   {
-    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
     "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/"
   },
   {
@@ -508,92 +512,132 @@
     "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"
   },
   {
-    "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
-    "link": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/"
+    "title": "Asia’s Data Center Hotbed Hit by US Chip Curbs as Trump Visits",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/asia-s-data-center-hotbed-hit-by-us-chip-curbs-as-trump-visits"
   },
   {
-    "title": "MIT Brothers Cleared of Charges in $25 Million Crypto Case",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial"
+    "title": "Cassava Seeks $1 Billion for Nvidia Chips to Power AI in Africa",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/cassava-seeks-1-billion-for-nvidia-chips-to-power-ai-in-africa"
   },
   {
-    "title": "HSBC Sold $300 Million Troubled Data Center Loan at Discount",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/hsbc-sold-300-million-troubled-data-center-loan-at-discount"
+    "title": "Clampdown on China Chip Loophole Puts Billions in Loans at Risk",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/clampdown-on-china-chip-loophole-puts-billions-in-loans-at-risk"
   },
   {
-    "title": "Nvidia Short Sellers Reap $24 Billion as Stock Extends Slide",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-short-sellers-reap-24-billion-as-stock-extends-slide"
+    "title": "Finland’s Iceye Bids €2 Billion for Rocket-Launch Firm Avio",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/avio-gets-2-billion-takeover-bid-from-finland-s-iceye"
   },
   {
-    "title": "Kalshi to Offer Stock Trading After Buying Brokerage",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/kalshi-to-offer-stock-trading-after-buying-brokerage-video"
+    "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/us-moves-to-curb-china-s-remote-access-to-nvidia-s-chips-video"
   },
   {
-    "title": "Microsoft Bug Undetected Since July Triggered Worldwide Outage",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/microsoft-bug-undetected-since-july-triggered-worldwide-outage"
+    "title": "Vance Says US Won’t Stay in Iran War for Years as Oil Drops on Supply Recovery",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/horizons-middle-east-africa-11-17-2026-video"
   },
   {
-    "title": "Tradeweb Is Rolling Out AI Assistant for US Treasury Traders",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/tradeweb-is-rolling-out-ai-assistant-for-us-treasury-traders"
+    "title": "Markets Await Nvidia Earnings Call for Clues on Strategy",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/markets-await-nvidia-earnings-call-for-clues-on-strategy-video"
   },
   {
-    "title": "Trump, Duffy Deflect Responsibility for FAA Groundstop",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/trump-duffy-deflect-responsibility-for-faa-groundstop-video"
+    "title": "US Chip Curbs Force Xi to Weigh Response Before Trump Summit",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/us-chip-curbs-force-xi-to-weigh-response-before-trump-summit"
   },
   {
-    "title": "What to Watch for in Nvidia Earnings",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/what-to-watch-for-in-nvidia-earnings-video"
+    "title": "Kenya Signs $692 Million Deal with Amaco Energy for Gas Plant",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/kenya-signs-692-million-deal-with-amaco-energy-for-gas-plant"
   },
   {
-    "title": "Putin-Xi Meeting Unlikely to Bring Substantive Results for Trump, Says Jane Harman",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/putin-xi-meeting-unlikely-to-bring-trump-results-harman-video"
+    "title": "Breaking Down the US Move to Curb Remote Access to Chips",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/breaking-down-the-us-move-to-curb-remote-access-to-chips-video"
   },
   {
-    "title": "Skilled Immigration Lowers Pay for College-Educated US Workers, Study Finds",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/skilled-immigration-lowers-pay-for-college-educated-us-workers-study-finds"
+    "title": "Meta Removes More Explicit Instagram Posts Under India Scrutiny",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/meta-facebook-instagran-fb-ig-cjp-social-media-removes-explicit-posts-india-scrutiny"
   },
   {
-    "title": "Hadrian Targets Critical Bottleneck in US Shipbuilding",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/hadrian-targets-critical-bottleneck-in-us-shipbuilding-video"
+    "title": "Baidu’s Robin Li Says AI Needs Monetization to Avoid Bubble Risk",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/baidu-s-robin-li-says-ai-needs-monetization-to-avoid-bubble-risk"
   },
   {
-    "title": "Tusk: Jensen Huang Should Not Return as Nvidia CEO",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/tusk-jensen-huang-should-not-return-as-nvidia-ceo-video"
+    "title": "Impact of US Move to Curb Chip Access",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/impact-of-us-move-to-curb-chip-access-video"
   },
   {
-    "title": "Nvidia Fallout Adds New Tension to US-China AI Race",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-fallout-adds-new-tension-to-us-china-ai-race-video"
+    "title": "APEC's Pedrosa on Shenzhen Summit Expectations",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/apec-s-pedrosa-on-shenzhen-summit-expectations-video"
   },
   {
-    "title": "Nvidia Bull: AI Growth Story Remains Intact",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-bull-ai-growth-story-remains-intact-video"
+    "title": "Anthropic Frenzy Echoes Dot-Com Bubble, AustralianSuper CIO Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-echoes-dot-com-bubble-says-australiansuper-cio"
   },
   {
-    "title": "Nvidia’s Defining Week: CEO Search, Earnings and China",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-tech-11-16-2026-video"
+    "title": "China AI Star Sinks 85% From Peak as Chip Fears Hit Model Makers",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/china-ai-highflier-crashes-85-as-chip-fears-hit-model-makers"
   },
   {
-    "title": "Jensen Huang Cannot Return to Nvidia",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/opinion-jensen-huang-cannot-return-to-nvidia-video"
+    "title": "Pimco Says AI Bond Spreads May Tighten as Data Center Boom Slows",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/pimco-says-ai-bond-spreads-may-tighten-as-data-center-boom-slows"
   },
   {
-    "title": "What Jensen Huang’s Exit Means for Nvidia",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-12/what-jensen-huang-s-exit-means-for-nvidia-video"
+    "title": "More Volatility Forecast for AI as Nvidia Earnings Loom",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/more-volatility-forecast-for-ai-as-nvidia-earnings-loom-video"
   },
   {
-    "title": "Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback"
+    "title": "Tripadvisor Loan Soars as $600 Million Payment Boosts Confidence",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/tripadvisor-loan-soars-as-600-million-payment-boosts-confidence"
   },
   {
-    "title": "Altman Says AI Industry ‘Will Be Fine’ After Huang’s Ouster",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster"
+    "title": "Big Take: All Eyes on Anthropic’s IPO",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-17/big-take-all-eyes-on-anthropic-s-ipo-video"
   },
   {
-    "title": "Fed's Warsh Says Staff Are Sketching Out AI Contingencies",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-16/warsh-says-fed-staff-are-sketching-out-ai-contingencies-video"
+    "title": "UK Payrolls Fell Unexpectedly Ahead of Healey’s Budget",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/uk-payrolls-fell-unexpectedly-in-october-ahead-of-healey-budget"
+  },
+  {
+    "title": "Malaysia Inks Deal With France to Develop Critical Minerals",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/malaysia-deal-france-to-develop-critical-minerals-europe-mining"
+  },
+  {
+    "title": "China and Canada Expand Tariff Relief as Xi Meets Carney",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/china-canada-expand-tariff-relief-in-deepening-trade-thaw"
+  },
+  {
+    "title": "African Economies to End Year With High Rates as Fed Risks Loom",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/african-economies-to-end-year-with-high-rates-as-fed-risks-loom"
+  },
+  {
+    "title": "Japan Said to Delay Floating-Rate Bond Launch Given Weak Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/japan-said-to-delay-floating-rate-bond-launch-given-weak-demand"
+  },
+  {
+    "title": "RBA’s Bullock Says Inflation Risks Remain Skewed to Upside",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/rba-s-bullock-says-inflation-risks-still-skewed-to-the-upside"
   },
   {
     "title": "Fed’s Hammack Prefers Small Hikes, Sees Risk of Bigger Moves",
     "link": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-hammack-reiterates-preference-for-small-incremental-hikes"
+  },
+  {
+    "title": "UK Migration Advisers Reject Call for Investor Visa",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/uk-migration-advisers-reject-call-for-investor-visa"
+  },
+  {
+    "title": "Former BOJ Chief Kuroda Sees Chance of Rate Rising Above Neutral",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-17/former-boj-chief-kuroda-sees-chance-of-rate-rising-above-neutral"
+  },
+  {
+    "title": "Colombia’s De La Espriella Vows Spending Cuts in Investor Pitch",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/colombia-s-de-la-espriella-vows-spending-cuts-in-investor-pitch"
+  },
+  {
+    "title": "Unusual Public Feud Puts Thai Central Bank Autonomy In Spotlight",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/unusual-public-feud-puts-thai-central-bank-autonomy-in-spotlight"
+  },
+  {
+    "title": "Hammack Says Fed Interventions Should Be Temporary, Targeted",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-16/hammack-says-fed-interventions-should-be-temporary-targeted"
   },
   {
     "title": "Fed’s Warsh Says Staff Are Gaming Out Contingencies on AI Impact",
@@ -626,50 +670,6 @@
   {
     "title": "Nigerian Inflation Eases Ahead of Rate-Setting Meeting",
     "link": "https://www.bloomberg.com/news/articles/2026-11-16/nigerian-inflation-eases-ahead-of-interest-rate-setting-meeting"
-  },
-  {
-    "title": "New dependencies in the US and China’s trade relationship",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-16/new-dependencies-in-the-us-and-china-s-trade-relationship"
-  },
-  {
-    "title": "Brazil Analysts Lift Key Rate and Inflation Forecasts",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/brazil-analysts-lift-2027-forecasts-for-key-rate-and-inflation"
-  },
-  {
-    "title": "US Ties With Southeast Asia in Spotlight With Trump Stop Before Xi Meet",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-16/us-ties-with-southeast-asia-in-spotlight-with-trump-stop-before-xi-meet"
-  },
-  {
-    "title": "Vujcic Says Bets on ECB Hike in 2027 Don’t Seem Unreasonable",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/vujcic-says-bets-on-ecb-hike-next-year-don-t-seem-unreasonable"
-  },
-  {
-    "title": "Thai Central Bank Chief Plays Down Chairman Rift on Legal Reform",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/thai-central-bank-chief-plays-down-chairman-rift-on-legal-reform"
-  },
-  {
-    "title": "Norway’s Imports Hit Record on Data Center Equipment, Cars",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/norway-s-imports-hit-record-on-data-center-equipment-cars"
-  },
-  {
-    "title": "Futuristic Shenzhen Shows Trump the Difficulty of Stopping Xi Jinping's China",
-    "link": "https://www.bloomberg.com/news/features/2026-11-15/futuristic-shenzhen-shows-trump-the-difficulty-of-stopping-xi-jinping-s-china"
-  },
-  {
-    "title": "Switzerland’s Economy Unexpectedly Grows Thanks to Industry",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/switzerland-s-economy-unexpectedly-grows-thanks-to-industry"
-  },
-  {
-    "title": "ECB’s Vujcic Warns AI and High Debt Threaten Financial Stability",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/ecb-s-vujcic-warns-ai-and-high-debt-threaten-financial-stability"
-  },
-  {
-    "title": "PBOC Drains Medium-Term Funds in Warning Sign to Easing Bets",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/pboc-withdraws-medium-term-funds-in-warning-sign-to-easing-bets"
-  },
-  {
-    "title": "China’s Economy Disappoints With New Stimulus Yet to Kick In",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push"
   },
   {
     "title": "The open-source movement wants Jensen Huang back",
@@ -712,6 +712,18 @@
     "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
   },
   {
+    "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+    "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj"
+  },
+  {
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+  },
+  {
+    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
+  },
+  {
     "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
     "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death"
   },
@@ -738,17 +750,5 @@
   {
     "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
     "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale"
-  },
-  {
-    "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
-    "link": "https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027"
-  },
-  {
-    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-    "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
-  },
-  {
-    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-    "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier"
   }
 ]
