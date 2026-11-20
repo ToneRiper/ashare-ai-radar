@@ -1,35 +1,47 @@
 [
   {
+    "title": "Combatting adversarial distillation",
+    "link": "https://openai.com/index/combatting-adversarial-distillation"
+  },
+  {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "link": "https://openai.com/business/customer-stories/hebbia"
+  },
+  {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "link": "https://openai.com/index/introducing-medchembench"
+  },
+  {
     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
     "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-  },
-  {
-    "title": "Deploying Daybreak Red",
-    "link": "https://openai.com/business/learn/deploying-daybreak-red"
-  },
-  {
-    "title": "See PR scans in action",
-    "link": "https://openai.com/business/learn/pr-scans-demo"
   },
   {
     "title": "Explore the Codex Security Plugin",
     "link": "https://openai.com/business/learn/codex-security-plugin-demo"
   },
   {
+    "title": "See PR scans in action",
+    "link": "https://openai.com/business/learn/pr-scans-demo"
+  },
+  {
     "title": "Get started with Daybreak Blue",
     "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+  },
+  {
+    "title": "Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red"
   },
   {
     "title": "The Silent Consensus",
     "link": "https://openai.com/index/the-silent-consensus"
   },
   {
-    "title": "Research acceleration: The jagged frontier",
-    "link": "https://openai.com/index/research-acceleration-jagged-frontier"
-  },
-  {
     "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
     "link": "https://openai.com/business/customer-stories/sumitomo-life"
+  },
+  {
+    "title": "Research acceleration: The jagged frontier",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier"
   },
   {
     "title": "Inside the Codex sandbox",
@@ -60,12 +72,12 @@
     "link": "https://openai.com/index/introducing-chatgpt-for-sales"
   },
   {
-    "title": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile"
-  },
-  {
     "title": "Astra for Law leads in legal intelligence",
     "link": "https://openai.com/index/astra-law-6-2"
+  },
+  {
+    "title": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile"
   },
   {
     "title": "Broadening access to AI for scientists",
@@ -106,18 +118,6 @@
   {
     "title": "At Holiday Extras, dots get to work before anyone asks",
     "link": "https://openai.com/business/customer-stories/holiday-extras-dots"
-  },
-  {
-    "title": "A step toward defining the Standard Model on a lattice",
-    "link": "https://openai.com/index/step-toward-defining-the-standard-model"
-  },
-  {
-    "title": "Our new blog for science",
-    "link": "https://openai.com/index/our-new-blog-for-science"
-  },
-  {
-    "title": "Introducing ChatGPT Wallet",
-    "link": "https://openai.com/index/introducing-chatgpt-wallet"
   },
   {
     "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
@@ -204,7 +204,7 @@
     "link": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html"
   },
   {
-    "title": "Gap names new Athleta CEO, lowers full-year guidance",
+    "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
     "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html"
   },
   {
@@ -432,7 +432,27 @@
     "link": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html"
   },
   {
-    "title": "A transcription firm used by police, prosecutors and tech giants exposed customer data online",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+  },
+  {
+    "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+  },
+  {
+    "title": "Super-hot rock geothermal could end data center energy woes",
+    "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/"
+  },
+  {
+    "title": "Chips can survive the space environment — can their financing?",
+    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+  },
+  {
+    "title": "Bending Spoons buys Mailchimp for $3.68B",
+    "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/"
+  },
+  {
+    "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
     "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/"
   },
   {
@@ -448,7 +468,7 @@
     "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"
   },
   {
-    "title": "The U.S. national cyber director is stepping down",
+    "title": "The US national cyber director is stepping down",
     "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/"
   },
   {
@@ -492,104 +512,100 @@
     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
   },
   {
-    "title": "Google gives Gemini the ability to use your Mac for you",
-    "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-  },
-  {
-    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-    "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
-  },
-  {
-    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-    "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
-  },
-  {
-    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
-  },
-  {
-    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
-  },
-  {
-    "title": "AI Credit Risk Gauges Worsen as Tech Selloff Roils Markets",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets"
-  },
-  {
-    "title": "UBS's Lovell Sees AI CapEx at Risk of 5%-10% Cut",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-20/ubs-s-lovell-sees-ai-capex-at-risk-of-5-10-cut-video"
-  },
-  {
-    "title": "Emerging Market Stocks on Cusp of Bear Market as AI Rout Expands",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide"
-  },
-  {
-    "title": "Investor Worry Has Come to a Head, Says Allspring’s Miletti",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-20/investor-worry-has-come-to-a-head-allspring-s-milletti-video"
-  },
-  {
-    "title": "Everybody’s Business: Relax. It’s Probably Not a Cyberattack",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-20/relax-it-s-probably-not-a-cyberattack-video"
-  },
-  {
-    "title": "US Equities Open Lower Anthropic Debut Worries Market Over AI",
+    "title": "Stock Rout Deepens as AI Trade Falters; S&P 500 in Correction",
     "link": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-dip-as-anthropic-premiere-disappoints-investors"
   },
   {
-    "title": "Retail Investors Dive Into Both Sides of Anthropic",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/retail-investors-dive-into-both-sides-of-the-anthropic-trade"
+    "title": "Nvidia Employees Complained About Huang's Behavior Years Ago",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-staff-complained-about-huang-s-behavior-years-ago-video"
   },
   {
-    "title": "USTR Greer on Chip Curbs, Rare Earths, US-China Trade",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-20/ustr-greer-on-chip-curbs-rare-earths-us-china-trade-video"
+    "title": "US Credit-Fear Hits 8-Month High as Tech Angst Roils Markets",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets"
   },
   {
-    "title": "Polish Stocks Lead European Losses After Russian Airspace Breach",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/polish-stocks-lead-european-losses-after-russian-airspace-breach"
+    "title": "‘Grand Theft Auto VI’ Sells $3.79 Billion, Making It Biggest Entertainment Launch Ever",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-vi-sells-3-79-billion-making-it-biggest-entertainment-launch-ever"
   },
   {
-    "title": "Novartis CEO: AI Could Cut Drug Development Time by Years",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video"
+    "title": "Emerging Stocks Extend Slump to Brink of Bear Market on AI Rout",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide"
   },
   {
-    "title": "Anthropic Tumbles Near IPO Price in Second Day of Trading",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-slides-near-ipo-price-in-second-day-of-trading-video"
+    "title": "Odd Lots: Minerva Co-Founder on the Risks of “Abliterated” Models",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/minerva-co-founder-on-the-risks-of-abliterated-models-video"
   },
   {
-    "title": "SpaceX Wraps Up $32 Billion of AI Chip Debt at Yields Topping 8%",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday"
+    "title": "Cloud Infrastructure Firm CloudFerro Is Said to Weigh Warsaw IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/cloud-infrastructure-firm-cloudferro-is-said-to-weigh-warsaw-ipo"
   },
   {
-    "title": "USTR Greer Says US Chip Moves ‘Closing a Loophole’",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-20/ustr-greer-says-us-chip-moves-closing-a-loophole-video"
+    "title": "Anthropic Falls After Blockbuster Debut as Tech Sells Off",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-falls-after-blockbuster-debut-as-tech-sell-off-video"
   },
   {
-    "title": "California Probing If Nvidia Misled Investors on China Risks",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/california-probing-if-nvidia-misled-investors-over-china-risks"
+    "title": "Altruist’s Wenk on AI and the Next Era of Financial Advice",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/altruist-s-wenk-on-ai-next-era-of-financial-advice-video"
   },
   {
-    "title": "Nasdaq 100 Just Had One of Its Most Extreme Intraday Swings Ever",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/nasdaq-100-just-had-one-of-its-most-extreme-intraday-swings-ever"
+    "title": "GTA VI Earns Near-Perfect Reviews in Record Launch",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/gta-vi-earns-near-perfect-reviews-in-record-launch-video"
   },
   {
-    "title": "Ex-Alibaba Star’s AI Startup Doubles Valuation to $5 Billion",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion"
+    "title": "Anthropic Slides as AI Selloff Deepens",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-tech-11-20-2026-video"
   },
   {
-    "title": "Novartis CEO Says US China Biotech Curbs Risk Drug Development",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/novartis-ceo-says-us-china-biotech-curbs-risk-drug-development"
+    "title": "Anthropic Investor Sees Huge Runway Beyond Coding",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-investor-sees-huge-runway-beyond-coding-video"
   },
   {
-    "title": "Klarna’s Polish Rival PayPo Said to Pick Citi, JPMorgan for IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/klarna-s-polish-rival-paypo-said-to-pick-citi-jpmorgan-for-ipo"
+    "title": "Big Take: Can Anthropic Weather a Shifting AI Landscape?",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/big-take-can-anthropic-weather-a-shifting-ai-landscape-video"
   },
   {
-    "title": "Global AI Trade Buckles as Anthropic Slides Following Record IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes"
+    "title": "Nvidia Employees Complained About Huang’s Behavior Years Ago",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/nvidia-employees-complained-about-huang-s-behavior-years-ago"
   },
   {
-    "title": "Anthropic Tumbles More Than 10% as AI Slump Engulfs Markets",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans"
+    "title": "Anthropic Founder to Donate to Trump Accounts Following IPO, Bessent Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/bessent-says-an-anthropic-founder-to-donate-will-trump-accounts"
+  },
+  {
+    "title": "Microsoft to Pay Top Cloud Workers More, Crack Down on Others",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/microsoft-to-pay-top-cloud-workers-more-crack-down-on-others"
+  },
+  {
+    "title": "Anthropic Slips as AI Selloff Spreads",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/open-interest-11-20-2026-video"
+  },
+  {
+    "title": "Trump Vows to Tax US Companies Building Data Centers Abroad",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/trump-wants-tax-on-us-companies-for-foreign-data-centers-video"
+  },
+  {
+    "title": "Musk Ally Akis Joins Board of DOGE Alumni Firm After New Round",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/musk-ally-akis-joins-board-of-doge-alumni-firm-after-new-round"
+  },
+  {
+    "title": "YouTube Finalizing Multibillion-Dollar Schools Settlement Over Addiction Claims",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims"
+  },
+  {
+    "title": "ECB Must Bring Inflation Back to 2%, France’s Moulin Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/ecb-must-bring-inflation-back-to-2-france-s-moulin-says"
+  },
+  {
+    "title": "Fed’s Paulson Argues for Deliberate Rate Hikes to Tame Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/fed-s-paulson-argues-for-deliberate-rate-hikes-to-tame-inflation"
+  },
+  {
+    "title": "France Picks Boone to Run Markets at ECB in Pivotal Crisis Role",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/france-picks-boone-to-run-markets-at-ecb-in-pivotal-crisis-role"
+  },
+  {
+    "title": "Romania Needs Further Deficit Cuts to Boost Confidence, IMF Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/romania-needs-further-deficit-cuts-to-boost-confidence-imf-says"
   },
   {
     "title": "US Consumer Sentiment Up on Improved Post-Election Outlook",
@@ -656,20 +672,8 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-20/uk-is-the-best-house-in-a-bad-neighborhood-ubs-wealth-says"
   },
   {
-    "title": "Rand Dips After South Africa Hawkishly Holds Rate",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-hawkishly-holds-rates-as-inflation-risks-widen"
-  },
-  {
-    "title": "UK Trade Chief Says Burnham Spurred Movement in Europe Talks",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/uk-trade-chief-says-burnham-spurred-movement-in-europe-talks"
-  },
-  {
-    "title": "France 2027 Budget: When It Is, Article 49.3 and Executive Orders",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/france-2027-budget-when-it-is-article-49-3-and-executive-orders"
-  },
-  {
-    "title": "Malaysia Exports Hit Record High in October on AI-Related Demand",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-20/malaysia-exports-hit-record-high-in-october-on-ai-related-demand"
+    "title": "The most misunderstood graph in AI just got a major update",
+    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
   },
   {
     "title": "The Download: inside the quest to make our minds immortal",
@@ -708,47 +712,43 @@
     "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"
   },
   {
-    "title": "Research Reports",
-    "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
+    "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+    "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement"
   },
   {
-    "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
-    "link": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un"
+    "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+    "link": "https://www.theverge.com/games/1036279/gta-vi-sales"
   },
   {
-    "title": "Let’s talk about GTA VI",
-    "link": "https://www.theverge.com/entertainment/1037545/gta-6-discussion"
+    "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+    "link": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale"
   },
   {
-    "title": "The week everything fell apart",
-    "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
   },
   {
-    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+    "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+    "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale"
   },
   {
-    "title": "Why the robots are ditching Uber",
-    "link": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships"
+    "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+    "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
   },
   {
-    "title": "Apple is hiring engineers to build its own AI agent",
-    "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+    "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+    "link": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026"
   },
   {
-    "title": "A brief history of Nvidia’s recent stock fluctuations",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+    "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+    "link": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth"
   },
   {
-    "title": "Meta now sells 3D movies on Quest VR headsets",
-    "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app"
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
   },
   {
-    "title": "Meta’s Muse Charm might cost $300",
-    "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
-  },
-  {
-    "title": "Google is putting AI chats right on the homepage",
-    "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+    "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+    "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview"
   }
 ]
