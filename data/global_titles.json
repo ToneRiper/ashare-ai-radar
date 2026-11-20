@@ -4,16 +4,32 @@
     "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
   },
   {
+    "title": "Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red"
+  },
+  {
+    "title": "See PR scans in action",
+    "link": "https://openai.com/business/learn/pr-scans-demo"
+  },
+  {
+    "title": "Explore the Codex Security Plugin",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo"
+  },
+  {
+    "title": "Get started with Daybreak Blue",
+    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+  },
+  {
     "title": "The Silent Consensus",
     "link": "https://openai.com/index/the-silent-consensus"
   },
   {
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "link": "https://openai.com/business/customer-stories/sumitomo-life"
-  },
-  {
     "title": "Research acceleration: The jagged frontier",
     "link": "https://openai.com/index/research-acceleration-jagged-frontier"
+  },
+  {
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "link": "https://openai.com/business/customer-stories/sumitomo-life"
   },
   {
     "title": "Inside the Codex sandbox",
@@ -24,12 +40,12 @@
     "link": "https://openai.com/index/managing-frontier-ai-risk"
   },
   {
-    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
-  },
-  {
     "title": "Advancing chip design with OpenAI models",
     "link": "https://openai.com/index/advancing-chip-design-with-our-models"
+  },
+  {
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
   },
   {
     "title": "Introducing GPT-6.2 Astra and Sol",
@@ -104,22 +120,6 @@
     "link": "https://openai.com/index/introducing-chatgpt-wallet"
   },
   {
-    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-    "link": "https://openai.com/business/customer-stories/shield"
-  },
-  {
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "link": "https://openai.com/business/customer-stories/amplitude"
-  },
-  {
-    "title": "Gondola doubles revenue as its team builds more with Codex",
-    "link": "https://openai.com/business/customer-stories/gondola"
-  },
-  {
-    "title": "Holiday Extras is rethinking what it can build with Codex",
-    "link": "https://openai.com/business/customer-stories/holidays-extras-codex"
-  },
-  {
     "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
     "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/"
   },
@@ -190,6 +190,10 @@
   {
     "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
     "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
+  },
+  {
+    "title": "Gap names new Athleta CEO, lowers full-year guidance",
+    "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html"
   },
   {
     "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
@@ -308,8 +312,8 @@
     "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html"
   },
   {
-    "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
-    "link": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html"
+    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+    "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
   },
   {
     "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
@@ -428,15 +432,43 @@
     "link": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html"
   },
   {
-    "title": "NextDC shares soar nearly 51% after Goodman, Digital Realty stake purchases",
-    "link": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html"
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+  },
+  {
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+  },
+  {
+    "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+    "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/"
+  },
+  {
+    "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+    "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/"
+  },
+  {
+    "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+    "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"
+  },
+  {
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+  },
+  {
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+  },
+  {
+    "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+    "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/"
   },
   {
     "title": "The unfolding Jensen Huang scandal: a timeline",
     "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
   },
   {
-    "title": "Anthropic’s IPO could deliver $156 billion to charity",
+    "title": "Anthropic’s IPO could deliver $156B to charity",
     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
   },
   {
@@ -480,116 +512,152 @@
     "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
   },
   {
-    "title": "Elon Musk says: ‘I’m not MAGA’",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/"
+    "title": "Anthropic Set for Second-Day Drop as AI Selloff Gathers Pace",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans"
   },
   {
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+    "title": "Nvidia Scandal Fallout Creates Opening for India AI Hopefuls",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/nvidia-scandal-fallout-india-ai-yotta-ambani-adani-am-intelligence-e2e-networks"
   },
   {
-    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+    "title": "US-Iran Conflict Escalates as Senate Rejects Bid to Block Further Strikes",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/horizons-middle-east-africa-11-20-2026-video"
   },
   {
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
+    "title": "Revolut Set to Move Into Former Ulster Bank Tower in Dublin",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/revolut-set-to-move-into-former-ulster-bank-tower-in-dublin"
   },
   {
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
+    "title": "Japan’s Topix Sees Worst Week Since April 2025 on AI Concerns",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/japanese-shares-slide-amid-uncertainty-around-the-ai-trade-mwo9cqcj"
   },
   {
-    "title": "Anthropic prices IPO at $83 a share, above projected range",
-    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+    "title": "AI Trade Buckles as Taiwan Stocks Suffer Worst Week in 35 Years",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes"
   },
   {
-    "title": "Palmer Luckey doesn’t deny that he’s a prepper",
-    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/"
+    "title": "Lenovo CFO Winston Cheng On Earnings",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/lenovo-cfo-winston-cheng-on-earnings-video"
   },
   {
-    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-    "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
+    "title": "Australian Stocks Post Worst Week Since 2022 as Miners Tumble",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/australian-stocks-asx200-worst-week-since-2022-as-miners-tumble"
+  },
+  {
+    "title": "Israel Pivots to Cheaper Air Defense With Iran Tensions Rising",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/israel-cheaper-air-defense-david-sling-iran-stunner-interceptor-patriot-rafael-rtx"
+  },
+  {
+    "title": "USCC on US-China Competition, Trade Tensions",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/uscc-on-us-china-competition-trade-tensions-video"
+  },
+  {
+    "title": "Nextdc Says It Will No Longer Develop Data Centers Near Homes",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/nextdc-says-it-will-no-longer-develop-data-centers-near-homes"
+  },
+  {
+    "title": "AI Cloud CEO Hits ‘Rock Bottom’ in Race to Endure Chip Curbs",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/ai-cloud-ceo-hits-rock-bottom-in-race-to-survive-chip-crisis"
+  },
+  {
+    "title": "Alibaba Expects Growth Rebound as Its Chips Offset US Curbs",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/alibaba-s-revenue-beats-estimates-during-china-s-ai-boom"
+  },
+  {
+    "title": "Emerging-Market Stocks Head for Bear Market on AI-Led Tech Slide",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide"
+  },
+  {
+    "title": "Court Upholds Kakao Founder’s Acquittal of Stock Rigging Charges",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/court-upholds-kakao-founder-s-acquittal-of-stock-rigging-charges"
+  },
+  {
+    "title": "Minotaur's Rosenberg: Anthropic IPO Fuels Wider AI Trade",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/minotaur-s-rosenberg-anthropic-ipo-fuels-wider-ai-trade-video"
+  },
+  {
+    "title": "Could a Jensen Huang-Style Scandal Happen at Apple?",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-20/could-a-jensen-huang-style-scandal-happen-at-apple-video"
   },
   {
     "title": "Joanna Stern on Siri’s iOS 27 Issues and Her Viral ‘Apple Dad’ Review",
     "link": "https://www.bloomberg.com/news/videos/2026-11-19/joanna-stern-on-siri-s-ios-27-issues-and-her-viral-apple-dad-review"
   },
   {
-    "title": "Anthropic Sets Record With $107.3 Billion IPO",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-sets-record-with-107-3-billion-ipo-video"
+    "title": "Currency Playbook Gets Rewritten in Asia as Losers Bounce Back",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/currency-playbook-gets-rewritten-in-asia-as-losers-bounce-back"
   },
   {
-    "title": "Bitcoin Spikes Lower as Anthropic Fails to Sustain Risk Appetite",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/bitcoin-bounces-back-into-green-ahead-of-anthropic-ipo"
+    "title": "The City at the Center of AI",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-19/the-city-at-the-center-of-ai-video"
   },
   {
-    "title": "Anthropic Makes History on Wall Street",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-19/open-interest-11-19-2026-video"
+    "title": "UK Posts Smaller-Than-Forecast Budget Deficit as Taxes Hold Up",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/uk-posts-smaller-than-forecast-budget-deficit-for-october"
   },
   {
-    "title": "Anthropic a 'Once In a Lifetime' Investment, Says Sameer Dholakia",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-a-once-in-a-lifetime-investment-says-dholakia-video"
+    "title": "UK Retail Sales Jump as Brits Stock Up on Emergency Supplies",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/uk-retail-sales-rebound-as-brits-stock-up-on-emergency-supplies"
   },
   {
-    "title": "Apple’s iPhone Camera and Photos Software Chief Jon McCormack Leaves Company",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/apple-s-iphone-camera-and-photos-software-chief-jon-mccormack-leaves-company"
+    "title": "UK Is the ‘Best House in a Bad Neighborhood,’ UBS Wealth Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/uk-is-the-best-house-in-a-bad-neighborhood-ubs-wealth-says"
   },
   {
-    "title": "Sofia Franklyn’s ‘Call Her Daddy’ Tell-All Is Riveting Podcasters and Their Fans",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/sofia-franklyn-s-call-her-daddy-tell-all-is-riveting-podcasters-and-their-fans"
+    "title": "Rand Dips After South Africa Hawkishly Holds Rate",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-hawkishly-holds-rates-as-inflation-risks-widen"
   },
   {
-    "title": "Anthropic Shares Pare Gains After Rocketing in Debut",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-shares-pare-gains-after-rocketing-in-debut-video"
+    "title": "UK Trade Chief Says Burnham Spurred Movement in Europe Talks",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/uk-trade-chief-says-burnham-spurred-movement-in-europe-talks"
   },
   {
-    "title": "Retail Investors Dive Into Both Sides of the Anthropic Trade",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/retail-investors-dive-into-both-sides-of-the-anthropic-trade"
+    "title": "France 2027 Budget: When It Is, Article 49.3 and Executive Orders",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/france-2027-budget-when-it-is-article-49-3-and-executive-orders"
   },
   {
-    "title": "Apple Gets Win in User Data Court Case Against UK Government",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/uk-court-rules-for-apple-in-user-data-fight-with-government"
+    "title": "Malaysia Exports Hit Record High in October on AI-Related Demand",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/malaysia-exports-hit-record-high-in-october-on-ai-related-demand"
   },
   {
-    "title": "Anthropic Shares Soar Above IPO Price, Then Fall",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-shares-soar-above-ipo-price-then-fall-video"
+    "title": "China Solar Cell Exports Rise for Second Month on Tariff Rush",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/china-solar-cell-exports-rise-for-second-month-on-tariff-rush"
   },
   {
-    "title": "Uber Tests Rides for 10- to 12-Year-Olds in Three US Cities",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/uber-tests-rides-for-10-to-12-year-olds-in-three-us-cities"
+    "title": "NZ Central Bank’s Chief Economist Urges Government to Stop Messing With Mandate",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/nz-central-bank-s-chief-economist-urges-government-to-stop-messing-with-mandate"
   },
   {
-    "title": "Anthropic Makes Historic Debut on Nasdaq",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-tech-11-19-2026-video"
+    "title": "Sri Lanka Unexpectedly Raises Key Rate to Combat Inflation",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/sri-lanka-raises-policy-rate-to-ensure-inflation-reaches-target"
   },
   {
-    "title": "Google’s Gemini Can Now Control Mac Devices on Users’ Behalf",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf"
+    "title": "Japan’s CPI Picks Up, Keeping BOJ on Track for Rate Hike",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/japan-cpi-quickens-to-fastest-this-year-backing-boj-hike-case"
   },
   {
-    "title": "Nscale’s ByteDance Deal Faces Scrutiny Under US Chip Curbs",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/nscale-s-bytedance-deal-faces-scrutiny-under-us-chip-curbs"
+    "title": "IMF’s Chief Warns AI Correction Has ‘Little Bit More’ to Go",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go"
   },
   {
-    "title": "Anthropic Makes Trading Debut With Record Breaking IPO",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-makes-trading-debut-with-record-breaking-ipo-video"
+    "title": "UK Consumers Become More Willing to Spend, GfK Survey Finds",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/uk-consumers-become-more-willing-to-spend-gfk-survey-finds"
   },
   {
-    "title": "Assassin’s Creed Owner Sees 26% Drop in Holiday Quarter Bookings",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/assassin-s-creed-owner-sees-26-drop-in-holiday-quarter-bookings"
+    "title": "Thailand Opens Door to US Pork, Raising Risks for Farmers",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-20/thailand-opens-door-to-us-pork-raising-risks-for-farmers"
   },
   {
-    "title": "Anthropic Begins Trading on Nasdaq at $111.50",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-begins-trading-on-nasdaq-at-111-50-video"
+    "title": "Fed’s Paulson Says Clear Communication Can Guide Rates",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/fed-s-paulson-says-clear-communication-can-guide-rates"
   },
   {
-    "title": "Anthropic Investor: IPO Is ‘Day One’ for AI Giant",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-ipo-is-day-one-for-ai-giant-video"
+    "title": "Why China’s Export Machine Seems Unstoppable",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/why-china-s-export-machine-seems-unstoppable"
   },
   {
-    "title": "Apple Has a Software Problem + Nvidia’s CEO Crisis with Joanna Stern",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-19/apple-has-a-software-problem-nvidia-s-ceo-crisis-with-joanna-stern"
+    "title": "Lula Forces Central Bank FX Intervention as Real Sells Off",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-19/brazil-central-bank-steps-into-markets-as-fiscal-woes-hit-real"
   },
   {
     "title": "Fed’s Goolsbee Says All Options on FOMC Table Amid Hot Inflation",
@@ -602,74 +670,6 @@
   {
     "title": "ECB’s Panetta Says Inflation Mustn’t Be Allowed to Take Root",
     "link": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-panetta-says-inflation-mustn-t-be-allowed-to-take-root"
-  },
-  {
-    "title": "Lula Forces Central Bank FX Intervention as Brazil Rout Worsens",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/brazil-central-bank-steps-into-markets-as-fiscal-woes-hit-real"
-  },
-  {
-    "title": "Senegal Lawmakers Reject 2027 Budget in Setback for IMF Deal",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/senegal-parliament-rejects-2027-budget-in-setback-for-imf-deal"
-  },
-  {
-    "title": "Rand Dips After South Africa’s Split Decision to Hold Rates",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-hawkishly-holds-rates-as-inflation-risks-widen"
-  },
-  {
-    "title": "Traders Are Betting on Interest Rates Staying High for Years",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/traders-are-betting-on-interest-rates-staying-high-for-years"
-  },
-  {
-    "title": "ECB’s Nagel Says December Rate Hike Would Send Clear Signal",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-nagel-says-december-rate-hike-would-send-clear-signal"
-  },
-  {
-    "title": "China’s Already-Weakened Job Market Starts to the Feel Impact of AI",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/china-s-already-weakened-job-market-starts-to-the-feel-impact-of-ai"
-  },
-  {
-    "title": "Air Cargo Rates Reach Highest Since 2022",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/air-cargo-rates-reach-highest-since-2022"
-  },
-  {
-    "title": "German Growth to Accelerate in Fourth Quarter, Bundesbank Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/german-growth-to-accelerate-in-fourth-quarter-bundesbank-says"
-  },
-  {
-    "title": "IMF’s Chief Is Warning AI Correction Has ‘Little Bit More’ to Go",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go"
-  },
-  {
-    "title": "South Korea’s Exports Top $1 Trillion for First Time on AI Boom",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/south-korea-s-exports-top-1-trillion-for-first-time-on-ai-boom"
-  },
-  {
-    "title": "South Africa Seen Holding Rates for Now as Oil Eases But Could Hike in 2027",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-central-bank-rates-oil-2027--lesetja-kganyago"
-  },
-  {
-    "title": "India Official Calls for Higher Wages to Spur Household Spending",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/india-official-calls-for-higher-wages-to-spur-household-spending"
-  },
-  {
-    "title": "Is China Winning the Artificial Intelligence Race That Matters?",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/is-china-winning-the-artificial-intelligence-race-that-matters"
-  },
-  {
-    "title": "BOJ’s Ueda Unfazed by Consumption Drop, Stays Open to Rate Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/boj-s-ueda-unfazed-by-consumption-drop-stays-open-to-rate-hike"
-  },
-  {
-    "title": "Thailand Says US Agrees to Lower Forced-Labor Tariff to 10%",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/thailand-says-us-agrees-to-lower-forced-labor-tariff-to-10"
-  },
-  {
-    "title": "Australia’s Jobless Jump Prompts Traders to Price Rate Cuts",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-19/australian-unemployment-jumps-to-4-9-following-rba-rate-hikes"
-  },
-  {
-    "title": "Colombia Touts $43 Billion in Investments Amid Fiscal Strain",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-18/colombia-touts-43-billion-investment-haul-amid-fiscal-strain"
   },
   {
     "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
@@ -712,6 +712,18 @@
     "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
   },
   {
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+  },
+  {
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+  },
+  {
+    "title": "Meta now sells 3D movies on Quest VR headsets",
+    "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app"
+  },
+  {
     "title": "Meta’s Muse Charm might cost $300",
     "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
   },
@@ -738,17 +750,5 @@
   {
     "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
     "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale"
-  },
-  {
-    "title": "Gemini on Mac can now use your computer",
-    "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
-  },
-  {
-    "title": "Leaked images reveal Motorola’s wide foldable",
-    "link": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak"
-  },
-  {
-    "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
-    "link": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook"
   }
 ]
