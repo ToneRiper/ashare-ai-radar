@@ -120,6 +120,10 @@
     "link": "https://openai.com/index/the-kings-trust-and-openai"
   },
   {
+    "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+    "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/"
+  },
+  {
     "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
     "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/"
   },
@@ -186,10 +190,6 @@
   {
     "title": "AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
     "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/"
-  },
-  {
-    "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-    "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
   },
   {
     "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
@@ -312,11 +312,15 @@
     "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html"
   },
   {
+    "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
+    "link": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html"
+  },
+  {
     "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
     "link": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html"
   },
   {
-    "title": "Investors gives a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
+    "title": "Investors give a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
     "link": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html"
   },
   {
@@ -428,8 +432,48 @@
     "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
   },
   {
-    "title": "Read Huang's email to his staff and statement from Nvidia's board of directors",
-    "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html"
+    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+  },
+  {
+    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+  },
+  {
+    "title": "Meta throws out its net-zero goal. Its competitors should be furious",
+    "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/"
+  },
+  {
+    "title": "Jensen Huang isn’t out of the woods yet",
+    "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
+  },
+  {
+    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+    "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+  },
+  {
+    "title": "CrowdStrike to acquire Zscaler for $44 billion",
+    "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
+  },
+  {
+    "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+    "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/"
+  },
+  {
+    "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+    "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+  },
+  {
+    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+  },
+  {
+    "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+    "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+  },
+  {
+    "title": "Uber now lets you book rides that record the drive by default",
+    "link": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/"
   },
   {
     "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -468,132 +512,148 @@
     "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
   },
   {
-    "title": "Trump says reported FBI database hack is ‘not good’",
-    "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+    "title": "Bret Taylor’s Sierra Finalizing an Over $1.75 Billion Round",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/bret-taylor-s-sierra-finalizing-more-than-1-75-billion-round"
   },
   {
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    "title": "The Nvidia Board Members Who Presided Over Huang’s Return",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-12/the-nvidia-board-members-who-will-decide-jensen-huang-s-fate"
   },
   {
-    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+    "title": "Nvidia Board Did Not Consult Leadership on Huang Decision",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-board-did-not-consult-leadership-on-huang-video"
   },
   {
-    "title": "Alaska, your next governor is a Wikipedia nerd",
-    "link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/"
+    "title": "Huang’s Nvidia return is a bad precedent",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/opinion-huang-s-nvidia-return-is-a-bad-precedent-video"
   },
   {
-    "title": "Startup sues Apple in India over tap-to-share contacts feature",
-    "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"
+    "title": "Adyen Co-CEO Pieter van der Does to Retire From Payments Firm",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/adyen-co-ceo-pieter-van-der-does-to-retire-from-payments-firm"
   },
   {
-    "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-    "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
+    "title": "Anthropic Rolls Out Zero Data Retention Policy for Advanced AI",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-rolls-out-zero-data-retention-policy-for-advanced-ai"
   },
   {
-    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    "title": "Zscaler’s Chaudhrys to Reap $14.5 Billion From CrowdStrike Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/zscaler-s-chaudhrys-to-reap-14-5-billion-from-crowdstrike-deal"
   },
   {
-    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    "title": "¿Qué causó las fallas tecnológicas en EE.UU.? Y por qué se esperan más",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/-que-causo-las-fallas-tecnologicas-en-ee-uu-y-por-que-se-esperan-mas"
   },
   {
-    "title": "Super-hot rock geothermal could end data center energy woes",
-    "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/"
+    "title": "US Seeks to Recover More Than $1 Billion From Binance Hack",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/us-seeks-to-recover-more-than-1-billion-from-binance-hack"
   },
   {
-    "title": "Chips can survive the space environment — can their financing?",
-    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+    "title": "Wall Street Reacts to Return of Nvidia's Huang",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/wall-street-reacts-to-return-of-nvidia-s-huang-video"
   },
   {
-    "title": "Bending Spoons buys Mailchimp for $3.68B",
-    "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/"
+    "title": "Nvidia’s About-Face on Huang Made Without Consulting Leadership",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-about-face-on-huang-made-without-consulting-leadership"
   },
   {
-    "title": "How Plug-In Solar Is Sweeping the US",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-23/how-plug-in-solar-is-sweeping-across-the-us-video"
+    "title": "Huang's Reinstatement Is the Ultimate 'TACO' Trade, Says Ritholtz",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/huang-s-reinstatement-is-ultimate-taco-trade-ritholtz-video"
   },
   {
-    "title": "Nvidia-Backed AI Company Firmus Mulls $1.5 Billion Bond Offering",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-backed-ai-company-firmus-mulls-1-5-billion-bond-offering"
+    "title": "Jensen Huang’s Stunning Comeback",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/open-interest-11-23-2026-video"
   },
   {
-    "title": "China’s Next AI Deals Clouded by Selloff After Anthropic IPO",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/china-s-next-ai-deals-clouded-by-selloff-after-anthropic-ipo"
+    "title": "Gold’s Rebound: Technical Bounce or Opportunity?",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/gold-s-rebound-technical-bounce-or-opportunity-video"
   },
   {
-    "title": "Shoprite Buys DNI Stake to Push Fintech, Mobile With Investec",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/shoprite-investec-deepen-retail-banking-mobile-bets-with-dni"
+    "title": "Return of Huang to Nvidia Raises More Questions, Says Investor Yoshioka",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/we-re-not-making-rash-decisions-says-yoshioka-video"
   },
   {
-    "title": "How Trump’s AI Chip Crackdown May Hit Southeast Asia",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-23/how-trump-s-ai-chip-crackdown-may-hit-southeast-asia-video"
+    "title": "Phone Maker Nothing to Launch Ear Note, Earbuds and Case With AI Recording",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/phone-maker-nothing-to-launch-ear-note-earbuds-and-case-with-ai-recording"
   },
   {
-    "title": "What’s Next for AI Trade & Asia Tech Stocks?",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-23/what-s-next-for-ai-trade-asia-tech-stocks-video"
+    "title": "Nvidia Is Too Important for US Government to Ignore, Herro Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/david-herro-on-nvidia-s-ceo-shakeup-video"
   },
   {
-    "title": "Defense AI Startup Agon Raises $70 Million Series A From VCs, ex-Sequoia Boss",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss"
+    "title": "Stocks rally in moments leading up to Jensen Huang’s return as Nvidia CEO",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-surveillance-11-23-2026-video"
   },
   {
-    "title": "The Bull Case for Britain",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-23/the-bull-case-for-britain-video"
+    "title": "US AI Relevance 'Won't Skip a Beat' With Huang Back at Helm, Says Ted Mortonson",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-23/huang-s-return-to-fuel-us-ai-relevance-says-mortonson-video"
   },
   {
-    "title": "ING's Sareen: Asia AI Chip Demand Unlikely to Crash",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-23/ing-s-sareen-asia-ai-chip-demand-unlikely-to-crash-video"
+    "title": "Musk’s xAI Sued by Virginia, Oregon Over Deepfake AI Porn Claims",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/musk-s-xai-sued-by-virginia-oregon-over-deepfake-ai-porn-claims"
   },
   {
-    "title": "Ant Group Bets on Simplexity in China’s Humanoid Race",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race"
+    "title": "Senegal Debt Outlook Key to Investment Decisions, EBRD Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/senegal-debt-outlook-key-to-investment-decisions-ebrd-says"
   },
   {
-    "title": "WeRide CEO on Earnings and International Markets",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-23/weride-ceo-on-earnings-and-international-markets-video"
+    "title": "BOE’s Pill Says Action Needed to Maintain Inflation Credibility",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/boe-s-pill-says-action-needed-to-maintain-inflation-credibility"
   },
   {
-    "title": "US AI Chip Curbs Test Southeast Asia Data Center Boom",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-23/us-ai-chip-curbs-test-southeast-asia-data-center-boom-video"
+    "title": "India Working to Resolve Scotch Whisky Dispute, Official Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/india-working-to-resolve-scotch-whisky-dispute-official-says"
   },
   {
-    "title": "How to Find Value as the AI Trade Unravels",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-23/how-to-find-value-as-the-ai-trade-unravels-video"
+    "title": "Brazil Analysts Lift 2027 Key Rate and Inflation Forecasts",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/brazil-analysts-lift-2027-key-rate-and-inflation-forecasts-again"
   },
   {
-    "title": "Emerging-Market Stocks Set to Erase 2026 Gains on AI Selloff",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/emerging-market-stocks-set-to-erase-2026-gains-on-ai-selloff"
+    "title": "Mexican Economy Grows Faster as Optimism for US Deal Rises",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/mexico-economy-sees-faster-growth-as-optimism-for-us-deal-rises"
   },
   {
-    "title": "AI Investment Adding to Inflation: Jain",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-23/ai-investment-adding-to-inflation-jain-video"
+    "title": "US Stock Selloff Revives Question of a Fed ‘Put,’ This Time Under Warsh",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-23/us-stock-selloff-revives-question-of-a-fed-put-this-time-under-warsh"
   },
   {
-    "title": "Chinese Dramas Are Starting to Take Over the World",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-22/chinese-dramas-are-starting-to-take-over-the-world"
+    "title": "AI Slump, Export Controls and Economic Security",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-23/ai-slump-export-controls-and-economic-security"
   },
   {
-    "title": "Trump's AI Chip Crackdown on China After Nvidia Crisis Squeezes Southeast Asia",
-    "link": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia"
+    "title": "Inflation-Linked Bonds Face Extinction in Canada as Prices Spike",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/inflation-linked-bonds-face-extinction-in-canada-as-prices-spike"
   },
   {
-    "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development"
+    "title": "Economists More Accurate on India Inflation After Index Overhaul",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/economists-more-accurate-on-india-inflation-after-index-overhaul"
   },
   {
-    "title": "How AI is Accelerating Cyberattacks",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-22/how-ai-is-accelerating-cyberattacks-video"
+    "title": "UK Workers Stay Put as Safety Trumps Pay in Weak Jobs Market",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/uk-workers-stay-put-as-safety-trumps-pay-in-perilous-jobs-market"
   },
   {
-    "title": "Apple’s AI Agent War, Early 2027 Product Plans and iPhone Duo Face Unlock Review",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review"
+    "title": "Copper Slump Tests Kast’s Push to Rein In Chile’s Fiscal Deficit",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/copper-slump-tests-kast-s-push-to-rein-in-chile-s-fiscal-deficit"
   },
   {
-    "title": "Euro-Zone Activity Holds Steady as Germany Offsets French Slump",
+    "title": "Macron Suggests Golden Rule for French Budget, Boosting Bonds",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/macron-suggests-golden-rule-for-french-budget-boosting-bonds"
+  },
+  {
+    "title": "Euro-Zone Activity Steady as Germany Offsets French Slump",
     "link": "https://www.bloomberg.com/news/articles/2026-11-23/euro-zone-activity-holds-steady-as-germany-offsets-french-slump"
+  },
+  {
+    "title": "Hungary Blames Fight Against Cronyism For Plunge in Investments",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/hungary-blames-fight-against-cronyism-for-plunge-in-investments"
+  },
+  {
+    "title": "Senegal Continues to Pay Down Debt as Budget Row Risks IMF Deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/senegal-continues-to-pay-down-debt-as-budget-row-risks-imf-deal"
+  },
+  {
+    "title": "AI Data Centers Drive Up Demand at Britain’s Factories, PMI Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-23/ai-data-centers-drive-up-demand-at-britain-s-factories-pmi-says"
   },
   {
     "title": "JPMorgan AM Says AI Borrowing Binge Is Holding Back Bond Rally",
@@ -612,44 +672,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-23/singapore-core-inflation-eases-to-1-5-as-electricity-rates-cut"
   },
   {
-    "title": "French Companies to Announce €14.9 Billion in Local Investments",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/french-companies-to-announce-14-9-billion-in-local-investments"
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
   },
   {
-    "title": "Australia to Cut Economic Growth Forecast on Iran War Impacts",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/australia-lower-economy-estimate-budget-update-inflation-unemployment-treasurer-jim-chalmers"
+    "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+    "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
   },
   {
-    "title": "India Business Activity Holds Steady on Manufacturing Pickup",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/india--private-sector-economic-activity-manufacturing-hsbc-flash-survey"
-  },
-  {
-    "title": "Australia Recession Risk Is ‘High and Rising,’ AMP’s Oliver Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/australia-recession-risk-is-high-and-rising-amp-s-oliver-says"
-  },
-  {
-    "title": "Bessent Warns Fed Risks Overtightening as US Markets Drop on Rate Concerns",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-22/bessent-warns-fed-risks-overtightening-as-us-markets-swoon"
-  },
-  {
-    "title": "UK Workers Stay Put as Safety Trumps Pay in Perilous Jobs Market",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/uk-workers-stay-put-as-safety-trumps-pay-in-perilous-jobs-market"
-  },
-  {
-    "title": "South Korea’s Early Exports Gain After $1 Trillion Milestone",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-s-early-exports-gain-after-1-trillion-milestone"
-  },
-  {
-    "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season"
-  },
-  {
-    "title": "Chile Central Bank Chief Says Economic Recovery May Take Longer",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-22/chile-central-bank-head-tells-newspaper-recovery-may-take-longer"
-  },
-  {
-    "title": "Czech Economy Facing Stagflation Shock, Policymaker Seidler Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-22/czech-economy-facing-stagflation-shock-policymaker-seidler-says"
+    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+    "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
   },
   {
     "title": "The most misunderstood graph in AI just got a major update",
@@ -680,55 +712,43 @@
     "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
   },
   {
-    "title": "This smell startup says its AI nose is as good as a human’s",
-    "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+    "title": "Peacock subscriptions are up to 66 percent off for Black Friday",
+    "link": "https://www.theverge.com/gadgets/1040122/peacock-subscription-black-friday-2026-deal-sale"
   },
   {
-    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-    "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+    "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
   },
   {
-    "title": "Hydropower hit record lows in the US Southwest this summer",
-    "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"
+    "title": "The best Black Friday deals we’ve already found",
+    "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
   },
   {
-    "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-    "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink"
+    "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+    "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated"
   },
   {
-    "title": "We haven’t seen the last of the major tech outages",
-    "link": "https://www.theverge.com/tech/1039851/major-tech-outages"
+    "title": "Tech leaders are celebrating Jensen Huang’s return",
+    "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
   },
   {
-    "title": "Delta flights in and out of Atlanta delayed due to system outage",
-    "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
+    "title": "My trusty 27-inch Alienware QD-OLED gaming monitor is just $280",
+    "link": "https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale"
   },
   {
-    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+    "title": "Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday",
+    "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale"
   },
   {
-    "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-    "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale"
+    "title": "The Verge’s favorite holiday gifts that cost $50 or less",
+    "link": "https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026"
   },
   {
-    "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-    "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review"
+    "title": "How one router caused the worst ground stop since 9/11",
+    "link": "https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety"
   },
   {
-    "title": "Protesters storm Meta offices in India",
-    "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india"
-  },
-  {
-    "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
-    "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale"
-  },
-  {
-    "title": "‘The show is starting soon. Please turn on your headphones.’",
-    "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast"
-  },
-  {
-    "title": "How Tamagotchis got us hooked on digital pets",
-    "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary"
+    "title": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
+    "link": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout"
   }
 ]
