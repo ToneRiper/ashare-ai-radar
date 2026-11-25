@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/"
   },
   {
+    "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+    "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
+  },
+  {
     "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
     "link": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html"
   },
@@ -306,10 +310,6 @@
   {
     "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
     "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html"
-  },
-  {
-    "title": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
-    "link": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html"
   },
   {
     "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
@@ -432,11 +432,39 @@
     "link": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html"
   },
   {
+    "title": "FCC approves SpaceX plan to put AI data centers in space",
+    "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+  },
+  {
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+  },
+  {
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+  },
+  {
+    "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+    "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"
+  },
+  {
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+  },
+  {
+    "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+    "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
+  },
+  {
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+  },
+  {
     "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
     "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/"
   },
   {
-    "title": "State AGs fight Character.AI’s plan to auction off users’ private chats",
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
   },
   {
@@ -484,112 +512,100 @@
     "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
   },
   {
-    "title": "Even the best AI agents struggle with everyday life",
-    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+    "title": "ElevenLabs in Early Talks for Funding at $33 Billion Value",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value"
   },
   {
-    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-    "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+    "title": "1Password Says Hacker Accessed User Data, Passwords Remain Safe",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/1password-says-hacker-accessed-user-data-passwords-remain-safe"
   },
   {
-    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-    "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+    "title": "Anthropic’s Stock Sparks Rare Divide Inside One Wall Street Firm",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-stock-sparks-rare-divide-inside-one-wall-street-firm"
   },
   {
-    "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-    "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"
+    "title": "JPMorgan Sees $450 Billion AI Debt Blitz in 2027 Before Plateau",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau"
   },
   {
-    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+    "title": "Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in"
   },
   {
-    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-    "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+    "title": "Palo Alto Networks Accused by Ex-Manager of Accounting Fraud",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/palo-alto-networks-accused-by-ex-executive-of-accounting-fraud"
   },
   {
-    "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-    "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/"
+    "title": "SpaceX Wins Government Approval to Launch Space Data Centers",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers"
+  },
+  {
+    "title": "Megadeals Defy Selloff, Head Toward Record",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-25/megadeals-defy-selloff-head-toward-record-video"
+  },
+  {
+    "title": "S&P Says It May Downgrade Nvidia’s Ratings on Governance Worries",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries"
+  },
+  {
+    "title": "Franklin Templeton's Araghi Sees AI Selloff as Market Reset",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-25/franklin-templeton-s-araghi-sees-ai-selloff-as-market-reset"
+  },
+  {
+    "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-video"
+  },
+  {
+    "title": "Netflix to Buy Radford Studio Center for $380 Million",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-25/netflix-to-buy-radford-studio-center-for-380-million-video"
+  },
+  {
+    "title": "Can US Chip Controls Slow China’s AI Progress?",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-25/can-us-chip-controls-slow-china-s-ai-progress-video"
+  },
+  {
+    "title": "US Genesis Mission Looks to AI to Accelerate Science",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-25/us-genesis-mission-looks-to-ai-to-accelerate-science-video"
+  },
+  {
+    "title": "Nasdaq 100 Tumbles in ‘Sell First’ Mode",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-tech-11-25-2026-video"
+  },
+  {
+    "title": "Fast Fixes for Cyber Flaws Mean Tech Outages Likely to Continue",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-25/fast-fixes-for-cyber-flaws-mean-tech-outages-likely-to-continue"
+  },
+  {
+    "title": "AI Debt Financing Story Is Far From Over: Cisar",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-25/ai-debt-financing-story-is-far-from-over-cisar-video"
   },
   {
     "title": "Tech Stocks Tumble in ‘Sell First’ Mode as AI Angst Fuels Losses",
     "link": "https://www.bloomberg.com/news/videos/2026-11-25/tech-stocks-tumble-as-ai-angst-fuels-losses-video"
   },
   {
+    "title": "Nasdaq 100 Enters Bear Market",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-25/open-interest-11-25-2026-video"
+  },
+  {
     "title": "Copper Can’t Escape the AI Trade Yet: Gower",
     "link": "https://www.bloomberg.com/news/videos/2026-11-25/copper-can-t-escape-the-ai-trade-yet-gower-video"
   },
   {
-    "title": "Fed, AI Fears Rattle Markets",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-25/fed-ai-fears-rattle-markets-video"
+    "title": "Fed Beige Book Shows Moderate Growth, Uptick in Wage Pressures",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/fed-beige-book-shows-moderate-growth-uptick-in-wage-pressures"
   },
   {
-    "title": "Power On: What to Make of Cook’s Relationship with Trump",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-25/power-on-what-to-make-of-cook-s-relationship-with-trump-video"
+    "title": "Russia October Inflation Hits One-Year High as War Escalates",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/russian-inflation-hits-one-year-high-in-october-as-war-escalates"
   },
   {
-    "title": "J.P. Morgan’s Rosenbaum on 2027 AI Spend",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-24/j-p-morgan-asset-mgmt-s-rosenbaum-on-2027-ai-spend-video"
+    "title": "¿Qué efecto tienen los aranceles de Trump en la economía?",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/-que-efecto-tienen-los-aranceles-de-trump-en-la-economia-mwwepq7g"
   },
   {
-    "title": "Nasdaq 100 Enters Bear Market Territory as AI Angst Fuels Losses",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-25/nasdaq-100-enters-bear-market-territory-on-ai-angst-video"
-  },
-  {
-    "title": "Deere Down on Earnings; Dell Lower Despite Server Sales | Stock Movers",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-25/deere-down-on-earnings-dell-lower-despite-server-sales-video"
-  },
-  {
-    "title": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
-  },
-  {
-    "title": "HP Rises on Profit Outlook Signaling Tight Grip on Memory Costs",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-24/hp-gives-profit-forecast-signaling-better-handle-on-memory-costs"
-  },
-  {
-    "title": "Stocks Swoon as AI Fears Spur Rush to Treasuries",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-swoon-as-ai-fears-spur-rush-to-treasuries-video"
-  },
-  {
-    "title": "Underlying AI Demand 'Much Bigger' than Market Pricing In, Says Ives",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-25/ai-demand-much-bigger-than-market-pricing-in-says-ives-video"
-  },
-  {
-    "title": "Mark Answers Listener Questions",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-25/power-on-podcast-mark-answers-listener-questions-video"
-  },
-  {
-    "title": "SAP Corporate Espionage Complaint Exposes Gaps in Disclosure",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-25/sap-corporate-espionage-complaint-exposes-gaps-in-disclosure"
-  },
-  {
-    "title": "Hyperscaler Debt Boom Seen as Risk by S. Africa Central Bank",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-25/hyperscaler-debt-boom-seen-as-risk-by-south-africa-central-bank"
-  },
-  {
-    "title": "EU Seeks €50 Billion for Frontier Tech to Rival US, China",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-25/eu-seeks-50-billion-for-frontier-technology-to-rival-us-china"
-  },
-  {
-    "title": "Huang Is Worth Up to $10 Trillion to the Market, Ives Says",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-25/huang-is-worth-up-to-10-trillion-to-the-market-ives-video"
-  },
-  {
-    "title": "HSBC's Kettner Says VIX at 30 Is Long-Term Buying Opportunity",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-25/kettner-says-vix-at-30-is-long-term-buying-opportunity-video"
-  },
-  {
-    "title": "Apple Watch, Oura Ring, iPhone Duo: Best Tech Gifts for Holiday 2026",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-25/apple-watch-oura-ring-iphone-duo-best-tech-gifts-for-holiday-2026"
-  },
-  {
-    "title": "Anthropic Expands in Zurich to Tap City’s AI Talent Pool",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool"
-  },
-  {
-    "title": "Europe’s Answer to Delaware-Style System for Investment Hits Roadblock",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-25/europe-s-answer-to-delaware-style-system-for-investment-hits-roadblock"
+    "title": "El Salvador Finally Reaps Economic Gains From Gang Crackdown",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-25/el-salvador-finally-reaps-economic-gains-from-gang-crackdown"
   },
   {
     "title": "Bank of England Rate-Setters Leave December Hike on the Table",
@@ -602,10 +618,6 @@
   {
     "title": "US Consumers Press Pause After Strong Spending Last Quarter",
     "link": "https://www.bloomberg.com/news/articles/2026-11-25/us-consumer-spending-stalls-core-pce-rises-0-3-for-third-month"
-  },
-  {
-    "title": "Russian Inflation Hits One-Year High in October as War Escalates",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-25/russian-inflation-hits-one-year-high-in-october-as-war-escalates"
   },
   {
     "title": "New US Home Sales Reach Highest This Year, Topping Forecasts",
@@ -660,18 +672,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-25/uk-energy-bills-rise-26-with-war-fueling-cost-of-living-squeeze"
   },
   {
-    "title": "French National Assembly Approves 2026 Year-End Budget Bill",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-25/france-s-national-assembly-approves-2026-year-end-budget-bill"
-  },
-  {
-    "title": "German Economic Growth Revised Down as Investment Sinks",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-25/german-economy-grew-less-than-estimated-in-third-quarter"
-  },
-  {
-    "title": "BOJ’s Faster Inflation Indicator Backs Case for Another Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-25/boj-s-faster-inflation-indicator-backs-case-for-another-hike"
-  },
-  {
     "title": "How data centers are driving a US natural-gas boom",
     "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
   },
@@ -712,6 +712,34 @@
     "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
   },
   {
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+  },
+  {
+    "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+    "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages"
+  },
+  {
+    "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+    "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
+  },
+  {
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"
+  },
+  {
+    "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+    "link": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale"
+  },
+  {
+    "title": "The loneliest peptide party in New York",
+    "link": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow"
+  },
+  {
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+  },
+  {
     "title": "The Verge’s guide to the best gifts under $100",
     "link": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026"
   },
@@ -722,33 +750,5 @@
   {
     "title": "The Verge’s guide to affordable holiday gifts under $25",
     "link": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026"
-  },
-  {
-    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-    "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
-  },
-  {
-    "title": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
-    "link": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale"
-  },
-  {
-    "title": "‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV",
-    "link": "https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa"
-  },
-  {
-    "title": "Tapo’s new indoor security camera includes a touchscreen for video calls",
-    "link": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt"
-  },
-  {
-    "title": "Has vibe coding made open source the new normal for synths?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
-  },
-  {
-    "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
-    "link": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage"
-  },
-  {
-    "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
-    "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"
   }
 ]
