@@ -192,6 +192,10 @@
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/"
   },
   {
+    "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+    "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html"
+  },
+  {
     "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
     "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html"
   },
@@ -308,8 +312,8 @@
     "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html"
   },
   {
-    "title": "Robert Pattinson cast as next James Bond",
-    "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html"
+    "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+    "link": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html"
   },
   {
     "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
@@ -428,10 +432,6 @@
     "link": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html"
   },
   {
-    "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-    "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
-  },
-  {
     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
   },
@@ -512,12 +512,64 @@
     "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
   },
   {
-    "title": "Nvidia, AI Fears Jolt Markets: Market Snapshot",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-ai-fears-jolt-markets-market-snapshot-video"
+    "title": "Poland Signs $300 Million Palantir Deal to Use AI in Defense",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense"
+  },
+  {
+    "title": "How AI Is Changing Black Friday",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/how-ai-is-changing-black-friday-video"
+  },
+  {
+    "title": "UK Pension Agency Takes Systems Offline After Cyber Incident",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/uk-pension-agency-takes-systems-offline-after-cyber-incident"
+  },
+  {
+    "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang"
+  },
+  {
+    "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-video"
+  },
+  {
+    "title": "Black Friday Shoppers Turn to AI Bots to Find Deals",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video"
+  },
+  {
+    "title": "Blackwell Chips Found at Alice Huang-Linked China Site",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/blackwell-chips-found-at-alice-huang-linked-china-site-video"
+  },
+  {
+    "title": "SAP Struggles With Turnover in the Executive Team",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/sap-struggles-with-turnover-in-the-executive-team"
+  },
+  {
+    "title": "Hackers Breached US Air Force’s Cloud Platform, Reuters Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform"
+  },
+  {
+    "title": "AI Data-Center Developer LIAN Picks London for $500 Million IPO",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/ai-data-center-developer-lian-picks-london-for-500-million-ipo"
+  },
+  {
+    "title": "Chip Stocks Look 'Very Attractive,' State Street Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/chip-stocks-look-very-attractive-state-street-says-video"
+  },
+  {
+    "title": "SAP Weighs 10,000 Job Cuts as AI Reshapes Tech Industry",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/the-pulse-11-27-2026-video"
+  },
+  {
+    "title": "Fed's Dec. Meeting May Mark Turning Point for Markets: Economist",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/why-next-fed-meeting-may-mark-turning-point-for-markets-video"
   },
   {
     "title": "SAP Weighs Cutting at Least 10,000 Roles in AI Restructure",
     "link": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring"
+  },
+  {
+    "title": "Nvidia, AI Fears Jolt Markets: Market Snapshot",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-ai-fears-jolt-markets-market-snapshot-video"
   },
   {
     "title": "Stabilizing Forces Make Europe an AI-Storm Shelter: Taking Stock",
@@ -540,63 +592,55 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-27/software-firm-sap-weighs-cutting-at-least-10-000-jobs-video"
   },
   {
-    "title": "Singapore Talking to US to Keep AI Chip Access, Deputy PM Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says"
+    "title": "Euro-Zone Inflation Is Seen Weaker for First Time in Five Months",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/euro-zone-inflation-is-seen-weaker-for-first-time-in-five-months"
   },
   {
-    "title": "China’s Industrial Profits Jump at Fastest Pace in Five Months",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-industrial-profits-jump-at-fastest-pace-in-five-months"
+    "title": "The Shopping Mall Experience Is Coming Back, Telsey Says",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-27/the-shopping-mall-experience-is-coming-back-telsey-says-video"
   },
   {
-    "title": "Counterpoint on China's AI Progress Under Chip Curbs",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-27/counterpoint-on-china-s-ai-progress-under-chip-curbs-video"
+    "title": "ICE Backs Away From Gilt Futures Change in Surprise to Market",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-26/ice-maintains-flagship-gilt-futures-design-after-market-feedback"
   },
   {
-    "title": "China Hedge Fund Star Builds Operating System Kernel for AI",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/china-hedge-fund-star-builds-operating-system-kernel-for-ai"
+    "title": "Shell’s Arc Deal Helps Lift Foreign Investment in Canada to Two-Year High",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/shell-s-arc-deal-helps-lift-foreign-investment-in-canada-to-two-year-high"
   },
   {
-    "title": "Holidays to Test AI Shopping Bots From Google, Amazon, Meta and OpenAI",
-    "link": "https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai"
+    "title": "ECB’s Nagel Signals Need for Another Rate Hike in December",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/ecb-s-nagel-signals-need-for-another-rate-hike-in-december"
   },
   {
-    "title": "Musk Says He’ll Give US Children Another SpaceX Share Every Year",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge"
+    "title": "Midcaps Hiding 'Historic' AI Bargain: JPM's Lecubarri",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-26/midcaps-hiding-historic-ai-bargain-jpm-s-leccubarri-video"
   },
   {
-    "title": "TDK Bets on AI Data Centers and Robots to Fuel Sensor Growth",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth"
+    "title": "US Goods-Trade Deficit Widens for Fourth Straight Month",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/us-goods-trade-deficit-widens-for-fourth-straight-month"
   },
   {
-    "title": "Netherlands to Fight Rollout of Proposed US Curbs on ASML",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/netherlands-plans-to-fight-rollout-of-proposed-us-curbs-on-asml"
+    "title": "Copper Price Volatility Clouds Peru’s El Niño Relief Spending",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/copper-price-volatility-clouds-peru-s-el-nino-relief-spending"
   },
   {
-    "title": "FIFA Says Hackers Accessed Personal Data in Cyberattack",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/fifa-says-hackers-accessed-personal-data-in-cyberattack"
+    "title": "German Budget Passes With €210 Billion in New Borrowing Planned",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/german-budget-passes-with-210-billion-in-new-borrowing-planned"
   },
   {
-    "title": "QRT to Merge $2 Billion Hedge Fund With Flagship Qube Strategy",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/qrt-to-merge-2-billion-hedge-fund-with-flagship-qube-strategy"
+    "title": "ECB’s Two Rate Hikes to Date Aren’t Enough, Dolenc Tells Delo",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/ecb-s-two-rate-hikes-to-date-aren-t-enough-dolenc-tells-delo"
   },
   {
-    "title": "Africa’s Intra-Continental Trade Hit $213.8 Billion But Faces Payment Barriers",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/africa-s-intra-continental-trade-hit-213-8-billion-but-faces-payment-barriers"
+    "title": "France’s Economy Contracts More Than Previously Estimated",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/france-s-economy-slows-more-than-previously-estimated"
   },
   {
-    "title": "StanChart’s Crypto Custody Unit Suffers Data Breach",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/stanchart-s-crypto-custody-unit-suffers-data-breach"
+    "title": "India became an investor haven in AI trade, playing catch-up in data centers",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/india-became-an-investor-haven-in-ai-trade-playing-catch-up-in-data-centers"
   },
   {
-    "title": "TrustedRouter Aims to Give Companies Greater Privacy With AI",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai"
-  },
-  {
-    "title": "Taiwan Lifts 2027 Growth Outlook Despite Mounting AI Concern",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/taiwan-lifts-2027-growth-outlook-despite-mounting-ai-concern"
-  },
-  {
-    "title": "Zambia’s Central Bank Holds Key Rate as Inflation Risk Grow",
+    "title": "Zambia Pauses Rate Cuts as Kwacha Slide Threatens Inflation",
     "link": "https://www.bloomberg.com/news/articles/2026-11-27/zambia-s-central-bank-holds-key-rate-as-inflation-risk-grow"
   },
   {
@@ -604,12 +648,20 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-27/french-inflation-slows-much-more-than-expected-as-energy-eases"
   },
   {
-    "title": "Nomura Now Sees India’s RBI Hiking by 50-Basis-Point in December",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/nomura-now-sees-india-s-rbi-hiking-by-50-basis-point-in-december"
+    "title": "European Workers’ AI Use on Par With That of US Peers, ECB Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says"
   },
   {
-    "title": "France’s Economy Contracts More Than Previously Estimated",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/france-s-economy-slows-more-than-previously-estimated"
+    "title": "India’s RBI to Help Small Firms Grow Globally, Malhotra Says",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-rbi-to-help-small-firms-grow-globally-malhotra-says"
+  },
+  {
+    "title": "Taiwan Lifts 2027 Growth Outlook Despite Mounting AI Concern",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/taiwan-lifts-2027-growth-outlook-despite-mounting-ai-concern"
+  },
+  {
+    "title": "Nomura Now Sees India’s RBI Hiking by 50-Basis-Point in December",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-27/nomura-now-sees-india-s-rbi-hiking-by-50-basis-point-in-december"
   },
   {
     "title": "Vietnam Expects to Sign US Trade Deal to Limit Tariff Hit",
@@ -620,56 +672,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-27/philippine-trade-deficit-hits-record-as-imports-soar-50"
   },
   {
-    "title": "AI Boom Hands Lifeline to German Industry Rocked by Car Slump",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/ai-boom-hands-lifeline-to-german-industry-rocked-by-car-slump"
+    "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+    "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
   },
   {
-    "title": "India-US Trade Deal Talks Close to Culmination, Goyal Says",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/india-us-trade-deal-talks-close-to-culmination-goyal-says"
+    "title": "Our 2027 Innovators Under 35 competition is now open",
+    "link": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/"
   },
   {
-    "title": "India’s Salary Review to Exacerbate Fiscal Strains, Analysts Say",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-salary-review-to-exacerbate-fiscal-strains-analysts-say"
-  },
-  {
-    "title": "A Targeted Tax Cut May Do Little to Fix Britain’s Youth Crisis",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/a-targeted-tax-cut-may-do-little-to-fix-britain-s-youth-crisis"
-  },
-  {
-    "title": "Thai Exports Surge as Imports Drive Trade Deficit to Record High",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-27/thai-exports-surge-as-imports-drive-trade-deficit-to-record-high"
-  },
-  {
-    "title": "Tokyo’s Faster Pace of Inflation Backs Case for BOJ Rate Hike",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/tokyo-inflation-accelerates-keeping-boj-wary-of-price-pressure"
-  },
-  {
-    "title": "De Cos Gets Leaders’ Nod for ECB Presidency in Post-Lagarde Era",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/de-cos-is-poised-to-take-ecb-presidency-in-era-after-lagarde"
-  },
-  {
-    "title": "ICE Maintains Flagship Gilt Futures Design After Market Feedback",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/ice-maintains-flagship-gilt-futures-design-after-market-feedback"
-  },
-  {
-    "title": "Banxico Raises Growth Outlook as Investment, Exports Pick up",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/mexico-central-bank-lifts-growth-outlook-in-boost-to-sheinbaum"
-  },
-  {
-    "title": "Turkey Central Bank Sidelines Policy Rate as Reserves Shrink",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-central-bank-suspends-repo-auctions-as-reserves-shrink"
-  },
-  {
-    "title": "Milei’s Overhaul of Argentina’s Central Bank Wins Final Approval in Congress",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/milei-s-overhaul-of-argentina-s-central-bank-wins-final-approval-in-congress"
-  },
-  {
-    "title": "Brazil Tightens Consumer Lending Rules as Family Debt Soars",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-26/brazil-tightens-consumer-lending-rules-as-household-debt-soars"
-  },
-  {
-    "title": "Spain's de Cos Set To Succeed Lagarde as ECB President",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video"
+    "title": "How cutting-edge prosthetics can help probe the human mind",
+    "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/"
   },
   {
     "title": "The Download: Better bionic hands and AI’s natural-gas boom",
@@ -700,55 +712,43 @@
     "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
   },
   {
-    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+    "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+    "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"
   },
   {
-    "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-    "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+    "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+    "link": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale"
   },
   {
-    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-    "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
+    "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+    "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale"
+  },
+  {
+    "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+    "link": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026"
   },
   {
     "title": "The absolute best Black Friday deals we’ve found (so far)",
     "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
   },
   {
-    "title": "Netflix’s coziest show has made a very quiet return",
-    "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3"
+    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+    "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
   },
   {
-    "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
-    "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday"
+    "title": "This gaming mouse should be a Logitech-killer, but it has one big flaw",
+    "link": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions"
   },
   {
-    "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-    "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale"
+    "title": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
+    "link": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale"
   },
   {
-    "title": "Android app developers will soon have to share their address publicly",
-    "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu"
+    "title": "Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending",
+    "link": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending"
   },
   {
-    "title": "The best Black Friday deals we’ve already found",
-    "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
-  },
-  {
-    "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-    "link": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block"
-  },
-  {
-    "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
-    "link": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026"
-  },
-  {
-    "title": "GTA VI developers vote against unionization",
-    "link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb"
-  },
-  {
-    "title": "Why GTA VI’s version of Florida feels so real",
-    "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design"
+    "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
+    "link": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026"
   }
 ]
